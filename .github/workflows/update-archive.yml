@@ -1,0 +1,52 @@
+name: Update Letterboxd Archive
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: |
+            requirements.txt
+            requirements-dev.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Run tests
+        run: PYTHONPATH=src python -m pytest
+
+      - name: Update archive
+        run: PYTHONPATH=src python -m letterboxd_rss_aggregator run --output-dir docs
+
+      - name: Validate JSON artifacts
+        run: PYTHONPATH=src python -m letterboxd_rss_aggregator validate docs/entries.json docs/status.json
+
+      - name: Commit updated docs artifacts
+        run: |
+          if git diff --quiet -- docs; then
+            echo "No docs changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git commit -m "Update Letterboxd archive"
+          git push

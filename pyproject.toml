@@ -1,0 +1,13 @@
+[project]
+name = "letterboxd-rss-aggregator"
+version = "0.1.0"
+description = "Public Letterboxd RSS archiver for GitHub Actions and GitHub Pages."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [
+  { name = "Ole Horvi" }
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

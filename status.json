@@ -1,0 +1,163 @@
+{
+  "last_successful_update": "2026-08-04T01:03:13Z",
+  "individual_feed_status": {
+    "thejoshl": {
+      "username": "thejoshl",
+      "critic_tier": "primary",
+      "feed_url": "https://letterboxd.com/thejoshl/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 94,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "jlalibs": {
+      "username": "jlalibs",
+      "critic_tier": "primary",
+      "feed_url": "https://letterboxd.com/jlalibs/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "brofromanother": {
+      "username": "brofromanother",
+      "critic_tier": "primary",
+      "feed_url": "https://letterboxd.com/brofromanother/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 58,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "bdgrabinski": {
+      "username": "bdgrabinski",
+      "critic_tier": "primary",
+      "feed_url": "https://letterboxd.com/bdgrabinski/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 86,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "SeanFennessey": {
+      "username": "SeanFennessey",
+      "critic_tier": "secondary",
+      "feed_url": "https://letterboxd.com/SeanFennessey/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "SilentDawnLB": {
+      "username": "SilentDawnLB",
+      "critic_tier": "secondary",
+      "feed_url": "https://letterboxd.com/SilentDawnLB/rss/",
+      "state": "error",
+      "http_status": 404,
+      "entries_fetched": 0,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": null,
+      "error": "404 Client Error: Not Found for url: https://letterboxd.com/SilentDawnLB/rss/"
+    },
+    "davidlsims": {
+      "username": "davidlsims",
+      "critic_tier": "secondary",
+      "feed_url": "https://letterboxd.com/davidlsims/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "gemko": {
+      "username": "gemko",
+      "critic_tier": "secondary",
+      "feed_url": "https://letterboxd.com/gemko/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "BrianDuffield": {
+      "username": "BrianDuffield",
+      "critic_tier": "secondary",
+      "feed_url": "https://letterboxd.com/BrianDuffield/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 58,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "judysquirrels": {
+      "username": "judysquirrels",
+      "critic_tier": "secondary",
+      "feed_url": "https://letterboxd.com/judysquirrels/rss/",
+      "state": "error",
+      "http_status": 404,
+      "entries_fetched": 0,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": null,
+      "error": "404 Client Error: Not Found for url: https://letterboxd.com/judysquirrels/rss/"
+    },
+    "davidehrlich": {
+      "username": "davidehrlich",
+      "critic_tier": "secondary",
+      "feed_url": "https://letterboxd.com/davidehrlich/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    },
+    "theolejake": {
+      "username": "theolejake",
+      "critic_tier": "my_account",
+      "feed_url": "https://letterboxd.com/theolejake/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T01:03:13Z",
+      "last_successful_fetch": "2026-08-04T01:03:13Z",
+      "error": null
+    }
+  },
+  "last_successful_fetch_per_username": {
+    "thejoshl": "2026-08-04T01:03:13Z",
+    "jlalibs": "2026-08-04T01:03:13Z",
+    "brofromanother": "2026-08-04T01:03:13Z",
+    "bdgrabinski": "2026-08-04T01:03:13Z",
+    "SeanFennessey": "2026-08-04T01:03:13Z",
+    "davidlsims": "2026-08-04T01:03:13Z",
+    "gemko": "2026-08-04T01:03:13Z",
+    "BrianDuffield": "2026-08-04T01:03:13Z",
+    "davidehrlich": "2026-08-04T01:03:13Z",
+    "theolejake": "2026-08-04T01:03:13Z"
+  },
+  "errors": [
+    {
+      "username": "SilentDawnLB",
+      "feed_url": "https://letterboxd.com/SilentDawnLB/rss/",
+      "error": "404 Client Error: Not Found for url: https://letterboxd.com/SilentDawnLB/rss/"
+    },
+    {
+      "username": "judysquirrels",
+      "feed_url": "https://letterboxd.com/judysquirrels/rss/",
+      "error": "404 Client Error: Not Found for url: https://letterboxd.com/judysquirrels/rss/"
+    }
+  ],
+  "entries_fetched": 896,
+  "total_archived_entries": 896
+}

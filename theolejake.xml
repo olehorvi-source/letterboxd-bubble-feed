@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:letterboxd="https://letterboxd.com/rss/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Letterboxd activity by Ole Horvi</title>
+    <link>https://letterboxd.com/theolejake/</link>
+    <description>Recent public activity for theolejake.</description>
+    <item>
+      <title><![CDATA[Blue Collar, 1978 - ★★★½]]></title>
+      <link>https://letterboxd.com/theolejake/film/blue-collar/</link>
+      <guid isPermaLink="false">tag:letterboxd.com,2026-08-01:/theolejake/film/blue-collar/</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Ole Horvi</dc:creator>
+      <letterboxd:watchedDate>2026-08-01</letterboxd:watchedDate>
+      <letterboxd:liked>false</letterboxd:liked>
+      <letterboxd:rewatch>false</letterboxd:rewatch>
+      <description><![CDATA[
+        <p>Film title: Blue Collar</p>
+        <p>Film year: 1978</p>
+        <p>Rating: ★★★½</p>
+        <p>A lean, mean labor thriller.</p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>

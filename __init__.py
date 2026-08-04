@@ -1,0 +1,2 @@
+"""Letterboxd RSS aggregator package."""
+

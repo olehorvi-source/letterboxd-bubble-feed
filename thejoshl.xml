@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:letterboxd="https://letterboxd.com/rss/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Letterboxd activity by Josh Lewis</title>
+    <link>https://letterboxd.com/thejoshl/</link>
+    <description>Recent public activity for thejoshl.</description>
+    <item>
+      <title><![CDATA[Heat, 1995 - ★★★★½]]></title>
+      <link>https://letterboxd.com/thejoshl/film/heat/</link>
+      <guid isPermaLink="false">tag:letterboxd.com,2026-08-03:/thejoshl/film/heat/</guid>
+      <pubDate>Mon, 03 Aug 2026 18:30:00 GMT</pubDate>
+      <dc:creator>Josh Lewis</dc:creator>
+      <letterboxd:watchedDate>2026-08-02</letterboxd:watchedDate>
+      <letterboxd:tmdbMovieId>949</letterboxd:tmdbMovieId>
+      <media:content url="https://a.ltrbxd.com/resized/poster-heat.jpg" medium="image" />
+      <description><![CDATA[
+        <p><img src="https://a.ltrbxd.com/resized/poster-heat.jpg" /></p>
+        <p>Watched on Sunday August 2, 2026.</p>
+        <p>Liked.</p>
+        <p>One of the great Los Angeles movies.</p>
+        <p>Still feels impossibly big and precise.</p>
+        <p><a href="https://www.themoviedb.org/movie/949">TMDB</a></p>
+      ]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Thief, 1981 - ★★★★]]></title>
+      <link>https://letterboxd.com/thejoshl/film/thief/</link>
+      <pubDate>Sun, 02 Aug 2026 14:00:00 GMT</pubDate>
+      <dc:creator>Josh Lewis</dc:creator>
+      <description><![CDATA[
+        <p>Watched on August 1, 2026.</p>
+        <p>Rewatch.</p>
+        <p>Review text comes through even without a GUID.</p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>

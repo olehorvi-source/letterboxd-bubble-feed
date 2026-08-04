@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-08-04T19:49:11Z",
+  "last_successful_update": "2026-08-04T20:06:22Z",
   "individual_feed_status": {
     "thejoshl": {
       "username": "thejoshl",
@@ -8,8 +8,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 94,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
     "jlalibs": {
@@ -19,8 +19,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
     "brofromanother": {
@@ -30,8 +30,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 58,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
     "bdgrabinski": {
@@ -41,8 +41,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 86,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
     "SeanFennessey": {
@@ -52,20 +52,20 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
-    "SilentDawnLB": {
-      "username": "SilentDawnLB",
+    "silentdawn": {
+      "username": "silentdawn",
       "critic_tier": "secondary",
-      "feed_url": "https://letterboxd.com/SilentDawnLB/rss/",
-      "state": "error",
-      "http_status": 404,
-      "entries_fetched": 0,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": null,
-      "error": "404 Client Error: Not Found for url: https://letterboxd.com/SilentDawnLB/rss/"
+      "feed_url": "https://letterboxd.com/silentdawn/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
+      "error": null
     },
     "davidlsims": {
       "username": "davidlsims",
@@ -74,8 +74,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
     "gemko": {
@@ -85,8 +85,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
     "BrianDuffield": {
@@ -96,20 +96,20 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 58,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
-    "judysquirrels": {
-      "username": "judysquirrels",
+    "riotglasses": {
+      "username": "riotglasses",
       "critic_tier": "secondary",
-      "feed_url": "https://letterboxd.com/judysquirrels/rss/",
-      "state": "error",
-      "http_status": 404,
-      "entries_fetched": 0,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": null,
-      "error": "404 Client Error: Not Found for url: https://letterboxd.com/judysquirrels/rss/"
+      "feed_url": "https://letterboxd.com/riotglasses/rss/",
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 100,
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
+      "error": null
     },
     "davidehrlich": {
       "username": "davidehrlich",
@@ -118,8 +118,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     },
     "theolejake": {
@@ -129,35 +129,26 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-08-04T19:49:11Z",
-      "last_successful_fetch": "2026-08-04T19:49:11Z",
+      "last_attempted_at": "2026-08-04T20:06:22Z",
+      "last_successful_fetch": "2026-08-04T20:06:22Z",
       "error": null
     }
   },
   "last_successful_fetch_per_username": {
-    "thejoshl": "2026-08-04T19:49:11Z",
-    "jlalibs": "2026-08-04T19:49:11Z",
-    "brofromanother": "2026-08-04T19:49:11Z",
-    "bdgrabinski": "2026-08-04T19:49:11Z",
-    "SeanFennessey": "2026-08-04T19:49:11Z",
-    "davidlsims": "2026-08-04T19:49:11Z",
-    "gemko": "2026-08-04T19:49:11Z",
-    "BrianDuffield": "2026-08-04T19:49:11Z",
-    "davidehrlich": "2026-08-04T19:49:11Z",
-    "theolejake": "2026-08-04T19:49:11Z"
+    "thejoshl": "2026-08-04T20:06:22Z",
+    "jlalibs": "2026-08-04T20:06:22Z",
+    "brofromanother": "2026-08-04T20:06:22Z",
+    "bdgrabinski": "2026-08-04T20:06:22Z",
+    "SeanFennessey": "2026-08-04T20:06:22Z",
+    "davidlsims": "2026-08-04T20:06:22Z",
+    "gemko": "2026-08-04T20:06:22Z",
+    "BrianDuffield": "2026-08-04T20:06:22Z",
+    "davidehrlich": "2026-08-04T20:06:22Z",
+    "theolejake": "2026-08-04T20:06:22Z",
+    "silentdawn": "2026-08-04T20:06:22Z",
+    "riotglasses": "2026-08-04T20:06:22Z"
   },
-  "errors": [
-    {
-      "username": "SilentDawnLB",
-      "feed_url": "https://letterboxd.com/SilentDawnLB/rss/",
-      "error": "404 Client Error: Not Found for url: https://letterboxd.com/SilentDawnLB/rss/"
-    },
-    {
-      "username": "judysquirrels",
-      "feed_url": "https://letterboxd.com/judysquirrels/rss/",
-      "error": "404 Client Error: Not Found for url: https://letterboxd.com/judysquirrels/rss/"
-    }
-  ],
-  "entries_fetched": 896,
-  "total_archived_entries": 901
+  "errors": [],
+  "entries_fetched": 1096,
+  "total_archived_entries": 1101
 }

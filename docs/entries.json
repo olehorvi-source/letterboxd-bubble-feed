@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-review-1433014915",
+    "guid": "letterboxd-review-1433014915",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Visitor Q",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/visitor-q/",
+    "watched_date": "2026-08-03",
+    "publication_date": "2026-08-04",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "As an exercise in putrid rotten.com government watchlist SOV aesthetics I can sorta see the vision. There are some remarkably ugly and demonic images conjured here that are so shamelessly transgressive they circle back around to being a little funny. When the mom smells the dad\u2019s crotch and goes \"hey, that's my daughter's scent!\" what else can you do but laugh? The fireworks gag got me every time, the rape/necrophilia not as much... As a narrative experience, or a \"commentary\" on the family or whatever, I'll just have to take people's word for it that he's getting at something. Impressively vile though.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/4/9/49449-visitor-q-0-600-0-900-crop.jpg?v=8267f895de"
+  },
+  {
+    "id": "guid:letterboxd-review-1432687503",
+    "guid": "letterboxd-review-1432687503",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Shot Caller",
+    "film_year": 2017,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/shot-caller/",
+    "watched_date": "2026-08-03",
+    "publication_date": "2026-08-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "When you get Bernthal and Burn Notice in the same movie you get gold. Best first viewing on an airplane I\u2019ve had in like a decade.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/6/9/1/8/9/269189-shot-caller-0-600-0-900-crop.jpg?v=bd5ee04662"
+  },
+  {
+    "id": "guid:letterboxd-review-1432352993",
+    "guid": "letterboxd-review-1432352993",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "John Carter",
+    "film_year": 2012,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/john-carter/2/",
+    "watched_date": "2026-08-03",
+    "publication_date": "2026-08-04",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "barsoom!!!!!!! on the big screen",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/0/8/3/16083-john-carter-0-600-0-900-crop.jpg?v=6cb5ea94de"
+  },
+  {
+    "id": "guid:letterboxd-review-1432314722",
+    "guid": "letterboxd-review-1432314722",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Peppermint Candy",
+    "film_year": 1999,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/peppermint-candy/",
+    "watched_date": "2026-08-03",
+    "publication_date": "2026-08-04",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "A novelistic portrait of not just the tormented, suicidal man at its center but of an entire nation that feels traumatized and corrupted and futureless. Tracing the events that shaped him into the depressed, screaming mess (standing in front of a train waiting for it to hit him) in a\nMemento\n-ish reverse-chronological structure that slowly and painfully catalogs a series of bad decisions, material conditions and institutional pressures that transformed him from a bright, curious student with a passion for photography and in love with a girl, to a man capable of deeply upsetting military/police/domestic violence, and unable to make any sort of real emotional or romantic connection despite his efforts. Even before you get to the literal Gwangju Uprising stuff it's quite clear that the political/historical context of living under and collaborating with a right-wing martial law dictatorship was the poison that forever changed this generation of men (and the women that were unfortunate enough to come into their orbit) even before the economic crisis. And Lee Chang-dong's choice to start at the bleak ending and gradually sift backwards through 20-years accumulating details that bring the full picture into focus feels done less out of the sadistic misery some might accuse him of than a heart-wrenching desire to go back and change things. Something the cyclical rhyming ending almost suggests is possible. Now that we see the pattern/path, surely we won't make the same mistakes, right? Yet even in a fleeting moment of bliss in this memory of a specific time and place he declares in the opening scene he's going back to, the sound of that unstoppable train of time/progress rattles on. \"Life is beautiful... Do you really think so?\" A beautiful bummer.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/7/7/2/23772-peppermint-candy-0-600-0-900-crop.jpg?v=90a62890d3"
+  },
+  {
     "id": "guid:letterboxd-review-1432092593",
     "guid": "letterboxd-review-1432092593",
     "username": "jlalibs",
@@ -789,7 +861,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Full-frontal close-ups of babies crowning their way out of the womb have become unexpectedly commonplace since \u201cKnocked Up\u201d popularized the trend some 20 years ago. While these images evoke a measure of body horror, none of them could hope to compete with the gore-mad giddiness of the money shot from the first act of Hanna Bergholm\u2019s \u201cNightborn.\u201d\nNot only does the infant erupt from between its mother\u2019s legs with the force of a cannonball, but the blood that comes out with it splashes onto the baby daddy\u2019s rictus grin as if his wife had just given birth to a giant squib. That said baby daddy is played by Rupert Grint further enhances the scene\u2019s comic exaggeration; while the actor has become a familiar sight to horror fans since graduating from Hogwarts, the smile he maintains in the face of this nightmare reeks of Ron Weasley in a way that can\u2019t help but heighten the wrongness on display. Having children is not for the faint of heart, \u201cNightborn\u201d wants you to know, and motherhood can be a Shudder-worthy ordeal even when you don\u2019t give birth to a hairy growling demon spawn who chews through its mama\u2019s nipples so that it can feed on her blood instead. But the experience that Bergholm and Ilja Rautsi have scripted for Jon and Saga (Seidi Haarla) to enjoy is a long, long fucking way from normal.\nJust how long? Well, that, at its essence, is what this new genre exercise from the director of \u201cHatching\u201d is determined to figure out for itself. More primal than scary even before it settles into the sheer tedium of raising a newborn, \u201cNightborn\u201d is consciously \u2014 if not satisfyingly \u2014 ambivalent as to what kind of horror movie it might be in the end. Despite a few early moments of CGI-enhanced carnage that seem to anticipate a straightforward thrill-ride (e.g., the baby reaches up and rips its grandmother\u2019s hoop earring right out of her flesh), Bergholm\u2019s focus soon begins to cheat a bit closer to the everyday exasperation of \u201cIf I Had Legs I\u2019d Kick You\u201d than the progeny from hell mishegoss of \u201cRosemary\u2019s Baby.\u201d \u201cNightborn\u201d is ultimately less interested in framing motherhood as a horror movie than it is in exploring why people refuse to see it that way.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/6/8/4/4/3/868443-nightborn-0-600-0-900-crop.jpg?v=623bdd6443"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/6/8/4/4/3/868443-nightborn-0-600-0-900-crop.jpg?v=2e8cc9504c"
   },
   {
     "id": "guid:letterboxd-watch-1424007038",
@@ -3525,7 +3597,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": "all action movies should end with a rain soaked music video, preferably with Chow Yun-Fat also riding off on a motorcycle \u2014 Ringo Lam out Woos Woo here at times, a pretty dizzying display of violence",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/3/34823-full-contact-0-600-0-900-crop.jpg?v=80c995231b"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/3/34823-full-contact-0-600-0-900-crop.jpg?v=ea707f2ac6"
   },
   {
     "id": "guid:letterboxd-review-1406067043",
@@ -7125,7 +7197,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": "FUCK!",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/3/34823-full-contact-0-600-0-900-crop.jpg?v=80c995231b"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/3/34823-full-contact-0-600-0-900-crop.jpg?v=ea707f2ac6"
   },
   {
     "id": "guid:letterboxd-review-1371943062",
@@ -11264,7 +11336,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2453 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2451 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -12776,7 +12848,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3673 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3687 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -14432,7 +14504,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nThe City of Lost Children\nClockers\nForgotten Silver\nGood Men, Good Women\nKids\nLand and Freedom\nLe Gar\u00e7u\nA Little Princess\nMaborosi\nNixon\n...plus 6 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nThe City of Lost Children\nClockers\nForgotten Silver\nGood Men, Good Women\nKids\nLand and Freedom\nA Little Princess\nMaborosi\nNixon\nPersuasion\n...plus 5 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -15837,6 +15909,24 @@
     "liked": null,
     "rewatch": null,
     "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nAvalon\nBoiling Point\nDances with Wolves\nThe Grifters\nHenry & June\nJu Dou\nThe Match Factory Girl\nParis Is Burning\nQuick Change\nRosencrantz & Guildenstern Are Dead\n...plus 5 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-402142",
+    "guid": "letterboxd-list-402142",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Need revisits: 1962",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/list/need-revisits-1962/",
+    "watched_date": null,
+    "publication_date": "2014-09-27",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nThe Loneliness of the Long Distance Runner\nThe Trial\nThe Trial of Joan of Arc\nWhat Ever Happened to Baby Jane?",
     "poster_url": null
   },
   {

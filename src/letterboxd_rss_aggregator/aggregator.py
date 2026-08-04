@@ -18,11 +18,11 @@ FEEDS: list[dict[str, str]] = [
     {"username": "brofromanother", "critic_tier": "primary"},
     {"username": "bdgrabinski", "critic_tier": "primary"},
     {"username": "SeanFennessey", "critic_tier": "secondary"},
-    {"username": "SilentDawnLB", "critic_tier": "secondary"},
+    {"username": "silentdawn", "critic_tier": "secondary"},
     {"username": "davidlsims", "critic_tier": "secondary"},
     {"username": "gemko", "critic_tier": "secondary"},
     {"username": "BrianDuffield", "critic_tier": "secondary"},
-    {"username": "judysquirrels", "critic_tier": "secondary"},
+    {"username": "riotglasses", "critic_tier": "secondary"},
     {"username": "davidehrlich", "critic_tier": "secondary"},
     {"username": "theolejake", "critic_tier": "my_account"},
 ]

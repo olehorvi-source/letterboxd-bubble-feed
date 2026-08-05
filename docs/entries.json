@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1434948523",
+    "guid": "letterboxd-watch-1434948523",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Bait",
+    "film_year": 2019,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/bait-2019/",
+    "watched_date": "2026-08-05",
+    "publication_date": "2026-08-05",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/4/4/0/8/504408-bait-0-600-0-900-crop.jpg?v=1600dd6b2c"
+  },
+  {
+    "id": "guid:letterboxd-watch-1434721722",
+    "guid": "letterboxd-watch-1434721722",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Salem's Lot",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/salems-lot-2004/",
+    "watched_date": "2026-08-05",
+    "publication_date": "2026-08-05",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/6/3/1/27631-salem-s-lot-0-600-0-900-crop.jpg?v=e24164eda3"
+  },
+  {
     "id": "guid:letterboxd-watch-1434519779",
     "guid": "letterboxd-watch-1434519779",
     "username": "theolejake",
@@ -18,6 +54,42 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/2/4/2/34242-a-return-to-salem-s-lot-0-600-0-900-crop.jpg?v=37690a6d05"
   },
   {
+    "id": "guid:letterboxd-review-1434853620",
+    "guid": "letterboxd-review-1434853620",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Dragon Inn",
+    "film_year": 1967,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/dragon-inn/1/",
+    "watched_date": "2026-08-05",
+    "publication_date": "2026-08-05",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "100\nThe type of movie that reminds you what it's all about. Varying levels of ecstatic excitement for every moment of its runtime. How King Hu situates these characters and the narrative dynamics - absolutely mind-boggling!\nListen up as we talk Wuxia and\nDragon Inn\nover on our\nPatreon\npod - the Stack of Shame!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/4/4/4/5/84445-dragon-inn-0-600-0-900-crop.jpg?v=983f2c3720"
+  },
+  {
+    "id": "guid:letterboxd-review-1434673432",
+    "guid": "letterboxd-review-1434673432",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "After Dark, My Sweet",
+    "film_year": 1990,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/after-dark-my-sweet/2/",
+    "watched_date": "2026-08-04",
+    "publication_date": "2026-08-05",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "remains one of the great neo-noir films, not because of its eroticism, violence or tight plotting but because Patric\u2019s performance is a staggering feat of physicality, mystery and straight up\nweirdness\nthat takes multiple viewings to even make sense of and, when it does, it\u2019s like a punch in the face from a hungry boxer",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/0/1/7/36017-after-dark-my-sweet-0-600-0-900-crop.jpg?v=ccc199d5c4"
+  },
+  {
     "id": "guid:letterboxd-review-1433895701",
     "guid": "letterboxd-review-1433895701",
     "username": "davidlsims",
@@ -34,6 +106,24 @@
     "rewatch": false,
     "review_text": "quite an astonishing object",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/5/4/9/1393549-maddies-secret-0-600-0-900-crop.jpg?v=9d1be9dbce"
+  },
+  {
+    "id": "guid:letterboxd-list-86187708",
+    "guid": "letterboxd-list-86187708",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "2026",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/list/2026-1/",
+    "watched_date": null,
+    "publication_date": "2026-08-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Nirvanna the Band the Show the Movie\nThe Odyssey\nProject Hail Mary\nDisclosure Day\nHokum\nMile End Kicks\nMike & Nick & Nick & Alice\nSend Help\nThe Drama\nThe Death of Robin Hood\n...plus 28 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
   },
   {
     "id": "guid:letterboxd-watch-1432464703",
@@ -12110,7 +12200,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "One Battle After Another\nSinners\nMarty Supreme\nDen of Thieves 2: Pantera\nFriendship\nSuperman\nPresence\nWake Up Dead Man\nThe Naked Gun\nThe Life of Chuck\n...plus 72 more.\nView the full list on Letterboxd\n.",
+    "review_text": "One Battle After Another\nSinners\nMarty Supreme\nBlue Moon\nDen of Thieves 2: Pantera\nFriendship\nSuperman\nPresence\nAvatar: Fire and Ash\nNo Other Choice\n...plus 82 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -12704,7 +12794,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Summer of Sam\nBeau Travail\nBamboozled\nDead Presidents\nHoly Motors\nSaint Omer\nVelvet Goldmine\nWorking Girls\nElvis\nHappiness\n...plus 138 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Summer of Sam\nBeau Travail\nBamboozled\nDead Presidents\nHoly Motors\nSaint Omer\nVelvet Goldmine\nWorking Girls\nElvis\nHappiness\n...plus 141 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

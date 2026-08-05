@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1434519779",
+    "guid": "letterboxd-watch-1434519779",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "A Return to Salem's Lot",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/a-return-to-salems-lot/",
+    "watched_date": "2026-08-05",
+    "publication_date": "2026-08-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/2/4/2/34242-a-return-to-salem-s-lot-0-600-0-900-crop.jpg?v=37690a6d05"
+  },
+  {
+    "id": "guid:letterboxd-review-1433895701",
+    "guid": "letterboxd-review-1433895701",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Maddie's Secret",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/maddies-secret/",
+    "watched_date": "2026-08-04",
+    "publication_date": "2026-08-05",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "quite an astonishing object",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/5/4/9/1393549-maddies-secret-0-600-0-900-crop.jpg?v=9d1be9dbce"
+  },
+  {
     "id": "guid:letterboxd-watch-1432464703",
     "guid": "letterboxd-watch-1432464703",
     "username": "riotglasses",
@@ -2081,7 +2117,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/teenage-sex-and-death-at-camp-miasma/",
     "watched_date": "2026-07-28",
     "publication_date": "2026-07-28",
-    "rating": 4.0,
+    "rating": 4.5,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -10652,7 +10688,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nBlue Heron\nPaper Tiger\nNirvanna the Band the Show the Movie\nFjord\nDisclosure Day\nTeenage Sex and Death at Camp Miasma\nBackrooms\nTony\n...plus 55 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nBlue Heron\nPaper Tiger\nNirvanna the Band the Show the Movie\nFjord\nDisclosure Day\nTeenage Sex and Death at Camp Miasma\nBackrooms\nTony\n...plus 56 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -17438,7 +17474,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1384 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1388 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-review-1438120940",
+    "guid": "letterboxd-review-1438120940",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "The Last House",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/the-last-house-2026/",
+    "watched_date": "2026-08-07",
+    "publication_date": "2026-08-07",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Once upon a time, just three decades and a few realities ago, a major American studio released a Hollywood satire about a down-and-out producer whose greatest dream was to make a Z-grade sci-fi movie titled \u201cChubby Rain,\u201d in which hostile aliens invaded Earth by hiding themselves inside of raindrops (thus making the rain appear chubby). That man\u2019s name was Bowfinger. The comedy that Frank Oz made about him was also called \u201cBowfinger.\u201d And the joke \u2014 the joke that teed up every other joke \u2014 was that \u201cChubby Rain\u201d was obviously a very, very stupid idea for a movie. Even a movie that only cost $2,184.\nNetflix\u2019s \u201cThe Last House\u201d cost a lot more than that, but god damn is its rain chubby. A thriller so dumb that \u2014 in bygone smarter times \u2014 a central aspect of its premise was used as a punchline, this late summer washout updates Bowfinger\u2019s masterpiece into an asinine COVID parable where the rain gets so fat that people can no longer go outside. Literally.\nWhat first appears to be a run-of-the-mill Seattle rainstorm is soon revealed to be something more nefarious, as the apparently sentient precipitation seals everyone inside of their homes. Doors are welded shut. Windows are somehow rendered unbreakable. Neighbors are forced to communicate with poster boards like in Zack Snyder\u2019s \u201cDawn of the Dead.\u201d It\u2019s a good thing that unemployed engineer and hobbyist fisherman Jason (Wagner Moura, hopefully reeling in a decent paycheck) makes it back to his wife Ann (a similarly overqualified Greta Lee) and their two kids before the clouds roll in, otherwise he would have been left to fend for himself amidst the early morning runners and the increasingly feral local wildlife. Oh, and also the giant, shadowy monsters who growl around the lawn whenever it really starts to pour.\n~this review continues on IndieWire~",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/6/7/4/1167674-the-last-house-2026-0-600-0-900-crop.jpg?v=cb3208a300"
+  },
+  {
     "id": "guid:letterboxd-review-1437752810",
     "guid": "letterboxd-review-1437752810",
     "username": "bdgrabinski",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": "I have a lot of questions!",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/3/7/1/45371-she-s-the-one-0-600-0-900-crop.jpg?v=cd65c02467"
+  },
+  {
+    "id": "guid:letterboxd-watch-1438010608",
+    "guid": "letterboxd-watch-1438010608",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Dead Presidents",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/dead-presidents/1/",
+    "watched_date": "2026-08-06",
+    "publication_date": "2026-08-07",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/2/9/9/45299-dead-presidents-0-600-0-900-crop.jpg?v=9b7f4420a0"
   },
   {
     "id": "guid:letterboxd-watch-1437657511",
@@ -47,7 +83,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/west-side-familia/",
     "watched_date": "2026-08-06",
     "publication_date": "2026-08-07",
-    "rating": null,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,

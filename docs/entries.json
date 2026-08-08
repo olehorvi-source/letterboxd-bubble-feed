@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1440036872",
+    "guid": "letterboxd-watch-1440036872",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Philly Rumba",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/philly-rumba/",
+    "watched_date": "2026-08-08",
+    "publication_date": "2026-08-08",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-watch-1439984328",
+    "guid": "letterboxd-watch-1439984328",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Watch Out for the Ghosts",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/watch-out-for-the-ghosts/",
+    "watched_date": "2026-08-08",
+    "publication_date": "2026-08-08",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-watch-1439967109",
+    "guid": "letterboxd-watch-1439967109",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Store",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-store-2025-1/",
+    "watched_date": "2026-08-08",
+    "publication_date": "2026-08-08",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-watch-1439819407",
     "guid": "letterboxd-watch-1439819407",
     "username": "riotglasses",
@@ -483,7 +537,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/8/2/7/2/7/1582727-west-side-familia-0-600-0-900-crop.jpg?v=c913e5e000"
   },
   {
     "id": "guid:letterboxd-watch-1437346628",
@@ -17852,7 +17906,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2440 more.\nView the full list on Letterboxd\n.",
+    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2440 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

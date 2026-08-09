@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1441460215",
+    "guid": "letterboxd-watch-1441460215",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Soulm8te",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/soulm8te/",
+    "watched_date": "2026-08-09",
+    "publication_date": "2026-08-09",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/8/8/5/1/8/1188518-soulm8te-0-600-0-900-crop.jpg?v=46dab2e076"
+  },
+  {
     "id": "guid:letterboxd-watch-1440872076",
     "guid": "letterboxd-watch-1440872076",
     "username": "theolejake",

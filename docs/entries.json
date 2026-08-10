@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1443097814",
+    "guid": "letterboxd-watch-1443097814",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "One Spoon of Chocolate",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/one-spoon-of-chocolate/",
+    "watched_date": "2026-08-09",
+    "publication_date": "2026-08-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/3/8/7/7/1173877-one-spoon-of-chocolate-0-600-0-900-crop.jpg?v=5192bfa03f"
+  },
+  {
     "id": "guid:letterboxd-watch-1442953043",
     "guid": "letterboxd-watch-1442953043",
     "username": "jlalibs",
@@ -142,6 +160,24 @@
     "rewatch": true,
     "review_text": "You\u2019re gonna be seeing me log a bunch of kids\u2019 movies and lame comedies ca. 1974\u201380 over the rest of August. Explanation pending for\nPatreon subscribers\nin the next Quibi post.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/1/8/2/40182-the-apple-dumpling-gang-0-600-0-900-crop.jpg?v=c470a20634"
+  },
+  {
+    "id": "guid:letterboxd-review-1439190916",
+    "guid": "letterboxd-review-1439190916",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Tuner",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/tuner/",
+    "watched_date": "2026-08-07",
+    "publication_date": "2026-08-10",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "a very satisfying plate of meat and potatoes",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/8/7/8/1234878-tuner-0-600-0-900-crop.jpg?v=075156069b"
   },
   {
     "id": "guid:letterboxd-watch-1443038510",
@@ -11229,7 +11265,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "40\nTwo stars and a heart feels appropriate for a movie that has tremendous highs (the\nGet Out\nsection, the Tubi Original trailer, \"dread-locked\") and plenty of lows. More than a few bits had me in tears but just as many landed with a depressing thud in my theater. A lot of this feels like pop culture catch-up for a long dormant franchise, so it makes sense to go with something like\nScream 5\nfor the basis, even if that means it's arriving in multiplexes with a whiff of mothballs.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/5/6/9/1/0/1156910-scary-movie-2026-0-600-0-900-crop.jpg?v=b50abf5b96"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/5/6/9/1/0/1156910-scary-movie-2026-0-600-0-900-crop.jpg?v=4714559ea7"
   },
   {
     "id": "guid:letterboxd-review-1342770284",
@@ -11283,7 +11319,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/5/6/9/1/0/1156910-scary-movie-2026-0-600-0-900-crop.jpg?v=b50abf5b96"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/5/6/9/1/0/1156910-scary-movie-2026-0-600-0-900-crop.jpg?v=4714559ea7"
   },
   {
     "id": "guid:letterboxd-review-1339991240",
@@ -12254,7 +12290,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nBlue Heron\nPaper Tiger\nNirvanna the Band the Show the Movie\nFjord\nDisclosure Day\nTeenage Sex and Death at Camp Miasma\nBackrooms\nTony\n...plus 57 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nNirvanna the Band the Show the Movie\nFjord\nBackrooms\nTony\n...plus 58 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1443837405",
+    "guid": "letterboxd-watch-1443837405",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Resident Evil: Extinction",
+    "film_year": 2007,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/resident-evil-extinction/1/",
+    "watched_date": "2026-08-10",
+    "publication_date": "2026-08-10",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/9/7/9/47979-resident-evil-extinction-0-600-0-900-crop.jpg?v=af15948399"
+  },
+  {
     "id": "guid:letterboxd-watch-1443565528",
     "guid": "letterboxd-watch-1443565528",
     "username": "theolejake",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/4/2/8/6/724286-apartment-7a-0-600-0-900-crop.jpg?v=8dd7de8ffd"
+  },
+  {
+    "id": "guid:letterboxd-review-1444012647",
+    "guid": "letterboxd-review-1444012647",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The History of Concrete",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-history-of-concrete/",
+    "watched_date": "2026-08-10",
+    "publication_date": "2026-08-10",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "imagine making a documentary about cement and then meeting the family who embalmed Chef Boyardee (who was a real man) in the process \u2014 John Wilson is the only living filmmaker who could pull that off and somehow turn in the most hopeful movie of the year in the process",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=fc1853f4a5"
   },
   {
     "id": "guid:letterboxd-review-1443534667",
@@ -12884,7 +12920,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 525 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 526 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -13226,7 +13262,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nHope\nNirvanna the Band the Show the Movie\nCAMP\nMaddie's Secret\nRose of Nevada\nThe Christophers\nRevelations of Divine Love\n...plus 143 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 144 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -18842,7 +18878,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in New York City after Giuliani became mayor in 1994 and continuing after his term in office. Ongoing list.\nNot including anything that is largely a period piece or is shot in New York but does not take place there. Also must primarily take place in the city and not only have a scene or moments set there.\n100 Feet\n15 Minutes\n16 Blocks\n1999\n2 Days in New York\n200 Cigarettes\n21 Bridges\n25th Hour\n3 Generations\n30 Beats\n...plus 695 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in New York City after Giuliani became mayor in 1994 and continuing after his term in office. Ongoing list.\nNot including anything that is largely a period piece or is shot in New York but does not take place there. Also must primarily take place in the city and not only have a scene or moments set there.\n100 Feet\n15 Minutes\n16 Blocks\n1999\n2 Days in New York\n200 Cigarettes\n21 Bridges\n25th Hour\n3 Generations\n30 Beats\n...plus 696 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19652,7 +19688,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2531 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2532 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19706,7 +19742,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1649 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1650 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

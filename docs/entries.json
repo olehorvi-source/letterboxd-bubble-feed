@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1449960092",
+    "guid": "letterboxd-watch-1449960092",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "MadS",
+    "film_year": 2024,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/mads/1/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-14",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/4/7/2/1/6/1147216-mads-0-600-0-900-crop.jpg?v=5708716cb5"
+  },
+  {
     "id": "guid:letterboxd-watch-1449569435",
     "guid": "letterboxd-watch-1449569435",
     "username": "SeanFennessey",
@@ -34,6 +52,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/4/51344-shrek-0-600-0-900-crop.jpg?v=cd09df2c75"
+  },
+  {
+    "id": "guid:letterboxd-review-1449823148",
+    "guid": "letterboxd-review-1449823148",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Picture of a Nymph",
+    "film_year": 1988,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/picture-of-a-nymph/",
+    "watched_date": "2026-08-13",
+    "publication_date": "2026-08-14",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "of all of the things I expected from this movie, characters breaking out into song wasn\u2019t one of them \u2014 an erratic blend of genres that somehow includes hair-fu alongside costume drama beats, feels like the \u201888 Tubi Original equivalent of\nA Chinese Ghost Story\n(which, to me, isn\u2019t a bad thing)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/6/1/1/0/86110-picture-of-a-nymph-0-600-0-900-crop.jpg?v=b1a9c74a3f"
   },
   {
     "id": "guid:letterboxd-review-1449417800",
@@ -897,7 +933,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "I can\u2019t think of a less punk thing than opening your band\u2019s movie (which desperately wants to be punk\nDetroit Rock City\n) with a Live Nation Films logo \u2014 as an elder Green Day fan (Insomniac was, is and will always be their best record) this is largely just embarrassing",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/1/8/3/1311183-nimrods-0-600-0-900-crop.jpg?v=f42eb35e44"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/1/8/3/1311183-nimrods-0-600-0-900-crop.jpg?v=b62c211d05"
   },
   {
     "id": "guid:letterboxd-review-1446211676",
@@ -14774,7 +14810,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\nRemake\n...plus 9961 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe Return of the Pink Panther\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\n...plus 9961 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -18518,7 +18554,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "dystopian, futuristic, technophobic, humans in peril, our one true timeline via ~the movies~\n2001: A Space Odyssey\n2001\n2009: Lost Memories\n2009\n2010: The Year We Make Contact\n2010\n2012 Doomsday\n2012\n2019: After the Fall of New York\n2019\n2046\n2046\n2067\n2069: A Sex Odyssey\n2069\n2073\n2103: The Deadly Wake\n...plus 187 more.\nView the full list on Letterboxd\n.",
+    "review_text": "dystopian, futuristic, technophobic, humans in peril, our one true timeline via ~the movies~\n2001: A Space Odyssey\n2001\n2009: Lost Memories\n2009\n2010: The Year We Make Contact\n2010\n2012 Doomsday\n2012\n2019: After the Fall of New York\n2019\n2046\n2046\n2067\n2069: A Sex Odyssey\n2069\n2073\n2103: The Deadly Wake\n...plus 188 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20714,7 +20750,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1360 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1361 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21002,7 +21038,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2532 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2533 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

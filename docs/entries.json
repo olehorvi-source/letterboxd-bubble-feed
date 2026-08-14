@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1449569435",
+    "guid": "letterboxd-watch-1449569435",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Marc by Sofia",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/marc-by-sofia/",
+    "watched_date": "2026-08-13",
+    "publication_date": "2026-08-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/0/4/1393004-marc-by-sofia-0-600-0-900-crop.jpg?v=0deb67dd6e"
+  },
+  {
     "id": "guid:letterboxd-watch-1449299248",
     "guid": "letterboxd-watch-1449299248",
     "username": "SeanFennessey",
@@ -14756,7 +14774,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\nRemake\n...plus 9960 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\nRemake\n...plus 9961 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

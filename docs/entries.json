@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1451294386",
+    "guid": "letterboxd-watch-1451294386",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "The Hidden",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/the-hidden/2/",
+    "watched_date": "2026-08-15",
+    "publication_date": "2026-08-15",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/07/47/cd/lc/5CEVBtcNEhz9zJxAKpdaYUAL700-0-600-0-900-crop.jpg?v=171817c2dd"
+  },
+  {
     "id": "guid:letterboxd-watch-1450705077",
     "guid": "letterboxd-watch-1450705077",
     "username": "theolejake",
@@ -52,6 +70,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/1/7/4/18174-china-girl-0-600-0-900-crop.jpg?v=f1af4932f7"
+  },
+  {
+    "id": "guid:letterboxd-review-1451436874",
+    "guid": "letterboxd-review-1451436874",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "American Yakuza",
+    "film_year": 1993,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/american-yakuza/1/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-15",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "feels more like the US equivalent of V-Cinema than\nBlue Tiger\ndoes but it still doesn\u2019t have the pacing down, mostly feeling like a slog when its (great) action scenes give way to staid crime drama \u2014 I\u2019d rather just watch\nShowdown In Little Tokyo\nagain",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/4/9/4/27494-american-yakuza-0-600-0-900-crop.jpg?v=016536d9a0"
   },
   {
     "id": "guid:letterboxd-review-1451086568",
@@ -15170,7 +15206,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe End of Oak Street\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\n...plus 9962 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe End of Oak Street\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\n...plus 9963 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

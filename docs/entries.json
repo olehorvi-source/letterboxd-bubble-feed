@@ -1,5 +1,131 @@
 [
   {
+    "id": "guid:letterboxd-watch-1450705077",
+    "guid": "letterboxd-watch-1450705077",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "The Blade",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/the-blade/",
+    "watched_date": "2026-08-15",
+    "publication_date": "2026-08-15",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/2/4/9/22249-the-blade-0-600-0-900-crop.jpg?v=c5b25657fb"
+  },
+  {
+    "id": "guid:letterboxd-watch-1450834035",
+    "guid": "letterboxd-watch-1450834035",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Bigger Than Life",
+    "film_year": 1956,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/bigger-than-life/1/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-15",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/5/9/5/35595-bigger-than-life-0-600-0-900-crop.jpg?v=adf8b15c03"
+  },
+  {
+    "id": "guid:letterboxd-watch-1450703865",
+    "guid": "letterboxd-watch-1450703865",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "China Girl",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/china-girl-1987/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-15",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/1/7/4/18174-china-girl-0-600-0-900-crop.jpg?v=f1af4932f7"
+  },
+  {
+    "id": "guid:letterboxd-review-1450911347",
+    "guid": "letterboxd-review-1450911347",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The End of Oak Street",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-end-of-oak-street/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-15",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "the horrors of the cul de sac!!\nwill be talked about for many years. huge triumph",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/2/9/6/2/992962-the-end-of-oak-street-0-600-0-900-crop.jpg?v=b06dbfb4c9"
+  },
+  {
+    "id": "guid:letterboxd-review-1450806872",
+    "guid": "letterboxd-review-1450806872",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Wrong Girls",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-wrong-girls/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-15",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "to be fair, if someone said they had a bunch of marijuana and two cats in their car, I\u2019d get in",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/3/7/4/1110374-the-wrong-girls-0-600-0-900-crop.jpg?v=a7d0c4f18f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1450667025",
+    "guid": "letterboxd-watch-1450667025",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Home from the Hill",
+    "film_year": 1960,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/home-from-the-hill/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-14",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/5/3/2/7/75327-home-from-the-hill-0-600-0-900-crop.jpg?v=ac4f99e5d7"
+  },
+  {
+    "id": "guid:letterboxd-watch-1450512561",
+    "guid": "letterboxd-watch-1450512561",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The End of Oak Street",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-end-of-oak-street/1/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/2/9/6/2/992962-the-end-of-oak-street-0-600-0-900-crop.jpg?v=b06dbfb4c9"
+  },
+  {
     "id": "guid:letterboxd-watch-1450246186",
     "guid": "letterboxd-watch-1450246186",
     "username": "SeanFennessey",
@@ -126,6 +252,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/4/7/2/1/6/1147216-mads-0-600-0-900-crop.jpg?v=5708716cb5"
   },
   {
+    "id": "guid:letterboxd-review-1450526716",
+    "guid": "letterboxd-review-1450526716",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "40 Watts from Nowhere",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/40-watts-from-nowhere/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-14",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I can't think of anything more punk than operating a pirate radio station out of your apartment for years, except for maybe making a documentary about it",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/8/3/0/8/1288308-40-watts-from-nowhere-0-600-0-900-crop.jpg?v=4d92876ce5"
+  },
+  {
     "id": "guid:letterboxd-review-1450156778",
     "guid": "letterboxd-review-1450156778",
     "username": "davidehrlich",
@@ -160,6 +304,24 @@
     "rewatch": true,
     "review_text": "I have one major rule about movies, which is that if you\u2019re going to make me watch Melanie Lynskey suffer from the merciless cruelties of cancer, it better be fucking worth it. this one is! extremely sweet and sensitive and Sunny Sandler is great.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/8/0/6/7/1/1380671-dont-say-good-luck-0-600-0-900-crop.jpg?v=a73c3a677a"
+  },
+  {
+    "id": "guid:letterboxd-review-1450098004",
+    "guid": "letterboxd-review-1450098004",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "New Rose Hotel",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/new-rose-hotel/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Schoolly D",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/wg/kv/in/ri/zRgR1UEHV7xolS2eE2W1uzH9F5I-0-600-0-900-crop.jpg?v=abe029ce6e"
   },
   {
     "id": "guid:letterboxd-review-1450001704",
@@ -7596,24 +7758,6 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/3/34823-full-contact-0-600-0-900-crop.jpg?v=ea707f2ac6"
   },
   {
-    "id": "guid:letterboxd-review-1406067043",
-    "guid": "letterboxd-review-1406067043",
-    "username": "gemko",
-    "critic_tier": "secondary",
-    "creator_display_name": "Mike D'Angelo",
-    "film_title": "Torso",
-    "film_year": 1973,
-    "tmdb_movie_id": null,
-    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/torso/",
-    "watched_date": "2026-07-20",
-    "publication_date": "2026-07-21",
-    "rating": 3.5,
-    "liked": null,
-    "rewatch": false,
-    "review_text": "63/100\nThought I had an offbeat reaction to this giallo-slasher hybrid, but no, looks like virtually everyone agrees that it's an hour of ho-hum lurid boobs-out murder mystery followed by possibly the most prolonged and inventive Final Girl stretch of all time.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/0/1/4/31014-torso-0-600-0-900-crop.jpg?v=973ef29ec3"
-  },
-  {
     "id": "guid:letterboxd-review-1405431638",
     "guid": "letterboxd-review-1405431638",
     "username": "davidlsims",
@@ -7648,6 +7792,24 @@
     "rewatch": true,
     "review_text": "Oh! Darling",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/7/7/2/5772-double-happiness-0-600-0-900-crop.jpg?v=a9cda21898"
+  },
+  {
+    "id": "guid:letterboxd-review-1406067043",
+    "guid": "letterboxd-review-1406067043",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Torso",
+    "film_year": 1973,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/torso/",
+    "watched_date": "2026-07-18",
+    "publication_date": "2026-07-21",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "63/100\nThought I had an offbeat reaction to this giallo-slasher hybrid, but no, looks like virtually everyone agrees that it's an hour of ho-hum lurid boobs-out murder mystery followed by possibly the most prolonged and inventive Final Girl stretch of all time.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/0/1/4/31014-torso-0-600-0-900-crop.jpg?v=973ef29ec3"
   },
   {
     "id": "guid:letterboxd-review-1406066767",
@@ -9450,24 +9612,6 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/0/5/7/1346057-her-private-hell-2026-0-600-0-900-crop.jpg?v=b28d97d826"
   },
   {
-    "id": "guid:letterboxd-review-1394960460",
-    "guid": "letterboxd-review-1394960460",
-    "username": "gemko",
-    "critic_tier": "secondary",
-    "creator_display_name": "Mike D'Angelo",
-    "film_title": "Daisies",
-    "film_year": 1966,
-    "tmdb_movie_id": null,
-    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/daisies/1/",
-    "watched_date": "2026-07-13",
-    "publication_date": "2026-07-13",
-    "rating": 4.0,
-    "liked": null,
-    "rewatch": true,
-    "review_text": "79/100\nSecond viewing, last seen in 2010 at the Silent Movie Theatre, which was then called Cinefamily and is now apparently showing films as Brain Dead Studios (pointlessly misleading name for an L.A. theater, if you ask me). And it's possible that seeing it with an audibly appreciative audience made a difference, as my original rating was 83; this time, watching at home alone, I was still frequently dazzled but also, at times, a bit exhausted, uncertain about whether plotless anarchic attitude can really sustain even a movie that's this short.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/4/4/7/18447-daisies-0-600-0-900-crop.jpg?v=4c08c58c03"
-  },
-  {
     "id": "guid:letterboxd-review-1394546285",
     "guid": "letterboxd-review-1394546285",
     "username": "davidehrlich",
@@ -9664,6 +9808,24 @@
     "rewatch": false,
     "review_text": "Wouldn\u2019t even know how to review this but her revenge choices are all top tier.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/1/9/0/36190-i-spit-on-your-grave-0-600-0-900-crop.jpg?v=b14ebe10da"
+  },
+  {
+    "id": "guid:letterboxd-review-1394960460",
+    "guid": "letterboxd-review-1394960460",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Daisies",
+    "film_year": 1966,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/daisies/1/",
+    "watched_date": "2026-07-11",
+    "publication_date": "2026-07-13",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "79/100\nSecond viewing, last seen in 2010 at the Silent Movie Theatre, which was then called Cinefamily and is now apparently showing films as Brain Dead Studios (pointlessly misleading name for an L.A. theater, if you ask me). And it's possible that seeing it with an audibly appreciative audience made a difference, as my original rating was 83; this time, watching at home alone, I was still frequently dazzled but also, at times, a bit exhausted, uncertain about whether plotless anarchic attitude can really sustain even a movie that's this short.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/4/4/7/18447-daisies-0-600-0-900-crop.jpg?v=4c08c58c03"
   },
   {
     "id": "guid:letterboxd-watch-1393136562",
@@ -13838,7 +14000,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nNirvanna the Band the Show the Movie\nFjord\nBackrooms\n...plus 60 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nNirvanna the Band the Show the Movie\nFjord\nThe End of Oak Street\n...plus 61 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -14396,7 +14558,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 531 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 532 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -14612,7 +14774,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 134 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 135 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -14738,7 +14900,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 148 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 149 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -14990,7 +15152,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe Return of the Pink Panther\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\n...plus 9961 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\nMad Bills to Pay (or Destiny, dile que no soy malo)\nRoute One/USA\nTen Minutes to Live\nRemake\n...plus 9961 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -18536,7 +18698,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3687 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3695 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20462,7 +20624,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2694 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2695 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22496,7 +22658,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2074 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2075 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

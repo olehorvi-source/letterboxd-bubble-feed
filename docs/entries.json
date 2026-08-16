@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1453702488",
+    "guid": "letterboxd-watch-1453702488",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Union County",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/union-county-2026/1/",
+    "watched_date": "2026-08-16",
+    "publication_date": "2026-08-16",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/9/6/9/1/1359691-union-county-2026-0-600-0-900-crop.jpg?v=05f0c74d84"
+  },
+  {
+    "id": "guid:letterboxd-watch-1453572231",
+    "guid": "letterboxd-watch-1453572231",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Raging Bull",
+    "film_year": 1980,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/raging-bull/",
+    "watched_date": "2026-08-16",
+    "publication_date": "2026-08-16",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/6/50956-raging-bull-0-600-0-900-crop.jpg?v=b25f43f7b6"
+  },
+  {
     "id": "guid:letterboxd-watch-1452940680",
     "guid": "letterboxd-watch-1452940680",
     "username": "bdgrabinski",
@@ -16,6 +52,60 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/6/16296-dangerous-game-0-600-0-900-crop.jpg?v=f11d3efe09"
+  },
+  {
+    "id": "guid:letterboxd-review-1453750676",
+    "guid": "letterboxd-review-1453750676",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "PAW Patrol: The Dino Movie",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/paw-patrol-the-dino-movie/",
+    "watched_date": "2026-08-16",
+    "publication_date": "2026-08-16",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The end of the movie suggests that Ryder is also above the judicial system.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/9/6/9/1071969-paw-patrol-the-dino-movie-0-600-0-900-crop.jpg?v=27feb9ec89"
+  },
+  {
+    "id": "guid:letterboxd-review-1453461653",
+    "guid": "letterboxd-review-1453461653",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Fan",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-fan/3/",
+    "watched_date": "2026-08-16",
+    "publication_date": "2026-08-16",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "thirty years ago, a major studio spent the equivalent of 115 million dollars in today's money on a baseball movie where Robert De Niro kills insects and ball players to Nine Inch Nails songs and stuffs a severed head in a freezer \u2014 we used to be a proper country",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dp/3l/80/9u/the-fan-0-600-0-900-crop.jpg?v=9cc42adfb1"
+  },
+  {
+    "id": "guid:letterboxd-watch-1453513505",
+    "guid": "letterboxd-watch-1453513505",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Ariel",
+    "film_year": 1988,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/ariel/",
+    "watched_date": "2026-08-15",
+    "publication_date": "2026-08-16",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/1/4/2714-ariel-0-600-0-900-crop.jpg?v=0352560e4b"
   },
   {
     "id": "guid:letterboxd-watch-1452933414",
@@ -353,7 +443,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/a-kiss-before-dying/",
     "watched_date": "2026-08-15",
     "publication_date": "2026-08-15",
-    "rating": null,
+    "rating": 3.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -16286,7 +16376,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "this is for research purposes. adding suggestions, but not all of them.\nLove Lies Bleeding\nThe Last Seduction\nBlue Velvet\nWild at Heart\nMulholland Drive\nBound\nCrash\nDon't Look Now\nsex, lies, and videotape\nLust, Caution\n...plus 55 more.\nView the full list on Letterboxd\n.",
+    "review_text": "this is for research purposes. adding suggestions, but not all of them.\nLove Lies Bleeding\nThe Last Seduction\nBlue Velvet\nWild at Heart\nMulholland Drive\nBound\nCrash\nDon't Look Now\nsex, lies, and videotape\nLust, Caution\n...plus 56 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -16988,7 +17078,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "aggressive, non-conformist, polarizing, often offensive, often funny, ymmv\nstarting after the fall of the production code, when comedy had less barriers, in 1968\npresented chronologically\n1941\n8 Heads in a Duffel Bag\nThe Adventures of Ford Fairlane\nAfter Hours\nAmateur\nAmazon Women on the Moon\nAmos & Andrew\nAnimal House\nApe\nApplesauce\n...plus 239 more.\nView the full list on Letterboxd\n.",
+    "review_text": "aggressive, non-conformist, polarizing, often offensive, often funny, ymmv\nstarting after the fall of the production code, when comedy had less barriers, in 1968\npresented chronologically\n1941\n8 Heads in a Duffel Bag\nThe Adventures of Ford Fairlane\nAfter Hours\nAmateur\nAmazon Women on the Moon\nAmos & Andrew\nAnimal House\nApe\nApplesauce\n...plus 240 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -17312,7 +17402,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 577 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 578 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -18950,7 +19040,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 670 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 671 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19328,7 +19418,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "dystopian, futuristic, technophobic, humans in peril, our one true timeline via ~the movies~\n2001: A Space Odyssey\n2001\n2009: Lost Memories\n2009\n2010: The Year We Make Contact\n2010\n2012 Doomsday\n2012\n2019: After the Fall of New York\n2019\n2046\n2046\n2067\n2069: A Sex Odyssey\n2069\n2073\n2103: The Deadly Wake\n...plus 188 more.\nView the full list on Letterboxd\n.",
+    "review_text": "dystopian, futuristic, technophobic, humans in peril, our one true timeline via ~the movies~\n2001: A Space Odyssey\n2001\n2009: Lost Memories\n2009\n2010: The Year We Make Contact\n2010\n2012 Doomsday\n2012\n2019: After the Fall of New York\n2019\n2046\n2046\n2067\n2069: A Sex Odyssey\n2069\n2073\n2103: The Deadly Wake\n...plus 189 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20268,6 +20358,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-13479269",
+    "guid": "letterboxd-list-13479269",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "foundations of horror",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/foundations-of-horror/",
+    "watched_date": null,
+    "publication_date": "2020-11-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "The Cabinet of Dr. Caligari\nDr. Jekyll and Mr. Hyde\nThe Phantom Carriage\nH\u00e4xan\nNosferatu\nThe Hands of Orlac\nThe Phantom of the Opera\nFaust\nA Page of Madness\nFrankenstein\n...plus 82 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-13310303",
     "guid": "letterboxd-list-13310303",
     "username": "davidehrlich",
@@ -20300,7 +20408,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 739 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 740 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21236,7 +21344,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 450 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 452 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21524,7 +21632,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1361 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1362 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21650,7 +21758,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1158 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1160 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

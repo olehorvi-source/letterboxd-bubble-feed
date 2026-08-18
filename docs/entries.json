@@ -1,5 +1,167 @@
 [
   {
+    "id": "guid:letterboxd-review-1456230158",
+    "guid": "letterboxd-review-1456230158",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Coyote vs. Acme",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/coyote-vs-acme/3/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-18",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "MOMI screening. Will and Lana Q&A.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
+  },
+  {
+    "id": "guid:letterboxd-review-1456197380",
+    "guid": "letterboxd-review-1456197380",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "It Ends",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/it-ends/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-18",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "this is what happened to me the last time I used Mapquest \u2014 screaming, crying, throwing up (from the existential crisis, not the Clif bar I just ate)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/4/3/1301543-it-ends-0-600-0-900-crop.jpg?v=246cf9efcb"
+  },
+  {
+    "id": "guid:letterboxd-review-1456140366",
+    "guid": "letterboxd-review-1456140366",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The End of Oak Street",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-end-of-oak-street/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u2026where\u2019s the rest of the movie?",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/2/9/6/2/992962-the-end-of-oak-street-0-600-0-900-crop.jpg?v=b06dbfb4c9"
+  },
+  {
+    "id": "guid:letterboxd-review-1456185959",
+    "guid": "letterboxd-review-1456185959",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Citizens Band",
+    "film_year": 1977,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/citizens-band/",
+    "watched_date": "2026-08-16",
+    "publication_date": "2026-08-18",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "67/100\n8-track cassette players and CB radios are the two short-lived but briefly omnipresent devices that most strongly define my childhood in the '70s, precisely because they barely survived into the '80s and almost completely disappeared thereafter.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/1/8/7/2/71872-citizens-band-0-600-0-900-crop.jpg?v=da43a5a5d9"
+  },
+  {
+    "id": "guid:letterboxd-review-1456185795",
+    "guid": "letterboxd-review-1456185795",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Herbie Goes to Monte Carlo",
+    "film_year": 1977,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/herbie-goes-to-monte-carlo/",
+    "watched_date": "2026-08-15",
+    "publication_date": "2026-08-18",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u201cOur target audience is 8-year-old boys. What if Herbie mostly wants to romance a girl car? Is that anything?\u201d",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/3/1/7/43317-herbie-goes-to-monte-carlo-0-600-0-900-crop.jpg?v=a25b5a74d8"
+  },
+  {
+    "id": "guid:letterboxd-review-1456183183",
+    "guid": "letterboxd-review-1456183183",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "For the Love of Benji",
+    "film_year": 1977,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/for-the-love-of-benji/",
+    "watched_date": "2026-08-15",
+    "publication_date": "2026-08-18",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Yes. Shoot all needless kiddie sequels entirely in Greece and have most characters speak Greek and subtitle none of it.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/5/8/1/6/25816-for-the-love-of-benji-0-600-0-900-crop.jpg?v=07aa41432c"
+  },
+  {
+    "id": "guid:letterboxd-review-1456180048",
+    "guid": "letterboxd-review-1456180048",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "The Pink Panther Strikes Again",
+    "film_year": 1976,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/the-pink-panther-strikes-again/",
+    "watched_date": "2026-08-14",
+    "publication_date": "2026-08-18",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "The diamond that\u2019s not in this movie strikes again? Like calling\nWake Up Dead Man\nsomething like\nKnives Out Finds God.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/6/4/8/44648-the-pink-panther-strikes-again-0-600-0-900-crop.jpg?v=8b73af48d6"
+  },
+  {
+    "id": "guid:letterboxd-watch-1456034308",
+    "guid": "letterboxd-watch-1456034308",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Coyote vs. Acme",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/coyote-vs-acme/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-17",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
+  },
+  {
+    "id": "guid:letterboxd-watch-1455809009",
+    "guid": "letterboxd-watch-1455809009",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Y2K",
+    "film_year": 2024,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/y2k-2024/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-17",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/6/2/5/7/986257-y2k-0-600-0-900-crop.jpg?v=f5b3bd7137"
+  },
+  {
     "id": "guid:letterboxd-watch-1455657899",
     "guid": "letterboxd-watch-1455657899",
     "username": "jlalibs",
@@ -178,6 +340,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/2/9/6/2/992962-the-end-of-oak-street-0-600-0-900-crop.jpg?v=b06dbfb4c9"
+  },
+  {
+    "id": "guid:letterboxd-review-1455885383",
+    "guid": "letterboxd-review-1455885383",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Legendary Couple",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/legendary-couple/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-17",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "there\u2019s a scene in this that is like HK\nUndercover Blues\n, where the two leads are carrying a baby and a handgun and a villain points an assault rifle at the baby in question \u2014 characteristically insane action comedy work that might be too goofy for most but I vibed with it",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/4/7/7/5/184775-legendary-couple-0-600-0-900-crop.jpg?v=77ab0c4d31"
   },
   {
     "id": "guid:letterboxd-review-1455457483",
@@ -15836,7 +16016,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 136 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 137 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -15962,7 +16142,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 149 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 150 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -17726,7 +17906,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Challengers\nHard Truths\nNickel Boys\nDo Not Expect Too Much from the End of the World\nJanet Planet\nDune: Part Two\nI Saw the TV Glow\nTrap\nRed Rooms\nEvil Does Not Exist\n...plus 118 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Challengers\nHard Truths\nNickel Boys\nDo Not Expect Too Much from the End of the World\nJanet Planet\nDune: Part Two\nI Saw the TV Glow\nTrap\nRed Rooms\nEvil Does Not Exist\n...plus 119 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -17942,7 +18122,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 579 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 580 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19004,7 +19184,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 740 more.\nView the full list on Letterboxd\n.",
+    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 741 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19580,7 +19760,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 671 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 672 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20408,7 +20588,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 324 more.\nView the full list on Letterboxd\n.",
+    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 325 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20610,6 +20790,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-16908598",
+    "guid": "letterboxd-list-16908598",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "archival footage of dirty old new york",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/archival-footage-of-dirty-old-new-york/",
+    "watched_date": null,
+    "publication_date": "2021-03-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "a companion list to\nPre-Giuliani Dirty Old New York\n, but comprised of documentaries made after 1994 that feature archival footage of the city prior to that year\nThe 1964 World's Fair\n42nd Street Memories: The Rise and Fall of America's Most Notorious Street\nThe 50 Year Argument\nAfter Stonewall\nAllen v. Farrow\nAmerican Hardcore\nAmerican Swing\nAnd You Don't Stop: 30 Years of Hip-Hop\nThe Apollo\nAs I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty\n...plus 109 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-16921178",
     "guid": "letterboxd-list-16921178",
     "username": "brofromanother",
@@ -20714,7 +20912,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 464 more.\nView the full list on Letterboxd\n.",
+    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 466 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21020,7 +21218,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2981 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2983 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21416,7 +21614,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 304 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 305 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21704,7 +21902,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2696 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2697 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21956,7 +22154,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "80s - present. Mostly DTV with some major studio content in the mix. All are firmly rooted in the thriller genre, no horror or action leaning titles. Lots of \"naked\", \"passion\", \"sins\", \"heat\", etc.\n1-900\n24 Exposures\nThe 4th Man\nAbove Suspicion\nAccess Denied\nActing on Impulse\nAddicted\nAn Affair to Die For\nAfter Dark, My Sweet\nAfter Midnight\n...plus 726 more.\nView the full list on Letterboxd\n.",
+    "review_text": "80s - present. Mostly DTV with some major studio content in the mix. All are firmly rooted in the thriller genre, no horror or action leaning titles. Lots of \"naked\", \"passion\", \"sins\", \"heat\", etc.\n1-900\n24 Exposures\nThe 4th Man\nAbove Suspicion\nAccess Denied\nActing on Impulse\nAddicted\nAn Affair to Die For\nAfter Dark, My Sweet\nAfter Midnight\n...plus 727 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22172,7 +22370,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1362 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1368 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22298,7 +22496,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1160 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1162 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22550,7 +22748,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\nAlien Nation\n...plus 410 more.\nView the full list on Letterboxd\n.",
+    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\nAlien Nation\n...plus 414 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1457239687",
+    "guid": "letterboxd-watch-1457239687",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Sun Never Sets",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-sun-never-sets-2026/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1z/hs/sy/8t/sun1-0-600-0-900-crop.jpg?v=76c557f888"
+  },
+  {
+    "id": "guid:letterboxd-review-1457092697",
+    "guid": "letterboxd-review-1457092697",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Rose of Nevada",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/rose-of-nevada/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-18",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "A huge step forward for Jenkin. Still feels like he\u2019s working up to something even better with this style; now that he's established it he can break it in more challenging ways. Callum Turner and George MacKay would have been terrific silent film stars. Those faces.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/3/5/3/1283353-rose-of-nevada-0-600-0-900-crop.jpg?v=3664bd071f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1457114001",
+    "guid": "letterboxd-watch-1457114001",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "25th Hour",
+    "film_year": 2002,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/25th-hour/3/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-18",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/u7/my/x3/r6/tQb3wOKzo3XxFSY6ApO7OfLHGUM-0-600-0-900-crop.jpg?v=038db726da"
+  },
+  {
     "id": "guid:letterboxd-watch-1456464881",
     "guid": "letterboxd-watch-1456464881",
     "username": "SeanFennessey",
@@ -18140,7 +18194,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 581 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 582 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22694,7 +22748,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2533 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2536 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1456464881",
+    "guid": "letterboxd-watch-1456464881",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Clarissa",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/clarissa-2026/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/7/6/7/4/1497674-clarissa-2026-0-600-0-900-crop.jpg?v=5b3697c703"
+  },
+  {
     "id": "guid:letterboxd-review-1456230158",
     "guid": "letterboxd-review-1456230158",
     "username": "bdgrabinski",
@@ -663,7 +681,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/2/0/3/1025203-mayday-2026-0-600-0-900-crop.jpg?v=f675dbf45b"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/2/0/3/1025203-mayday-2026-0-600-0-900-crop.jpg?v=e26005a6b2"
   },
   {
     "id": "guid:letterboxd-watch-1453702488",
@@ -16394,7 +16412,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nCitizens Band\nHerbie Goes to Monte Carlo\nFor the Love of Benji\nThe End of Oak Street\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\n...plus 9966 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nCitizens Band\nHerbie Goes to Monte Carlo\nFor the Love of Benji\nThe End of Oak Street\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\n...plus 9967 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -18122,7 +18140,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 580 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 581 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -18447,6 +18465,24 @@
     "liked": null,
     "rewatch": null,
     "review_text": "Rushmore\nThe Royal Tenenbaums\nMoonrise Kingdom\nFantastic Mr. Fox\nThe Grand Budapest Hotel\nAsteroid City\nThe Life Aquatic with Steve Zissou\nThe French Dispatch of the Liberty, Kansas Evening Sun\nThe Phoenician Scheme\nBottle Rocket\n...plus 2 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-34580548",
+    "guid": "letterboxd-list-34580548",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "towards an alternate canon of superhero films",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/towards-an-alternate-canon-of-superhero-films/",
+    "watched_date": null,
+    "publication_date": "2023-06-20",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "no proper dcu/mcu titles\nincludes titles based on comic book IP and original properties\ncurated, not exhaustive\nAbar, the First Black Superman\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nAdventures of Captain Marvel\nThe Adventures of the American Rabbit\nAlien Arsenal\nAlita: Battle Angel\nArgoman the Fantastic Superman\nBarb Wire\nBat Pussy\nThe Bat Woman\n...plus 132 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19184,7 +19220,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 741 more.\nView the full list on Letterboxd\n.",
+    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 742 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20912,7 +20948,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 466 more.\nView the full list on Letterboxd\n.",
+    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 468 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21146,7 +21182,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 741 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 742 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21218,7 +21254,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2983 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2984 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22082,7 +22118,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 453 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 454 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22154,7 +22190,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "80s - present. Mostly DTV with some major studio content in the mix. All are firmly rooted in the thriller genre, no horror or action leaning titles. Lots of \"naked\", \"passion\", \"sins\", \"heat\", etc.\n1-900\n24 Exposures\nThe 4th Man\nAbove Suspicion\nAccess Denied\nActing on Impulse\nAddicted\nAn Affair to Die For\nAfter Dark, My Sweet\nAfter Midnight\n...plus 727 more.\nView the full list on Letterboxd\n.",
+    "review_text": "80s - present. Mostly DTV with some major studio content in the mix. All are firmly rooted in the thriller genre, no horror or action leaning titles. Lots of \"naked\", \"passion\", \"sins\", \"heat\", etc.\n1-900\n24 Exposures\nThe 4th Man\nAbove Suspicion\nAccess Denied\nActing on Impulse\nAddicted\nAn Affair to Die For\nAfter Dark, My Sweet\nAfter Midnight\n...plus 729 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22712,7 +22748,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1651 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1652 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

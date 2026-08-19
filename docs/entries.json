@@ -1,5 +1,131 @@
 [
   {
+    "id": "guid:letterboxd-watch-1457737276",
+    "guid": "letterboxd-watch-1457737276",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Stepfather",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/stepfather-2026/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/2/8/9/6/1462896-stepfather-2026-0-600-0-900-crop.jpg?v=a9a43ba589"
+  },
+  {
+    "id": "guid:letterboxd-watch-1457686926",
+    "guid": "letterboxd-watch-1457686926",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Tatsumi",
+    "film_year": 2023,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/tatsumi-2023/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-19",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/8/2/0/0/1048200-tatsumi-0-600-0-900-crop.jpg?v=34349d49c1"
+  },
+  {
+    "id": "guid:letterboxd-review-1457735720",
+    "guid": "letterboxd-review-1457735720",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The People vs. Larry Flynt",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-people-vs-larry-flynt/1/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-19",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "\u201cwill the defendant please rise\u201d \u2014 Larry Flynt playing the judge who would moments later sentence him to 25 years in prison for selling porn is such an inspired piece of casting, not because it\u2019s a mere cameo stunt, but because you can sense the years of frustration, anger and resentment in his line reading; grateful that a filmmaker who isn\u2019t American made this as it makes its case for freedom of speech that much more profound as we Americans take it for granted every day even, and especially, when it is under explicit threat",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/9/1/1/50911-the-people-vs-larry-flynt-0-600-0-900-crop.jpg?v=bf3911585f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1457690730",
+    "guid": "letterboxd-watch-1457690730",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "A Piece of the Action",
+    "film_year": 1977,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/a-piece-of-the-action/1/",
+    "watched_date": "1977-10-08",
+    "publication_date": "2026-08-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/8/1/3/32813-a-piece-of-the-action-0-600-0-900-crop.jpg?v=a4e49d4fa1"
+  },
+  {
+    "id": "guid:letterboxd-watch-1457689455",
+    "guid": "letterboxd-watch-1457689455",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "The Pink Panther Strikes Again",
+    "film_year": 1976,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/the-pink-panther-strikes-again/1/",
+    "watched_date": "1976-12-18",
+    "publication_date": "2026-08-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/6/4/8/44648-the-pink-panther-strikes-again-0-600-0-900-crop.jpg?v=8b73af48d6"
+  },
+  {
+    "id": "guid:letterboxd-watch-1457425922",
+    "guid": "letterboxd-watch-1457425922",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The History of Concrete",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-history-of-concrete/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-18",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=fc1853f4a5"
+  },
+  {
+    "id": "guid:letterboxd-watch-1457338372",
+    "guid": "letterboxd-watch-1457338372",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Girls Like Girls",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/girls-like-girls/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/2/3/0/1281230-girls-like-girls-0-600-0-900-crop.jpg?v=81265f1a60"
+  },
+  {
     "id": "guid:letterboxd-watch-1457239687",
     "guid": "letterboxd-watch-1457239687",
     "username": "riotglasses",
@@ -16,6 +142,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1z/hs/sy/8t/sun1-0-600-0-900-crop.jpg?v=76c557f888"
+  },
+  {
+    "id": "guid:letterboxd-review-1457486095",
+    "guid": "letterboxd-review-1457486095",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Rivals of Amziah King",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-rivals-of-amziah-king/",
+    "watched_date": "2026-08-18",
+    "publication_date": "2026-08-18",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I didn\u2019t think we made this shaggy yet sprawling, idiosyncratic rural crime movies in America any longer \u2014 feels decidedly 70s in flavor, calling to mind films like\nPrime Cut\nor\nThunderbolt and Lightfoot\n, and somehow never feels messy when switching gears from leisurely paced hangout comedy to a tense caper; one of the great surprises of the year for me",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/2/9/8/1013298-the-rivals-of-amziah-king-0-600-0-900-crop.jpg?v=7714bd135c"
   },
   {
     "id": "guid:letterboxd-review-1457092697",
@@ -70,6 +214,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/7/6/7/4/1497674-clarissa-2026-0-600-0-900-crop.jpg?v=5b3697c703"
+  },
+  {
+    "id": "guid:letterboxd-review-1457651611",
+    "guid": "letterboxd-review-1457651611",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "A Piece of the Action",
+    "film_year": 1977,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/a-piece-of-the-action/",
+    "watched_date": "2026-08-17",
+    "publication_date": "2026-08-18",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "I choose to believe that Sheryl Lee Ralph\u2019s character in this, whose name is Barbara, is the same person she plays on\nAbbott Elementary.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/8/1/3/32813-a-piece-of-the-action-0-600-0-900-crop.jpg?v=a4e49d4fa1"
   },
   {
     "id": "guid:letterboxd-review-1456230158",
@@ -15998,7 +16160,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "These films neither won my weekly request poll nor were selected in the monthly random draw, but the folks who wanted me to watch and review \u2019em hung in tenaciously for so long that I pronounced them winners anyway.\nThe Apostle\nFor Those in Peril\nThe Court Jester\nDune\nBang Bang\nBreakfast of Champions\nJesus Christ Superstar\nThe Travelling Players\nQuantum of Solace\nNever Look Away\n...plus 69 more.\nView the full list on Letterboxd\n.",
+    "review_text": "These films neither won my weekly request poll nor were selected in the monthly random draw, but the folks who wanted me to watch and review \u2019em hung in tenaciously for so long that I pronounced them winners anyway.\nThe Apostle\nFor Those in Peril\nThe Court Jester\nDune\nBang Bang\nBreakfast of Champions\nJesus Christ Superstar\nThe Travelling Players\nQuantum of Solace\nNever Look Away\n...plus 71 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -16088,7 +16250,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 137 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 138 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -16214,7 +16376,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 150 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 151 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -16466,7 +16628,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nCitizens Band\nHerbie Goes to Monte Carlo\nFor the Love of Benji\nThe End of Oak Street\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\nThe Day She Returns\n...plus 9968 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nFire Island\nCitizens Band\nHerbie Goes to Monte Carlo\nFor the Love of Benji\nThe End of Oak Street\nDoomed Love\nBenji\nSleeping Beauty\nThe Day of the Locust\nBleeder\n...plus 9969 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -18536,7 +18698,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "no proper dcu/mcu titles\nincludes titles based on comic book IP and original properties\ncurated, not exhaustive\nAbar, the First Black Superman\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nAdventures of Captain Marvel\nThe Adventures of the American Rabbit\nAlien Arsenal\nAlita: Battle Angel\nArgoman the Fantastic Superman\nBarb Wire\nBat Pussy\nThe Bat Woman\n...plus 132 more.\nView the full list on Letterboxd\n.",
+    "review_text": "no proper dcu/mcu titles\nincludes titles based on comic book IP and original properties\ncurated, not exhaustive\nAbar, the First Black Superman\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nAdventures of Captain Marvel\nThe Adventures of the American Rabbit\nAlien Arsenal\nAlita: Battle Angel\nArgoman the Fantastic Superman\nBarb Wire\nBat Pussy\nThe Bat Woman\n...plus 134 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19274,7 +19436,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 742 more.\nView the full list on Letterboxd\n.",
+    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 743 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21236,7 +21398,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 742 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 743 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21290,7 +21452,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The 4th Man\nThe Adult Version of Jekyll & Hide\nThe Alcove\nAll the Colours of the Dark\nAlone\nAlucarda\nAmer\nAmuck!\nAngel Heart\nAngel of Darkness\n...plus 465 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The 4th Man\nThe Adult Version of Jekyll & Hide\nThe Alcove\nAll the Colours of the Dark\nAlone\nAlucarda\nAmer\nAmuck!\nAngel Heart\nAngel of Darkness\n...plus 466 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21308,7 +21470,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2984 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2985 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21344,7 +21506,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 625 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 627 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21884,7 +22046,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films need to take place predominantly in small towns or cities, in any country around the world. Tried to leave off \"on the run\" films that cover too much ground (like Midnight Run) but allowed some that stick to one particular area well (like Badlands).\n92 in the Shade\nAffliction\nAfter Dark, My Sweet\nAin't Them Bodies Saints\nAmericana\nAmos & Andrew\nAnatomy of a Murder\nAngel Heart\nAt Close Range\nBad Day at Black Rock\n...plus 289 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films need to take place predominantly in small towns or cities, in any country around the world. Tried to leave off \"on the run\" films that cover too much ground (like Midnight Run) but allowed some that stick to one particular area well (like Badlands).\n92 in the Shade\nAffliction\nAfter Dark, My Sweet\nAin't Them Bodies Saints\nAmericana\nAmos & Andrew\nAnatomy of a Murder\nAngel Heart\nAt Close Range\nBad Day at Black Rock\n...plus 290 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21992,7 +22154,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2697 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2698 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22208,7 +22370,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1389 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1391 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22586,7 +22748,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1162 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1163 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22748,7 +22910,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2536 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2541 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -24062,7 +24224,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The 12 Days of Krampus\nThe 12 Disasters of Christmas\nThe 12 Slays of Christmas\n12/24\n13 Slays Till X-Mas\nThe 2nd\nAbraxas, Guardian of the Universe\nAdult Swim Yule Log\nThe Advent Calendar\nThe Adventure of the Wrong Santa Claus\n...plus 527 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The 12 Days of Krampus\nThe 12 Disasters of Christmas\nThe 12 Slays of Christmas\n12/24\n13 Slays Till X-Mas\nThe 2nd\nAbraxas, Guardian of the Universe\nAdult Swim Yule Log\nThe Advent Calendar\nThe Adventure of the Wrong Santa Claus\n...plus 528 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

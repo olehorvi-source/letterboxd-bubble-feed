@@ -180,6 +180,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/1/3/9/2/0/1513920-swing-swish-sway-0-600-0-900-crop.jpg?v=f7fcf9c795"
   },
   {
+    "id": "guid:letterboxd-review-1459479061",
+    "guid": "letterboxd-review-1459479061",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The Driller Killer",
+    "film_year": 1979,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-driller-killer/1/",
+    "watched_date": "2026-08-19",
+    "publication_date": "2026-08-20",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Audio commentary. Arrow Blu-Ray.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/1/43791-the-driller-killer-0-600-0-900-crop.jpg?v=461bd696ff"
+  },
+  {
     "id": "guid:letterboxd-review-1459399092",
     "guid": "letterboxd-review-1459399092",
     "username": "thejoshl",
@@ -194,7 +212,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": true,
-    "review_text": "Still respect how manically, idiosyncratically directed (and eventually legitimately survival-horror gnarly) this is for a movie that ended up getting the awards season biopic treatment. Some of the music choices and flashbacks hit a few too many easy sentimental notes, but Boyle's cranked-up style (which can sometimes be unproductively flashy or off-putting) is put to good use replicating the hallucinatory, spiraling mind of a thrill junkie trying to logistically wriggle his way out of the claustrophobic hell he senselessly got himself into. Was inspired to revisit because I saw James Franco's tiktok account recently and it kinda bummed me out.",
+    "review_text": "Still respect how manically, idiosyncratically directed (and eventually legitimately survival-horror gnarly) this is for a movie that ended up getting the awards season biopic treatment. Some of the music choices and flashbacks hit a few too many easy sentimental notes which is how I think it got that acclaim, but regardless Boyle's cranked-up style (which can sometimes be unproductively flashy or off-putting) is put to good use replicating the hallucinatory, spiraling mind of a thrill junkie trying to logistically wriggle his way out of the claustrophobic hell he senselessly got himself into. Also yuck! Ew! Was inspired to revisit because I saw James Franco's tiktok account recently and it kinda bummed me out.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446"
   },
   {
@@ -212,7 +230,7 @@
     "rating": 3.5,
     "liked": null,
     "rewatch": true,
-    "review_text": "comedies from twenty years ago have better stunt work than most studio movies do now, kind of astonishing how dangerous this feels two decades later (both in peril and tone)",
+    "review_text": "comedies from twenty years ago have better stunt work than most studio action movies do now, kind of astonishing how dangerous this feels two decades later (both in peril and tone)",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/8/7/46887-talladega-nights-the-ballad-of-ricky-bobby-0-600-0-900-crop.jpg?v=8908d69604"
   },
   {
@@ -286,6 +304,24 @@
     "rewatch": false,
     "review_text": "49/100\nGonna go very on-brand here and spend most of the review complaining that Joel Kim Booster (who wrote the script and plays the ostensible lead; more on that below) doesn't understand what makes\nPride and Prejudice\ngreat.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/0/7/8/1/760781-fire-island-0-600-0-900-crop.jpg?v=9b5c186d85"
+  },
+  {
+    "id": "guid:letterboxd-watch-1459561136",
+    "guid": "letterboxd-watch-1459561136",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Revenge of the Pink Panther",
+    "film_year": 1978,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/revenge-of-the-pink-panther/",
+    "watched_date": "1978-07-22",
+    "publication_date": "2026-08-20",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/4/6/7/48467-revenge-of-the-pink-panther-0-600-0-900-crop.jpg?v=66fd21cff4"
   },
   {
     "id": "guid:letterboxd-watch-1459163725",
@@ -1545,7 +1581,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/2/0/3/1025203-mayday-2026-0-600-0-900-crop.jpg?v=609788ec3f"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/2/0/3/1025203-mayday-2026-0-600-0-900-crop.jpg?v=8a0bc87212"
   },
   {
     "id": "guid:letterboxd-watch-1453702488",

@@ -54,6 +54,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/9/3/7/7/69377-something-wild-0-600-0-900-crop.jpg?v=72a56b07ea"
   },
   {
+    "id": "guid:letterboxd-review-1460836108",
+    "guid": "letterboxd-review-1460836108",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "King of New York",
+    "film_year": 1990,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/king-of-new-york/1/",
+    "watched_date": "2026-08-20",
+    "publication_date": "2026-08-21",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "The first scene with Fishburne and Walken is the best scene in any movie ever made ever. Masterpiece. I could talk about this movie for 300 hours.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/0/4/2/47042-king-of-new-york-0-600-0-900-crop.jpg?v=ef72bff72d"
+  },
+  {
     "id": "guid:letterboxd-watch-1460432683",
     "guid": "letterboxd-watch-1460432683",
     "username": "riotglasses",
@@ -681,7 +699,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/6/1/6/7/1496167-never-after-dark-0-600-0-900-crop.jpg?v=427293d6eb"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/6/1/6/7/1496167-never-after-dark-0-600-0-900-crop.jpg?v=17bcd370d5"
   },
   {
     "id": "guid:letterboxd-watch-1458488718",
@@ -24116,7 +24134,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1702 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1703 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

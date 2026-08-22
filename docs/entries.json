@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1462440490",
+    "guid": "letterboxd-watch-1462440490",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Tenzing",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/tenzing/",
+    "watched_date": "2026-08-21",
+    "publication_date": "2026-08-22",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/1/0/4/3/1171043-tenzing-0-600-0-900-crop.jpg?v=03be04789b"
+  },
+  {
+    "id": "guid:letterboxd-review-1462346603",
+    "guid": "letterboxd-review-1462346603",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Welcome to New York",
+    "film_year": 2014,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/welcome-to-new-york/",
+    "watched_date": "2026-08-21",
+    "publication_date": "2026-08-22",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Apple TV said it was 2:05 then I bought it and it was 1:48. What the fuck? After reading what was removed it feels like there\u2019s no reason for this version to exist.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/1/9/5/4/141954-welcome-to-new-york-0-600-0-900-crop.jpg?v=cdb74d09f8"
+  },
+  {
     "id": "guid:letterboxd-review-1462140446",
     "guid": "letterboxd-review-1462140446",
     "username": "jlalibs",
@@ -34,6 +70,24 @@
     "rewatch": true,
     "review_text": "have loved this one at home for years but seeing it in a theater really impresses for two reasons: every single Robert Duvall facial expression rendered\nbig\nand just how damn good Bill Butler\u2019s cinematography is, especially that last act shrouded in the darkness of the trailer park at night",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/1/3/1/7131-the-rain-people-0-600-0-900-crop.jpg?v=5e8fd3de67"
+  },
+  {
+    "id": "guid:letterboxd-list-86847304",
+    "guid": "letterboxd-list-86847304",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Telluride 2026",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/list/telluride-2026/",
+    "watched_date": null,
+    "publication_date": "2026-08-22",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Tenzing\nClub Kid\nFjord\nLa Bola Negra\nMinotaur\nFatherland\nThe Man I Love\nThe Unknown\nUntitled Carl Sagan Documentary\nGentle Monster",
+    "poster_url": null
   },
   {
     "id": "guid:letterboxd-watch-1461629095",
@@ -22856,7 +22910,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2440 more.\nView the full list on Letterboxd\n.",
+    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2441 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

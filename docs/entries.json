@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1465679238",
+    "guid": "letterboxd-watch-1465679238",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Saipan",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/saipan/",
+    "watched_date": "2026-08-23",
+    "publication_date": "2026-08-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/3/3/9/0/1203390-saipan-0-600-0-900-crop.jpg?v=5097f0de76"
+  },
+  {
+    "id": "guid:letterboxd-review-1465585935",
+    "guid": "letterboxd-review-1465585935",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "A.I. Artificial Intelligence",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/ai-artificial-intelligence/",
+    "watched_date": "2026-08-23",
+    "publication_date": "2026-08-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Rewatched for Nayman Lenses podcast",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/0/51480-a-i-artificial-intelligence-0-600-0-900-crop.jpg?v=cce766abd8"
+  },
+  {
     "id": "guid:letterboxd-watch-1464825378",
     "guid": "letterboxd-watch-1464825378",
     "username": "riotglasses",
@@ -16,6 +52,78 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/5/9/1/37591-the-prowler-0-600-0-900-crop.jpg?v=f9f9b51b4f"
+  },
+  {
+    "id": "guid:letterboxd-review-1465478467",
+    "guid": "letterboxd-review-1465478467",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Tony",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/tony-2026/1/",
+    "watched_date": "2026-08-23",
+    "publication_date": "2026-08-23",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "This is a really special movie.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/9/0/0/1/1209001-tony-2026-0-600-0-900-crop.jpg?v=63ce7b9234"
+  },
+  {
+    "id": "guid:letterboxd-review-1465032919",
+    "guid": "letterboxd-review-1465032919",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Coyote vs. Acme",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/coyote-vs-acme/",
+    "watched_date": "2026-08-23",
+    "publication_date": "2026-08-23",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u201cwe are a company of family values that values its family of companies\u201d\nthe spiritual sequel to\nLooney Tunes: Back In Action\nthat I have hoped would exist for over two decades and an incredibly surreal experience to finally witness theatrically, something that I truly thought would never actually happen \u2014 the irony of Zaslav trying to bury this movie, considering its plot, is about as unsubtle as a piano falling from the sky \u2014 but its ultimate release isn\u2019t a mere footnote in what will become Hollywood lore, it\u2019s just a legitimately great movie and will deservedly be mentioned in the company of Dante\u2019s film as well as\nWho Framed Roger Rabbit\nlove that this has the same last act as\nThe People vs. Larry Flynt\n, but that may have less to do with its legal proceedings than it does Foghorn Leghorn bearing an uncanny resemblance to Jerry Falwell",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
+  },
+  {
+    "id": "guid:letterboxd-review-1465026645",
+    "guid": "letterboxd-review-1465026645",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Rear Window",
+    "film_year": 1954,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/rear-window/1/",
+    "watched_date": "2026-08-23",
+    "publication_date": "2026-08-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Took Lea, who scrunched down in her seat at the Fox as the innuendos flew over her head; few mid-period Hitchcocks are so self-consciously naughty, a deluge of euphemisms to lubricate the relative dryness of the material (my own double entendre intended). The line about blood spray in the Thorwalds\u2019 shower (\u201cmust\u2019ve splattered a lot\u201d) anticipates Psycho are surely as that opening shot, and there are other productive bits of doubling between the films for those inclined to play dead ringers: private traps, ineffectual detectives, mistaken identities, bodies in the river, lonely hearts. The pull isn\u2019t nearly as morbid, of course: Rear Window\u2019s vision of spectatorosk complicity is gentler and, to paraphrase our hero, fundamentally ethical as well, perversion as a spur towards good samaritanism; the joke that his reward for amateur sleuthing is another debilitating injury belies (ok, not really) the pleasure of being waited on hand on plaster-cast ankle by Grace Kelly. Interesting that the final shot\u2019s promise of having it all - a guide to mountaineering and Harper\u2019s Bazaar - is addressed to Lisa more than to LB; she\u2019s found her happiness, just another run of the mill Wednesday. The calendar\u2019s full of em.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/5/5/2/51552-rear-window-0-600-0-900-crop.jpg?v=7139bf4d08"
+  },
+  {
+    "id": "guid:letterboxd-review-1465012434",
+    "guid": "letterboxd-review-1465012434",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "China Girl",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/china-girl-1987/",
+    "watched_date": "2026-08-23",
+    "publication_date": "2026-08-23",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Nobody told me Abel made his version of WEST SIDE STORY. Holy shit. Reading up on the soundtrack made me realize what is probably the most obvious shit ever to anyone reading this: The Ghost of Christmas Past in SCROOGED was the lead singer of New York Dolls??????? I always wondered why his performance was so off kilter and never bothered looking into it.\nI need a 4K of this badly.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/1/7/4/18174-china-girl-0-600-0-900-crop.jpg?v=f1af4932f7"
   },
   {
     "id": "guid:letterboxd-watch-1463973082",
@@ -88,6 +196,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/9/48699-once-0-600-0-900-crop.jpg?v=987e7cc2cb"
+  },
+  {
+    "id": "guid:letterboxd-review-1464973994",
+    "guid": "letterboxd-review-1464973994",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Tony",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/tony-2026/",
+    "watched_date": "2026-08-22",
+    "publication_date": "2026-08-23",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "65\nWasn't exactly enthusiastic about this but it does continue the Matt Johnson project of examining the trials of self-actualization within the confines of a sunny, formulaic biopic. All-star ensemble cast keeps each scene bubbling with life and energy even if the Bourdain narrative necessities stop it from ever fully achieving liftoff. Both the \"he killed himself?\" and heroin bits are so clunky and not representative of what this movie is (mostly) doing, which is another breezy slice of life about a stubborn asshole trying to get the girl and learning about his place in the world in the meantime. Soothing late-summer vibes.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/9/0/0/1/1209001-tony-2026-0-600-0-900-crop.jpg?v=63ce7b9234"
   },
   {
     "id": "guid:letterboxd-review-1464155216",
@@ -17654,7 +17780,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "keeping a running list this year, at least until i forget.\nMinotaur\nEverytime\nPaper Tiger\nYes\nTeenage Sex and Death at Camp Miasma\nThe Odyssey\nThe History of Concrete\nJosephine\nAmerican Doctor\nMother Mary\n...plus 107 more.\nView the full list on Letterboxd\n.",
+    "review_text": "keeping a running list this year, at least until i forget.\nMinotaur\nEverytime\nPaper Tiger\nYes\nTeenage Sex and Death at Camp Miasma\nThe Odyssey\nThe History of Concrete\nJosephine\nAmerican Doctor\nMother Mary\n...plus 108 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -17834,7 +17960,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 143 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 144 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -17960,7 +18086,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 153 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 154 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19148,7 +19274,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "films I\u2019ve never seen because I can\u2019t find them.\nWhite Dog\nThe City Girl\nGo Go Tales\nElvis\nOctavio Is Dead!\nTwin Falls Idaho\nThe Boys\nHaze\nFriday Night\nHeart of Darkness\n...plus 185 more.\nView the full list on Letterboxd\n.",
+    "review_text": "films I\u2019ve never seen because I can\u2019t find them.\nWhite Dog\nThe City Girl\nGo Go Tales\nElvis\nOctavio Is Dead!\nTwin Falls Idaho\nThe Boys\nHaze\nFriday Night\nHeart of Darkness\n...plus 186 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23738,7 +23864,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2702 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2703 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23918,7 +24044,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 454 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 455 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -24206,7 +24332,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1369 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1370 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

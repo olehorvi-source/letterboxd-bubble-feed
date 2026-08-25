@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-review-1467565128",
+    "guid": "letterboxd-review-1467565128",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Ms .45",
+    "film_year": 1981,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/ms-45/",
+    "watched_date": "2026-08-25",
+    "publication_date": "2026-08-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Everything about this movie is great but the music!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/0/3/5/38035-ms-45-0-600-0-900-crop.jpg?v=504fc1a0db"
+  },
+  {
     "id": "guid:letterboxd-watch-1467315855",
     "guid": "letterboxd-watch-1467315855",
     "username": "SeanFennessey",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/9/2/8/7/1269287-the-dog-stars-0-600-0-900-crop.jpg?v=b44af504b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1467625359",
+    "guid": "letterboxd-review-1467625359",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Mission: Impossible II",
+    "film_year": 2000,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/mission-impossible-ii/3/",
+    "watched_date": "2026-08-24",
+    "publication_date": "2026-08-25",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "I admire that John Woo had to make his\nTo Catch a Thief\nin the first half hour before accepting his mission and making his\nMission: Impossible\nfor the rest of the runtime",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/67/p1/1d/1m/MnK1Kn8cFcORYT8pIIexPUwLfW-0-600-0-900-crop.jpg?v=9f1c48e1b3"
   },
   {
     "id": "guid:letterboxd-review-1467317047",

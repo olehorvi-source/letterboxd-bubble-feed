@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1467315855",
+    "guid": "letterboxd-watch-1467315855",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Dog Stars",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-dog-stars/",
+    "watched_date": "2026-08-24",
+    "publication_date": "2026-08-25",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/9/2/8/7/1269287-the-dog-stars-0-600-0-900-crop.jpg?v=b44af504b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1467317047",
+    "guid": "letterboxd-review-1467317047",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Bad Lieutenant",
+    "film_year": 1992,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/bad-lieutenant/1/",
+    "watched_date": "2026-08-24",
+    "publication_date": "2026-08-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Wish Maniac Cop showed up at some point.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/h6/co/bt/7z/oe8VjWCKXktqA19T1ZWtaSn8rc2-0-600-0-900-crop.jpg?v=6e84444fa6"
+  },
+  {
     "id": "guid:letterboxd-review-1467186318",
     "guid": "letterboxd-review-1467186318",
     "username": "bdgrabinski",
@@ -2913,7 +2949,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "The end of the movie suggests that Ryder is also above the judicial system.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/9/6/9/1071969-paw-patrol-the-dino-movie-0-600-0-900-crop.jpg?v=3a2b87595c"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/9/6/9/1071969-paw-patrol-the-dino-movie-0-600-0-900-crop.jpg?v=7db57a9e55"
   },
   {
     "id": "guid:letterboxd-review-1453461653",

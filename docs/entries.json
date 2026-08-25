@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-review-1467186318",
+    "guid": "letterboxd-review-1467186318",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The Sound of Music",
+    "film_year": 1965,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-sound-of-music/",
+    "watched_date": "2026-08-24",
+    "publication_date": "2026-08-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Hadn\u2019t seen this since I was a kid.\nI just\u2026 Wow. Wow.\nCharmian Carr retiring after this is a crime against cinema.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/5/8/0/42580-the-sound-of-music-0-600-0-900-crop.jpg?v=743d70b886"
+  },
+  {
+    "id": "guid:letterboxd-review-1467182572",
+    "guid": "letterboxd-review-1467182572",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "61*",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/61/",
+    "watched_date": "2026-08-24",
+    "publication_date": "2026-08-25",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I love baseball",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/9/4/7/38947-61--0-600-0-900-crop.jpg?v=194a30f6b3"
+  },
+  {
+    "id": "guid:letterboxd-review-1465679238",
+    "guid": "letterboxd-review-1465679238",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Saipan",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/saipan/",
+    "watched_date": "2026-08-23",
+    "publication_date": "2026-08-25",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I cannot believe they made a sober and quite thoughtful dramatization of the Saipan Incident but uh, it's pretty good!!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/3/3/9/0/1203390-saipan-0-600-0-900-crop.jpg?v=5097f0de76"
+  },
+  {
     "id": "guid:letterboxd-watch-1466519921",
     "guid": "letterboxd-watch-1466519921",
     "username": "riotglasses",
@@ -34,6 +88,42 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/4/9/9/9/24999-female-prisoner-scorpion-jailhouse-41-0-600-0-900-crop.jpg?v=f480e78e99"
+  },
+  {
+    "id": "guid:letterboxd-review-1466936852",
+    "guid": "letterboxd-review-1466936852",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "It Ends",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/it-ends/",
+    "watched_date": "2026-08-24",
+    "publication_date": "2026-08-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Enervating after a while, but skilfully so and by design; I\u2019m a sucker for thrillers shaped as conceptual vortexes, and I enjoyed riding this one on down, though I never felt truly submerged, either by identification with the (credible, well/acted characters) or by fear (\u201cit\u2019s not scary\u201d may not be a valid criticism here, but the observation is no less true for being superfluous). Like Backrooms, which is resembles under hood, this is a movie made by smart people, and that sense of intelligence is commensurate with some respect for the audience ; all that small talk of purgatory and recurrence and yet we don\u2019t feel bashed over the the head, meaning-wise.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/4/3/1301543-it-ends-0-600-0-900-crop.jpg?v=246cf9efcb"
+  },
+  {
+    "id": "guid:letterboxd-review-1466652867",
+    "guid": "letterboxd-review-1466652867",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Lady Snowblood",
+    "film_year": 1973,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/lady-snowblood/1/",
+    "watched_date": "2026-08-24",
+    "publication_date": "2026-08-24",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Nowhere near as intensely stylized as Ito's\nFemale Prisoner\nmovies which this was clearly greenlit in the wake of\u2014Meiko Kaji as an avenging angel of death who sings her own theme song and goes on a revenge mission to graphically kill men/rapists? Sounds familiar! But credit where it's due, the foundation of her being a child deliberately conceived in prison in order to inherit her mother\u2019s trauma and raised/trained from birth to be a \"demon\" with the blade and complete her vendetta mission from the grave is simply one of the great 70s revenge movie set-ups, and doled out here with some effective non-linear storytelling. And all the handheld\nLone Wolf and Cub\nblood geyser splatter sequences of her cutting through bad guys limbs/necks like butter with the same killing machine ease Bruce Lee would have while clearing a room with his fists are just incredible. The masquerade ball finale and closing bloody image in the (you guessed it) snow are directly lifted by Tarantino for a reason; they're great! And lastly, this probably goes without saying: Meiko Kaji\u2026 That\u2019s it. One of the greatest actresses to ever stare down the barrel of a camera. Feels like at any moment her eyes are going to pierce the screen and cut you up too for watching all her pain and suffering.\nFull discussion on ep 25 of my podcast SLEAZOIDS\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/00/ge/nk/ra/8Xotz4QPphcfPOA2v4n9CemDAYB-0-600-0-900-crop.jpg?v=745235378a"
   },
   {
     "id": "guid:letterboxd-watch-1466329980",
@@ -537,7 +627,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "plays less like the\nUnder Siege\nclone that it sounds like on paper and more like a later career Charles Bronson movie, with Statham laying low for a lot of the runtime before bursting into violence and fish hooking dudes with an open padlock or going full on\nThe Dead Pool\nwith a harpoon gun \u2014 not sure what more people could want from this, had a great time",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/1/6/8/9/1171689-mutiny-2026-0-600-0-900-crop.jpg?v=89766ad042"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/1/6/8/9/1171689-mutiny-2026-0-600-0-900-crop.jpg?v=71650d2444"
   },
   {
     "id": "guid:letterboxd-watch-1462440490",
@@ -590,7 +680,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "Matt Johnson's best looking, most normal movie that your parents might even watch with you but at the expense of shaving off a lot of his edges and personality. Say what you will about\nBlackberry\nalso being a biopic that takes artistic liberty to bend its subject to the autobiographical \"man-child who fucks up and learns a lesson through failure\" story MJ is attracted to exploring, I wouldn't have mistaken scenes in that movie for 100 other coming-of-age dramedies you've seen come out of Sundance for 30+ years. He hits a number of these beats perfectly pleasantly (and sadly), Bauman gets some really nice photography of Cape Cod, and Matt gets at least two legit terrific periphery performances out of the environment he creates for his actors; Banderas who elevates his religiously strict but genuinely loving mentor role with real weariness, and Woodall who leans into the sad dirtbag quality of his coked-out, womanizing blue-collar chowderhead (not regretting the stock I bought on this guy when I saw\nTuner\nlast year). But ultimately, as much as I enjoyed hanging out and laughing with these guys (shoutout Stavvy Baby), and liked how it looked and sounded (great needledrops, good score by Jay), there's a pervasive formulaic plainness to this that felt like an outsider filmmaker trying to prove that they can behave and deliver a conventional product if you were to let them audition for it. Maybe I'd feel differently if this wasn't clearly a for-hire gig about someone he doesn't seem all that interested in (at least I assume, based on how much he changed/remixed to make Bourdain's adolescence more like his own issues with authority and women), and instead he used the same craftspeople and made... idk the actual Matt Johnson biopic and called it\nAdventureland: Toronto\n. If you're reading this Matt you can have that pitch for free.",
+    "review_text": "Matt Johnson's best looking, most normal movie that your parents might even watch with you but at the expense of shaving off a lot of his edges and personality. Say what you will about\nBlackberry\nalso being a biopic that takes artistic liberty to bend its subject to the autobiographical \"man-child who fucks up and learns a lesson through failure\" story MJ is attracted to exploring, I wouldn't have mistaken scenes in that movie for 100 other coming-of-age dramedies you've seen come out of Sundance for 30+ years. He hits a number of these beats perfectly pleasantly (and sadly), Bauman gets some really nice photography of Cape Cod, and Matt gets at least two legit terrific periphery performances out of the environment he creates for his actors; Banderas who elevates his religiously strict but genuinely loving mentor role with real weariness, and Woodall who leans into the sad dirtbag quality of his coked-out, womanizing blue-collar chowderhead (not regretting the stock I bought on this guy when I saw\nTuner\nlast year). But ultimately, as much as I enjoyed hanging out and laughing with these guys (shoutout Stavvy Baby), and liked how it looked and sounded (great needledrops, good score by Jay), there's a pervasive formulaic plainness to this that felt like an outsider filmmaker trying to prove that they can behave and deliver a conventional product if you were to let them audition for it. Maybe I'd feel differently if this wasn't clearly a for-hire gig about someone he doesn't seem all that interested in (at least I assume, based on how much he changed/remixed to make Bourdain's adolescence more like his own issues with authority and women), and instead he used the same craftspeople and made... idk the actual Matt Johnson biopic and called it\nAdventureland: Toronto\n. Like how a new filmmaker makes their version of\nBad Lieutenant\nevery 15 years or so. If you're reading this Matt you can have that pitch for free.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/9/0/0/1/1209001-tony-2026-0-600-0-900-crop.jpg?v=63ce7b9234"
   },
   {
@@ -861,7 +951,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "One of the lightest 3s (no hearts) I've probably ever given out but as someone who pays weirdly close attention to the Statham beat: appreciably better than\nShelter\nand\nA Working Man\n, not as good\nThe Beekeeper\nor\nWrath of Man\n. Really wish I had more to say about this but it's quite literally B-movie\nDie Hard\non a human trafficking shipping barge with some of the most hilariously stock, nothing characters/writing I've seen make it to the big screen in some time. Was moderately amused by how little Statham's character actually cares about the human trafficking and is primarily motivated by being a 3rd generation cop who is sad his billionaire boss was murdered. Thankfully the action scenes are well done and some of the better Statham has had in a while; meaty, bloody and athletically shot/cut together in an impressive enough fashion that you'll wish there was more than two of them. Whenever this\nPlane\nguy gets a script with more fighting than talking in it he's probably got a great movie in him. Maybe then he'll earn a summer slot too but best to stick with January for now brother.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/1/6/8/9/1171689-mutiny-2026-0-600-0-900-crop.jpg?v=89766ad042"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/1/6/8/9/1171689-mutiny-2026-0-600-0-900-crop.jpg?v=71650d2444"
   },
   {
     "id": "guid:letterboxd-review-1461378149",
@@ -1635,7 +1725,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/1/6/8/9/1171689-mutiny-2026-0-600-0-900-crop.jpg?v=89766ad042"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/1/6/8/9/1171689-mutiny-2026-0-600-0-900-crop.jpg?v=71650d2444"
   },
   {
     "id": "guid:letterboxd-watch-1457737276",
@@ -3177,7 +3267,7 @@
     "film_year": 1975,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/gemko/film/the-return-of-the-pink-panther/1/",
-    "watched_date": "1975-05-24",
+    "watched_date": "1975-07-05",
     "publication_date": "2026-08-16",
     "rating": null,
     "liked": null,
@@ -3195,7 +3285,7 @@
     "film_year": 1974,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/gemko/film/herbie-rides-again/1/",
-    "watched_date": "1974-06-09",
+    "watched_date": "1974-07-27",
     "publication_date": "2026-08-16",
     "rating": null,
     "liked": null,
@@ -5211,7 +5301,7 @@
     "film_year": 1975,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/gemko/film/the-apple-dumpling-gang/1/",
-    "watched_date": "1975-07-05",
+    "watched_date": "1975-08-16",
     "publication_date": "2026-08-10",
     "rating": 2.5,
     "liked": null,

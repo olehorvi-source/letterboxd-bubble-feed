@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1471799438",
+    "guid": "letterboxd-watch-1471799438",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Caught Stealing",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/caught-stealing/",
+    "watched_date": "2026-08-28",
+    "publication_date": "2026-08-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/2/9/1/9/9/1129199-caught-stealing-0-600-0-900-crop.jpg?v=d3b8da3722"
+  },
+  {
+    "id": "guid:letterboxd-review-1471562487",
+    "guid": "letterboxd-review-1471562487",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Grand Theft Auto VI: An Extended Look",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/grand-theft-auto-vi-an-extended-look/",
+    "watched_date": "2026-08-28",
+    "publication_date": "2026-08-28",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "MY GUY ROOT",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/8/9/0/1609890-grand-theft-auto-vi-an-extended-look-0-600-0-900-crop.jpg?v=467b6becd6"
+  },
+  {
+    "id": "guid:letterboxd-watch-1471589620",
+    "guid": "letterboxd-watch-1471589620",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Almost There",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/almost-there-2026-1/",
+    "watched_date": "2026-08-27",
+    "publication_date": "2026-08-28",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/8/6/9/9/1408699-almost-there-2026-1-0-600-0-900-crop.jpg?v=6b093c7be8"
+  },
+  {
     "id": "guid:letterboxd-watch-1471207906",
     "guid": "letterboxd-watch-1471207906",
     "username": "riotglasses",
@@ -16,6 +70,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/2/1/6/1315216-your-mother-your-mother-your-mother-0-600-0-900-crop.jpg?v=a644997d58"
+  },
+  {
+    "id": "guid:letterboxd-review-1471755940",
+    "guid": "letterboxd-review-1471755940",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Criminal Passion",
+    "film_year": 1994,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/criminal-passion/",
+    "watched_date": "2026-08-27",
+    "publication_date": "2026-08-28",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "the closest thing that the 90s had to an\nIn the Cut,\nan erotic thriller on the surface while being something much more transgressive\u2014narratively\nand\nsexually\u2014than many of its genre peers, all around sensational and it\u2019s great to see a performer like Joan Severance given an honest to goodness\nrole\nfor once",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/5/4/7/1/155471-criminal-passion-0-600-0-900-crop.jpg?v=7ac1e5161f"
+  },
+  {
+    "id": "guid:letterboxd-review-1471411347",
+    "guid": "letterboxd-review-1471411347",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Gail Daughtry and the Celebrity Sex Pass",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/gail-daughtry-and-the-celebrity-sex-pass/",
+    "watched_date": "2026-08-27",
+    "publication_date": "2026-08-28",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u201cAre you gonna spend the rest of your life believing that you\u2019re the wrong Wright brother? Or are you gonna start to believe that, deep down inside, there can be two right Wright brothers? Am I right brother?\u201d",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/8/1353408-gail-daughtry-and-the-celebrity-sex-pass-0-600-0-900-crop.jpg?v=cd9d330b88"
   },
   {
     "id": "guid:letterboxd-watch-1470804137",
@@ -389,7 +479,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/shane/",
     "watched_date": "2026-08-26",
     "publication_date": "2026-08-26",
-    "rating": 4.0,
+    "rating": 3.5,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -3161,7 +3251,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-end-of-oak-street/",
     "watched_date": "2026-08-17",
     "publication_date": "2026-08-18",
-    "rating": null,
+    "rating": 3.5,
     "liked": null,
     "rewatch": false,
     "review_text": "\u2026where\u2019s the rest of the movie?",
@@ -4641,7 +4731,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": "Like millions upon millions of people around the world, including a much higher percentage of the Jewish population than Zionists would ever care to admit, I have been haunted by the profound helplessness I feel in response to the ongoing genocide that Israel is committing against the Palestinian people. I\u2019ve protested at length, I\u2019ve been extremely outspoken about the slaughter online, I\u2019ve raised aid money for the children of Gaza, and I\u2019ve watched so many of my peers do just as much, if not a whole lot more, in an effort to confront one of the worst and most unapologetic humanitarian atrocities since the Holocaust \u2014 an atrocity committed in my name, and paid for with my tax dollars.\nAnd to what end? There are no moral victories in an ethnic cleansing. It\u2019s estimated that Israel has killed more than 1,200 Palestinians since the \u201cceasefire\u201d went into effect last October, and that is only the official count. One day, sooner than you might think, everyone will indeed have always been against this, but that will be of little consolation to the dead, just as it will be of little comfort to those of us who failed to stop them from dying.\nPoh Si Teng\u2019s bracing, tortured, and utterly vital \u201cAmerican Doctor\u201d is a documentary born from \u2014 and in constant dialogue with \u2014 that gnawing sense of helplessness. Directed by a disillusioned veteran of America\u2019s media industrial complex (Teng quit her job at ABC News in order to finance this project with $150,000 of her own money), it\u2019s a film that powerfully, if counterintuitively, addresses that helplessness by looking at it through the lens of the most heroic and capable people among us: a trio of medical practitioners who travel to Gaza in order to provide their services to patients at the embattled Nasser Medical Complex.\nEach of these men is willing and able to save Palestinian lives with their bare hands, even if that means traveling to a place where children are murdered at 600 times the rate in Ukraine, and doctors are targeted with similar impunity. Likewise, and in spite of their extraordinary abilities, each of these men is also wrestling with their individual limitations in the face of such institutional depravity. Teng\u2019s film \u2014 a moving patchwork that was shot by Gaza-based cinematographers Ibrahim Al Otla and Christopher Renteria, directed from New York City, and palpably shaped by practical limitations of its own \u2014 harnesses its subjects\u2019 frustrations as much as it salutes their valor.\nThe result is a documentary that implicitly honors these incredible doctors, but more acutely leverages their plight to address the numbing exasperation that such an atrocity is designed to instill among otherwise good people. It\u2019s a documentary premised on the idea that nobody can stop the madness on their own, and how that\u2019s all the more reason for everybody to resist it on their own terms.\n\u201cAmerican Doctor\u201d is able to broach the genocide from that angle because, for all of its barbed criticism of the global news media, the film never presumes to know the best way of cutting through the noise. On the contrary, its unformed shape and melange of styles add to the sense that Teng is actively searching for the answer to that question with every cut.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/9/3/2/1464932-american-doctor-0-600-0-900-crop.jpg?v=f8d1b13591"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/9/3/2/1464932-american-doctor-0-600-0-900-crop.jpg?v=0a2ed300ea"
   },
   {
     "id": "guid:letterboxd-review-1450123565",
@@ -21416,7 +21506,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2445 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2443 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23720,7 +23810,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 325 more.\nView the full list on Letterboxd\n.",
+    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 326 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26726,7 +26816,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nBreakfast at Tiffany's\nLola\nSplendor in the Grass\nWhistle Down the Wind",
+    "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nLola\nSplendor in the Grass\nWhistle Down the Wind",
     "poster_url": null
   },
   {
@@ -27068,7 +27158,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2078 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2079 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

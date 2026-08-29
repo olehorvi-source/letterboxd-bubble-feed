@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1473252402",
+    "guid": "letterboxd-watch-1473252402",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Last Thing He Wanted",
+    "film_year": 2020,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-last-thing-he-wanted/",
+    "watched_date": "2026-08-29",
+    "publication_date": "2026-08-29",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/5/1/7/6/435176-the-last-thing-he-wanted-0-600-0-900-crop.jpg?v=016aea8b4f"
+  },
+  {
     "id": "guid:letterboxd-watch-1473080271",
     "guid": "letterboxd-watch-1473080271",
     "username": "BrianDuffield",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/8/5/8/1167858-the-death-of-robin-hood-0-600-0-900-crop.jpg?v=39347a2edd"
+  },
+  {
+    "id": "guid:letterboxd-review-1473514776",
+    "guid": "letterboxd-review-1473514776",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Coyote vs. Acme",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/coyote-vs-acme/6/",
+    "watched_date": "2026-08-29",
+    "publication_date": "2026-08-29",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "4DX Times Square. LFG.\nCan\u2019t believe they did all my notes.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
   },
   {
     "id": "guid:letterboxd-watch-1472981558",
@@ -659,7 +695,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/shane/",
     "watched_date": "2026-08-26",
     "publication_date": "2026-08-26",
-    "rating": 3.5,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -19184,7 +19220,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 532 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 535 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20714,7 +20750,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "films I\u2019ve never seen because I can\u2019t find them.\nWhite Dog\nThe City Girl\nGo Go Tales\nElvis\nOctavio Is Dead!\nTwin Falls Idaho\nThe Boys\nHaze\nFriday Night\nHeart of Darkness\n...plus 186 more.\nView the full list on Letterboxd\n.",
+    "review_text": "films I\u2019ve never seen because I can\u2019t find them.\nWhite Dog\nThe City Girl\nGo Go Tales\nElvis\nOctavio Is Dead!\nTwin Falls Idaho\nThe Boys\nHaze\nFriday Night\nHeart of Darkness\n...plus 187 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22586,7 +22622,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 743 more.\nView the full list on Letterboxd\n.",
+    "review_text": "comedy films about crime and/or criminals\nneed to be first and foremost comedy films, not genre films with moments of comedy (Fargo, Pulp Fiction, Lethal Weapon, etc)\n00 Schneider - Im Wendekreis der Eidechse\n00 Schneider - Jagd auf Nihil Baxter\n21 Jump Street\n22 Jump Street\n3 Strikes\n30 Minutes or Less\n8 Heads in a Duffel Bag\n99 and 44/100% Dead\nAce Ventura: Pet Detective\nAce Ventura: When Nature Calls\n...plus 744 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22928,7 +22964,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "genre films (mostly) shot on 8mm or 16mm film\n1974: The Possession of Altair\n5 Dead on the Crimson Canvas\nThe Abomination\nAcne\nAfter Blue (Dirty Paradise)\nAlien Blood\nThe Alien Dead\nThe Alien Factor\nAlien Factor 2: The Alien Rampage\nAlison's Birthday\n...plus 357 more.\nView the full list on Letterboxd\n.",
+    "review_text": "genre films (mostly) shot on 8mm or 16mm film\n1974: The Possession of Altair\n5 Dead on the Crimson Canvas\nThe Abomination\nAcne\nAfter Blue (Dirty Paradise)\nAlien Blood\nThe Alien Dead\nThe Alien Factor\nAlien Factor 2: The Alien Rampage\nAlison's Birthday\n...plus 358 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -24314,7 +24350,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 468 more.\nView the full list on Letterboxd\n.",
+    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 471 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -24602,7 +24638,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The 4th Man\nThe Adult Version of Jekyll & Hide\nThe Alcove\nAll the Colours of the Dark\nAlone\nAlucarda\nAmer\nAmuck!\nAngel Heart\nAngel of Darkness\n...plus 466 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The 4th Man\nThe Adult Version of Jekyll & Hide\nThe Alcove\nAll the Colours of the Dark\nAlone\nAlucarda\nAmer\nAmuck!\nAngel Heart\nAngel of Darkness\n...plus 467 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -24656,7 +24692,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 627 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 628 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25484,7 +25520,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 455 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 457 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26114,7 +26150,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1652 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1653 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

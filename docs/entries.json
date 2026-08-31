@@ -1,5 +1,113 @@
 [
   {
+    "id": "guid:letterboxd-watch-1476398276",
+    "guid": "letterboxd-watch-1476398276",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Whisper Man",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-whisper-man/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/4/6/0/8/774608-the-whisper-man-0-600-0-900-crop.jpg?v=ceba3ed52e"
+  },
+  {
+    "id": "guid:letterboxd-watch-1476340774",
+    "guid": "letterboxd-watch-1476340774",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Furious",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-furious/1/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/1/5/4/1164154-the-furious-0-600-0-900-crop.jpg?v=f880a59523"
+  },
+  {
+    "id": "guid:letterboxd-watch-1476288728",
+    "guid": "letterboxd-watch-1476288728",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Bride of Chucky",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/bride-of-chucky/2/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/8/7/5/44875-bride-of-chucky-0-600-0-900-crop.jpg?v=9de22d4686"
+  },
+  {
+    "id": "guid:letterboxd-review-1476192623",
+    "guid": "letterboxd-review-1476192623",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Whisper Man",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-whisper-man/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "an unapologetic throwback to the crime drama programmers of the 90s, down to an A-list cast phoning it in, a bloated two hour run time and, most importantly, an En Vogue needle drop \u2014 on paper, this is thoroughly for me but they forgot one thing: that this should be fun",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/4/6/0/8/774608-the-whisper-man-0-600-0-900-crop.jpg?v=ceba3ed52e"
+  },
+  {
+    "id": "guid:letterboxd-review-1476038613",
+    "guid": "letterboxd-review-1476038613",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Day of the Dead",
+    "film_year": 1985,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/day-of-the-dead/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Romero's most potent statement against the violence that humans have waged against one another or the planet at large \u2014 the undead aren't the enemy here, they're allies, if not heroes; justice for Bub and his fallen comrades",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/7/5/1/47751-day-of-the-dead-0-600-0-900-crop.jpg?v=043db703f1"
+  },
+  {
+    "id": "guid:letterboxd-review-1476007549",
+    "guid": "letterboxd-review-1476007549",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Malcolm & Marie",
+    "film_year": 2021,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/malcolm-marie/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "why is he yelling",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/5/4/8/7/645487-malcolm-marie-0-600-0-900-crop.jpg?v=544b59817b"
+  },
+  {
     "id": "guid:letterboxd-watch-1475894799",
     "guid": "letterboxd-watch-1475894799",
     "username": "riotglasses",
@@ -2219,10 +2327,10 @@
     "username": "jlalibs",
     "critic_tier": "primary",
     "creator_display_name": "Justin LaLiberty",
-    "film_title": "Hot Spot",
+    "film_title": "tttrrr66",
     "film_year": 2026,
     "tmdb_movie_id": null,
-    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/hot-spot-2026/",
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/tttrrr66/",
     "watched_date": "2026-08-22",
     "publication_date": "2026-08-23",
     "rating": 3.5,
@@ -19652,7 +19760,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 537 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 538 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19994,7 +20102,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 155 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 156 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21974,7 +22082,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 582 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 584 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23036,7 +23144,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "everything I've rated five stars since joining letterboxd in 2012\n12 Angry Men\n2001: A Space Odyssey\n3 Women\n35 Shots of Rum\nAdaptation.\nAfter Hours\nAguirre, the Wrath of God\nA.I. Artificial Intelligence\nAirplane!\nAkira\n...plus 371 more.\nView the full list on Letterboxd\n.",
+    "review_text": "everything I've rated five stars since joining letterboxd in 2012\n12 Angry Men\n2001: A Space Odyssey\n3 Women\n35 Shots of Rum\nAdaptation.\nAfter Hours\nAguirre, the Wrath of God\nA.I. Artificial Intelligence\nAirplane!\nAkira\n...plus 372 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23630,7 +23738,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 672 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 673 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -24782,7 +24890,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 471 more.\nView the full list on Letterboxd\n.",
+    "review_text": "90s films that generally defy classification, running the gamut of genre, taste and aesthetic - just imagine the pitch meetings\nthe last truly renegade decade of film\nThe 6th Man\n8 Heads in a Duffel Bag\nAdventures in Dinosaur City\nAftershock\nAir Bud\nAliens in the Wild, Wild West\nAlmost Heroes\nAmanda & the Alien\nAmityville: Dollhouse\nArcade\n...plus 476 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25016,7 +25124,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 743 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 744 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25088,7 +25196,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2986 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2990 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25286,7 +25394,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "12th and Clairmount\n13th\n16 Blocks\n16 Shots\n21 Bridges\n36th Precinct\n48 Hrs.\n4Got10\n91 Bullets in a Minute\n9413\n...plus 514 more.\nView the full list on Letterboxd\n.",
+    "review_text": "12th and Clairmount\n13th\n16 Blocks\n16 Shots\n21 Bridges\n36th Precinct\n48 Hrs.\n4Got10\n91 Bullets in a Minute\n9413\n...plus 515 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25502,7 +25610,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n100 Kilos\n2 Graves in the Desert\n2:22\n4 Life\n.45\n5lbs of Pressure\n68 Kill\n88\n8MM 2\nThe 9th Life of Louis Drax\n...plus 1263 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n100 Kilos\n2 Graves in the Desert\n2:22\n4 Life\n.45\n5lbs of Pressure\n68 Kill\n88\n8MM 2\nThe 9th Life of Louis Drax\n...plus 1264 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25521,6 +25629,24 @@
     "liked": null,
     "rewatch": null,
     "review_text": "there is no ranking to these films. there are some films on this list I don\u2019t like at all, but I think it\u2019s important to notice them.\nSuspense.\nAnita\nThe Seashell and the Clergyman\nMeshes of the Afternoon\nThe Hitch-Hiker\nBlood Bath\nJanie\nThe Velvet Vampire\nBlood Sabbath\nThe Other Side of the Underneath\n...plus 312 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-7242791",
+    "guid": "letterboxd-list-7242791",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "LaLiberty Canon",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/laliberty-canon/",
+    "watched_date": null,
+    "publication_date": "2020-02-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1817 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25574,7 +25700,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Not just films produced in America, but films that are distinctly American in subject or locale. Tried to avoid animation and fantasy at large and sci-fi to an extent, with some exceptions.\nOnly a few films per filmmaker, to avoid having the list dominated by foreigners who largely worked in Hollywood for their careers.\n127 Hours\n12 Rounds\n12 Years a Slave\n21 Grams\n2 Guns\n9\u00bd Weeks\nAce in the Hole\nThe Adventures of Ford Fairlane\nAdvise & Consent\nAileen: Life and Death of a Serial Killer\n...plus 545 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Not just films produced in America, but films that are distinctly American in subject or locale. Tried to avoid animation and fantasy at large and sci-fi to an extent, with some exceptions.\nOnly a few films per filmmaker, to avoid having the list dominated by foreigners who largely worked in Hollywood for their careers.\n\u2026 And the Pursuit of Happiness\n12 Rounds\n12 Years a Slave\n127 Hours\n2 Guns\n21 Grams\n9\u00bd Weeks\nAce in the Hole\nThe Adventures of Ford Fairlane\nAdvise & Consent\n...plus 546 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25664,7 +25790,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films need to take place predominantly in small towns or cities, in any country around the world. Tried to leave off \"on the run\" films that cover too much ground (like Midnight Run) but allowed some that stick to one particular area well (like Badlands).\n92 in the Shade\nAffliction\nAfter Dark, My Sweet\nAin't Them Bodies Saints\nAmericana\nAmos & Andrew\nAnatomy of a Murder\nAngel Heart\nAt Close Range\nBad Day at Black Rock\n...plus 290 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films need to take place predominantly in small towns or cities, in any country around the world. Tried to leave off \"on the run\" films that cover too much ground (like Midnight Run) but allowed some that stick to one particular area well (like Badlands).\n92 in the Shade\nAffliction\nAfter Dark, My Sweet\nAin't Them Bodies Saints\nAmericana\nAmos & Andrew\nAnatomy of a Murder\nAngel Heart\nAt Close Range\nBad Day at Black Rock\n...plus 291 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25952,7 +26078,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 457 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 458 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26366,7 +26492,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1164 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1165 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26582,7 +26708,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1653 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1655 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26618,7 +26744,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\nAlien Nation\n...plus 414 more.\nView the full list on Letterboxd\n.",
+    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAankhen\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\n...plus 415 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

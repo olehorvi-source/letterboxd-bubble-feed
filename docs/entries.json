@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1475894799",
+    "guid": "letterboxd-watch-1475894799",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Tango & Cash",
+    "film_year": 1989,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/tango-cash/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/gk/7y/9t/q6/iR2lVzGXYsJpksqUswsnZ7LPTfx-0-600-0-900-crop.jpg?v=fdba59ed53"
+  },
+  {
+    "id": "guid:letterboxd-watch-1475548448",
+    "guid": "letterboxd-watch-1475548448",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Coyote vs. Acme",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/coyote-vs-acme/3/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
+  },
+  {
+    "id": "guid:letterboxd-watch-1475361651",
+    "guid": "letterboxd-watch-1475361651",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "I Never Sang for My Father",
+    "film_year": 1970,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/i-never-sang-for-my-father/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/0/9/9/77099-i-never-sang-for-my-father-0-600-0-900-crop.jpg?v=b5d7909dcd"
+  },
+  {
+    "id": "guid:letterboxd-watch-1475349338",
+    "guid": "letterboxd-watch-1475349338",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Cape Fear",
+    "film_year": 1962,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/cape-fear/2/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/3/8/5/45385-cape-fear-0-600-0-900-crop.jpg?v=c3cf111da6"
+  },
+  {
     "id": "guid:letterboxd-watch-1475291935",
     "guid": "letterboxd-watch-1475291935",
     "username": "davidlsims",
@@ -88,6 +160,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/7/8/486978-gladiator-ii-0-600-0-900-crop.jpg?v=0fb2edf525"
+  },
+  {
+    "id": "guid:letterboxd-review-1475507569",
+    "guid": "letterboxd-review-1475507569",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Dog Stars",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-dog-stars/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "fittingly elegiac genre programmer from Ridley, a filmmaker who is pushing 90 and is still churning out workmanlike studio films that feel plucked from the ether of the 90s and 00s \u2014 what impresses me most here isn\u2019t the couple of technically assured, surprisingly violent, action set-pieces but how wistful this all is; feels more so the product of an artist facing imminent mortality than a faithful adaptation of its source (which is a whole other conversation)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/9/2/8/7/1269287-the-dog-stars-0-600-0-900-crop.jpg?v=b44af504b0"
   },
   {
     "id": "guid:letterboxd-review-1475227561",
@@ -19562,7 +19652,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 535 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 537 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19778,7 +19868,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 146 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 147 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -19904,7 +19994,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 154 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 155 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21362,7 +21452,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order, give or take an oversight derived from parental brain leakage.\nPonyo\nToy Story\nThe Nightmare Before Christmas\nFinding Nemo\nWish\nChicken Run: Dawn of the Nugget\nMigration\nThe Lion King\nThe Muppet Christmas Carol\nAladdin\n...plus 144 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order, give or take an oversight derived from parental brain leakage.\nPonyo\nToy Story\nThe Nightmare Before Christmas\nFinding Nemo\nWish\nChicken Run: Dawn of the Nugget\nMigration\nThe Lion King\nThe Muppet Christmas Carol\nAladdin\n...plus 146 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25682,7 +25772,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2705 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2706 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

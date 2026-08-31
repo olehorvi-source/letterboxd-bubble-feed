@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1476602871",
+    "guid": "letterboxd-watch-1476602871",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "The Night of the Hunter",
+    "film_year": 1955,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/the-night-of-the-hunter/",
+    "watched_date": "2026-08-31",
+    "publication_date": "2026-08-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/6/0/49860-the-night-of-the-hunter-0-600-0-900-crop.jpg?v=23fb657323"
+  },
+  {
+    "id": "guid:letterboxd-watch-1476618748",
+    "guid": "letterboxd-watch-1476618748",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "One Night Only",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/one-night-only-2026/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/6/7/7/1311677-one-night-only-2026-0-600-0-900-crop.jpg?v=9e18b23e11"
+  },
+  {
+    "id": "guid:letterboxd-watch-1476487835",
+    "guid": "letterboxd-watch-1476487835",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Tuner",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/tuner/",
+    "watched_date": "2026-08-30",
+    "publication_date": "2026-08-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/8/7/8/1234878-tuner-0-600-0-900-crop.jpg?v=075156069b"
+  },
+  {
     "id": "guid:letterboxd-watch-1476398276",
     "guid": "letterboxd-watch-1476398276",
     "username": "SeanFennessey",
@@ -8492,7 +8546,7 @@
     "rating": 3.5,
     "liked": null,
     "rewatch": true,
-    "review_text": "62/100\nSecond viewing, last seen at NYFF '96. For some reason, the fest capsules I wrote on my site that year no longer exist (and it was so long ago that archive.org hadn't started scraping me yet); all that survives is a friend asking\u2014re: the capsule in question, which was apparently already gone by May '97\u2014\"\nDid\nyou actually say (as I seem to recall) that it's 'the problem to which\nIrma Vep\nis the solution'? And, if so, what exactly does that mean? More, please.\"\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "review_text": "62/100\nSecond viewing, last seen at NYFF '96. For some reason, the fest capsules I wrote on my site that year no longer exist (and it was so long ago that archive.org hadn't started scraping me yet); all that survives is a friend asking\u2014re: the capsule in question, which was apparently already gone by May '97\u2014\"\nDid\nyou actually say (as I seem to recall) that it's 'the problem to which\nIrma Vep\nis the solution'? And, if so, what exactly does\nthat\nmean? More, please.\"\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/2/5/7/18257-the-son-of-0-600-0-900-crop.jpg?v=9fca68bee9"
   },
   {
@@ -20354,7 +20408,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe Best Little Whorehouse in Texas\nThe Concorde... Airport '79\nThe Apple Dumpling Gang Rides Again\nTony\nTeenage Sex and Death at Camp Miasma\nFatherland\nFire Island\nCitizens Band\nHerbie Goes to Monte Carlo\nFor the Love of Benji\n...plus 9979 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe Best Little Whorehouse in Texas\nThe Concorde... Airport '79\nThe Apple Dumpling Gang Rides Again\nTony\nTeenage Sex and Death at Camp Miasma\nFatherland\nFire Island\nCitizens Band\nHerbie Goes to Monte Carlo\nFor the Love of Benji\n...plus 9980 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23000,7 +23054,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Decided to really make the effort this year to watch the Top 100 (of both lists) and I guess rank them over the next 10 years. The majority of the movies will be first time watches, or movies I saw in college and just barely remember.\nThe Apartment\nIn the Mood for Love\nA Matter of Life and Death\nLa Jet\u00e9e\nMeshes of the Afternoon\nStalker\nBarry Lyndon\nMy Neighbor Totoro\nThe Red Shoes\nCl\u00e9o from 5 to 7\n...plus 3 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Decided to really make the effort this year to watch the Top 100 (of both lists) and I guess rank them over the next 10 years. The majority of the movies will be first time watches, or movies I saw in college and just barely remember.\nThe Apartment\nIn the Mood for Love\nA Matter of Life and Death\nLa Jet\u00e9e\nStalker\nThe Night of the Hunter\nBarry Lyndon\nThe Red Shoes\nMy Neighbor Totoro\nCl\u00e9o from 5 to 7\n...plus 4 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

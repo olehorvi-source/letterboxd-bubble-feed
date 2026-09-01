@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1478336017",
+    "guid": "letterboxd-watch-1478336017",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Change of Sex",
+    "film_year": 1977,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/change-of-sex/",
+    "watched_date": "2026-09-01",
+    "publication_date": "2026-09-01",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/1/8/7/6/91876-change-of-sex-0-600-0-900-crop.jpg?v=3db7ffbd2c"
+  },
+  {
     "id": "guid:letterboxd-watch-1478001041",
     "guid": "letterboxd-watch-1478001041",
     "username": "BrianDuffield",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/3/5/3/1283353-rose-of-nevada-0-600-0-900-crop.jpg?v=3664bd071f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1478195342",
+    "guid": "letterboxd-watch-1478195342",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Bride of Re-Animator",
+    "film_year": 1990,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/bride-of-re-animator/1/",
+    "watched_date": "2026-08-31",
+    "publication_date": "2026-09-01",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/0y/yr/md/tq/l3cf2OQdozsvr2dk30QQrVvtPcW-0-600-0-900-crop.jpg?v=662d24a85d"
   },
   {
     "id": "guid:letterboxd-watch-1477916666",
@@ -52,6 +88,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/0/3/6/31036-target-0-600-0-900-crop.jpg?v=1fd8adccdb"
+  },
+  {
+    "id": "guid:letterboxd-review-1478388666",
+    "guid": "letterboxd-review-1478388666",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Coyote vs. Acme",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/coyote-vs-acme/",
+    "watched_date": "2026-08-31",
+    "publication_date": "2026-09-01",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "70\nNot going to disparage this thing too much, even if it's far from perfect. We're so lucky that we even get to watch it, but a theatrical release for a movie that was initially a victim of tax write-offs? It's a miracle. Even better is its pointed anti-conglomerate message. Wish it wasn't so dedicated to the cell-shaded look, but what\nCoyote Vs. Acme\nultimately tells us is that you can't win every battle. Even so, that doesn't mean you stop fighting.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
   },
   {
     "id": "guid:letterboxd-review-1477697173",
@@ -227,7 +281,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/onslaught-2026/",
     "watched_date": "2026-08-31",
     "publication_date": "2026-08-31",
-    "rating": null,
+    "rating": 2.5,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -19688,7 +19742,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nNirvanna the Band the Show the Movie\nFjord\nThe End of Oak Street\n...plus 63 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nNirvanna the Band the Show the Movie\nFjord\nThe End of Oak Street\n...plus 64 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -20444,7 +20498,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 84 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 85 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23558,7 +23612,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The 5,000 Fingers of Dr. T.\n7 Faces of Dr. Lao\n7 Lucky Ninja Kids\nThe 7th Voyage of Sinbad\nAbra Cadabra\nThe Absent-Minded Professor\nAdventures in Dinosaur City\nAdventures in Spying\nThe Adventures of Elmo in Grouchland\nThe Adventures of Mark Twain\n...plus 486 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The 5,000 Fingers of Dr. T.\n7 Faces of Dr. Lao\n7 Lucky Ninja Kids\nThe 7th Voyage of Sinbad\nAbra Cadabra\nThe Absent-Minded Professor\nAdventures in Dinosaur City\nAdventures in Spying\nThe Adventures of Elmo in Grouchland\nThe Adventures of Mark Twain\n...plus 487 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

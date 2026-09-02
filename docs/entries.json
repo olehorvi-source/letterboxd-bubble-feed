@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1478935390",
+    "guid": "letterboxd-watch-1478935390",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Death Warrant",
+    "film_year": 1990,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/death-warrant/2/",
+    "watched_date": "2026-09-01",
+    "publication_date": "2026-09-02",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/9/9/2/40992-death-warrant-0-600-0-900-crop.jpg?v=5f156e6dbd"
+  },
+  {
+    "id": "guid:letterboxd-review-1479016541",
+    "guid": "letterboxd-review-1479016541",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Chunks",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/chunks/",
+    "watched_date": "2026-09-01",
+    "publication_date": "2026-09-02",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Shoutout to my buddies Nick Mullen, The Eater and @FatNelson from Seattle.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/6/4/5/8/1596458-chunks-0-600-0-900-crop.jpg?v=b90101a498"
+  },
+  {
+    "id": "guid:letterboxd-review-1478905903",
+    "guid": "letterboxd-review-1478905903",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "The Whisper Man",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/the-whisper-man/",
+    "watched_date": "2026-09-01",
+    "publication_date": "2026-09-02",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The movie equivalent of my September head cold",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/4/6/0/8/774608-the-whisper-man-0-600-0-900-crop.jpg?v=ceba3ed52e"
+  },
+  {
     "id": "guid:letterboxd-watch-1478816461",
     "guid": "letterboxd-watch-1478816461",
     "username": "SeanFennessey",
@@ -21056,7 +21110,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDeranged\nThe Best Little Whorehouse in Texas\nThe Concorde... Airport '79\nThe Apple Dumpling Gang Rides Again\nTony\nTeenage Sex and Death at Camp Miasma\nFatherland\nFire Island\nCitizens Band\nHerbie Goes to Monte Carlo\n...plus 9981 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDeranged\nThe Best Little Whorehouse in Texas\nThe Concorde... Airport '79\nThe Apple Dumpling Gang Rides Again\nTony\nTeenage Sex and Death at Camp Miasma\nFatherland\nFire Island\nCitizens Band\nHerbie Goes to Monte Carlo\n...plus 9982 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23126,7 +23180,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "no proper dcu/mcu titles\nincludes titles based on comic book IP and original properties\ncurated, not exhaustive\nAbar, the First Black Superman\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nAdventures of Captain Marvel\nThe Adventures of the American Rabbit\nAlien Arsenal\nAlita: Battle Angel\nArgoman the Fantastic Superman\nBarb Wire\nBat Pussy\nThe Bat Woman\n...plus 134 more.\nView the full list on Letterboxd\n.",
+    "review_text": "no proper dcu/mcu titles\nincludes titles based on comic book IP and original properties\ncurated, not exhaustive\nAbar, the First Black Superman\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nAdventures of Captain Marvel\nThe Adventures of the American Rabbit\nAlien Arsenal\nAlita: Battle Angel\nArgoman the Fantastic Superman\nBarb Wire\nBat Pussy\nThe Bat Woman\n...plus 135 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25916,7 +25970,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2991 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2995 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25952,7 +26006,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 628 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 631 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26114,7 +26168,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "12th and Clairmount\n13th\n16 Blocks\n16 Shots\n21 Bridges\n36th Precinct\n48 Hrs.\n4Got10\n91 Bullets in a Minute\n9413\n...plus 515 more.\nView the full list on Letterboxd\n.",
+    "review_text": "12th and Clairmount\n13th\n16 Blocks\n16 Shots\n21 Bridges\n36th Precinct\n48 Hrs.\n4Got10\n91 Bullets in a Minute\n9413\n...plus 516 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26330,7 +26384,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n100 Kilos\n2 Graves in the Desert\n2:22\n4 Life\n.45\n5lbs of Pressure\n68 Kill\n88\n8MM 2\nThe 9th Life of Louis Drax\n...plus 1264 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n100 Kilos\n2 Graves in the Desert\n2:22\n4 Life\n.45\n5lbs of Pressure\n68 Kill\n88\n8MM 2\nThe 9th Life of Louis Drax\n...plus 1267 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27086,7 +27140,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1371 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1372 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27212,7 +27266,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1167 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1168 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27482,7 +27536,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAankhen\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\n...plus 415 more.\nView the full list on Letterboxd\n.",
+    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAankhen\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\n...plus 418 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1479696621",
+    "guid": "letterboxd-watch-1479696621",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "All of a Sudden",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/all-of-a-sudden-2026/",
+    "watched_date": "2026-09-02",
+    "publication_date": "2026-09-02",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=8402b93f5c"
+  },
+  {
     "id": "guid:letterboxd-watch-1479400258",
     "guid": "letterboxd-watch-1479400258",
     "username": "theolejake",
@@ -36,6 +54,60 @@
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ir/nv/38/hm/yg0O6eGgrumDZ1bht3pqMjNaWon-0-600-0-900-crop.jpg?v=7ed351a70a"
   },
   {
+    "id": "guid:letterboxd-review-1479689030",
+    "guid": "letterboxd-review-1479689030",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Return",
+    "film_year": 2003,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-return/",
+    "watched_date": "2026-09-02",
+    "publication_date": "2026-09-02",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Been meaning to check this one out for a while but have to be in the right mood for that distinctly Russian bleakness, and this was as miserable and meditative a coming-of-age film as advertised. Occupies an interesting space between being hauntingly ambiguous (maybe even frustratingly, for some) about the details of its literal father-son mystery but ultimately so striking and tactile in terms of its bitter mood and gorgeous landscape photography that the larger symbolism at play here regarding authority and masculinity is all conveyed quite obviously and beautifully despite the ghostly, unresolved nature of the narrative. So sick to make a going fishing with dad road trip movie where the loving lesson at its center is that the world is cold, wet, harsh and lonely, and sometimes dads just disappear and you gotta move on and live with that.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/5/1/9/45519-the-return-0-600-0-900-crop.jpg?v=ddad77d216"
+  },
+  {
+    "id": "guid:letterboxd-review-1479515706",
+    "guid": "letterboxd-review-1479515706",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Cobb",
+    "film_year": 1994,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/cobb/",
+    "watched_date": "2026-09-02",
+    "publication_date": "2026-09-02",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "amazing how much of this movie is just Misery with baseball",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/3/7/8/32378-cobb-0-600-0-900-crop.jpg?v=82a85601bb"
+  },
+  {
+    "id": "guid:letterboxd-watch-1479588587",
+    "guid": "letterboxd-watch-1479588587",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Rap World",
+    "film_year": 2024,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/rap-world/2/",
+    "watched_date": "2026-09-01",
+    "publication_date": "2026-09-02",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/3/1139833-rap-world-0-600-0-900-crop.jpg?v=f7cf13b556"
+  },
+  {
     "id": "guid:letterboxd-watch-1478935390",
     "guid": "letterboxd-watch-1478935390",
     "username": "jlalibs",
@@ -52,6 +124,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/9/9/2/40992-death-warrant-0-600-0-900-crop.jpg?v=5f156e6dbd"
+  },
+  {
+    "id": "guid:letterboxd-review-1479549230",
+    "guid": "letterboxd-review-1479549230",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Frankenstein Created Woman",
+    "film_year": 1967,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/frankenstein-created-woman/",
+    "watched_date": "2026-09-01",
+    "publication_date": "2026-09-02",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "This one takes a bit too long setting up its central concept/subversion of putting the usual gruesome Hammer mad scientist lab stuff to the side in favor of a tragic body-swapping gothic romance revenge movie, but it still has all the usual Fisher handsomeness (production design, costume design, etc), Cushing is a delightful Dr. Frankenstein as always, and once it starts cooking in its third act it\u2019s definitely a unique entry in the series. Around the time the young lovers/soul-experimenting stuff gives way to the\nA Clockwork Orange\nassholes, courtroom drama, and gruesome guillotine + suicide it really picks up... Honestly, when this finally gets to the part where the vengeful consciousness of a wronged man begins to possess his deformed dead girlfriends body, and Susan Denberg is surgically turned into a beautiful murderous seductress by the doctors, it almost plays like a 60s Hammer take on\nUnder the Skin\n.\nFull discussion coming soon on the podcast\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/6/8/49868-frankenstein-created-woman-0-600-0-900-crop.jpg?v=4aba103d77"
   },
   {
     "id": "guid:letterboxd-review-1479016541",
@@ -20894,7 +20984,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 159 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 160 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -28112,7 +28202,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Chungking Express\nPulp Fiction\nHoop Dreams\nEd Wood\nThe Hudsucker Proxy\nSpeed\nEat Drink Man Woman\nThree Colours: Red\nCrooklyn\nHeavenly Creatures\n...plus 65 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Chungking Express\nPulp Fiction\nHoop Dreams\nEd Wood\nThe Hudsucker Proxy\nSpeed\nEat Drink Man Woman\nThree Colours: Red\nCrooklyn\nHeavenly Creatures\n...plus 66 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1480784385",
+    "guid": "letterboxd-watch-1480784385",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Slugs",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/slugs-2025/",
+    "watched_date": "2026-09-03",
+    "publication_date": "2026-09-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/7/9/7/1/1617971-slugs-2025-0-600-0-900-crop.jpg?v=1b0178a065"
+  },
+  {
+    "id": "guid:letterboxd-watch-1480665863",
+    "guid": "letterboxd-watch-1480665863",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "She-Wolf of London",
+    "film_year": 1946,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/she-wolf-of-london/",
+    "watched_date": "2026-09-03",
+    "publication_date": "2026-09-03",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/9/1/6/19916-she-wolf-of-london-0-600-0-900-crop.jpg?v=5ef61ade0d"
+  },
+  {
+    "id": "guid:letterboxd-review-1480814840",
+    "guid": "letterboxd-review-1480814840",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Symbiopsychotaxiplasm: Take One",
+    "film_year": 1968,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/symbiopsychotaxiplasm-take-one/",
+    "watched_date": "2026-09-03",
+    "publication_date": "2026-09-03",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\"I'm just kidding, don't take me seriously.\"\n\"It's a feature length... we don't know.\"\n\"A director's film is his mind photographing the world.\"\nAn intelligently, fascinatingly conceived experiment in whose-filming-who and \"what even is a movie?\" fiction/reality-bending meta-filmmaking + a battle between the auteur and his crew as a means of interrogating the powerful vs. the collective at the height of the Vietnam/civil rights era, yes, but somehow not remotely stuffy about it. Wasn't prepared for how playful and funny this was going to be at first, and then Greaves derailed his own intellectual monologue about the camera and \"thematic\" sexuality to point at the \"woman with the tits\" riding by the crew on horseback. Loved the bit where the sound guy, after having listened to take after take of the poorly written, homophobic\nWho's Afraid of Virginia Woolf?\nmarital spat psychodrama screen test scene they're shooting for eight days, finally loses his shit. And when the homeless guy at end starts dropping wisdoms on the crew, and says he doesn't care if they film him or not because \"I don't give a shit where I am... I'm in life.\"",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/0/4/1/3/20413-symbiopsychotaxiplasm-take-one-0-600-0-900-crop.jpg?v=82dc51acf6"
+  },
+  {
     "id": "guid:letterboxd-watch-1480385898",
     "guid": "letterboxd-watch-1480385898",
     "username": "thejoshl",
@@ -70,6 +124,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/0/4/5/1609045-the-remotes-0-600-0-900-crop.jpg?v=3a1f8a5ec1"
+  },
+  {
+    "id": "guid:letterboxd-review-1480489545",
+    "guid": "letterboxd-review-1480489545",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "20,000 Leagues Under the Sea",
+    "film_year": 1954,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/20000-leagues-under-the-sea-1954/",
+    "watched_date": "2026-09-02",
+    "publication_date": "2026-09-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Definitely forgot about the cannibals.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/7/8/51878-20000-leagues-under-the-sea-1954-0-600-0-900-crop.jpg?v=c656fc66ff"
   },
   {
     "id": "guid:letterboxd-review-1480269664",
@@ -20894,7 +20966,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 538 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 539 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21488,7 +21560,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDeranged\nThe Best Little Whorehouse in Texas\nThe Concorde... Airport '79\nThe Apple Dumpling Gang Rides Again\nTony\nTeenage Sex and Death at Camp Miasma\nFatherland\nFire Island\nCitizens Band\nHerbie Goes to Monte Carlo\n...plus 9982 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe Jungle Book\nDeranged\nThe Best Little Whorehouse in Texas\nThe Concorde... Airport '79\nThe Apple Dumpling Gang Rides Again\nTony\nTeenage Sex and Death at Camp Miasma\nFatherland\nFire Island\nCitizens Band\n...plus 9983 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

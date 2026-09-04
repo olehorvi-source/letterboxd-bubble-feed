@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1482124830",
+    "guid": "letterboxd-watch-1482124830",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Clarissa",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/clarissa-2026/",
+    "watched_date": "2026-09-04",
+    "publication_date": "2026-09-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/7/6/7/4/1497674-clarissa-2026-0-600-0-900-crop.jpg?v=5b3697c703"
+  },
+  {
+    "id": "guid:letterboxd-watch-1482096742",
+    "guid": "letterboxd-watch-1482096742",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Sacrifice",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/sacrifice-2025/",
+    "watched_date": "2026-09-04",
+    "publication_date": "2026-09-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/3/3/1/1167331-sacrifice-2025-0-600-0-900-crop.jpg?v=1196bd31e6"
+  },
+  {
+    "id": "guid:letterboxd-review-1482321210",
+    "guid": "letterboxd-review-1482321210",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Where Is the Friend's House?",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/where-is-the-friends-house/",
+    "watched_date": "2026-09-04",
+    "publication_date": "2026-09-04",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "strong contender for the best to ever do it",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-600-0-900-crop.jpg?v=fa9af1e128"
+  },
+  {
+    "id": "guid:letterboxd-review-1482228590",
+    "guid": "letterboxd-review-1482228590",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Drinking and Driving",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/drinking-and-driving/",
+    "watched_date": "2026-09-04",
+    "publication_date": "2026-09-04",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "liminal time and space hangout dream core cinema populated by people who will remind you of that former best friend you haven\u2019t talked to in a few years (or a decade if you\u2019re old like me) \u2014 looks incredible, whatever Avalon and co are doing, I\u2019m here for it",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/9/3/3/1302933-drinking-and-driving-0-600-0-900-crop.jpg?v=c2ad354606"
+  },
+  {
     "id": "guid:letterboxd-review-1482026460",
     "guid": "letterboxd-review-1482026460",
     "username": "thejoshl",
@@ -1094,7 +1166,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "Sorta like if the performatively woke activist kid who goes Kyle Rittenhouse mode in\nEddington\ngot his own Safdie movie. Not sure I fully bought into the Martell side of the equation but Butterfield is too accurate to some guys I knew growing up to even really call it a satire, and it was darkly fun to see the kids from\nHugo\nand\nMidnight Special\nhave a 20-something male loneliness epidemic off. Inviting your crush over to your mansion to show her your Instagram posts and rotten.com school shooter vids is crazy. Travis Bickle don't have internet ass movie.",
+    "review_text": "Sorta like if the performatively woke activist kid who goes Kyle Rittenhouse mode in\nEddington\ngot his own Safdie movie. Not sure I fully bought into the Martell side of the equation but Butterfield is too accurate to some guys I knew growing up to even really call it a satire, and it was darkly fun to see the kids from\nHugo\nand\nMidnight Special\nhave a 20-something male loneliness epidemic off. Inviting your crush over to your mansion to show her your Instagram posts and rotten.com school shooter vids is crazy. Travis Bickle don't have internet ass movie.\nFull discussion on my podcast SLEAZOIDS here\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/2/3/1/8/1342318-our-hero-balthazar-0-600-0-900-crop.jpg?v=80d829171a"
   },
   {
@@ -2336,7 +2408,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "\u201cAre you gonna spend the rest of your life believing that you\u2019re the wrong Wright brother? Or are you gonna start to believe that, deep down inside, there can be two right Wright brothers? Am I right brother?\u201d",
+    "review_text": "\u201cAre you gonna spend the rest of your life believing that you\u2019re the wrong Wright brother? Or are you gonna start to believe that, deep down inside, there can be two right Wright brothers? Am I right brother?\u201d\nFull discussion on my podcast SLEAZOIDS here\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/8/1353408-gail-daughtry-and-the-celebrity-sex-pass-0-600-0-900-crop.jpg?v=cd9d330b88"
   },
   {
@@ -4262,7 +4334,7 @@
     "rating": 4.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "This review may contain spoilers.\nAlways impressive to me when a filmmaker's \"one for them\", get-out-of-(director's)-jail-free-card movie is still distinctly theirs. Similarly to how\nIt Follows\nwas a best-case scenario in terms of some dude from the suburbs of Michigan seemingly coming out of nowhere and dropping a low-budget Carpenter pastiche, this is about the same for an indie filmmaker graduating to a studio budget and doing their Spielberg/Amblin cover.\nHelps that it also has an amusingly goofy\nTwilight Zone\npremise that involves a portal suddenly transporting an 80s suburb straight out of\nET\nor\nPoltergeist\ninto the Jurassic era, and gleefully turning a few square blocks into its own\nLost World\nmonster movie park to gruesomely play around in. A dinosaur storming its way across various front lawns and backyards is a strikingly silly image that I will confess to being a little worried would lean too far into childhood nostalgia for DRM who I somehow never realized was an 80s kid until this movie. Thankfully, this movie was much weirder and nastier than expected, and really pushes its premise to places that had me thinking of qualities I find myself drawn to in M. Night Shyamalan and Richard Kelly more than even Spielberg\u2014even if that dung heap is unmistakable.\nFirstly, despite all the elegant setpiece machinery (Gioulakis once again doing some spectacular craftmanship with all the slow pans/zooms/tracking shots and gorgeous widescreen, negative space heavy framing), there's a legit mean streak to the monster mayhem. When all the effectively controlled suspense-building patiently using reflections or backgrounds or obscured blocking (straight from the Spielberg economy playbook) gives way to the stomping and chomping it's with a level of casually harrowing ruthlessness that's almost comical. The amount of blood splatter, sudden senseless collateral damage, and sheer body count is pushing PG-13 about as hard as anything since\nTemple of Doom\n. Every muscular neighborhood chase (with fantastic visual use of fences, driveways, etc) featuring corpses being feasted on in various corners of the frame, and every household weapon about as useless against the animalistic home invaders as they should be. Kid sitting beside me had to cover his eyes through a lot of it.\nSecondly, and maybe more importantly, despite some of the humor and aw-shucks suburban archetype family character writing, there's a notable sense of melancholy to its fantasy. Taking the time to linger on the kids confusion and sadness (\u201cis this the end of the world?\u201d), on imagery that reckons with apocalyptic climate anxiety, and on the horrifically personal loss of a parent (jaw quite literally dropped at the T. rex bit) that requires some\nDonnie Darko\nwormhole time travel trickery to undo. I get the mixed response to the ending which on its surface reads as a tidy wrap-up after it had just violently raised the bar as to what it was willing to viciously do to its characters, but I felt there was a certain level of knowingly absurd wish-fulfillment to how it goes about restoring its 80s Americana domesticity after quite literally exposing its fragility, tearing its limbs off, and detonating it to the point of near-extinction for most of its runtime. \u201cWe\u2019re like butterflies who flutter for a day and think it\u2019s forever.\"\nMVPs: Anne Hathaway, the dog, the giant snake who goes \ud83d\ude42",
+    "review_text": "This review may contain spoilers.\nAlways impressive to me when a filmmaker's \"one for them\", get-out-of-(director's)-jail-free-card movie is still distinctly theirs. Similarly to how\nIt Follows\nwas a best-case scenario in terms of some dude from the suburbs of Michigan seemingly coming out of nowhere and dropping a low-budget Carpenter pastiche, this is about the same for an indie filmmaker graduating to a studio budget and doing their Spielberg/Amblin cover.\nHelps that it also has an amusingly goofy\nTwilight Zone\npremise that involves a portal suddenly transporting an 80s suburb straight out of\nET\nor\nPoltergeist\ninto the Jurassic era, and gleefully turning a few square blocks into its own\nLost World\nmonster movie park to gruesomely play around in. A dinosaur storming its way across various front lawns and backyards is a strikingly silly image that I will confess to being a little worried would lean too far into childhood nostalgia for DRM who I somehow never realized was an 80s kid until this movie. Thankfully, this movie was much weirder and nastier than expected, and really pushes its premise to places that had me thinking of qualities I find myself drawn to in M. Night Shyamalan and Richard Kelly more than even Spielberg\u2014even if that dung heap is unmistakable.\nFirstly, despite all the elegant setpiece machinery (Gioulakis once again doing some spectacular craftmanship with all the slow pans/zooms/tracking shots and gorgeous widescreen, negative space heavy framing), there's a legit mean streak to the monster mayhem. When all the effectively controlled suspense-building patiently using reflections or backgrounds or obscured blocking (straight from the Spielberg economy playbook) gives way to the stomping and chomping it's with a level of casually harrowing ruthlessness that's almost comical. The amount of blood splatter, sudden senseless collateral damage, and sheer body count is pushing PG-13 about as hard as anything since\nTemple of Doom\n. Every muscular neighborhood chase (with fantastic visual use of fences, driveways, etc) featuring corpses being feasted on in various corners of the frame, and every household weapon about as useless against the animalistic home invaders as they should be. Kid sitting beside me had to cover his eyes through a lot of it.\nSecondly, and maybe more importantly, despite some of the humor and aw-shucks suburban archetype family character writing, there's a notable sense of melancholy to its fantasy. Taking the time to linger on the kids confusion and sadness (\u201cis this the end of the world?\u201d), on imagery that reckons with apocalyptic climate anxiety, and on the horrifically personal loss of a parent (jaw quite literally dropped at the T. rex bit) that requires some\nDonnie Darko\nwormhole time travel trickery to undo. I get the mixed response to the ending which on its surface reads as a tidy wrap-up after it had just violently raised the bar as to what it was willing to viciously do to its characters, but I felt there was a certain level of knowingly absurd wish-fulfillment to how it goes about restoring its 80s Americana domesticity after quite literally exposing its fragility, tearing its limbs off, and detonating it to the point of near-extinction for most of its runtime. \u201cWe\u2019re like butterflies who flutter for a day and think it\u2019s forever.\"\nMVPs: Anne Hathaway, the dog, the giant snake who goes \ud83d\ude42\nFull discussion on my podcast SLEAZOIDS here\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/2/9/6/2/992962-the-end-of-oak-street-0-600-0-900-crop.jpg?v=b06dbfb4c9"
   },
   {
@@ -21578,7 +21650,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 161 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nPaper Tiger\nCAMP\nMaddie's Secret\nRose of Nevada\n...plus 162 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22695,6 +22767,24 @@
     "liked": null,
     "rewatch": null,
     "review_text": "Summer of Sam\nBeau Travail\nBamboozled\nDead Presidents\nHoly Motors\nSaint Omer\nVelvet Goldmine\nWorking Girls\nElvis\nHappiness\n...plus 141 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-51941583",
+    "guid": "letterboxd-list-51941583",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "towards a canon of post-cinema of the 21st century",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/towards-a-canon-of-post-cinema-of-the-21st/",
+    "watched_date": null,
+    "publication_date": "2024-09-29",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "auteur forward, often self-reflexive, vanity driven, anti-convention, pointing towards a future of something born from cinema, transgressing post-modernism\n0s & 1s\nAGGRO DR1FT\nA.I. Artificial Intelligence\nAmbulance\nAnnette\nThe Assassin\nAvatar: The Way of Water\nBaby Invasion\nBabylon\nBad Luck Banging or Loony Porn\n...plus 103 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -24404,7 +24494,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 567 more.\nView the full list on Letterboxd\n.",
+    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 568 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25862,7 +25952,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I had lists for the Criterion Blus and the DVDs; might as well be everything.\nAcross 110th Street\nAdaptation.\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nThe Adventures of Robin Hood\nAfter Dark, My Sweet\nAfterschool\nAguirre, the Wrath of God\nAirplane!\nAlien\nAll Is Lost\n...plus 335 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I had lists for the Criterion Blus and the DVDs; might as well be everything.\nAcross 110th Street\nAdaptation.\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nThe Adventures of Robin Hood\nAfter Dark, My Sweet\nAfterschool\nAguirre, the Wrath of God\nAirplane!\nAlien\nAll Is Lost\n...plus 336 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26690,7 +26780,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2995 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2996 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29534,7 +29624,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Broadcast News\nRaising Arizona\nMoonstruck\nRoboCop\nMatewan\nEvil Dead II\nPrince of Darkness\nWithnail & I\nHellraiser\nMaurice\n...plus 41 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Where Is the Friend's House?\nBroadcast News\nMoonstruck\nRoboCop\nRaising Arizona\nMatewan\nEvil Dead II\nPrince of Darkness\nWithnail & I\nHellraiser\n...plus 42 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

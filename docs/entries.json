@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1483325626",
+    "guid": "letterboxd-watch-1483325626",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Sonic the Hedgehog 3",
+    "film_year": 2024,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/sonic-the-hedgehog-3/",
+    "watched_date": "2026-09-05",
+    "publication_date": "2026-09-05",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/4/4/1/4/8/844148-sonic-the-hedgehog-3-0-600-0-900-crop.jpg?v=4878f94b09"
+  },
+  {
     "id": "guid:letterboxd-watch-1482751618",
     "guid": "letterboxd-watch-1482751618",
     "username": "theolejake",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/4/6/0/8/774608-the-whisper-man-0-600-0-900-crop.jpg?v=ceba3ed52e"
+  },
+  {
+    "id": "guid:letterboxd-watch-1483248231",
+    "guid": "letterboxd-watch-1483248231",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "An American Werewolf in Paris",
+    "film_year": 1997,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/an-american-werewolf-in-paris/",
+    "watched_date": "2026-09-04",
+    "publication_date": "2026-09-05",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/1/9/0/47190-an-american-werewolf-in-paris-0-600-0-900-crop.jpg?v=07647d867a"
   },
   {
     "id": "guid:letterboxd-watch-1482794810",
@@ -106,6 +142,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
+  },
+  {
+    "id": "guid:letterboxd-review-1483258274",
+    "guid": "letterboxd-review-1483258274",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Voodoo",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/voodoo/",
+    "watched_date": "2026-09-04",
+    "publication_date": "2026-09-05",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The Skulls\nbut it\u2019s really a feature length 90s commercial for Pac Sun with 24 year old Corey Feldman the new guy at college, welcomed with open arms by a voodoo practicing frat that only Jack Nance (!!) seems to know about \u2014 the only movie I know of that the MPAA rated R for \u201cvoodoo violence\u201d",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/9/5/5/8/59558-voodoo-0-600-0-900-crop.jpg?v=2c18c8c976"
   },
   {
     "id": "guid:letterboxd-review-1482965370",

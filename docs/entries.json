@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1483596800",
+    "guid": "letterboxd-watch-1483596800",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Faster, Pussycat! Kill! Kill!",
+    "film_year": 1965,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/faster-pussycat-kill-kill/1/",
+    "watched_date": "2026-09-05",
+    "publication_date": "2026-09-05",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/4/51744-faster-pussycat-kill-kill--0-600-0-900-crop.jpg?v=38b24d042f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1483546787",
+    "guid": "letterboxd-watch-1483546787",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Ink",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/ink-2026/",
+    "watched_date": "2026-09-05",
+    "publication_date": "2026-09-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/7/5/9/2/1407592-ink-2026-0-600-0-900-crop.jpg?v=39004eea0a"
+  },
+  {
+    "id": "guid:letterboxd-watch-1483474855",
+    "guid": "letterboxd-watch-1483474855",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Our Home Out West",
+    "film_year": 2023,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/our-home-out-west/",
+    "watched_date": "2026-09-05",
+    "publication_date": "2026-09-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/3/0/7/1/1613071-our-home-out-west-0-600-0-900-crop.jpg?v=e581a3b234"
+  },
+  {
+    "id": "guid:letterboxd-watch-1483461199",
+    "guid": "letterboxd-watch-1483461199",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Supernigga",
+    "film_year": 2022,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/supernigga/",
+    "watched_date": "2026-09-05",
+    "publication_date": "2026-09-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/4/2/3/9/9/1442399-supernigga-0-600-0-900-crop.jpg?v=e1bdb19da5"
+  },
+  {
     "id": "guid:letterboxd-watch-1483325626",
     "guid": "letterboxd-watch-1483325626",
     "username": "theolejake",
@@ -34,6 +106,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/4/6/0/8/774608-the-whisper-man-0-600-0-900-crop.jpg?v=ceba3ed52e"
+  },
+  {
+    "id": "guid:letterboxd-review-1483385721",
+    "guid": "letterboxd-review-1483385721",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "Elsinore",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/elsinore/",
+    "watched_date": "2026-09-05",
+    "publication_date": "2026-09-05",
+    "rating": 1.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "something is rotten in the state of Denmark. Andrew Scott is great, possibly, as actor Ian Charleson performing Hamlet as he dies of AIDS, but it's hard to tell in a movie so cut to ribbons. plays like an 100-minute trailer for itself, leaving nothing but half-empty tropes behind\u2026 truly maddening to watch. starts on the right foot but i was genuinely angry with it by the end.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=6cba19cc32"
   },
   {
     "id": "guid:letterboxd-watch-1483248231",
@@ -21794,7 +21884,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 539 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 540 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -21992,7 +22082,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 86 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 87 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -22010,7 +22100,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 153 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 154 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26546,7 +26636,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1981 - 1996\nartful, strange, genre, transgressive, ordinary/unordinary, good/bad\nhighly personal but perhaps relatable\nScanners\nNightdreams\nAmerican Pop\nThief\nExcalibur\nThe Decline of Western Civilization\nPolyester\nPossession\nClash of the Titans\nBlow Out\n...plus 380 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1981 - 1996\nartful, strange, genre, transgressive, ordinary/unordinary, good/bad\nhighly personal but perhaps relatable\nScanners\nNightdreams\nAmerican Pop\nThief\nExcalibur\nThe Decline of Western Civilization\nPolyester\nPossession\nClash of the Titans\nBlow Out\n...plus 381 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27266,7 +27356,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2996 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2997 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27716,7 +27806,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1818 more.\nView the full list on Letterboxd\n.",
+    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1819 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27968,7 +28058,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2712 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2713 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29808,6 +29898,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-905413",
+    "guid": "letterboxd-list-905413",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Movies Shot on Film 2012 And After",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/movies-shot-on-film-2012-and-after/",
+    "watched_date": null,
+    "publication_date": "2016-02-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 816 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-880901",
     "guid": "letterboxd-list-880901",
     "username": "gemko",
@@ -30074,7 +30182,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The 12 Days of Krampus\nThe 12 Disasters of Christmas\nThe 12 Slays of Christmas\n12/24\n13 Slays Till X-Mas\nThe 2nd\nAbraxas, Guardian of the Universe\nAdult Swim Yule Log\nThe Advent Calendar\nThe Adventure of the Wrong Santa Claus\n...plus 528 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The 12 Days of Krampus\nThe 12 Disasters of Christmas\nThe 12 Slays of Christmas\n12/24\n13 Slays Till X-Mas\nThe 2nd\nAbraxas, Guardian of the Universe\nAdult Swim Yule Log\nThe Advent Calendar\nThe Adventure of the Wrong Santa Claus\n...plus 529 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

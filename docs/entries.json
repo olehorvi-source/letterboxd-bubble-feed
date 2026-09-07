@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1485996664",
+    "guid": "letterboxd-watch-1485996664",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Shaolin Soccer",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/shaolin-soccer/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/0/2/5/45025-shaolin-soccer-0-600-0-900-crop.jpg?v=a071ce6617"
+  },
+  {
     "id": "guid:letterboxd-watch-1485887713",
     "guid": "letterboxd-watch-1485887713",
     "username": "bdgrabinski",
@@ -36,6 +54,96 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/3/9/2/6/93926-decalogue-x-0-600-0-900-crop.jpg?v=2cae3a65a3"
   },
   {
+    "id": "guid:letterboxd-review-1486163244",
+    "guid": "letterboxd-review-1486163244",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "You Can See Everything",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/you-can-see-everything/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Hahahhahaahahahahahhaahaah",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=38bba21d93"
+  },
+  {
+    "id": "guid:letterboxd-review-1486082645",
+    "guid": "letterboxd-review-1486082645",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Terror Train",
+    "film_year": 1980,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/terror-train/1/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "the setting is really everything here, and I\u2019m an admitted sucker for a train movie in general, but I\u2019ve always found this to be dull outside of its main two gimmicks: the aforementioned train and its inspired use of masks \u2014 the rest of it is mostly monkey business",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/4/0/2/4/24024-terror-train-0-600-0-900-crop.jpg?v=568e262a3a"
+  },
+  {
+    "id": "guid:letterboxd-review-1486070300",
+    "guid": "letterboxd-review-1486070300",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Turtles Can Fly",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/turtles-can-fly/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The first feature filmed inside of post-Saddam Iraq was apparently this harrowing war drama about the ground-level suffering of orphaned children who spend their days navigating minefields, sitting atop tanks, playing with gas masks, scavenging for scraps, and trying to set-up satellite television for broadcast news updates regarding the impending US invasion. Kurdish-Iranian filmmaker Bahman Ghobadi apparently originally conceived a very different film when he travelled over the border with his camera, but after spending days travelling and coming across nothing but endless rural wreckage (which he uses as neo-realist back-drop for his story) and various real-life limbless children who managed to survive, he asked them to become non-actor participants in their own narrative and became determined to show the world the ugly and unnatural horrors they experienced in view of these lyrical, natural landscapes. The bit with the propaganda choppers is chilling, and the final shots of American soldiers running by is haunting. Hard to watch this and not conjure up images of what the children in Gaza have been going through.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/31/nu/yu/am/maoGbtfSERgqu6J9qvAz4fzse8Z-0-600-0-900-crop.jpg?v=981dfdaa8d"
+  },
+  {
+    "id": "guid:letterboxd-review-1486042056",
+    "guid": "letterboxd-review-1486042056",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Cinderella",
+    "film_year": 1977,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/cinderella-1977/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I don\u2019t like movies anymore.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/5/7/4057-cinderella-0-600-0-900-crop.jpg?v=887036cf9e"
+  },
+  {
+    "id": "guid:letterboxd-review-1485968584",
+    "guid": "letterboxd-review-1485968584",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Dekalog",
+    "film_year": 1989,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/dekalog/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "This review may contain spoilers.\nFelt good to finally pull the trigger on this and realize that outside of the unifying locale of the austere Warsaw housing block each episode was completely self-contained (shifting not just in terms of narrative focus but also style, structure, etc), and that its reputation as 10 hours of dauntingly drab Polish misery, while not entirely unfounded or untrue, was maybe a bit overstated. How each one of these stories connects to the lofty overarching ten commandments theme that might give this impression is often deliberately ambiguous and oblique, and rather than an intellectual exercise in ideas hovering above and looking down on these characters, they are often gut-wrenchingly and dramatically moral/existential ones driven by a deeply felt intimacy.\nEven the ones that sound philosophical or analytical in concept and designed to provoke an Ethics 101 class are told with an eerie fable-like sensitivity loaded with human guilt, tragedy and absurdity. V and VI are the obvious two-part stand-out deemed good enough to be expanded into individual features (called\nA Short Film About Killing/Love\n); the former a clinical and ugly jaundiced-filtered\nIn Cold Blood\nprocedural of senseless violence (murder committed by citizen, death penalty by the state), the latter a lonely\nRear Window\n/\nBlue Velvet\npeeping tom romance of voyeurism and obsession. But despite this high in the middle, the real power of this is in how it accumulates over the course of 10 haunting hours. By the time I got to VIII and heard the literal ethics professor (who is about to come face-to-face with her own guilt-ridden conscience about her failure to protect a young Jewish girl in the Warsaw ghetto 40 years earlier) start talking about an abortion case study from II, suddenly my mind was drifting back to that shot of wasp trying to escape a cup of strawberries via spoon (as visual metaphor for the soap opera scenario of whether her comatose husband will wake up to find his wife pregnant with another man's child) and I was emotional about it all over again. As a long-form story it's so casual and loose about how these things overlap, and not all of them do, but that's human communal experience.\nMaybe the greatest quality of this mini-series though is how it goes about offering no answers or prescriptions to the issues of modern living it raises, when the atheist father in I trusts his glowing computer screens calculation that the outdoor ice his kid wants to skate on is safe because he believes \"everything can be counted and measured\", it's not a gotcha on him or his lack of religion that the kid dies but a quietly operatic parable on a cold and cruel world that can't fully be understood rationally or logically. And it's a great mood-setter for how it similarly approaches topics of infidelity (IX's suicidal impotency + III's Christmas Eve\nBefore\nmovie walk-and-talk between two cheaters who have tried to move on from their affair) and abuse (VII's double-whammy generational melodrama of an abusive grandmother living vicariously through her statutory raped daughter's child she tries to steal from her). And just when I thought it couldn't get more European, they threw in The Incest One (IV)! It was honestly something of a relief that the last one was a comedy about two bozo brothers and their dead father's stamp collection.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/4/1/0/5/274105-the-decalogue-0-600-0-900-crop.jpg?v=5b9927b661"
+  },
+  {
     "id": "guid:letterboxd-review-1485924313",
     "guid": "letterboxd-review-1485924313",
     "username": "jlalibs",
@@ -52,6 +160,24 @@
     "rewatch": false,
     "review_text": "feels more like a British\nLa c\u00e9r\u00e9monie\nthan anything resembling the much more palatable angst of\nThelma & Louise\nwith a pitch perfect Amanda Plummer going scorched earth on just about everyone in sight \u2014 an exceedingly strange movie, which is par for course with Winterbottom, but I\u2019m a very easy mark for a sadistic road movie with four Cranberries needled drops",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/2/6/0/17260-butterfly-kiss-0-600-0-900-crop.jpg?v=44735007b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1486183468",
+    "guid": "letterboxd-review-1486183468",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Free Solo",
+    "film_year": 2018,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/free-solo/",
+    "watched_date": "2026-09-04",
+    "publication_date": "2026-09-07",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "62/100\nSometimes you have to get up close to a thing before you can appreciate how truly insane it is.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/4/6/1/7/444617-free-solo-0-600-0-900-crop.jpg?v=36aa06d8b2"
   },
   {
     "id": "guid:letterboxd-watch-1485731851",
@@ -123,7 +249,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=6cba19cc32"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=5cc1044e68"
   },
   {
     "id": "guid:letterboxd-watch-1485352552",
@@ -753,7 +879,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "something is rotten in the state of Denmark. Andrew Scott is great, possibly, as actor Ian Charleson performing Hamlet as he dies of AIDS, but it's hard to tell in a movie so cut to ribbons. plays like an 100-minute trailer for itself, leaving nothing but half-empty tropes behind\u2026 truly maddening to watch. starts on the right foot but i was genuinely angry with it by the end.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=6cba19cc32"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=5cc1044e68"
   },
   {
     "id": "guid:letterboxd-watch-1483248231",
@@ -26514,6 +26640,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-25290070",
+    "guid": "letterboxd-list-25290070",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "fifty years of roe v wade, a century of abortion in cinema",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/fifty-years-of-roe-v-wade-a-century-of-abortion/",
+    "watched_date": null,
+    "publication_date": "2022-06-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "includes domestic and foreign films; docs, shorts, etc\nnot all are positive portrayals, but explicit pro-life propaganda has been excluded\nin chronological order by release year\nWhere Are My Children?\nBed and Sofa\nMisery and Fortune of Woman\nCyanide\nAn American Tragedy\nAnn Vickers\nAmok\nMen in White\nThe Road to Ruin\nWalpurgis Night\n...plus 325 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-24331222",
     "guid": "letterboxd-list-24331222",
     "username": "davidehrlich",
@@ -28022,7 +28166,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2998 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2999 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -28418,7 +28562,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 306 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 307 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -28904,7 +29048,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 459 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 460 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29966,7 +30110,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Incredibles\nVera Drake\nBefore Sunset\nCollateral\nSpider-Man 2\nEternal Sunshine of the Spotless Mind\nThe Village\nMillion Dollar Baby\nBirth\nOcean's Twelve\n...plus 87 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Incredibles\nVera Drake\nBefore Sunset\nCollateral\nSpider-Man 2\nEternal Sunshine of the Spotless Mind\nThe Village\nMillion Dollar Baby\nBirth\nOcean's Twelve\n...plus 88 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

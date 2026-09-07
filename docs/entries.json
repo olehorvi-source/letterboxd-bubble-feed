@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1486931871",
+    "guid": "letterboxd-watch-1486931871",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Jason's Lyric",
+    "film_year": 1994,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/jasons-lyric/1/",
+    "watched_date": "2026-09-07",
+    "publication_date": "2026-09-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/0/9/6/38096-jason-s-lyric-0-600-0-900-crop.jpg?v=bb775de2a9"
+  },
+  {
     "id": "guid:letterboxd-watch-1486749037",
     "guid": "letterboxd-watch-1486749037",
     "username": "SeanFennessey",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/3/7/4/1110374-the-wrong-girls-0-600-0-900-crop.jpg?v=a7d0c4f18f"
+  },
+  {
+    "id": "guid:letterboxd-review-1486827440",
+    "guid": "letterboxd-review-1486827440",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "Look Back",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/look-back-2026/",
+    "watched_date": "2026-09-07",
+    "publication_date": "2026-09-07",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The magic trick of Kiyotaka Oshiyama\u2019s 53-minute anime film \u201cLook Back\u201d is how its brevity gives visceral dimension to the defining tension of its story: That between the time it takes to create something (in this case, a portfolio of one-shots), and the time it takes to consume it. By contrast, the magic trick of Hirokazu Kore-eda\u2019s 100-minute live-action \u201cLook Back\u201d is that it somehow manages to accomplish the same thing despite running twice as long.\nAs slavishly faithful to Oshiyama\u2019s anime as Oshiyama\u2019s anime was to Tatsuki Fujimoto\u2019s original manga, Kore-eda\u2019s muted but affecting drama retells the bittersweet tale of two very different schoolgirls in western Japan who are bonded together by their shared love of comics. The popular and boisterous Fujino (expressively played through her tweenage years by Furi Nanase) is famous among her classmates for the yonkoma cartoons that she draws for the school newspaper, and carried by the unique self-confidence that comes from discovering your purpose in life at such a young age. Alas, Fujino\u2019s entire worldview is rattled off its axis when she\u2019s in fourth grade \u2014 when a severely anxious local shut-in named Kyomoto begins to submit yonkoma of her own as a tentative way of engaging with the world beyond her bedroom. The recluse\u2019s work naturally lacks the finger-on-the-pulse wit of Fujino\u2019s strips, but it compensates for that with the careful attention of its linework and background detail. A heated rivalry is born.\nThat rivalry eventually blossoms into a beautiful collaboration, as Fujino is tasked with delivering Kyomoto\u2019s diploma to the shut-in\u2019s seemingly abandoned house at the end of sixth grade (no version of this story makes any mention of her parents\u2019 whereabouts, but the director of \u201cNobody Knows\u201d can\u2019t help but charge this brief glimpse of Kyomoto\u2019s barren home life with a tacit sense of tragedy), and, in what feels like a predestined twist of fate, inadvertently draws the recluse out of her room. By that point, Fujino\u2019s natural resentment towards Kyomoto\u2019s ability \u2014 and her obsessive failure to outdo it \u2014 has caused her to question her purpose, but it turns out that Kyomoto is Fujino\u2019s biggest fan, and so Fujino agrees to an ego\u2013saving creative partnership. Half a lifetime down the road, she will be haunted by that decision as if it just happened yesterday. But first: happiness.\n~this review continues on IndieWire~",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/1/4/3/9/1461439-look-back-2026-0-600-0-900-crop.jpg?v=6bc3925bb9"
   },
   {
     "id": "guid:letterboxd-review-1486635332",
@@ -196,6 +232,24 @@
     "rewatch": false,
     "review_text": "feels more like a British\nLa c\u00e9r\u00e9monie\nthan anything resembling the much more palatable angst of\nThelma & Louise\nwith a pitch perfect Amanda Plummer going scorched earth on just about everyone in sight \u2014 an exceedingly strange movie, which is par for course with Winterbottom, but I\u2019m a very easy mark for a sadistic road movie with four Cranberries needled drops",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/2/6/0/17260-butterfly-kiss-0-600-0-900-crop.jpg?v=44735007b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1485671357",
+    "guid": "letterboxd-review-1485671357",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Sword in the Stone",
+    "film_year": 1963,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-sword-in-the-stone/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I love the owl!!!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/6/47366-the-sword-in-the-stone-0-600-0-900-crop.jpg?v=1983eb1914"
   },
   {
     "id": "guid:letterboxd-review-1486183468",
@@ -27356,7 +27410,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I had lists for the Criterion Blus and the DVDs; might as well be everything.\nAcross 110th Street\nAdaptation.\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nThe Adventures of Robin Hood\nAfter Dark, My Sweet\nAfterschool\nAguirre, the Wrath of God\nAirplane!\nAlien\nAll Is Lost\n...plus 336 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I had lists for the Criterion Blus and the DVDs; might as well be everything.\nAcross 110th Street\nAdaptation.\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nThe Adventures of Robin Hood\nAfter Dark, My Sweet\nAfterschool\nAguirre, the Wrath of God\nAirplane!\nAlien\nAll Is Lost\n...plus 343 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30974,7 +31028,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Created the day I could not for the life of me remember whether I have a copy of\nHope and Glory\nand had to go through my entire collection. (I do not.) (UPDATE: I now have it on Blu-ray.)\nFor best curiosity browsing, resort the list by release date.\n(Does not include Blu-rays, as those are actually alphabetized on shelves. I ran out of space for the standard DVDs long ago.)\nAfter Life\nAll the Real Girls\nAn Amazing Couple\nAnnie Hall\nAuthor: The JT LeRoy Story\nThe Best Years of Our Lives\nThe Big Sleep\nBird People\nThe Boss of It All\nBus 174\n...plus 132 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Created the day I could not for the life of me remember whether I have a copy of\nHope and Glory\nand had to go through my entire collection. (I do not.) (UPDATE: I now have it on Blu-ray.)\nFor best curiosity browsing, resort the list by release date.\n(Does not include Blu-rays, as those are actually alphabetized on shelves. I ran out of space for the standard DVDs long ago.)\nAfter Life\nAll the Real Girls\nAn Amazing Couple\nAnnie Hall\nAuthor: The JT LeRoy Story\nThe Best Years of Our Lives\nThe Big Sleep\nBird People\nThe Boss of It All\nBus 174\n...plus 129 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

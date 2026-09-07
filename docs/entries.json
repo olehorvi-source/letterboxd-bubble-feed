@@ -1,5 +1,131 @@
 [
   {
+    "id": "guid:letterboxd-watch-1485887713",
+    "guid": "letterboxd-watch-1485887713",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Tarzan the Ape Man",
+    "film_year": 1932,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/tarzan-the-ape-man/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/0/0/1/35001-tarzan-the-ape-man-0-600-0-900-crop.jpg?v=9d0135bdcb"
+  },
+  {
+    "id": "guid:letterboxd-watch-1485874940",
+    "guid": "letterboxd-watch-1485874940",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Decalogue X",
+    "film_year": 1989,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/decalogue-x/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/3/9/2/6/93926-decalogue-x-0-600-0-900-crop.jpg?v=2cae3a65a3"
+  },
+  {
+    "id": "guid:letterboxd-review-1485924313",
+    "guid": "letterboxd-review-1485924313",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Butterfly Kiss",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/butterfly-kiss/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-07",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "feels more like a British\nLa c\u00e9r\u00e9monie\nthan anything resembling the much more palatable angst of\nThelma & Louise\nwith a pitch perfect Amanda Plummer going scorched earth on just about everyone in sight \u2014 an exceedingly strange movie, which is par for course with Winterbottom, but I\u2019m a very easy mark for a sadistic road movie with four Cranberries needled drops",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/2/6/0/17260-butterfly-kiss-0-600-0-900-crop.jpg?v=44735007b0"
+  },
+  {
+    "id": "guid:letterboxd-watch-1485731851",
+    "guid": "letterboxd-watch-1485731851",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Decalogue IX",
+    "film_year": 1989,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/decalogue-ix/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-06",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/3/9/2/7/93927-decalogue-ix-0-600-0-900-crop.jpg?v=703c7cfd1c"
+  },
+  {
+    "id": "guid:letterboxd-watch-1485671357",
+    "guid": "letterboxd-watch-1485671357",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Sword in the Stone",
+    "film_year": 1963,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-sword-in-the-stone/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-06",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/6/47366-the-sword-in-the-stone-0-600-0-900-crop.jpg?v=1983eb1914"
+  },
+  {
+    "id": "guid:letterboxd-watch-1485626084",
+    "guid": "letterboxd-watch-1485626084",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Adventures of Ichabod and Mr. Toad",
+    "film_year": 1949,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-adventures-of-ichabod-and-mr-toad/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-06",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/9/43869-the-adventures-of-ichabod-and-mr-toad-0-600-0-900-crop.jpg?v=a11bc8240f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1485503649",
+    "guid": "letterboxd-watch-1485503649",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Elsinore",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/elsinore/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-06",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=6cba19cc32"
+  },
+  {
     "id": "guid:letterboxd-watch-1485352552",
     "guid": "letterboxd-watch-1485352552",
     "username": "riotglasses",
@@ -230,7 +356,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "One of the weirder and funnier sexploitation I\u2019ve seen, in part because Russ Meyer appears to be making a pointed satire of the types of inscrutable melodrama and sexual encounters required of him when writing things like \u201cplot\u201d or \u201ccharacter\u201d in a film like this, but also tries to throw in some I think earnest hot button 1968 political commentary (on Vietnam, communism, civil rights, the sexual revolution, etc) that interacts with all the comedy and horniness in a fashion I\u2019ll generously describe as confused. I knew what I was in for tonally when this opened on a British Columbia travel montage where the generically handsome, borderline Sirkian pilot leading man is described by the narrator as flying through \u201cBUSH country!\u201d (Emphasis and all.) And yet Erica Gavin\u2019s lead performance as the titular nymphomaniac housewife who seduces nearly every character in the film (a local Canadian Mountie, a pair of husband-and-wife tourists on their way to Toronto, her Nazi insginia attired denim biker \u201cbaby brother\u201d!!) primarily by rubbing her topless self on them, doing a striptease dance with fish, or being a bully/insane racist still managed to shock me a few times. Wasn\u2019t really sure what to make of the draft dodging black man vs. Irish IRA Marxist plane-hijacking piracy finale (an insane sentence to write out about a Russ Meyer skin flick), but there was enough in here to be entertained and baffled by that I was never bored. And whatever you think of the characters and performances in his movies, you could never accuse Meyer of being anything but inventive when it comes to composing shots and cutting together a manic montage. That low-angle shot up Gavin\u2019s dress while she does the fish dance, the one between her legs as she prepares to seduce a fellow housewife (laughed out loud that they appear to have sex by rubbing their breasts against each other\u2014dude couldn\u2019t contain himself!), the under the bed spring POV shot as her brother gets on top of her, the multiple instances of cross-cutting between Vixen in the thralls of sexual ecstasy while other characters try and fail to have serious conversations about their marriage or geopolitics.\nFull discussion on coming soon on the podcast\n.",
+    "review_text": "One of the weirder and funnier sexploitation I\u2019ve seen, in part because Russ Meyer appears to be making a pointed satire of the types of inscrutable melodrama and sexual encounters required of him when writing things like \u201cplot\u201d or \u201ccharacter\u201d in a film like this, but also tries to throw in some I think earnest hot button 1968 political commentary (on Vietnam, communism, civil rights, the sexual revolution, etc) that interacts with all the comedy and horniness in a fashion I\u2019ll generously describe as confused. I knew what I was in for tonally when this opened on a British Columbia travel montage where the generically handsome, borderline Sirkian pilot leading man is described by the narrator as flying through \u201cBUSH country!\u201d (Emphasis and all.) And yet Erica Gavin\u2019s lead performance as the titular nymphomaniac housewife who seduces nearly every character in the film (a local Canadian Mountie, a pair of husband-and-wife tourists on their way to Toronto, her Nazi insginia attired denim biker \u201cbaby brother\u201d!!) primarily by rubbing her topless self on them, doing a striptease dance with fish, or being a bully/insane racist still managed to shock me a few times. Wasn\u2019t really sure what to make of the draft dodging black man vs. Irish IRA Marxist plane-hijacking piracy finale (an insane sentence to write out about a Russ Meyer skin flick), but there was enough in here to be entertained and baffled by that I was never bored. And whatever you think of the characters and performances in his movies, you could never accuse Meyer of being anything but inventive when it comes to composing shots and cutting together a manic montage. That low-angle shot up Gavin\u2019s dress while she does the fish dance, the one between her legs as she prepares to seduce a fellow housewife (laughed out loud that they appear to have sex by rubbing their breasts against each other\u2014dude couldn\u2019t contain himself!), the under the bed spring POV shot as her brother gets on top of her, the multiple instances of cross-cutting between Vixen in the thralls of sexual ecstasy while other characters try and fail to have serious conversations about their marriage or geopolitics. The End?\nFull discussion on coming soon on the podcast\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/7/0/1/48701-vixen--0-600-0-900-crop.jpg?v=2f60ab8743"
   },
   {
@@ -22604,7 +22730,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 87 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 88 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25592,7 +25718,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 568 more.\nView the full list on Letterboxd\n.",
+    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 569 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27896,7 +28022,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2997 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2998 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27932,7 +28058,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 631 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 632 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29552,7 +29678,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1117 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1118 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30686,7 +30812,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2084 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2085 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31298,7 +31424,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Thank christ for the annual half-price sales.\nAce in the Hole\nAfter Hours\nAlex Wheatle\nAll That Heaven Allows\nAnatomy of a Murder\nAll About Eve\nAll That Jazz\nArmy of Shadows\nAn Autumn Afternoon\nBadlands\n...plus 299 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Thank christ for the annual half-price sales.\nAce in the Hole\nAfter Hours\nAlex Wheatle\nAll That Heaven Allows\nAnatomy of a Murder\nAll About Eve\nAll That Jazz\nArmy of Shadows\nAn Autumn Afternoon\nBadlands\n...plus 300 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1487857768",
+    "guid": "letterboxd-watch-1487857768",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Gypsy Moths",
+    "film_year": 1969,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-gypsy-moths/",
+    "watched_date": "2026-09-07",
+    "publication_date": "2026-09-08",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/0/4/8/2048-the-gypsy-moths-0-600-0-900-crop.jpg?v=bda5672857"
+  },
+  {
+    "id": "guid:letterboxd-watch-1487643046",
+    "guid": "letterboxd-watch-1487643046",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Clue",
+    "film_year": 1985,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/clue/1/",
+    "watched_date": "2026-09-07",
+    "publication_date": "2026-09-08",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/5/3/1/42531-clue-0-600-0-900-crop.jpg?v=64edadac50"
+  },
+  {
     "id": "guid:letterboxd-watch-1487468009",
     "guid": "letterboxd-watch-1487468009",
     "username": "davidlsims",
@@ -18,6 +54,60 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/0/2/1/0/70210-life-and-nothing-more--0-600-0-900-crop.jpg?v=f777cf4095"
   },
   {
+    "id": "guid:letterboxd-review-1487693324",
+    "guid": "letterboxd-review-1487693324",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Whisper Man",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-whisper-man/",
+    "watched_date": "2026-09-07",
+    "publication_date": "2026-09-08",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "A completely anonymous throwback to 90s paperback serial killer thrillers that your parents will see at the top of the Netflix home page and say \"yeah, that one was okay.\" Part of me wants to encourage the return of this genre but there's just enough talent in front and behind the camera (Peter Deming?! Colin Stetson?!) to make it more than a little frustrating that it's so grey and sleepy. Spent a lot of the down time here between De Niro's occasionally funny autopilot line deliveries (and the few moments of grisliness) picturing one of those bootleg t-shirts where you see all the famous gangster characters hanging out at the same diner but it was all the Men: Tall, Slender, Bye Bye, Snow, Empty, etc.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/4/6/0/8/774608-the-whisper-man-0-600-0-900-crop.jpg?v=ceba3ed52e"
+  },
+  {
+    "id": "guid:letterboxd-review-1487601879",
+    "guid": "letterboxd-review-1487601879",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Roommate",
+    "film_year": 2011,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-roommate/",
+    "watched_date": "2026-09-07",
+    "publication_date": "2026-09-08",
+    "rating": 0.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "ok she does put a cat in a dryer but she also gets Billy Zane fired for harassment I guess it's a movie about how morality is complex...",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/6/8/3/15683-the-roommate-0-600-0-900-crop.jpg?v=8c56ee4a27"
+  },
+  {
+    "id": "guid:letterboxd-review-1487597581",
+    "guid": "letterboxd-review-1487597581",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Door",
+    "film_year": 1988,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/door-1988/",
+    "watched_date": "2026-09-07",
+    "publication_date": "2026-09-08",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "starts out as a paranoid domestic thriller and becomes, in its last act, a relentlessly violent screwball comedy with some of the best stunt work I\u2019ve seen in a minute \u2014 some of the scenes here might go on to long but it ends up developing a rhythm that feels like sicko slow cinema and I\u2019m here for it",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/0/1/3/8/340138-door-0-600-0-900-crop.jpg?v=aa72798574"
+  },
+  {
     "id": "guid:letterboxd-review-1487537381",
     "guid": "letterboxd-review-1487537381",
     "username": "bdgrabinski",
@@ -34,6 +124,24 @@
     "rewatch": false,
     "review_text": "Movie of the year. Exhilarating. Wish everyone could see that in 4DX.\nThere\u2019s MUMMY RETURNS level CG but who gives a fuck.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/5/4/6/6/3/954663-hope-2026-0-600-0-900-crop.jpg?v=102a8bfda2"
+  },
+  {
+    "id": "guid:letterboxd-review-1487792700",
+    "guid": "letterboxd-review-1487792700",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "I Like Movies",
+    "film_year": 2022,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/i-like-movies/",
+    "watched_date": "2026-09-06",
+    "publication_date": "2026-09-08",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "48/100\nMan, even the title makes me cringe.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/8/3/1/5/3/883153-i-like-movies-0-600-0-900-crop.jpg?v=f0181e54fc"
   },
   {
     "id": "guid:letterboxd-review-1487514614",
@@ -231,7 +339,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Hahahhahaahahahahahhaahaah",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=38bba21d93"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=1061957f13"
   },
   {
     "id": "guid:letterboxd-review-1486082645",
@@ -429,7 +537,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=5cc1044e68"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=6faa025586"
   },
   {
     "id": "guid:letterboxd-watch-1485352552",
@@ -479,7 +587,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/buddy-2026/",
     "watched_date": "2026-09-06",
     "publication_date": "2026-09-06",
-    "rating": 4.0,
+    "rating": 3.5,
     "liked": null,
     "rewatch": false,
     "review_text": "Death to Smoochy\nwalked so Buddy could kill \u2014 didn\u2019t expect this to fill me with so much dread but now I live in the liminal space inside of my TV and Clint Howard is my only friend",
@@ -1059,7 +1167,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "something is rotten in the state of Denmark. Andrew Scott is great, possibly, as actor Ian Charleson performing Hamlet as he dies of AIDS, but it's hard to tell in a movie so cut to ribbons. plays like an 100-minute trailer for itself, leaving nothing but half-empty tropes behind\u2026 truly maddening to watch. starts on the right foot but i was genuinely angry with it by the end.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=5cc1044e68"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=6faa025586"
   },
   {
     "id": "guid:letterboxd-watch-1483248231",
@@ -4299,7 +4407,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/1/0/7/0/0/1410700-in-the-heart-of-the-south-0-600-0-900-crop.jpg?v=2651912b9a"
   },
   {
     "id": "guid:letterboxd-watch-1469424697",
@@ -7701,7 +7809,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/2/0/3/1025203-mayday-2026-0-600-0-900-crop.jpg?v=bc54926ff0"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/2/0/3/1025203-mayday-2026-0-600-0-900-crop.jpg?v=d05a68f0b6"
   },
   {
     "id": "guid:letterboxd-watch-1453702488",
@@ -23036,7 +23144,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 88 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 89 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -28580,7 +28688,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2472 more.\nView the full list on Letterboxd\n.",
+    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2475 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29228,7 +29336,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 460 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 461 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30164,7 +30272,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Margaret\nMoneyball\nCertified Copy\nThe Tree of Life\nThe Girl with the Dragon Tattoo\nMission: Impossible \u2013 Ghost Protocol\nUncle Boonmee Who Can Recall His Past Lives\nArchipelago\nTinker Tailor Soldier Spy\nFast Five\n...plus 73 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Margaret\nMoneyball\nCertified Copy\nThe Tree of Life\nThe Girl with the Dragon Tattoo\nMission: Impossible \u2013 Ghost Protocol\nUncle Boonmee Who Can Recall His Past Lives\nArchipelago\nTinker Tailor Soldier Spy\nFast Five\n...plus 74 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31136,7 +31244,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2085 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2086 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

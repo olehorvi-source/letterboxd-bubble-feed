@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1489609545",
+    "guid": "letterboxd-watch-1489609545",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Primetime",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/primetime-2026/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-09",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-600-0-900-crop.jpg?v=41640d6988"
+  },
+  {
     "id": "guid:letterboxd-watch-1489397812",
     "guid": "letterboxd-watch-1489397812",
     "username": "davidlsims",
@@ -16,6 +34,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/2/7/2/18272-through-the-olive-trees-0-600-0-900-crop.jpg?v=ce04292aa8"
+  },
+  {
+    "id": "guid:letterboxd-review-1489561448",
+    "guid": "letterboxd-review-1489561448",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Cars",
+    "film_year": 2006,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/cars/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-09",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Needs Kevin Bacon, Fred Ward, and Graboids.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/de/kp/63/hd/dWg33ektXuHmxjSjEulwDPTWbC2-0-600-0-900-crop.jpg?v=df40f228cb"
+  },
+  {
+    "id": "guid:letterboxd-review-1489473948",
+    "guid": "letterboxd-review-1489473948",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Siesta",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/siesta/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-09",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "gloriously artful trash that\u2019s as gleefully sordid as it is impeccably cast, second only to\nCatchfire\nin enlisting a wholly unpredictable ensemble to appear in something so simultaneously avant-garde and sleazy (Jodie Foster, Grace Jones, Julian Sands, Ellen Barkin, Martin Sheen and Isabella Rossellini in the same film!) \u2014 an erotic thriller on its surface but something much more nebulous, and theatrical, than that underneath",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/0/4/6/23046-siesta-0-600-0-900-crop.jpg?v=fd4a2df8e2"
   },
   {
     "id": "guid:letterboxd-watch-1488874919",
@@ -23522,7 +23576,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 90 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 91 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31640,7 +31694,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2089 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2090 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

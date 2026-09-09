@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1489397812",
+    "guid": "letterboxd-watch-1489397812",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Through the Olive Trees",
+    "film_year": 1994,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/through-the-olive-trees/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-09",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/2/7/2/18272-through-the-olive-trees-0-600-0-900-crop.jpg?v=ce04292aa8"
+  },
+  {
     "id": "guid:letterboxd-watch-1488874919",
     "guid": "letterboxd-watch-1488874919",
     "username": "brofromanother",
@@ -34,6 +52,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=208b49608e"
+  },
+  {
+    "id": "guid:letterboxd-review-1489271669",
+    "guid": "letterboxd-review-1489271669",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Ju-on: The Grudge",
+    "film_year": 2002,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/ju-on-the-grudge/",
+    "watched_date": "2026-09-08",
+    "publication_date": "2026-09-09",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "far more interesting as a visceral haunted house attraction than anything reliant on narrative, featuring a handful of images that have gone on to influence horror cinema for the past couple of decades \u2014 but beyond it\u2019s obvious visual potency, this is one of the best representations of aural horror I can think of, the death rattle in the surround channels is as immediately foreboding as anything on screen",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/x9/78/0p/ll/cmD9Z36AxEQ1RgUhpTAlAEk4Zf1-0-600-0-900-crop.jpg?v=d5dc03204d"
   },
   {
     "id": "guid:letterboxd-review-1489022701",
@@ -22730,7 +22766,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nThe End of Oak Street\nNirvanna the Band the Show the Movie\nFjord\n...plus 64 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nThe End of Oak Street\nPrimetime\nNirvanna the Band the Show the Movie\n...plus 65 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26802,6 +26838,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-27607181",
+    "guid": "letterboxd-list-27607181",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "21st century horror canon",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/21st-century-horror-canon/",
+    "watched_date": null,
+    "publication_date": "2022-10-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "in chronological order\nBruiser\nFinal Destination\nGinger Snaps\nS\u00e9ance\nUrban Legends: Final Cut\nBook of Shadows: Blair Witch 2\nPhantom of the Megaplex\nWendigo\nTrouble Every Day\nJason X\n...plus 98 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-27601687",
     "guid": "letterboxd-list-27601687",
     "username": "bdgrabinski",
@@ -29246,7 +29300,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1819 more.\nView the full list on Letterboxd\n.",
+    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1820 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30920,7 +30974,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Chungking Express\nPulp Fiction\nHoop Dreams\nEd Wood\nThe Hudsucker Proxy\nSpeed\nEat Drink Man Woman\nThree Colours: Red\nCrooklyn\nHeavenly Creatures\n...plus 66 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Chungking Express\nPulp Fiction\nHoop Dreams\nEd Wood\nThe Hudsucker Proxy\nSpeed\nEat Drink Man Woman\nThree Colours: Red\nCrooklyn\nHeavenly Creatures\n...plus 67 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

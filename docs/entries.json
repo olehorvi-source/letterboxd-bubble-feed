@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1490604973",
+    "guid": "letterboxd-watch-1490604973",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Twice in a Lifetime",
+    "film_year": 1985,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/twice-in-a-lifetime/",
+    "watched_date": "2026-09-10",
+    "publication_date": "2026-09-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/6/7/3/7/96737-twice-in-a-lifetime-0-600-0-900-crop.jpg?v=9a405f5579"
+  },
+  {
+    "id": "guid:letterboxd-watch-1490547856",
+    "guid": "letterboxd-watch-1490547856",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Heart of the Beast",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/heart-of-the-beast-2026/",
+    "watched_date": "2026-09-10",
+    "publication_date": "2026-09-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/4/7/4/6/8/1147468-heart-of-the-beast-2026-0-600-0-900-crop.jpg?v=9503afe033"
+  },
+  {
     "id": "guid:letterboxd-watch-1490506603",
     "guid": "letterboxd-watch-1490506603",
     "username": "brofromanother",
@@ -34,6 +70,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-600-0-900-crop.jpg?v=41640d6988"
+  },
+  {
+    "id": "guid:letterboxd-review-1490746464",
+    "guid": "letterboxd-review-1490746464",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Chronovisor",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/chronovisor/",
+    "watched_date": "2026-09-10",
+    "publication_date": "2026-09-10",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "avant-mumblecore\nNational Treasure\n, resonant for that euphoric feeling in academia of finding the one citation that pulls it all together but then questioning yourself for days after turning it in \u2014 the best type of new movie, where it feels like you\u2019re seeing something be unearthed rather than premiering; if any physical media is made for this, it should immediately be circulated in every library",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-600-0-900-crop.jpg?v=50c00b9581"
+  },
+  {
+    "id": "guid:letterboxd-review-1490666206",
+    "guid": "letterboxd-review-1490666206",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Everytime",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/everytime/",
+    "watched_date": "2026-09-10",
+    "publication_date": "2026-09-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Don\u2019t Look Now: Tenerife",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/1/8/9/4/7/1518947-everytime-0-600-0-900-crop.jpg?v=5980567fe9"
   },
   {
     "id": "guid:letterboxd-review-1490442834",
@@ -23792,7 +23864,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 159 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 160 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23918,7 +23990,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 165 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 166 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -25052,7 +25124,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "auteur forward, often self-reflexive, vanity driven, anti-convention, pointing towards a future of something born from cinema, transgressing post-modernism\n0s & 1s\nAGGRO DR1FT\nA.I. Artificial Intelligence\nAmbulance\nAnnette\nThe Assassin\nAvatar: The Way of Water\nBaby Invasion\nBabylon\nBad Luck Banging or Loony Porn\n...plus 103 more.\nView the full list on Letterboxd\n.",
+    "review_text": "auteur forward, often self-reflexive, vanity driven, anti-convention, pointing towards a future of something born from cinema, transgressing post-modernism\n0s & 1s\nAGGRO DR1FT\nA.I. Artificial Intelligence\nAmbulance\nAnnette\nThe Assassin\nAvatar: The Way of Water\nBaby Invasion\nBabylon\nBad Luck Banging or Loony Porn\n...plus 104 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26384,7 +26456,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "aesthetically and/or aurally overwhelming, erratic, haphazard and, at times, singular -- not all are necessarily recommended\n13 Hours: The Secret Soldiers of Benghazi\n300\n6 Underground\nAbout Endlessness\nThe Adventures of Pluto Nash\nThe Adventures of Tintin\nAfter Blue (Dirty Paradise)\nAGGRO DR1FT\nA.I. Artificial Intelligence\nAlice in Wonderland\n...plus 416 more.\nView the full list on Letterboxd\n.",
+    "review_text": "aesthetically and/or aurally overwhelming, erratic, haphazard and, at times, singular -- not all are necessarily recommended\n13 Hours: The Secret Soldiers of Benghazi\n300\n6 Underground\nAbout Endlessness\nThe Adventures of Pluto Nash\nThe Adventures of Tintin\nAfter Blue (Dirty Paradise)\nAGGRO DR1FT\nA.I. Artificial Intelligence\nAlice in Wonderland\n...plus 417 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27374,7 +27446,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "genre films (mostly) shot on 8mm or 16mm film\n1974: The Possession of Altair\n5 Dead on the Crimson Canvas\nThe Abomination\nAcne\nAfter Blue (Dirty Paradise)\nAlien Blood\nThe Alien Dead\nThe Alien Factor\nAlien Factor 2: The Alien Rampage\nAlison's Birthday\n...plus 358 more.\nView the full list on Letterboxd\n.",
+    "review_text": "genre films (mostly) shot on 8mm or 16mm film\n1974: The Possession of Altair\n5 Dead on the Crimson Canvas\nThe Abomination\nAcne\nAfter Blue (Dirty Paradise)\nAlien Blood\nThe Alien Dead\nThe Alien Factor\nAlien Factor 2: The Alien Rampage\nAlison's Birthday\n...plus 359 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29570,7 +29642,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1821 more.\nView the full list on Letterboxd\n.",
+    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1822 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29822,7 +29894,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2717 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2718 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31676,7 +31748,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 816 more.\nView the full list on Letterboxd\n.",
+    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 817 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

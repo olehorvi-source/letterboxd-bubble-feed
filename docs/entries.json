@@ -1,5 +1,95 @@
 [
   {
+    "id": "guid:letterboxd-watch-1490214473",
+    "guid": "letterboxd-watch-1490214473",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "One Night Only",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/one-night-only-2026/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/6/7/7/1311677-one-night-only-2026-0-600-0-900-crop.jpg?v=9e18b23e11"
+  },
+  {
+    "id": "guid:letterboxd-watch-1490201498",
+    "guid": "letterboxd-watch-1490201498",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Uprising",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-uprising-2026/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/8/0/4/2/5/880425-the-uprising-2026-0-600-0-900-crop.jpg?v=71d42e25d2"
+  },
+  {
+    "id": "guid:letterboxd-review-1490153346",
+    "guid": "letterboxd-review-1490153346",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Mystery Science Theater 3000: The RiffTrax Experiments \u2014 Sting of Death",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/mystery-science-theater-3000-the-rifftrax/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Basically 18 scenes with an airboat and no jokes about Lana Del Rey. This is why you need at least one person in the crew under 40.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/1/7/0/5/1591705-mst3k-the-rifftrax-experiments-sting-of-death-0-600-0-900-crop.jpg?v=04f0979ada"
+  },
+  {
+    "id": "guid:letterboxd-review-1490110863",
+    "guid": "letterboxd-review-1490110863",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Hope",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/hope-2026/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-10",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "This review may contain spoilers.\nLegitimately bonkers Korean Extremity (both in terms of humor and gory violence) approximation of a Hollywood scifi-action blockbuster with a number of fluid and muscular monster movie setpieces among the best we've seen in some time, featuring some incredible wide-angle sweeping photography of its village, forest and mountain highway vistas, and some great constantly escalating/forward-momentum at all costs editing. Not only copying some of the scale and vocabulary of, but also loosely stringing its action around a plot, tone and character ensemble as nonsensicial as one of Michael Bay's later\nTransformers\nsequels. Appreciate how genuinely weird and gnarly this is, especially during the early stretch that has that Spielbergian patience and suspense before revealing the CG monstrosities, where we're often trailing just close enough to see the vast vehicle/building destruction and gruesomely torn/crushed corpses they've left in their wake a few seconds earlier. Things get a little wonkier when we actually see the PlayStation 3 Na'vi/\nAttack on Titan\nmfrs in their full form (and their frankly hilariously serious, mocap performances by the top-billed western cast members, and their completely incomprehensible language/lore), but in a way I will confess to mostly finding charmingly bizarre. Sorta feels like what I imagine someone who's never played a videogame before might if dropped into one of the later\nHalo\nsequels as a starting point. I almost don't want the \"Part 2\" the ending teases because it would likely make all the shots of aliens talking to each other and doing teary-eyed stares you don't remotely understand less funny. Speaking of which, wasn't expecting this to be as gag-heavy as it was. Frequently amusing itself by letting its character indulge in a traditionally exciting slow-motion action hero movie beat (\"Like a movie star! So hot!\"), and then immediately comically punishing them in some sort of humiliating or gross fashion... Lost it at how long our beautiful badass leading lady has to listen to that old man diarrhea monologue for right after getting her Sarah Connor ass introduction, and the\nHereditary\npayoff to how many times they dangle that dude trying to jump from horseback to the moving cop car. Unfortunately, some of the action gets a little too repetitive at this length, especially down the forest stretch (how many bullets and grenades these buggers can take starts to turn into a Wile E. Coyote bit at a certain point), and yet there's enough pure weird factor here for me to say anything but I had a good a time. Big fan of a movie just out of nowhere introducing a\nPrometheus\nship or doing alien autopsy shit.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/5/4/6/6/3/954663-hope-2026-0-600-0-900-crop.jpg?v=102a8bfda2"
+  },
+  {
+    "id": "guid:letterboxd-review-1490017984",
+    "guid": "letterboxd-review-1490017984",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Onslaught",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/onslaught-2026/",
+    "watched_date": "2026-09-09",
+    "publication_date": "2026-09-10",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I want to live in a world where\nUniversal Soldier: Day of Reckoning\ngot the release that this did \u2014 looks great but it\u2019s ultimately vapid, a mixtape of references to much better movies that, if nothing else, hopefully this movie turns a24 fans onto (do they know about vulgar auteurism yet?)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/3/2/8/1167328-onslaught-2026-0-600-0-900-crop.jpg?v=54130fd313"
+  },
+  {
     "id": "guid:letterboxd-review-1489976738",
     "guid": "letterboxd-review-1489976738",
     "username": "BrianDuffield",
@@ -159,7 +249,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=208b49608e"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=7a6d5c6675"
   },
   {
     "id": "guid:letterboxd-review-1489271669",
@@ -2453,7 +2543,7 @@
     "username": "bdgrabinski",
     "critic_tier": "primary",
     "creator_display_name": "BenDavid Grabinski",
-    "film_title": "Untold: Raygun: Breaking Badly",
+    "film_title": "Untold Raygun: Breaking Badly",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/untold-raygun-breaking-badly/",
@@ -5217,7 +5307,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-600-0-900-crop.jpg?v=25ae7ceb86"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-600-0-900-crop.jpg?v=7aa5553f54"
   },
   {
     "id": "guid:letterboxd-watch-1467829841",
@@ -5829,7 +5919,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/0/3/9/6/6/1003966-carl-sagan-we-are-made-of-star-stuff-0-600-0-900-crop.jpg?v=be25ea795a"
   },
   {
     "id": "guid:letterboxd-watch-1463940236",
@@ -23648,7 +23738,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 158 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 159 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -23774,7 +23864,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 164 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 165 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29678,7 +29768,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2716 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2717 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31766,7 +31856,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2091 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2092 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

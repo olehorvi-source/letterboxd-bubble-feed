@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1491747452",
+    "guid": "letterboxd-watch-1491747452",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "A Long Winter",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/a-long-winter-2026/",
+    "watched_date": "2026-09-11",
+    "publication_date": "2026-09-11",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=bce6622a02"
+  },
+  {
     "id": "guid:letterboxd-watch-1491357806",
     "guid": "letterboxd-watch-1491357806",
     "username": "riotglasses",
@@ -72,6 +90,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
+    "id": "guid:letterboxd-review-1491929357",
+    "guid": "letterboxd-review-1491929357",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "River",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/river-2026-1/",
+    "watched_date": "2026-09-10",
+    "publication_date": "2026-09-11",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The Daddy Issues sibling melodrama set-up for this is a bit generic but once this gets its killing machine engine revved-up, this as relentless and gnarly of an old-school stalk-and-prey slasher as I\u2019ve seen in some time. Part Craven (\nThe Rivers Have Eyes\n?), part\nThe Strangers\n, part survival/home-invasion thriller, with a really good eye for escalating its various cat-and-mouse logistics. Simple and economical stuff but impressively constructed for a debut. Great geographical use of the locations (the boat and the house); well-composed, naturally lit frames (by moonlight, flashlights, flares, fire, etc); some creative use of slow-motion and dissolves that generate this creepy, contextless sense of the mythic, supernatural inevitability in between the more conventional (but well-framed and timed) physical violence and jump scare beats. Crossbow yank and beer chug of the year hands down.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/6/1/1396561-river-5-0-600-0-900-crop.jpg?v=453948d4e8"
+  },
+  {
     "id": "guid:letterboxd-review-1491638714",
     "guid": "letterboxd-review-1491638714",
     "username": "thejoshl",
@@ -86,7 +122,7 @@
     "rating": 4.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "\"Is this a good cry or a bad cry?\"\n\"I don't know.\"\nReally beautiful and immersive depiction of the queer NYC nightlife scene inside a Sundance dramedy about a party/drug-addict who realizes he needs to go back to school and get a job once adulthood is thrust upon him in the form of a cute kid with good taste in music. Part of me felt this was a little too surprisingly easy and frictionless as an actual father-son drama for a good part of its runtime, though honestly that was mostly made up for by how comically \"untraditional\" the details of said relationship and environment were. (Lost it at \"the \"Fucking bitch!! You're gonna let him talk like that?!\" bit.) Before realizing that that was the point being made here, and it planned on dropping the hammer the entire time. So congrats to everyone involved, I teared up exactly on command, and while doing so realized there's definitely something a lot sneakier and more interesting about how Firstman is using the conventions of a formulaic \"universal\" story than I at first thought. Especially with how those beats dynamically interact with the broader community portraiture, which is both completely clear-eyed about all the sex and drugs, but also loving and non-judgmental about it, and keenly aware of its existence as an alternative to the \"traditional\" family structures queer people are often denied or abused within/running away from. Really moving stuff.",
+    "review_text": "\"Is this a good cry or a bad cry?\"\n\"I don't know.\"\nReally beautiful and immersive depiction of the queer NYC nightlife scene inside a Sundance dramedy about a party/drug-addict who realizes he should probably go back to school and get a job once adulthood is suddenly thrust upon him in the form of a cute kid with good taste in music. Part of me felt this was a little too surprisingly easy and frictionless as an actual father-son drama for a good part of its runtime, though honestly that was mostly made up for by how comically \"untraditional\" the details of said relationship and environment were. (Lost it at the \"Fucking bitch!! You're gonna let him talk like that?!\" bit.) Before realizing that that was the point being made here, and it planned on dropping the hammer the entire time. So congrats to everyone involved, I teared up exactly on command, and while doing so realized there's definitely something a lot sneakier and more interesting about how Firstman is using the conventions of a formulaic \"universal\" story than I at first thought. Especially with how those beats dynamically interact with the broader community portraiture, which is both completely clear-eyed about all the sex and drugs, but also loving and non-judgmental about it, and keenly aware of its existence as an alternative to the \"traditional\" family structures queer people are often denied or abused within/running away from. Really moving stuff.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {

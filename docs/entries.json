@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1496304216",
+    "guid": "letterboxd-watch-1496304216",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Uncommon Valor",
+    "film_year": 1983,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/uncommon-valor/",
+    "watched_date": "2026-09-14",
+    "publication_date": "2026-09-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/6/7/1/46671-uncommon-valor-0-600-0-900-crop.jpg?v=7f421dab6b"
+  },
+  {
+    "id": "guid:letterboxd-watch-1496233251",
+    "guid": "letterboxd-watch-1496233251",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Coyote vs. Acme",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/coyote-vs-acme/",
+    "watched_date": "2026-09-14",
+    "publication_date": "2026-09-14",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
+  },
+  {
     "id": "guid:letterboxd-watch-1496092640",
     "guid": "letterboxd-watch-1496092640",
     "username": "davidlsims",
@@ -36,6 +72,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/8/4/5/1/328451-nosferatu-0-600-0-900-crop.jpg?v=7cc27c01ed"
   },
   {
+    "id": "guid:letterboxd-review-1496204238",
+    "guid": "letterboxd-review-1496204238",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Anchors Aweigh",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/anchors-aweigh-2026/",
+    "watched_date": "2026-09-14",
+    "publication_date": "2026-09-14",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I hate when I\u2019m hornier than a ten dick dog and I\u2019m told that my behavioral instincts aren\u2019t exactly aligned with the character of the blue man group.\n\u2014 Radiohead",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/7/6/3/6/1547636-anchors-aweigh-1-0-600-0-900-crop.jpg?v=f9949f3e48"
+  },
+  {
     "id": "guid:letterboxd-review-1496125852",
     "guid": "letterboxd-review-1496125852",
     "username": "brofromanother",
@@ -68,7 +122,7 @@
     "rating": 4.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "Wrestling with fact that this is an attempt at sensitive character portraiture by a filmmaker who clearly has the instinct to shock and upset (sometimes unproductively), but it\u2019s so effective at replicating the perspective of a fractured, destabilized subjective (and developing) mind in the wake of a traumatic experience, and the helplessness of the parents to assist in processing and navigating it, that I can\u2019t deny it\u2019s power. Tatum and the kid are unbelievable.",
+    "review_text": "Wrestling with fact that this is an attempt at sensitive character portraiture by a filmmaker who clearly has the natural instinct to shock and upset (sometimes unproductively), but it\u2019s so effective at replicating the perspective of a fractured, destabilized, subjective (and developing) mind in the wake of a traumatic experience, and the helplessness of the parents to assist in processing and navigating it, that I can\u2019t deny its power. Tatum and the kid are unbelievable.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/5/8/1/1181581-josephine-2026-0-600-0-900-crop.jpg?v=bdde1cd1d5"
   },
   {

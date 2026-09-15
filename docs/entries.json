@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1496875457",
+    "guid": "letterboxd-watch-1496875457",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Under Fire",
+    "film_year": 1983,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/under-fire/",
+    "watched_date": "2026-09-14",
+    "publication_date": "2026-09-15",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/5/3/2/44532-under-fire-0-600-0-900-crop.jpg?v=5b1ac84914"
+  },
+  {
     "id": "guid:letterboxd-watch-1496691136",
     "guid": "letterboxd-watch-1496691136",
     "username": "brofromanother",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/3/7/2/1360372-possible-love-0-600-0-900-crop.jpg?v=74d3cd22dc"
+  },
+  {
+    "id": "guid:letterboxd-review-1496796396",
+    "guid": "letterboxd-review-1496796396",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Eureka",
+    "film_year": 1983,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/eureka/",
+    "watched_date": "2026-09-14",
+    "publication_date": "2026-09-15",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Seeing this for the first time, I would be stunned if it were not a source of inspiration for\nThere Will Be Blood\n. Youthful revolt vs. nouveau riche power accrued from the ground. Paranoia, dark magic, Faust, the lie of the American family. It's all in here.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/6/5/7/8/26578-eureka-0-600-0-900-crop.jpg?v=5379fc52bc"
   },
   {
     "id": "guid:letterboxd-review-1496689540",
@@ -3533,7 +3569,7 @@
     "username": "SeanFennessey",
     "critic_tier": "secondary",
     "creator_display_name": "Sean Fennessey",
-    "film_title": "INK",
+    "film_title": "Ink",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/ink-2026/",
@@ -5055,7 +5091,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/2/6/5/7/1462657-zero-intention-of-living-quietly-0-600-0-900-crop.jpg?v=5e7dc5eb49"
   },
   {
     "id": "guid:letterboxd-watch-1478592452",
@@ -30614,7 +30650,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Cabinet of Dr. Caligari\nThe Kid\nPCI: 76\nSherlock Jr.\nPCI: 85\nThe Gold Rush\nPCI: 79\nThe General\nPCI: 87\nMetropolis\nPCI: 80\nThe Lodger: A Story of the London Fog\nPCI: 67\nSunrise: A Song of Two Humans\nThe Circus\nPCI: 75\nSteamboat Bill, Jr.\nPCI: 80\n...plus 2883 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Cabinet of Dr. Caligari\nThe Kid\nPCI: 76\nSherlock Jr.\nPCI: 85\nThe Gold Rush\nPCI: 79\nThe General\nPCI: 87\nMetropolis\nPCI: 80\nThe Lodger: A Story of the London Fog\nPCI: 67\nSunrise: A Song of Two Humans\nThe Circus\nPCI: 75\nSteamboat Bill, Jr.\nPCI: 80\n...plus 2884 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32468,7 +32504,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2541 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2540 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

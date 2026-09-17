@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-09-17T10:31:53Z",
+  "last_successful_update": "2026-09-17T15:44:46Z",
   "individual_feed_status": {
     "thejoshl": {
       "username": "thejoshl",
@@ -8,8 +8,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 94,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "jlalibs": {
@@ -19,8 +19,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "brofromanother": {
@@ -30,8 +30,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 58,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "bdgrabinski": {
@@ -41,8 +41,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 86,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "SeanFennessey": {
@@ -52,8 +52,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "silentdawn": {
@@ -63,8 +63,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "davidlsims": {
@@ -74,8 +74,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "gemko": {
@@ -85,8 +85,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "BrianDuffield": {
@@ -96,8 +96,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 58,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "riotglasses": {
@@ -107,8 +107,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "davidehrlich": {
@@ -118,8 +118,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     },
     "theolejake": {
@@ -129,26 +129,26 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-17T10:31:53Z",
-      "last_successful_fetch": "2026-09-17T10:31:53Z",
+      "last_attempted_at": "2026-09-17T15:44:46Z",
+      "last_successful_fetch": "2026-09-17T15:44:46Z",
       "error": null
     }
   },
   "last_successful_fetch_per_username": {
-    "thejoshl": "2026-09-17T10:31:53Z",
-    "jlalibs": "2026-09-17T10:31:53Z",
-    "brofromanother": "2026-09-17T10:31:53Z",
-    "bdgrabinski": "2026-09-17T10:31:53Z",
-    "SeanFennessey": "2026-09-17T10:31:53Z",
-    "davidlsims": "2026-09-17T10:31:53Z",
-    "gemko": "2026-09-17T10:31:53Z",
-    "BrianDuffield": "2026-09-17T10:31:53Z",
-    "davidehrlich": "2026-09-17T10:31:53Z",
-    "theolejake": "2026-09-17T10:31:53Z",
-    "silentdawn": "2026-09-17T10:31:53Z",
-    "riotglasses": "2026-09-17T10:31:53Z"
+    "thejoshl": "2026-09-17T15:44:46Z",
+    "jlalibs": "2026-09-17T15:44:46Z",
+    "brofromanother": "2026-09-17T15:44:46Z",
+    "bdgrabinski": "2026-09-17T15:44:46Z",
+    "SeanFennessey": "2026-09-17T15:44:46Z",
+    "davidlsims": "2026-09-17T15:44:46Z",
+    "gemko": "2026-09-17T15:44:46Z",
+    "BrianDuffield": "2026-09-17T15:44:46Z",
+    "davidehrlich": "2026-09-17T15:44:46Z",
+    "theolejake": "2026-09-17T15:44:46Z",
+    "silentdawn": "2026-09-17T15:44:46Z",
+    "riotglasses": "2026-09-17T15:44:46Z"
   },
   "errors": [],
   "entries_fetched": 1096,
-  "total_archived_entries": 1952
+  "total_archived_entries": 1958
 }

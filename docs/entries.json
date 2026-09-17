@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1499421957",
+    "guid": "letterboxd-watch-1499421957",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Your Mother Your Mother Your Mother",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/your-mother-your-mother-your-mother/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-17",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/2/1/6/1315216-your-mother-your-mother-your-mother-0-600-0-900-crop.jpg?v=a644997d58"
+  },
+  {
+    "id": "guid:letterboxd-watch-1499366228",
+    "guid": "letterboxd-watch-1499366228",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Teen Wolf Too",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/teen-wolf-too/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-17",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/2/6/2/42262-teen-wolf-too-0-600-0-900-crop.jpg?v=f044a5d9e0"
+  },
+  {
     "id": "guid:letterboxd-watch-1498895706",
     "guid": "letterboxd-watch-1498895706",
     "username": "theolejake",
@@ -18,6 +54,78 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/9/4/4/47944-the-wolfman-0-600-0-900-crop.jpg?v=85817211a1"
   },
   {
+    "id": "guid:letterboxd-review-1499341600",
+    "guid": "letterboxd-review-1499341600",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "Primetime",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/primetime-2026/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-17",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "the \"Close-Up\" the 21st century deserves.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-600-0-900-crop.jpg?v=41640d6988"
+  },
+  {
+    "id": "guid:letterboxd-review-1498895706",
+    "guid": "letterboxd-review-1498895706",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "The Wolfman",
+    "film_year": 2010,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/the-wolfman/1/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-17",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "I remembered this being sluggish and making very little impression on me when I first watched it about a decade ago. For some reason, though, I completely missed the formal exercises Joe Johnston is whipping up here. It\u2019s an expensive neo-expressionist rendition of the Wolf Man story, which I\u2019ve never thought has been told particularly well in the first place (with the exception of An American Werewolf in London, though that\u2019s kind of doing its own thing).\nJohnston isn\u2019t able to conjure up much emotion here either, and Benicio del Toro and Emily Blunt leave a lot to be desired in terms of chemistry. But the lavish costumes, production design, and expansive sets create a foggy gothic England that\u2019s more than comforting to spend 100 minutes in.\nIt\u2019s also the first time I can remember the Wolf Man being rendered as a genuinely vicious killing machine in a convincing way. He\u2019s actually menacing when he wolfs out. The early-2010s CGI hasn\u2019t aged particularly well, and Rick Baker\u2019s makeup looks great, even if the design itself is a little goofy.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/9/4/4/47944-the-wolfman-0-600-0-900-crop.jpg?v=85817211a1"
+  },
+  {
+    "id": "guid:letterboxd-review-1499295575",
+    "guid": "letterboxd-review-1499295575",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Assassin(s)",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-assassins-2026/",
+    "watched_date": "2026-09-16",
+    "publication_date": "2026-09-17",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "A little broad and flat-looking and at times perplexing in tone, often inelegantly lurching between a serious and dangerous political conspiracy thriller and a sillier action-melodrama about an ensemble of reporters literally fighting for the freedom of press. But the way this turns the real-life attempted assassination of South Korean President Park Chung-hee in 1974 into an exaggeratedly stylized and cathartically rousing procedural that challenges the official government story is close enough to Korean\nJFK\nthat I had a good time. Right down to the way it uses black-and-white flashbacks and shoots its shadowy KCIA and argues the \u201clone gunman\u201d theory simply doesn\u2019t add up. It also has a mid-film chase scene ripped straight from\nSe7en\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/9/8/9/1/4/1298914-the-assassins-1-0-600-0-900-crop.jpg?v=64b32cf3ae"
+  },
+  {
+    "id": "guid:letterboxd-review-1499291137",
+    "guid": "letterboxd-review-1499291137",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Evil in the Woods",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/evil-in-the-woods/",
+    "watched_date": "2026-09-16",
+    "publication_date": "2026-09-17",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "a transmission straight from Mildew, Georgia that starts off feeling like it could actually be a kids movie, until DIY Bigfoot starts a killing spree and the scariest looking mutant hillbillies I\u2019ve ever seen take over the frame \u2014 this is the type of shit I want to watch on tubi at midnight",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/4/3/3/102433-evil-in-the-woods-0-600-0-900-crop.jpg?v=6e9231d5bc"
+  },
+  {
     "id": "guid:letterboxd-review-1499093268",
     "guid": "letterboxd-review-1499093268",
     "username": "thejoshl",
@@ -32,7 +140,7 @@
     "rating": 2.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "This review may contain spoilers.\nBoyle tries to pump some manically vulgar\nWolf of Fleet Street\nenergy into a pretty dull sub-Sorkin script about the day Real News died and we let sensationalist, pornographic tabloids take over. I generally like that Boyle's natural instinct is to be aggressive and filthy (which suits the mission statement of his characters here, and O'Connell relishes in it), but after awhile it started to feel a little at odds that such hack-y biopic material was being presented like some punk rock underdog story. Boyle obviously doesn't think any of this is good or cool, the silly\nBlacKkKlansman\nmeets\nOppenheimer\nending montage makes that explicitly clear, but it doesn't change the fact that this really isn't saying much of anything about this industry or history beyond \"well that wasn't good!\" and is trying (and only sometimes succeeding) to paper over that with some sex, drugs and rock-and-roll style. I liked the tarred and feathered bit... The Boyle music video ADHD tics mean you don't really see any of the AI bullshit for longer than a second but that's what makes it all the more mind-boggling; just a completely self-imposed thing that could've been avoided by hiring some teenager with a computer.",
+    "review_text": "This review may contain spoilers.\nBoyle tries to pump some manically vulgar\nWolf of Fleet Street\nenergy into a pretty dull sub-Sorkin script about the day Real News died and we let sensationalist, pornographic tabloids take over. I generally like that Boyle's natural instinct is to be aggressive and filthy (which suits the mission statement of his characters here, and O'Connell relishes in it), but after awhile it started to feel a little at odds that such hack-y biopic material was being presented like some punk rock underdog story. Boyle obviously doesn't think any of this is good or cool, the silly\nBlacKkKlansman\nmeets\nOppenheimer\nending montage makes that explicitly clear, but it doesn't change the fact that this really isn't saying much of anything about this industry or history beyond \"well that wasn't good!\" and is trying (and only sometimes succeeding) to paper over that with some sex, drugs and rock-and-roll style. I did the tarred and feathered bit. The Boyle music video ADHD tics mean you don't really see any of the AI bullshit for longer than a second but that's what makes it all the more mind-boggling; just a completely self-imposed thing that could've been avoided by hiring some teenager with a computer.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/7/5/9/2/1407592-ink-2026-0-600-0-900-crop.jpg?v=39004eea0a"
   },
   {
@@ -11139,7 +11247,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "The end of the movie suggests that Ryder is also above the judicial system.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/9/6/9/1071969-paw-patrol-the-dino-movie-0-600-0-900-crop.jpg?v=39ee83d7fa"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/9/6/9/1071969-paw-patrol-the-dino-movie-0-600-0-900-crop.jpg?v=d334907f1f"
   },
   {
     "id": "guid:letterboxd-review-1453461653",
@@ -26366,7 +26474,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 92 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 93 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -28508,7 +28616,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 586 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 587 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30506,7 +30614,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "only including films logged by less than 1,000 users at time of adding to the list, will remove films as they cross that threshold\nsorted by my personal rating, with highest rated films first\nAction : The October Crisis of 1970\nAmerican Revolution 2\nDMX: Angel\nDream Life\n10:30 P.M. Monday\nAngela Davis: Portrait of a Revolutionary\nArnold\nThe Bed and How to Make It!\nBeing Natural\nThe Bitter Ash\n...plus 380 more.\nView the full list on Letterboxd\n.",
+    "review_text": "only including films logged by less than 1,000 users at time of adding to the list, will remove films as they cross that threshold\nsorted by my personal rating, with highest rated films first\nAction : The October Crisis of 1970\nAmerican Revolution 2\nDMX: Angel\nDream Life\n10:30 P.M. Monday\nAngela Davis: Portrait of a Revolutionary\nArnold\nThe Bed and How to Make It!\nBeing Natural\nThe Bitter Ash\n...plus 381 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30884,7 +30992,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "critically reviled, underseen, rarely canonized, etc\n3:15 the Moment of Truth\n52 Pick-Up\n8 Million Ways to Die\nAction U.S.A.\nAlien Nation\nAlley Cat\nAlligator\nAlone in the Dark\nAlphabet City\nAmerican Hunter\n...plus 271 more.\nView the full list on Letterboxd\n.",
+    "review_text": "critically reviled, underseen, rarely canonized, etc\n3:15 the Moment of Truth\n52 Pick-Up\n8 Million Ways to Die\nAction U.S.A.\nAlien Nation\nAlley Cat\nAlligator\nAlone in the Dark\nAlphabet City\nAmerican Hunter\n...plus 272 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31388,7 +31496,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "films with content unsuitable for children but outwardly appear to be for them - some even spawned cartoons and/or toys targeted at kids\nalso includes unrated, etc, as applicable\n*not* adult dramas about kids like Stand By Me, etc\nArcade\nBad Santa\nThe Banana Splits Movie\nBatman: The Killing Joke\nBirds of Prey (and the Fantabulous Emancipation of One Harley Quinn)\nBlade\nA Boy and His Dog\nCarnosaur\nCinderella\nThe Coca-Cola Kid\n...plus 84 more.\nView the full list on Letterboxd\n.",
+    "review_text": "films with content unsuitable for children but outwardly appear to be for them - some even spawned cartoons and/or toys targeted at kids\nalso includes unrated, etc, as applicable\n*not* adult dramas about kids like Stand By Me, etc\nArcade\nBad Santa\nThe Banana Splits Movie\nBatman: The Killing Joke\nBirds of Prey (and the Fantabulous Emancipation of One Harley Quinn)\nBlade\nA Boy and His Dog\nCarnosaur\nCinderella\nThe Coca-Cola Kid\n...plus 85 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34520,7 +34628,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2092 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2093 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

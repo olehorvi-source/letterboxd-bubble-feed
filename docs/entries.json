@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1498895706",
+    "guid": "letterboxd-watch-1498895706",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "The Wolfman",
+    "film_year": 2010,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/the-wolfman/1/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-17",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/9/4/4/47944-the-wolfman-0-600-0-900-crop.jpg?v=85817211a1"
+  },
+  {
+    "id": "guid:letterboxd-watch-1498791616",
+    "guid": "letterboxd-watch-1498791616",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Ray Gunn",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/ray-gunn/",
+    "watched_date": "2026-09-16",
+    "publication_date": "2026-09-16",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/4/4/9/1/6/844916-ray-gunn-0-600-0-900-crop.jpg?v=53ed96d6ad"
+  },
+  {
     "id": "guid:letterboxd-watch-1498431471",
     "guid": "letterboxd-watch-1498431471",
     "username": "davidlsims",
@@ -124,6 +160,42 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/6/44976-teen-wolf-0-600-0-900-crop.jpg?v=ac3f1e83c9"
+  },
+  {
+    "id": "guid:letterboxd-review-1498749186",
+    "guid": "letterboxd-review-1498749186",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Minotaur",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/minotaur-2026/",
+    "watched_date": "2026-09-16",
+    "publication_date": "2026-09-16",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Russian\nUnfaithful \u2014\nthe type of sexy, paranoid infidelity thriller starring middle aged people that Hollywood used to make regularly in the 80s through 00s but needs to be imported into the US now (see also: last year\u2019s\nNo Other Choice\n) \u2014 despite distinctly Russian sociopolitical context and a leisurely 140 minute runtime, this is ultimately meat and potatoes neo-noir cinema down to its femme fatale and a gloriously haphazard crime scene (which offers earned beats of gallows humor)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
+  },
+  {
+    "id": "guid:letterboxd-review-1498718451",
+    "guid": "letterboxd-review-1498718451",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Boorman and the Devil",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/boorman-and-the-devil/1/",
+    "watched_date": "2026-09-16",
+    "publication_date": "2026-09-16",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "So fucking good. Glad I saw it in a theater.\nO**n G*******n can eat shit.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/7/0/1393070-boorman-and-the-devil-0-600-0-900-crop.jpg?v=a903dc91da"
   },
   {
     "id": "guid:letterboxd-review-1498505883",
@@ -26294,7 +26366,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 164 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 165 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -26420,7 +26492,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 170 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 171 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32342,7 +32414,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2720 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2721 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33296,7 +33368,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1118 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1119 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

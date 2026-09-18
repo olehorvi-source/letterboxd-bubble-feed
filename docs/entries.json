@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1500248363",
+    "guid": "letterboxd-watch-1500248363",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Sorority Row",
+    "film_year": 2009,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/sorority-row/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/1/2/3/35123-sorority-row-0-600-0-900-crop.jpg?v=be75537e43"
+  },
+  {
+    "id": "guid:letterboxd-watch-1500181864",
+    "guid": "letterboxd-watch-1500181864",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "My Bloody Valentine",
+    "film_year": 1981,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/my-bloody-valentine/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/4/9/9/7/24997-my-bloody-valentine-0-600-0-900-crop.jpg?v=0fe4809b5b"
+  },
+  {
+    "id": "guid:letterboxd-watch-1500122503",
+    "guid": "letterboxd-watch-1500122503",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Penny Lane Is Dead",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/penny-lane-is-dead/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/7/6/4/8/1307648-penny-lane-is-dead-0-600-0-900-crop.jpg?v=f0903de086"
+  },
+  {
     "id": "guid:letterboxd-watch-1499950559",
     "guid": "letterboxd-watch-1499950559",
     "username": "brofromanother",
@@ -16,6 +70,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/7/1/7/1302717-untitled-resident-evil-reboot-0-600-0-900-crop.jpg?v=a688bf1bc7"
+  },
+  {
+    "id": "guid:letterboxd-review-1500071371",
+    "guid": "letterboxd-review-1500071371",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Arrested Memory",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/arrested-memory/",
+    "watched_date": "2026-09-17",
+    "publication_date": "2026-09-18",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "much more comedic than I expected, almost playing out like a distinctly Japanese, much more violent, riff on\nClean Slate\n(complimentary) \u2014 the scene with the car in the tunnel (you\u2019ll know the one) is one of my favorite things I\u2019ve seen all year",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/0/1/2/1/1450121-arrested-memory-0-600-0-900-crop.jpg?v=b95e0e21a1"
   },
   {
     "id": "guid:letterboxd-review-1500012099",
@@ -52,6 +124,24 @@
     "rewatch": false,
     "review_text": "This review may contain spoilers.\nAlex Winter in FREAKED.\nIncredible movie. Griffin crushed it.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/7/1/7/1302717-untitled-resident-evil-reboot-0-600-0-900-crop.jpg?v=a688bf1bc7"
+  },
+  {
+    "id": "guid:letterboxd-watch-1500123994",
+    "guid": "letterboxd-watch-1500123994",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Slanted",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/slanted/",
+    "watched_date": "2026-07-08",
+    "publication_date": "2026-09-18",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/9/7/4/0/1179740-slanted-0-600-0-900-crop.jpg?v=002df3482f"
   },
   {
     "id": "guid:letterboxd-watch-1499482677",
@@ -203,7 +293,7 @@
     "username": "thejoshl",
     "critic_tier": "primary",
     "creator_display_name": "Josh Lewis",
-    "film_title": "Trees are Watching",
+    "film_title": "Trees Are Watching",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/trees-are-watching/",
@@ -293,7 +383,7 @@
     "username": "thejoshl",
     "critic_tier": "primary",
     "creator_display_name": "Josh Lewis",
-    "film_title": "Ink",
+    "film_title": "INK",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/ink-2026/",
@@ -654,7 +744,7 @@
     "critic_tier": "my_account",
     "creator_display_name": "theolejake",
     "film_title": "OJ Unseen: Exploitation of Evil",
-    "film_year": null,
+    "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/oj-unseen-exploitation-of-evil/",
     "watched_date": "2026-09-14",
@@ -779,7 +869,7 @@
     "username": "brofromanother",
     "critic_tier": "primary",
     "creator_display_name": "Adam Nayman",
-    "film_title": "Ink",
+    "film_title": "INK",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/ink-2026/",
@@ -2067,7 +2157,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "\u201cIt takes a lot of caring to not give a fuck.\u201d\nBest band in the world. Didn\u2019t expect to cry that much. Can\u2019t wait for the new tour.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/2/4/2/3/8/1324238-oasis-dont-look-back-in-anger-0-600-0-900-crop.jpg?v=a6e08d810e"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/2/4/2/3/8/1324238-oasis-dont-look-back-in-anger-0-600-0-900-crop.jpg?v=78184e8b6d"
   },
   {
     "id": "guid:letterboxd-review-1493110554",
@@ -2265,7 +2355,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Some very nice stuff in the middle section - after the exposition dump opening and before the overly familiar and frenetic home stretch. Credit to the director for finding and executing some really primal, frightening images, and for good casting, and for evocative location scouting. Great river, truly.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/6/1/1396561-river-5-0-600-0-900-crop.jpg?v=453948d4e8"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/6/1/1396561-river-2026-1-0-600-0-900-crop.jpg?v=ed8ed52d24"
   },
   {
     "id": "guid:letterboxd-review-1492358713",
@@ -2355,7 +2445,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/2/4/2/3/8/1324238-oasis-dont-look-back-in-anger-0-600-0-900-crop.jpg?v=a6e08d810e"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/2/4/2/3/8/1324238-oasis-dont-look-back-in-anger-0-600-0-900-crop.jpg?v=78184e8b6d"
   },
   {
     "id": "guid:letterboxd-watch-1491958817",
@@ -2409,7 +2499,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/6/1/1396561-river-5-0-600-0-900-crop.jpg?v=453948d4e8"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/6/1/1396561-river-2026-1-0-600-0-900-crop.jpg?v=ed8ed52d24"
   },
   {
     "id": "guid:letterboxd-review-1492199143",
@@ -2553,7 +2643,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "The Daddy Issues sibling melodrama set-up for this is a bit generic but once this gets its killing machine engine revved-up, this as relentless and gnarly of an old-school stalk-and-prey slasher as I\u2019ve seen in some time. Part Craven (\nThe Rivers Have Eyes\n?), part\nThe Strangers\n, part survival/home-invasion thriller, with a really good eye for escalating its various cat-and-mouse logistics. Simple and economical stuff but impressively constructed for a debut. Great geographical use of the locations (the boat and the house); well-composed, naturally lit frames (by moonlight, flashlights, flares, fire, etc); some creative use of slow-motion and dissolves that generate this creepy, contextless sense of the mythic, supernatural inevitability hunting them down in between the more conventional physical violence and jump scares. Levy and Rothe are both well-versed enough final girls to sell that quality with their eyes and screams too. Crossbow yank and beer chug of the year, hands down.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/6/1/1396561-river-5-0-600-0-900-crop.jpg?v=453948d4e8"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/6/1/1396561-river-2026-1-0-600-0-900-crop.jpg?v=ed8ed52d24"
   },
   {
     "id": "guid:letterboxd-review-1491638714",
@@ -3399,7 +3489,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "\u201cIf the rule you followed brought you to this, of what use was the rule?\u201d It\u2019s never a good thing when you spend most of a movie thinking about a line of dialogue its lead actor said in another, much better movie, but those words \u2014 the closest thing Anton Chigurh has to a credo in \u201cNo Country for Old Men\u201d \u2014 came back to me like a bad case of d\u00e9j\u00e0 vu every time Javier Bardem\u2019s character suffered another ponderous setback in Florian Zeller\u2019s \u201cBunker.\u201d\nA paranoid drama that\u2019s as airless and unsatisfying as the dead marriage that it dissects, the film stars Bardem as Miguel, the hottest architect on Earth in more ways than one. His career has greatly benefited as a result of his decision to relocate his family from their home in Spain to the minimalist glass mansion he\u2019s designed for them in the heart of a gentrified London neighborhood, but the more accomplished he gets, the more isolated he appears to become.\nHis marriage to literary executive Sofia (a sorely under-written role played by Bardem\u2019s real-life wife Pen\u00e9lope Cruz) has withered in the growing shadow of his celebrity profile. He can barely communicate with his phone-addicted teenage daughter, he doesn\u2019t have any time to play with the younger one who\u2019s nearing the end of her cutest years, and his every waking thought is consumed by the window-sized hole that his next-door neighbor (Stephen Graham) has just hammered into the wall that separates their properties. That\u2019s when Miguel receives a heavily NDA-ed offer to design a doomsday bunker for a famous tech billionaire who\u2019s even richer and more detached from the rest of humanity than he is (Paul Dano, whose deeply unnerving one-scene performance cuts to the core of Silicon Valley nihilism with a sharpness that makes him so much scarier than any of the other Zuckerberg-coded villains who\u2019ve seeped into movies over the last 15 years).\nIf the success they\u2019ve achieved has brought them to this, of what use was the success?\nAfter \u201cThe Father\u201d (extraordinary) and \u201cThe Son\u201d (not), Zellner has returned with a characteristically bleak vision of the holy ghost; in this case, the invisible specter of fear that causes so many of the modern world\u2019s richest and/or most accomplished people to isolate themselves from the rest of humanity in response to their good fortune. Similar to both of the writer-director\u2019s previous films, the hermetically sealed \u201cBunker\u201d hinges upon how the architecture of psychology is reflected by the psychology of architecture \u2014 it\u2019s fascinated by how people express themselves through the spaces they inhabit and vice-versa. The \u201corganic minimalism\u201d of the mansion that Miguel has designed for his family reveals his utopian desire for light and transparency, but the house\u2019s austere interior, hostile swatches of color, and walled-off garden betray the same closed-off severity that has started to distance Miguel from even his wife and kids.\nWhat do you get for the man who has everything? The impossible peace of mind that no one is going to take it away from him. In a movie that doesn\u2019t leave enough oxygen for laughter, the fact that Miguel is confused why Dano\u2019s character wants to build himself a giant hole in the ground \u2014 secure enough to inure him against social collapse, ecological devastation, and even his own bodyguards \u2014 is maybe the closest thing we get to a decent joke.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/6/5/9/1350659-bunker-2026-1-0-600-0-900-crop.jpg?v=e3a2fd7656"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/6/5/9/1350659-bunker-2026-1-0-600-0-900-crop.jpg?v=3da601d8ec"
   },
   {
     "id": "guid:letterboxd-review-1488276996",
@@ -4461,7 +4551,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/7/1/3/3/7/1471337-everest-the-other-side-0-600-0-900-crop.jpg?v=ca38487777"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/7/1/3/3/7/1471337-everest-the-other-side-0-600-0-900-crop.jpg?v=2b2d0deb86"
   },
   {
     "id": "guid:letterboxd-watch-1483865794",
@@ -4523,7 +4613,7 @@
     "username": "SeanFennessey",
     "critic_tier": "secondary",
     "creator_display_name": "Sean Fennessey",
-    "film_title": "Ink",
+    "film_title": "INK",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/ink-2026/",
@@ -26798,7 +26888,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 173 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 174 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -28905,6 +28995,24 @@
     "liked": null,
     "rewatch": null,
     "review_text": "(in order)\nThe Holdovers\nSpider-Man: Across the Spider-Verse\nFerrari\nGodzilla Minus One\nPast Lives\nKillers of the Flower Moon\nThe Zone of Interest\nOppenheimer\nBlackBerry\nMission: Impossible \u2013 Dead Reckoning\n...plus 6 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-37331072",
+    "guid": "letterboxd-list-37331072",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "21st Century Science Fiction",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/list/21st-century-science-fiction/",
+    "watched_date": null,
+    "publication_date": "2023-09-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Pitch Black\nTitan A.E.\nThe Cell\nBattle Royale\nDonnie Darko\nA.I. Artificial Intelligence\nGhosts of Mars\nMinority Report\nSolaris\nTreasure Planet\n...plus 91 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32234,7 +32342,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2475 more.\nView the full list on Letterboxd\n.",
+    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2476 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

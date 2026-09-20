@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1502824492",
+    "guid": "letterboxd-watch-1502824492",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "8 \u00bd Women",
+    "film_year": 1999,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/8-women-1999/",
+    "watched_date": "2026-09-19",
+    "publication_date": "2026-09-20",
+    "rating": 0.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/2/45402-8-women-0-600-0-900-crop.jpg?v=a3372dfea1"
+  },
+  {
+    "id": "guid:letterboxd-watch-1502796398",
+    "guid": "letterboxd-watch-1502796398",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Forgotten Island",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/forgotten-island-2026/",
+    "watched_date": "2026-09-19",
+    "publication_date": "2026-09-20",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/1/7/3/7/1341737-forgotten-island-2026-0-600-0-900-crop.jpg?v=92321a8101"
+  },
+  {
+    "id": "guid:letterboxd-watch-1502678952",
+    "guid": "letterboxd-watch-1502678952",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Kamikaze Girls",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/kamikaze-girls/",
+    "watched_date": "2026-09-19",
+    "publication_date": "2026-09-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/4/4/3/35443-kamikaze-girls-0-600-0-900-crop.jpg?v=3f3cc2bbfb"
+  },
+  {
+    "id": "guid:letterboxd-watch-1502624213",
+    "guid": "letterboxd-watch-1502624213",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Hoppers",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/hoppers/",
+    "watched_date": "2026-09-19",
+    "publication_date": "2026-09-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/7/5/5/7/1207557-hoppers-0-600-0-900-crop.jpg?v=7711e7b5a7"
+  },
+  {
     "id": "guid:letterboxd-watch-1502251015",
     "guid": "letterboxd-watch-1502251015",
     "username": "riotglasses",
@@ -11,7 +83,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/into-the-woods-2014/",
     "watched_date": "2026-09-19",
     "publication_date": "2026-09-19",
-    "rating": null,
+    "rating": 3.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -47,11 +119,29 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/milk-serial/",
     "watched_date": "2026-09-19",
     "publication_date": "2026-09-19",
-    "rating": null,
+    "rating": 2.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/7/3/6/2/4/1073624-milk-serial-0-600-0-900-crop.jpg?v=aa853bd1bd"
+  },
+  {
+    "id": "guid:letterboxd-review-1502521256",
+    "guid": "letterboxd-review-1502521256",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Resident Evil",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/resident-evil-2026/",
+    "watched_date": "2026-09-19",
+    "publication_date": "2026-09-19",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Literally nothing going on under the hood and the anxious chatterbox humor had probably the weakest hit rate so far of a Cregger joint for me personally\u2014even if Abrams saves some of it with his freaked out delivery and final girl levels of wide-eyed running and screaming. But taking the amusing logistical mechanics and disgusting creature designs of\nResident Evil\nand realizing it as a run-all-night roller-coaster somewhere between Sam Raimi and\nAfter Hours\nis a sick idea, and this delivers on it for 90 straight minutes. A good time.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/7/1/7/1302717-untitled-resident-evil-reboot-0-600-0-900-crop.jpg?v=a688bf1bc7"
   },
   {
     "id": "guid:letterboxd-watch-1501933689",
@@ -177,7 +267,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Patrons: Search TIFF 2026 Day Two",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=2d64dfef07"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=8058e0346b"
   },
   {
     "id": "guid:letterboxd-review-1502251562",
@@ -2859,7 +2949,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "DELIGHTFUL. fun, funny, mysterious, more than a little sad, and comfortably one of the best non-documentary films that Herzog has made in my lifetime (but I am very young, practically still a child).\nThe Mara sisters give one of my favorite performances of the year, but even Orlando Bloom cooks in this. Even Orlando Bloom!!",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=2d64dfef07"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=8058e0346b"
   },
   {
     "id": "guid:letterboxd-review-1492471397",
@@ -3057,7 +3147,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": "Sisters are doing it* for themselves\n*digging a hole through a mountain",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=2d64dfef07"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=8058e0346b"
   },
   {
     "id": "guid:letterboxd-review-1492197154",
@@ -3075,7 +3165,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Two chicks at the same time, man...\nAn extremely funny and sad movie about a pair of eccentric, attached-at-the-hip\nDead Ringers\nsisters who are very strange and out of step with/rejected by \"normal\" society until suddenly, just when you think there's no way Herzog could possibly get some Malickian wide-angle lens nature/animal/cave stuff into this story, it is an extremely lyrical and moving movie about those sisters' tunnel-digging search for a better (dream) world space where they can be themselves. The Mara's are excellent (every bit of overlapping dialogue and body language expertly controlled) but it was the dedication to David Lynch that kinda unlocked this for me. Whose weirdness allowed them to uncover the enormity and beauty of the world more than his?",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=2d64dfef07"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=8058e0346b"
   },
   {
     "id": "guid:letterboxd-review-1492195579",
@@ -4583,7 +4673,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-sword-in-the-stone/",
     "watched_date": "2026-09-06",
     "publication_date": "2026-09-07",
-    "rating": null,
+    "rating": 3.0,
     "liked": null,
     "rewatch": false,
     "review_text": "I love the owl!!!",
@@ -4857,7 +4947,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=2d64dfef07"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/1/6/8/1308168-bucking-fastard-0-600-0-900-crop.jpg?v=8058e0346b"
   },
   {
     "id": "guid:letterboxd-watch-1484358013",
@@ -21399,7 +21489,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Carolina Cavalli\u2019s \u201cThe Kidnapping of Arabella\u201d opens with one of the single most surprising things I\u2019ve seen and/or heard in a movie this year: Chris Pine, swagged out in a skin-tight suit that makes him look like a yassified Nick Cave, seething with jealousy over Jonathan Franzen in seemingly perfect Italian.\nAs I understand it, the Los Angeles-born actor began studying the language because he wanted to be cast in an Italian film, as opposed to being cast in an Italian film that required him to study the language. Mission accomplished!\nBetter yet, the unexpected nature of Pine\u2019s casting performs a crucial service for the eccentric and playfully contrived road trip misadventure in which he\u2019s been cast: Once you accept that the guy from \u201cDungeons & Dragons\u201d could successfully moonlight as the next breakout star of commedie all\u2019italiana, even the most far-fetched aspects of Cavalli\u2019s film demand to be taken at face value. That buy-in proves essential to a movie whose premise requires you to suspend every iota of your disbelief, lest its Lanthimos-lite approach to child abduction curdle into something much darker.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/4/1/3/1234413-the-kidnapping-of-arabella-0-600-0-900-crop.jpg?v=ac3674ff58"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/4/1/3/1234413-the-kidnapping-of-arabella-0-600-0-900-crop.jpg?v=be6ff10460"
   },
   {
     "id": "guid:letterboxd-review-1400092220",
@@ -31604,7 +31694,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "no, I have not watched them all, lol. working on it!\nClerks\nClerks II\nDogma\nMallrats\nChasing Amy\nJay and Silent Bob Strike Back\nBetween the Lines\n3 Women\nAn Unmarried Woman\nBarton Fink\n...plus 489 more.\nView the full list on Letterboxd\n.",
+    "review_text": "no, I have not watched them all, lol. working on it!\nClerks\nClerks II\nDogma\nMallrats\nChasing Amy\nJay and Silent Bob Strike Back\nBetween the Lines\n3 Women\nAn Unmarried Woman\nBarton Fink\n...plus 490 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31784,7 +31874,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I had lists for the Criterion Blus and the DVDs; might as well be everything.\nAcross 110th Street\nAdaptation.\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nThe Adventures of Robin Hood\nAfter Dark, My Sweet\nAfterschool\nAguirre, the Wrath of God\nAirplane!\nAlien\nAll Is Lost\n...plus 343 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I had lists for the Criterion Blus and the DVDs; might as well be everything.\nAcross 110th Street\nAdaptation.\nThe Adventures of Buckaroo Banzai Across the 8th Dimension\nThe Adventures of Robin Hood\nAfter Dark, My Sweet\nAfterschool\nAguirre, the Wrath of God\nAirplane!\nAlien\nAll Is Lost\n...plus 342 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

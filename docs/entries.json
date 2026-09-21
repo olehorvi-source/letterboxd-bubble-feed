@@ -1,5 +1,131 @@
 [
   {
+    "id": "guid:letterboxd-watch-1504505067",
+    "guid": "letterboxd-watch-1504505067",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Practical Magic",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/practical-magic/1/",
+    "watched_date": "2026-09-20",
+    "publication_date": "2026-09-21",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/3/2/2/48322-practical-magic-0-600-0-900-crop.jpg?v=5994b961f2"
+  },
+  {
+    "id": "guid:letterboxd-list-87776488",
+    "guid": "letterboxd-list-87776488",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "TIFF26",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/list/tiff26/",
+    "watched_date": null,
+    "publication_date": "2026-09-21",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "One day removed from the blur that was watching and writing about as many movies a day as I could for 10 days, here is a loosely, fired-from-the-hip ranked list of all the features I saw at TIFF this year. Basically reviewed everything I saw, and all my writing can be found here:\nletterboxd.com/thejoshl/tag/tiff26/reviews/\nPossible Love\nYour Mother Your Mother Your Mother\nBucking Fastard\nArrested Memory\nThe Debut\nClub Kid\nThe Face of Horror\nJosephine\nRiver\nThe Unknown\n...plus 21 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-watch-1504298615",
+    "guid": "letterboxd-watch-1504298615",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Saccharine",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/saccharine-2026/",
+    "watched_date": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/6/3/5/1250635-saccharine-2026-0-600-0-900-crop.jpg?v=b8d4297893"
+  },
+  {
+    "id": "guid:letterboxd-watch-1504298266",
+    "guid": "letterboxd-watch-1504298266",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Obsession",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/obsession-2025/2/",
+    "watched_date": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "rating": 1.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/4/7/2/1234472-obsession-2025-2-0-600-0-900-crop.jpg?v=cff6fc00b6"
+  },
+  {
+    "id": "guid:letterboxd-review-1504349023",
+    "guid": "letterboxd-review-1504349023",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Hold That Ghost",
+    "film_year": 1941,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/hold-that-ghost/",
+    "watched_date": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "fairly certain that this inspired at least three sequences in\nThundercrack!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/9/42959-hold-that-ghost-0-600-0-900-crop.jpg?v=3c75820c2e"
+  },
+  {
+    "id": "guid:letterboxd-review-1504296866",
+    "guid": "letterboxd-review-1504296866",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Time and Tide",
+    "film_year": 2000,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/time-and-tide/3/",
+    "watched_date": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "I\u2019ve seen this like ten times and I\u2019ll never understand it more but it\u2019s perfect?",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/3/0/3/16303-time-and-tide-0-600-0-900-crop.jpg?v=529de8d8d7"
+  },
+  {
+    "id": "guid:letterboxd-review-1504036524",
+    "guid": "letterboxd-review-1504036524",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Uprising",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-uprising-2026/",
+    "watched_date": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Greengrass back in shakey cam violence mode, with the best of this being hand held shots of carnage wrought on tax collectors and noblemen \u2014 it might ultimately feel superficial, and it is, but there\u2019s an endorphin rush to be had here and I\u2019m an easy mark for it",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/8/0/4/2/5/880425-the-uprising-2026-0-600-0-900-crop.jpg?v=71d42e25d2"
+  },
+  {
     "id": "guid:letterboxd-review-1503798338",
     "guid": "letterboxd-review-1503798338",
     "username": "bdgrabinski",
@@ -34,6 +160,24 @@
     "rewatch": false,
     "review_text": "\u201cfuck those kids and fuck chat gpt\u201d\nscratches a similar itch to\nSnack Shack\na few years ago, turning in a throwback to R-rated comedies from the 80s and 90s that\u2019s as crass as its inspirations but is also disarmingly sweet too \u2014 the last time I went to summer camp was the summer of 1999, I was 13 years old and our renegade counselor took us to a drive-in to see a double feature of\nAmerican Pie\nand\nSouth Park: Bigger, Longer & Uncut\n, just a couple vans full of young teens, a shit load of snacks and no cell phones in sight, one of the best nights of my life",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/1/6/2/1389162-tiny-fugitives-0-600-0-900-crop.jpg?v=95b3efdf18"
+  },
+  {
+    "id": "guid:letterboxd-watch-1504298449",
+    "guid": "letterboxd-watch-1504298449",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Rise of Catherine the Great",
+    "film_year": 1934,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-rise-of-catherine-the-great/",
+    "watched_date": "2026-09-19",
+    "publication_date": "2026-09-20",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/4/6/8/21468-the-rise-of-catherine-the-great-0-600-0-900-crop.jpg?v=f2f5801871"
   },
   {
     "id": "guid:letterboxd-watch-1503064694",
@@ -198,6 +342,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/2/45402-8-women-0-600-0-900-crop.jpg?v=a3372dfea1"
   },
   {
+    "id": "guid:letterboxd-review-1504229943",
+    "guid": "letterboxd-review-1504229943",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "My Date with the President's Daughter",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/my-date-with-the-presidents-daughter/",
+    "watched_date": "2026-09-18",
+    "publication_date": "2026-09-20",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "63\nA theme song so ridiculously catchy that Disney + is threatened by its mere existence.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/5/6/5/30565-my-date-with-the-president-s-daughter-0-600-0-900-crop.jpg?v=885012c0c2"
+  },
+  {
     "id": "guid:letterboxd-watch-1502678952",
     "guid": "letterboxd-watch-1502678952",
     "username": "riotglasses",
@@ -302,7 +464,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "Literally nothing going on under the hood and the anxious chatterbox humor had probably the weakest hit rate so far of a Cregger joint for me personally\u2014even if Abrams saves some of it with his freaked out delivery and final girl levels of wide-eyed running and screaming. But taking the amusing logistical mechanics and disgusting creature designs of\nResident Evil\nand realizing it as a run-all-night roller-coaster somewhere between Sam Raimi and\nAfter Hours\nis a sick idea, and this delivers on it for 90 straight minutes. A good time.",
+    "review_text": "Literally nothing going on under the hood and the anxious live-streamer chatterbox humor had probably the weakest hit rate so far of a Cregger joint for me personally\u2014even if Abrams saves some of it with his freaked-out delivery, and final girl levels of wide-eyed running and screaming. But taking the amusing logistical mechanics and disgusting creature designs of\nResident Evil\nand realizing it as a run-all-night roller-coaster somewhere between Sam Raimi and\nAfter Hours\nis a sick idea, and this delivers on it for 90 straight minutes. A good time. With really dexterous use of the floating camera and shadowy lighting, an amusingly videogame-y sense of level/environment progression and resource management that is incorporated quite fluidly and creatively (especially during that initial farmhouse section), and gore that though a little too digital looking at times is gross and gooey. MVPS: the sewer rat and elevator vomit guys. Unfortunately, by the time it arrived at its lab sequence/final shot and I realized this was all building towards a dumb, mean throwaway joke, I kind of both admired that about it but also realized that was exactly what was giving this a ceiling (top floor?) it wasn't going to overcome for me. But hey, maybe that's just me. The guy beside hooted and hollered and pointed at the screen when the typewriter showed up. Not judging, I felt the same about my buddy Richard Jewell gracing the screen.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/7/1/7/1302717-untitled-resident-evil-reboot-0-600-0-900-crop.jpg?v=a688bf1bc7"
   },
   {
@@ -1091,10 +1253,10 @@
     "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/trees-are-watching/",
     "watched_date": "2026-09-17",
     "publication_date": "2026-09-17",
-    "rating": 3.0,
+    "rating": 2.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "Kurdish-Iranian filmmaker Bahman Ghobadi\u2019s first stab at horror gets lost somewhere between the modern haunted house family trauma horror and supernatural Italian horror weirdness. Taking some Kurdish folk horror lore about punishment and reincarnation through trees/wooden objects to some uncanny extremes: nature getting\nFinal Destination 2\nrevenge on plumbers, abusive mothers turning into toilet witches, violent fight scenes with flying chairs, and lots of \u201cmental illness\u201d surrealism and child death. The budgetary limitations (especially with some of the big FX shots) and strange lost-in-translation ADR\u2019d English dialogue (that wasn\u2019t even subtitled correctly) is all a bit wonky, and again uncanny in a way I found charming in that way I do sometimes with flawed nonsensical Eurohorror, and really hope was more a result of simply being unfinished/unpolished than AI\u2026 Regardless, Ghobadi remains excellent at directing child performances.",
+    "review_text": "Kurdish-Iranian filmmaker Bahman Ghobadi\u2019s first stab at horror gets lost somewhere between the modern haunted house family trauma horror and supernatural Italian horror weirdness. Taking some Kurdish folk horror lore about punishment and reincarnation through trees/wooden objects to some uncanny extremes: nature getting\nFinal Destination 2\nrevenge on plumbers, abusive mothers turning into toilet witches, violent fight scenes with flying chairs, and lots of \u201cmental illness\u201d surrealism and child death. The budgetary limitations (especially with some of the big FX shots) and strange lost-in-translation ADR\u2019d English dialogue (that wasn\u2019t even subtitled correctly) is all a bit wonky, and again uncanny in a way I found charming in that way I do sometimes with flawed nonsensical Eurohorror, and really hope was more a result of simply being unfinished/unpolished CGI than AI... (Edit: turns out AI, unfortunately, so can't give this a positive rating. Too bad, Ghobadi remains excellent at directing child performances.)",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/3/4/3/7/1613437-trees-are-watching-0-600-0-900-crop.jpg?v=43d891bb4a"
   },
   {
@@ -1418,7 +1580,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "A gorgeously shot and powerfully assembled epic about the tragic love stories that get buried in the soil of history and arts ability to preserve and excavate them through time. Also the kind of movie that names its repressed Spanish soldier Sebastian and has him literally climb a statue of Saint Sebastian.",
+    "review_text": "A gorgeously shot and powerfully assembled epic about the tragic love stories that get buried in the soil of history and arts ability to preserve and excavate them through time. Also the kind of movie that names its repressed Spanish soldier Sebastian and has him literally climb a statue of Saint Sebastian. Won't deny feeling the impact of this one when it gets to its moving, overlapping destination but was a little surprised at how little the cross-cutting build-up (usually the thing that knock me out in a movie) did for me. The time-jumping felt less like it was generating fluidity or momentum than it was just kinda resetting and pulling me out. Oh well, everyone else loved it, so might be a me problem.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/0/3/0/1302030-la-bola-negra-0-600-0-900-crop.jpg?v=d8dd544a16"
   },
   {
@@ -1490,7 +1652,7 @@
     "rating": 4.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "You might be surprised to learn that Lee Chang-dong made another lyrical, thorny, novelistic portrait of South Korea's yearning, futureless working-class as told via an ambiguous and bleak romance-drama; and even brought back his two leads from\nPeppermint Candy\nand\nSecret Sunshine\nto do it! Loosely informed by a real-life labor strike and the\nDekalog\nmandate that \"thou shalt not covet\", his latest intimate-epic densely and patiently traces out the complicated \"friendship\" between two couples: a stoic laid-off factory worker who was violently assaulted during a worker's strike + his wife who has borne painful witness to his depressed behavior since, and a documentary filmmaker interested in making her next film about them (and the subject of the \"vanishing laborer\") + her generationally wealthy husband. Similarly to\nBurning\n, Lee is both fascinated by the moving interpersonal dynamics these people offer each other (one opening up about the suffering they've experienced and satisfying their curiosity, the other allowing those same people to briefly dream and fantasize and be within the proximity of material comforts \"like a place from a novel [they] haven't read\"), while also accumulating striking class detail and simmering resentment that complicates and corrupts any chance of a genuine relationship. Empathetically exploring the sad reality that so many people's sense of dignity and identity is directly tied to their job and what they can provide their family with (and the unjust humiliation, rage and emptiness of that), and the fundamental inability for people for whom money has never been a concern to connect with those people. Lee constantly weaponizing the beautifully controlled long-take docudrama photography and non-linear flashback editing, and using both to gracefully flesh out how this contradiction invisibly seeps into casual conversations and transactions, and eventually boils into a nakedly primal scream. Layering in all kinds of astonishingly small details that accumulate power as the pressure builds: the way they refer to those kept their jobs in the corporate restructuring as \"the living\" vs. those who lost them as \"the dead\"; the way all the drinking is connected back to the inciting class violence, the physicality in the two different scenes of the kid doing taekwondo, the police whistle (as it both relates to the traumatic police violence sequence + the \"house fairy\" property worker), the car washing memory, the way the camera keeps intruding the frame or disrupting the flow of conversation, the full moon!! Lee has such a gift for getting you attuned to the subjectivity and of seemingly inconsequential details of these character lives and so thoroughly realizing them that a minor moment as simple as a mom watching her kid spray a tree with a hose is loaded with an entire generational history of labor vs. capital. What a filmmaker.",
+    "review_text": "You might be surprised to learn that Lee Chang-dong made another lyrical, thorny, novelistic portrait of South Korea's yearning, futureless working-class as told via an ambiguous and bleak romance-drama; and even brought back his two leads from\nPeppermint Candy\nand\nSecret Sunshine\nto do it! Loosely informed by a real-life labor strike and the\nDekalog\nmandate that \"thou shalt not covet\", his latest intimate-epic densely and patiently traces out the complicated \"friendship\" between two couples: a stoic laid-off factory worker who was violently assaulted during a worker's strike + his wife who has borne painful witness to his depressed behavior since, and a documentary filmmaker interested in making her next film about them (and the subject of the \"vanishing laborer\") + her generationally wealthy husband. Similarly to\nBurning\n, Lee is both fascinated by the moving interpersonal dynamics these people offer each other (one opening up about the suffering they've experienced and satisfying their curiosity, the other allowing those same people to briefly dream and fantasize and be within the proximity of material comforts \"like a place from a novel [they] haven't read\"), while also accumulating striking class detail and simmering resentment that complicates and corrupts any chance of a genuine relationship. Empathetically exploring the sad reality that so many people's sense of dignity and identity is directly tied to their job and what they can provide their family with (and the unjust humiliation, rage and emptiness of that), and the fundamental inability for people for whom money has never been a concern to fully connect with those people. Even if they are personable and have chemistry and yearn for it, the systemic class divide inherently puts them in opposition. Lee constantly weaponizing the beautifully controlled long-take docudrama photography and non-linear flashback editing, and using both to gracefully flesh out how this contradiction invisibly seeps into casual conversations and transactions, and eventually boils into a nakedly primal scream. Layering in all kinds of astonishingly small details that accumulate power as the pressure builds: the way they refer to those kept their jobs in the corporate restructuring as \"the living\" vs. those who lost them as \"the dead\"; the way all the drinking is connected back to the inciting class violence, the physicality in the two different scenes of the kid doing taekwondo, the police whistle (as it both relates to the traumatic police violence sequence + the \"house fairy\" property worker), the car washing memory, the way the camera keeps intruding the frame or disrupting the flow of conversation, the full moon!! Lee has such a gift for getting you attuned to the subjectivity and of seemingly inconsequential details of these character lives and so thoroughly realizing them that a minor moment as simple as a mom watching her kid spray a tree with a hose is loaded with an entire generational history of labor vs. capital. What a filmmaker.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/3/7/2/1360372-possible-love-0-600-0-900-crop.jpg?v=74d3cd22dc"
   },
   {
@@ -27554,7 +27716,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 172 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 173 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -27680,7 +27842,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 179 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 180 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33620,7 +33782,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2728 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2729 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34088,7 +34250,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1373 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1374 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

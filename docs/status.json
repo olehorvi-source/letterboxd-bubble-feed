@@ -1,16 +1,16 @@
 {
-  "last_successful_update": "2026-09-20T19:52:56Z",
+  "last_successful_update": "2026-09-21T01:56:13Z",
   "individual_feed_status": {
     "thejoshl": {
       "username": "thejoshl",
       "critic_tier": "primary",
       "feed_url": "https://letterboxd.com/thejoshl/rss/",
-      "state": "error",
-      "http_status": null,
-      "entries_fetched": 0,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T14:58:25Z",
-      "error": "HTTPSConnectionPool(host='letterboxd.com', port=443): Read timed out. (read timeout=20.0)"
+      "state": "ok",
+      "http_status": 200,
+      "entries_fetched": 95,
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
+      "error": null
     },
     "jlalibs": {
       "username": "jlalibs",
@@ -19,8 +19,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "brofromanother": {
@@ -30,8 +30,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 58,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "bdgrabinski": {
@@ -41,8 +41,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 86,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "SeanFennessey": {
@@ -52,8 +52,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "silentdawn": {
@@ -63,8 +63,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "davidlsims": {
@@ -74,8 +74,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "gemko": {
@@ -85,8 +85,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "BrianDuffield": {
@@ -96,8 +96,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 58,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "riotglasses": {
@@ -107,8 +107,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "davidehrlich": {
@@ -118,8 +118,8 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     },
     "theolejake": {
@@ -129,32 +129,26 @@
       "state": "ok",
       "http_status": 200,
       "entries_fetched": 100,
-      "last_attempted_at": "2026-09-20T19:52:56Z",
-      "last_successful_fetch": "2026-09-20T19:52:56Z",
+      "last_attempted_at": "2026-09-21T01:56:13Z",
+      "last_successful_fetch": "2026-09-21T01:56:13Z",
       "error": null
     }
   },
   "last_successful_fetch_per_username": {
-    "thejoshl": "2026-09-20T14:58:25Z",
-    "jlalibs": "2026-09-20T19:52:56Z",
-    "brofromanother": "2026-09-20T19:52:56Z",
-    "bdgrabinski": "2026-09-20T19:52:56Z",
-    "SeanFennessey": "2026-09-20T19:52:56Z",
-    "davidlsims": "2026-09-20T19:52:56Z",
-    "gemko": "2026-09-20T19:52:56Z",
-    "BrianDuffield": "2026-09-20T19:52:56Z",
-    "davidehrlich": "2026-09-20T19:52:56Z",
-    "theolejake": "2026-09-20T19:52:56Z",
-    "silentdawn": "2026-09-20T19:52:56Z",
-    "riotglasses": "2026-09-20T19:52:56Z"
+    "thejoshl": "2026-09-21T01:56:13Z",
+    "jlalibs": "2026-09-21T01:56:13Z",
+    "brofromanother": "2026-09-21T01:56:13Z",
+    "bdgrabinski": "2026-09-21T01:56:13Z",
+    "SeanFennessey": "2026-09-21T01:56:13Z",
+    "davidlsims": "2026-09-21T01:56:13Z",
+    "gemko": "2026-09-21T01:56:13Z",
+    "BrianDuffield": "2026-09-21T01:56:13Z",
+    "davidehrlich": "2026-09-21T01:56:13Z",
+    "theolejake": "2026-09-21T01:56:13Z",
+    "silentdawn": "2026-09-21T01:56:13Z",
+    "riotglasses": "2026-09-21T01:56:13Z"
   },
-  "errors": [
-    {
-      "username": "thejoshl",
-      "feed_url": "https://letterboxd.com/thejoshl/rss/",
-      "error": "HTTPSConnectionPool(host='letterboxd.com', port=443): Read timed out. (read timeout=20.0)"
-    }
-  ],
-  "entries_fetched": 1002,
-  "total_archived_entries": 2020
+  "errors": [],
+  "entries_fetched": 1097,
+  "total_archived_entries": 2029
 }

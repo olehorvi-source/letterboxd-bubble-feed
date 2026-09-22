@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1505761613",
+    "guid": "letterboxd-watch-1505761613",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Whalefall",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/whalefall/",
+    "watched_date": "2026-09-21",
+    "publication_date": "2026-09-22",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e4f9482c27"
+  },
+  {
+    "id": "guid:letterboxd-watch-1505663802",
+    "guid": "letterboxd-watch-1505663802",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The House Call",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-house-call-2026/",
+    "watched_date": "2026-09-21",
+    "publication_date": "2026-09-21",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/2/7/8/1/1612781-the-house-call-2026-0-600-0-900-crop.jpg?v=491f3f8689"
+  },
+  {
     "id": "guid:letterboxd-watch-1505398647",
     "guid": "letterboxd-watch-1505398647",
     "username": "jlalibs",
@@ -88,6 +124,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/3/1/1486031-foreign-travel-0-600-0-900-crop.jpg?v=da48d600aa"
+  },
+  {
+    "id": "guid:letterboxd-review-1505653953",
+    "guid": "letterboxd-review-1505653953",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The History of Concrete",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-history-of-concrete/",
+    "watched_date": "2026-09-21",
+    "publication_date": "2026-09-21",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u201cI feel spun like a top!\u201d\n-guy behind me when it ended\nThis movie is selling out like Nolan in New York. Walking around the city afterwards was magic.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
+  },
+  {
+    "id": "guid:letterboxd-review-1505486447",
+    "guid": "letterboxd-review-1505486447",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Weight",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-weight-2026/",
+    "watched_date": "2026-09-21",
+    "publication_date": "2026-09-21",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "that rope bridge scene is my\nFall 2 \u2014\nI can\u2019t believe movies like this are still landing in multiplexes, please support them",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/5c/wi/1f/au/weight-0-600-0-900-crop.jpg?v=558a8cef6a"
   },
   {
     "id": "guid:letterboxd-review-1505409871",
@@ -1617,7 +1689,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "rookie mistake taking a bunch of teenagers to Pompeii when you could have just stayed home and shown them\nPompeii\n(2014) by Paul W.S. Anderson \u2014 but, really, this is beautiful and hypnotically leisurely, capturing the slow drip of time spent as an aimless teen even (and especially) when surrounded by art and history",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=5fdcc738e5"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
   },
   {
     "id": "guid:letterboxd-review-1499540545",
@@ -3201,7 +3273,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=3435feab5e"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=65a4e0abd4"
   },
   {
     "id": "guid:letterboxd-watch-1493928979",
@@ -5487,7 +5559,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=3435feab5e"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=65a4e0abd4"
   },
   {
     "id": "guid:letterboxd-watch-1485352552",
@@ -6117,7 +6189,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "something is rotten in the state of Denmark. Andrew Scott is great, possibly, as actor Ian Charleson performing Hamlet as he dies of AIDS, but it's hard to tell in a movie so cut to ribbons. plays like an 100-minute trailer for itself, leaving nothing but half-empty tropes behind\u2026 truly maddening to watch. starts on the right foot but i was genuinely angry with it by the end.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=3435feab5e"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=65a4e0abd4"
   },
   {
     "id": "guid:letterboxd-watch-1483248231",
@@ -28112,7 +28184,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 173 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 174 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -28238,7 +28310,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 180 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 181 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34178,7 +34250,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2729 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2730 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

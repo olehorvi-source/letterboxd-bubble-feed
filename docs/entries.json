@@ -18,6 +18,60 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e4f9482c27"
   },
   {
+    "id": "guid:letterboxd-review-1505815345",
+    "guid": "letterboxd-review-1505815345",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "River's Edge",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/rivers-edge/1/",
+    "watched_date": "2026-09-20",
+    "publication_date": "2026-09-22",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "60/100\nSecond viewing, last seen I believe sometime in 1990. (Pretty sure I watched it after\nBill & Ted's Excellent Adventure\n\u2014had this been my introduction to Keanu, I'd remember. Though he also stank up a few scenes in\nDangerous Liaisons.\n)\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/4/8/6/38486-river-s-edge-0-600-0-900-crop.jpg?v=d1553a1ffb"
+  },
+  {
+    "id": "guid:letterboxd-review-1505820313",
+    "guid": "letterboxd-review-1505820313",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Paradise Lost",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/paradise-lost-2026-1/",
+    "watched_date": "2026-09-13",
+    "publication_date": "2026-09-22",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Patrons: Search TIFF 2026 Day Four",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/0/1/1/1456011-paradise-lost-2026-1-0-600-0-900-crop.jpg?v=24497cce06"
+  },
+  {
+    "id": "guid:letterboxd-review-1505819622",
+    "guid": "letterboxd-review-1505819622",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Misty Green",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/misty-green/",
+    "watched_date": "2026-09-13",
+    "publication_date": "2026-09-22",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Patrons: Search TIFF 2026 Day Four",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/7/0/1/0/1267010-misty-green-0-600-0-900-crop.jpg?v=bca9d3e923"
+  },
+  {
     "id": "guid:letterboxd-watch-1505663802",
     "guid": "letterboxd-watch-1505663802",
     "username": "riotglasses",
@@ -69,7 +123,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/8/4/7/1403847-what-cant-be-mentioned-0-600-0-900-crop.jpg?v=3e9480be0f"
   },
   {
     "id": "guid:letterboxd-watch-1505259704",
@@ -1008,24 +1062,6 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/4/4/6/8/1374468-mr-nelson-did-you-kill-people-0-600-0-900-crop.jpg?v=13b22eff43"
   },
   {
-    "id": "guid:letterboxd-review-1501458693",
-    "guid": "letterboxd-review-1501458693",
-    "username": "gemko",
-    "critic_tier": "secondary",
-    "creator_display_name": "Mike D'Angelo",
-    "film_title": "Wild Horse Nine",
-    "film_year": 2026,
-    "tmdb_movie_id": null,
-    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/wild-horse-nine/",
-    "watched_date": "2026-09-18",
-    "publication_date": "2026-09-19",
-    "rating": 3.0,
-    "liked": null,
-    "rewatch": false,
-    "review_text": "Patrons: Search TIFF 2026 Day One",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
-  },
-  {
     "id": "guid:letterboxd-review-1501417148",
     "guid": "letterboxd-review-1501417148",
     "username": "jlalibs",
@@ -1114,6 +1150,24 @@
     "rewatch": false,
     "review_text": "Patrons: Search TIFF 2026 Day One",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/3/8/8/1/5/1038815-my-wife-cries-0-600-0-900-crop.jpg?v=25581e5c8d"
+  },
+  {
+    "id": "guid:letterboxd-review-1501458693",
+    "guid": "letterboxd-review-1501458693",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Wild Horse Nine",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/wild-horse-nine/",
+    "watched_date": "2026-09-10",
+    "publication_date": "2026-09-19",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Patrons: Search TIFF 2026 Day One",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
     "id": "guid:letterboxd-review-1501457246",
@@ -1805,7 +1859,7 @@
     "username": "thejoshl",
     "critic_tier": "primary",
     "creator_display_name": "Josh Lewis",
-    "film_title": "INK",
+    "film_title": "Ink",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/ink-2026/",
@@ -2291,7 +2345,7 @@
     "username": "brofromanother",
     "critic_tier": "primary",
     "creator_display_name": "Adam Nayman",
-    "film_title": "INK",
+    "film_title": "Ink",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/ink-2026/",
@@ -2751,7 +2805,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "It\u2019s been 18 years since \u201cTaken\u201d came out, and bad guys still haven\u2019t learned not to fuck with \u2014 older, seemingly harmless \u2014 people who have a very special set of skills. Rarely have those skills been more special, or at least more specialized, than they are in Roshan Sethi\u2019s \u201cThe Surgeon,\u201d a sedate but gruesome action thriller in which sixtysomething Michelle Yeoh violates the Hippocratic Oath with extreme prejudice after some gangsters kidnap her to operate on their boss (Martin Freeman, selling the crime lord schtick better than you might expect from Bilbo Baggins). The movie is a few cuts short of a lasting suture, but it\u2019s mighty fun to watch Yeoh prove her character\u2019s point that \u201cSurgery is precise violence.\u201d\nWe never learn a single detail about why Eliza Lim decided to devote her life to medicine, but the film\u2019s opening flashback \u2014 in which a younger version of Yeoh\u2019s role sits apart from her colleagues and brutally eviscerates a blood orange so that she can sew it up again \u2014 suggests that she wouldn\u2019t know what to do with a social life if she had one. Cut to: Four decades later, and Eliza is being forced into retirement because the hospital can\u2019t afford the liability. They say that after 60, the wrists start to shake. (Karan Soni, star of Sethi\u2019s \u201cA Nice Indian Boy,\u201d has an amusing voice cameo as the State Farm agent responsible for insuring each of Eliza\u2019s hands). But our heroine, who\u2019s clearly still possessed by the superhuman poise that Yeoh has weaponized across her brilliant career, is unconvinced. After doing everything in her power to save people\u2019s lives for so long, she can\u2019t stomach the thought of just waiting for herself to die.\nLucky for her, she may not have to wait as long as she thinks. She\u2019s only been off the job for a few days before some goons snatch her out of her kitchen one morning and take her to a derelict hospital where their boss is already prepped for surgery in the operating theater. Eliza doesn\u2019t know the patient\u2019s name, let alone what\u2019s wrong with him, but it\u2019s clear that she\u2019ll be killed if she doesn\u2019t start cutting into his belly soon.\n~this review continues on IndieWire~",
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/6/3/5/2/1356352-the-surgeon-2026-0-600-0-900-crop.jpg?v=d302a5c232"
   },
   {
     "id": "guid:letterboxd-watch-1495681358",
@@ -3975,7 +4029,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "This review may contain spoilers.\nThree movies in one: an occupied WWII Poland who\u2019s-deceiving-who espionage-noir, an outlaw-drifter western with multiple mysterious forces trying to shoot each other for the same village stockpile gold, and then a harrowing concentration camp assembly line horror show\u2026 Trying to determine whether that last one productively destabilizes the prior two, or whether it\u2019s just a cheap shock, but it was a shock nonetheless.\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/0/5/3/7/1390537-wild-wild-east-0-600-0-900-crop.jpg?v=a0b5398fa0"
   },
   {
     "id": "guid:letterboxd-review-1491747452",
@@ -6035,7 +6089,7 @@
     "username": "SeanFennessey",
     "critic_tier": "secondary",
     "creator_display_name": "Sean Fennessey",
-    "film_title": "INK",
+    "film_title": "Ink",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/ink-2026/",

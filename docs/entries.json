@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1507226593",
+    "guid": "letterboxd-watch-1507226593",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Teenage Sex and Death at Camp Miasma",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/teenage-sex-and-death-at-camp-miasma/",
+    "watched_date": "2026-09-22",
+    "publication_date": "2026-09-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-600-0-900-crop.jpg?v=f6059120f8"
+  },
+  {
+    "id": "guid:letterboxd-watch-1507151867",
+    "guid": "letterboxd-watch-1507151867",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Primetime",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/primetime-2026/1/",
+    "watched_date": "2026-09-22",
+    "publication_date": "2026-09-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-600-0-900-crop.jpg?v=41640d6988"
+  },
+  {
+    "id": "guid:letterboxd-watch-1507149912",
+    "guid": "letterboxd-watch-1507149912",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "The End of Oak Street",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/the-end-of-oak-street/",
+    "watched_date": "2026-09-22",
+    "publication_date": "2026-09-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/2/9/6/2/992962-the-end-of-oak-street-0-600-0-900-crop.jpg?v=b06dbfb4c9"
+  },
+  {
+    "id": "guid:letterboxd-watch-1507115288",
+    "guid": "letterboxd-watch-1507115288",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Riki-Oh: The Story of Ricky",
+    "film_year": 1991,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/riki-oh-the-story-of-ricky/1/",
+    "watched_date": "2026-09-22",
+    "publication_date": "2026-09-23",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/9/9/1/40991-riki-oh-the-story-of-ricky-0-600-0-900-crop.jpg?v=63b4d22923"
+  },
+  {
     "id": "guid:letterboxd-watch-1506938879",
     "guid": "letterboxd-watch-1506938879",
     "username": "jlalibs",
@@ -194,7 +266,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "There is a lot going on in Joel Crawford and Januel Mercado\u2019s \u201cForgotten Island,\u201d a heartfelt but exhaustingly hyper-frenetic Dreamworks Animation comedy that remixes \u201cSuperbad,\u201d \u201cEternal Sunshine of the Spotless Mind,\u201d and \u201cThe Hangover\u201d into a rave-like children\u2019s adventure steeped in Filipino folklore.\nIt\u2019s a touching story of memory and friendship (one that sees the \u201cHow to Train Your Dragon\u201d and \u201cKung Fu Panda\u201d production studio doubling down on the raw emotionality that worked so well for \u201cThe Wild Robot\u201d), and also a manic cartoon that goes out of its way to make a joke about Will Smith slapping Chris Rock at the Oscars (because Dreamworks is still the house that \u201cShrek\u201d built, at the end of the day). It\u2019s a heavily researched but kid-friendly glimpse into a culture that Hollywood has never drawn to life before, and also an anime-inspired piece of cultural syncretism that repeatedly incorporates actual footage from the Arnold Schwarzenegger classic \u201cPredator.\u201d\nChester Bennington Doesn\u2019t Appear in Linkin Park Rock Doc \u2018Unshatter,\u2019 but Director Joe Hahn Made Sure He Was \u2018Always, Always Around\u2019\nDid I mention that Dave Franco voices a cool pubescent weredog \u2014 a combination of words that no human has ever typed before \u2014 who uncontrollably transforms into a tiny chihuahua whenever he gets too close to a stick?\nLike I said, it\u2019s a lot. Sometimes \u2014 frequently \u2014 too much. But it\u2019s hard to complain about \u201ctoo much\u201d at a time when most of the animated movies this country pumps out aren\u2019t nearly enough. While \u201cForgotten Island\u201d is relentless, distractable, and overstuffed to a degree that waters down the simple power of its message (and makes it difficult to understand the basic principles of its plot), none of its lovingly sourced ingredients ever lose the basic essence of their flavor.\n~this review continues on IndieWire~",
+    "review_text": "There is a lot going on in Joel Crawford and Januel Mercado\u2019s \u201cForgotten Island,\u201d a heartfelt but exhaustingly hyper-frenetic Dreamworks Animation comedy that remixes \u201cSuperbad,\u201d \u201cEternal Sunshine of the Spotless Mind,\u201d and \u201cThe Hangover\u201d into a rave-like children\u2019s adventure steeped in Filipino folklore.\nIt\u2019s a touching story of memory and friendship (one that sees the \u201cHow to Train Your Dragon\u201d and \u201cKung Fu Panda\u201d production studio doubling down on the raw emotionality that worked so well for \u201cThe Wild Robot\u201d), and also a manic cartoon that goes out of its way to make a joke about Will Smith slapping Chris Rock at the Oscars (because Dreamworks is still the house that \u201cShrek\u201d built, at the end of the day). It\u2019s a heavily researched but kid-friendly glimpse into a culture that Hollywood has never drawn to life before, and also an anime-inspired piece of cultural syncretism that repeatedly incorporates actual footage from the Arnold Schwarzenegger classic \u201cPredator.\u201d\nDid I mention that Dave Franco voices a cool pubescent weredog \u2014 a combination of words that no human has ever typed before \u2014 who uncontrollably transforms into a tiny chihuahua whenever he gets too close to a stick?\nLike I said, it\u2019s a lot. Sometimes \u2014 frequently \u2014 too much. But it\u2019s hard to complain about \u201ctoo much\u201d at a time when most of the animated movies this country pumps out aren\u2019t nearly enough. While \u201cForgotten Island\u201d is relentless, distractable, and overstuffed to a degree that waters down the simple power of its message (and makes it difficult to understand the basic principles of its plot), none of its lovingly sourced ingredients ever lose the basic essence of their flavor.\n~this review continues on IndieWire~",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/1/7/3/7/1341737-forgotten-island-2026-0-600-0-900-crop.jpg?v=92321a8101"
   },
   {
@@ -1202,7 +1274,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "Literally nothing going on under the hood and the anxious live-streamer chatterbox humor had probably the weakest hit rate so far of a Cregger joint for me personally\u2014even if Abrams saves some of it with his freaked-out delivery, and final girl levels of wide-eyed running and screaming. But taking the amusing logistical mechanics and disgusting creature designs of\nResident Evil\nand realizing it as a run-all-night roller-coaster somewhere between Sam Raimi and\nAfter Hours\nis a sick idea, and this delivers on it for 90 straight minutes. A good time. With really dexterous use of the floating camera and shadowy lighting, an amusingly videogame-y sense of level/environment progression and resource management that is incorporated quite fluidly and creatively (especially during that initial farmhouse section), and gore that though a little too digital looking at times is gross and gooey. MVPS: the sewer rat and elevator vomit guys. Unfortunately, by the time it arrived at its lab sequence/final shot and I realized this was all building towards a dumb, mean throwaway joke, I kind of both admired that about it but also realized that was exactly what was giving this a ceiling (top floor?) it wasn't going to overcome for me. But hey, maybe that's just me. The guy beside hooted and hollered and pointed at the screen when the typewriter showed up. Not judging, I felt the same about my buddy Richard Jewell gracing the screen.",
+    "review_text": "Literally nothing going on under the hood and the anxious live-streamer chatterbox humor had probably the weakest hit rate so far of a Cregger joint for me personally\u2014even if Abrams saves some of it with his freaked-out delivery, and final girl levels of wide-eyed running and screaming. But taking the amusing logistical mechanics and disgusting creature designs of\nResident Evil\nand realizing it as a run-all-night roller-coaster somewhere between Sam Raimi and\nAfter Hours\nis a sick idea, and this delivers on it for 90 straight minutes. A good time. With really dexterous use of the floating camera and shadowy lighting, an amusingly videogame-y sense of level/environment progression and resource management that is incorporated quite fluidly and creatively (especially during that initial farmhouse section), and gore that though a little too digital looking at times is gross and gooey. MVPS: the chunky sewer rat and elevator vomit guys. Unfortunately, by the time it arrived at its lab sequence/final shot and I realized this was all building towards a dumb, mean throwaway joke, I kind of both admired that about it but also realized that was exactly what was giving this a ceiling (top floor?) it wasn't going to overcome for me. But hey, maybe that's just me. The guy beside hooted and hollered and pointed at the screen when the typewriter showed up. Not judging, I felt the same about my buddy Richard Jewell gracing the screen.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/7/1/7/1302717-untitled-resident-evil-reboot-0-600-0-900-crop.jpg?v=a688bf1bc7"
   },
   {
@@ -1985,7 +2057,7 @@
     "username": "thejoshl",
     "critic_tier": "primary",
     "creator_display_name": "Josh Lewis",
-    "film_title": "Trees Are Watching",
+    "film_title": "Trees are Watching",
     "film_year": 2026,
     "tmdb_movie_id": null,
     "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/trees-are-watching/",
@@ -6243,7 +6315,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/7/1/3/3/7/1471337-everest-the-other-side-0-600-0-900-crop.jpg?v=2b2d0deb86"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/7/1/3/3/7/1471337-everest-the-other-side-0-600-0-900-crop.jpg?v=4f87ea604d"
   },
   {
     "id": "guid:letterboxd-watch-1483865794",
@@ -27680,7 +27752,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nResident Evil\nBlue Heron\nDisclosure Day\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nPrimetime\nThe End of Oak Street\n...plus 72 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nResident Evil\nPrimetime\nDisclosure Day\nThe End of Oak Street\n...plus 72 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30776,7 +30848,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2439 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2438 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -35276,7 +35348,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2541 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2542 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

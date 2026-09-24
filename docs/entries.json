@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1508344957",
+    "guid": "letterboxd-watch-1508344957",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Last Critic",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-last-critic/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/1/0/9/1486109-the-last-critic-0-600-0-900-crop.jpg?v=4c8ec25024"
+  },
+  {
+    "id": "guid:letterboxd-watch-1508290076",
+    "guid": "letterboxd-watch-1508290076",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Joy of Joys",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/joy-of-joys/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/2/6/4/3/1612643-joy-of-joys-0-600-0-900-crop.jpg?v=58a71b9a3d"
+  },
+  {
     "id": "guid:letterboxd-watch-1508182560",
     "guid": "letterboxd-watch-1508182560",
     "username": "davidlsims",
@@ -16,6 +52,60 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/4/4/9/1/6/844916-ray-gunn-0-600-0-900-crop.jpg?v=53ed96d6ad"
+  },
+  {
+    "id": "guid:letterboxd-review-1508414557",
+    "guid": "letterboxd-review-1508414557",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "The Love Hypothesis",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/the-love-hypothesis/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-24",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "42\nWasn't quite sure at first but I was charmed by the end. Grad school shenanigans, hooking up at the biology conference, tons of awkward and goofy situations etc. You know the drill. And this all started as a Reylo fanfic? Fascinating. I'm taking notes.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/8/1/931181-the-love-hypothesis-0-600-0-900-crop.jpg?v=af3d1729f2"
+  },
+  {
+    "id": "guid:letterboxd-review-1508401760",
+    "guid": "letterboxd-review-1508401760",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": ".com for Murder",
+    "film_year": 2002,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/com-for-murder/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-24",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "this is basically Y2K\nEyes of Laura Mars,\ncomplete with POV killer sequences only this time they\u2019re from cyberspace and not clairvoyance \u2014 thoroughly a product of its time, back when modems dialed up and a chat room seemed like a new frontier, but also very nervous for the future which is palpable",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/8/4/1/28841--com-for-murder-0-600-0-900-crop.jpg?v=9b5646e12d"
+  },
+  {
+    "id": "guid:letterboxd-review-1508354250",
+    "guid": "letterboxd-review-1508354250",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Pulse",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/pulse-2001/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-24",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "we usually talk about the cinema of the 70s being the most apt at capturing loneliness, often stoic figures swallowed up by barren landscapes or amidst bustling cities \u2014 but the cinema of the aughts and its reliance on, and urgent rebuttal of, the internet in its relative infancy as a tool for connection, is arguably lonelier or, at the very least, more concerned with the repercussions of that feeling of isolation and no other movie portrays this better and with more innate fear than\nPulse\ntwo and a half decades later, it\u2019s only scarier \u2014 the true marker of a great horror film",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/6/1/8/34618-pulse-0-600-0-900-crop.jpg?v=9e927f3d94"
   },
   {
     "id": "guid:letterboxd-review-1508167993",
@@ -2282,7 +2372,7 @@
     "rating": 2.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "Kurdish-Iranian filmmaker Bahman Ghobadi\u2019s first stab at horror gets lost somewhere between the modern haunted house family trauma horror and supernatural Italian horror weirdness. Taking some Kurdish folk horror lore about punishment and reincarnation through trees/wooden objects to some uncanny extremes: nature getting\nFinal Destination 2\nrevenge on plumbers, abusive mothers turning into toilet witches, violent fight scenes with flying chairs, and lots of \u201cmental illness\u201d surrealism and child death. The budgetary limitations (especially with some of the big FX shots) and strange lost-in-translation ADR\u2019d English dialogue (that wasn\u2019t even subtitled correctly) is all a bit wonky, and again uncanny in a way I found charming in that way I do sometimes with flawed nonsensical Eurohorror, and really hope was more a result of simply being unfinished/unpolished CGI than AI... (Update: turns out AI, unfortunately. Too bad, Ghobadi remains excellent at directing child performances.)\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
+    "review_text": "Kurdish-Iranian filmmaker Bahman Ghobadi\u2019s first stab at horror gets lost somewhere between the modern haunted house family trauma horror and supernatural Italian horror weirdness. Taking some Kurdish folk horror lore about punishment and reincarnation through trees/wooden objects to some uncanny extremes: nature getting\nFinal Destination 2\nrevenge on plumbers, abusive mothers turning into toilet witches, violent fight scenes with flying chairs, and lots of \u201cmental illness\u201d surrealism and child death. The budgetary limitations (especially with some of the big FX shots) and strange lost-in-translation ADR\u2019d English dialogue (that wasn\u2019t even subtitled correctly) is all a bit wonky, and again uncanny in that way I sometimes find with flawed nonsensical Eurohorror, and really hope was more a result of simply being unfinished/unpolished CGI than AI... (Update: turns out AI, unfortunately. Too bad, Ghobadi remains excellent at directing child performances.)\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/3/4/3/7/1613437-trees-are-watching-0-600-0-900-crop.jpg?v=43d891bb4a"
   },
   {
@@ -28724,7 +28814,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 94 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 95 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30866,7 +30956,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 590 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 591 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32072,7 +32162,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "in chronological order\nBruiser\nFinal Destination\nGinger Snaps\nS\u00e9ance\nUrban Legends: Final Cut\nBook of Shadows: Blair Witch 2\nPhantom of the Megaplex\nWendigo\nTrouble Every Day\nJason X\n...plus 98 more.\nView the full list on Letterboxd\n.",
+    "review_text": "in chronological order\nBruiser\nFinal Destination\nGinger Snaps\nS\u00e9ance\nUrban Legends: Final Cut\nBook of Shadows: Blair Witch 2\nPhantom of the Megaplex\nWendigo\nTrouble Every Day\nJason X\n...plus 99 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33009,6 +33099,24 @@
     "liked": null,
     "rewatch": null,
     "review_text": "Full list, with stills and write-ups, out for *free* over on my Patreon:\nwww.patreon.com/posts/60772257\nThank you all for your continued support, it means so much.\nLicorice Pizza\nThe French Dispatch of the Liberty, Kansas Evening Sun\nKanye with Special Guest Drake: Free Larry Hoover Benefit Concert\nNobody\nMalignant\nZack Snyder's Justice League\nMemoria\nAnnette\nTitane\nOld\n...plus 5 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-18379090",
+    "guid": "letterboxd-list-18379090",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "underrated 2000s genre jams",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/underrated-2000s-genre-jams/",
+    "watched_date": null,
+    "publication_date": "2022-01-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "critically reviled, underseen, rarely canonized, etc\n15 Minutes\n16 Blocks\n300\n30 Days of Night\nThe 6th Day\nA.I. Artificial Intelligence\nThe Art of War\nAVP: Alien vs. Predator\nBad Boys II\nBlack Christmas\n...plus 130 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34124,7 +34232,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 633 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 634 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34484,7 +34592,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 307 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 308 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34538,7 +34646,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1823 more.\nView the full list on Letterboxd\n.",
+    "review_text": "chronological order\nonly including films i've watched/re-watched since joining letterboxd in 2012\nThe Cabinet of Dr. Caligari\nH\u00e4xan\nThe Passion of Joan of Arc\nScarface\nVampyr\nThe Old Dark House\nTrouble in Paradise\nThe Invisible Man\nMake Way for Tomorrow\nBringing Up Baby\n...plus 1824 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -36914,7 +37022,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2096 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2097 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

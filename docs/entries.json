@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1508973216",
+    "guid": "letterboxd-watch-1508973216",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "A Pigeon Sat on a Branch Reflecting on Existence",
+    "film_year": 2014,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/a-pigeon-sat-on-a-branch-reflecting-on-existence/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-24",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/8/5/0/6/88506-a-pigeon-sat-on-a-branch-reflecting-on-existence-0-600-0-900-crop.jpg?v=c5c6229ec3"
+  },
+  {
     "id": "guid:letterboxd-watch-1508878433",
     "guid": "letterboxd-watch-1508878433",
     "username": "davidlsims",
@@ -34,6 +52,60 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/4/5/7/0/6/845706-godzilla-minus-one-0-600-0-900-crop.jpg?v=77a601d6de"
+  },
+  {
+    "id": "guid:letterboxd-review-1509153673",
+    "guid": "letterboxd-review-1509153673",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "I Rarely Wake Up Dreaming",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/i-rarely-wake-up-dreaming/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-24",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "a different type of transgression than that of\nGrand Jet\u00e9,\nless concerned with provocation than it is turning in a relentlessly bleak account of life during wartime as a trans person \u2014 most of this worked for me, especially its tender opening moments, but the climax feels woefully misguided",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/4/2/5/1397425-i-rarely-wake-up-dreaming-0-600-0-900-crop.jpg?v=7d116943b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1509023136",
+    "guid": "letterboxd-review-1509023136",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Red Rocks",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/red-rocks-2026/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-24",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I have reached the point in my life where children largely terrify me and Bruno Dumont is all too eager to exploit that \u2014 looks incredible, end credits are a dance party, made me feel hopeless: recommended!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/4/9/9/1/1/1149911-red-rocks-2026-0-600-0-900-crop.jpg?v=36d50edf13"
+  },
+  {
+    "id": "guid:letterboxd-review-1509010510",
+    "guid": "letterboxd-review-1509010510",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "The Rivals of Amziah King",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/the-rivals-of-amziah-king/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Super cool movie!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/2/9/8/1013298-the-rivals-of-amziah-king-0-600-0-900-crop.jpg?v=7714bd135c"
   },
   {
     "id": "guid:letterboxd-review-1508872366",
@@ -106,6 +178,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/4/4/9/1/6/844916-ray-gunn-0-600-0-900-crop.jpg?v=fa18cd163d"
+  },
+  {
+    "id": "guid:letterboxd-review-1509032492",
+    "guid": "letterboxd-review-1509032492",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Born in Flames",
+    "film_year": 1983,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/born-in-flames/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-24",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u201cWe are rebuilding a warrior nation of guerillas, we\u2019re going to redesign mindscape of an alienated culture.\"\n\"We have control of language, of describing ourselves.\u201d\nA radically fragmented, angry and energetic work of DIY No Wave punk-rock agitprop. One in the process of openly and messily rethinking/redesigning the very concept of what a political movie is, needs to, and should be. If the work never ends and we are going to be in a constant state of complex, overlapping struggle, communication and transformation, our art should reflect that. Ronald Reagan would've had no chance against women on bikes headed directly to the propaganda radio stations with guns. Truly insane final shot to behold post-9/11. Young Kathryn Bigelow (and Eric Bogosian) jump scare.\nFull discussion coming soon on the podcast\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/5/6/9/27569-born-in-flames-0-600-0-900-crop.jpg?v=6c2a3ebe3e"
   },
   {
     "id": "guid:letterboxd-review-1508414557",
@@ -28886,7 +28976,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 177 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 179 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29012,7 +29102,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 184 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nNirvanna the Band the Show the Movie\nRemake\nCoyote vs. Acme\nPaper Tiger\nCAMP\n...plus 186 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29552,7 +29642,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Idlewild\nFrom Dusk Till Dawn\nNear Dark\nThe Color Purple\nVampires\nRosewood\nMudbound\nBeloved\nDevil in a Blue Dress\nGanja & Hess\n...plus 8 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Idlewild\nFrom Dusk Till Dawn\nNear Dark\nThe Color Purple\nVampires\nRosewood\nMudbound\nBeloved\nDevil in a Blue Dress\nGanja & Hess\n...plus 9 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30726,6 +30816,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-42364323",
+    "guid": "letterboxd-list-42364323",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "black history month",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/black-history-month/",
+    "watched_date": null,
+    "publication_date": "2024-02-01",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Within Our Gates\nFieldwork Footage\nHallelujah\nEmperor Jones\nImitation of Life\nThe Blood of Jesus\nCabin in the Sky\nStormy Weather\nThe Jackie Robinson Story\nCarmen Jones\n...plus 91 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-42256279",
     "guid": "letterboxd-list-42256279",
     "username": "theolejake",
@@ -31874,7 +31982,25 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 570 more.\nView the full list on Letterboxd\n.",
+    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 571 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-31274714",
+    "guid": "letterboxd-list-31274714",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "black romantic dramas",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/black-romantic-dramas/",
+    "watched_date": null,
+    "publication_date": "2023-02-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Carmen Jones\nAnna Lucasta\nPorgy and Bess\nNothing But a Man\nA Warm December\nCane River\nLosing Ground\nPoetic Justice\nJason's Lyric\nLove Jones\n...plus 16 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33606,6 +33732,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-17922571",
+    "guid": "letterboxd-list-17922571",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "favorite 70s films",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/favorite-70s-films/",
+    "watched_date": null,
+    "publication_date": "2021-05-15",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "An Unmarried Woman\nMikey and Nicky\n3 Women\nReal Life\nBlack Christmas\nScream Blacula Scream\nBadlands\nMy Brilliant Career\nPicnic at Hanging Rock\nThe Brood\n...plus 97 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-17778259",
     "guid": "letterboxd-list-17778259",
     "username": "bdgrabinski",
@@ -34596,6 +34740,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-7541660",
+    "guid": "letterboxd-list-7541660",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "favorite black films",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/favorite-black-films/",
+    "watched_date": null,
+    "publication_date": "2020-03-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Losing Ground\nNothing But a Man\nAnna Lucasta\nPortrait of Jason\nGeorgia, Georgia\nGanja & Hess\nPersonal Problems\nSchool Daze\nThe Women of Brewster Place\nParis Is Burning\n...plus 82 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-7524978",
     "guid": "letterboxd-list-7524978",
     "username": "theolejake",
@@ -34970,7 +35132,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2733 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2735 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -35978,7 +36140,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1706 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1707 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -36014,7 +36176,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Steve Jobs\nMad Max: Fury Road\nClouds of Sils Maria\nCarol\nBridge of Spies\nSpotlight\nEden\nPhoenix\nCreed\nMagic Mike XXL\n...plus 102 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Steve Jobs\nMad Max: Fury Road\nClouds of Sils Maria\nCarol\nBridge of Spies\nSpotlight\nEden\nPhoenix\nCreed\nMagic Mike XXL\n...plus 103 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

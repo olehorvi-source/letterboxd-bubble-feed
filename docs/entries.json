@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1510056841",
+    "guid": "letterboxd-watch-1510056841",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Brave Little Toaster",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-brave-little-toaster/1/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-25",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/3/4/4/39344-the-brave-little-toaster-0-600-0-900-crop.jpg?v=bf4b352755"
+  },
+  {
     "id": "guid:letterboxd-watch-1509733477",
     "guid": "letterboxd-watch-1509733477",
     "username": "SeanFennessey",
@@ -52,6 +70,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
+  },
+  {
+    "id": "guid:letterboxd-review-1510032717",
+    "guid": "letterboxd-review-1510032717",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Devil at Your Heels",
+    "film_year": 1981,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-devil-at-your-heels/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-25",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Proud to live in a country where our tax dollars go towards sending a film crew to follow guys around who are essentially the real-life\nHot Rod\nand\nTrailer Park Boys\n. As far as cinematic ego-driven death-drive obsessives are concerned, 70s Canadian stunt driver Ken Carter is one of the sweeter and more likeable precisely because the dream he yearns for seems so small and silly and yet still incredibly technically arduous and dangerous. The sheer passionate idiocy on display as he smashes his body to pieces to briefly make metal fly for some local Ontario dads and their kids is beautiful. How aware the documentary filmmakers are that what they're filming is stupid and insane and more than likely suicidal makes all the interviews they get even funnier and the stunt photography even scarier. The last-minute betrayal and anti-climactic conclusion to the failed 5-year journey to putting this mile-long Canada/US border stunt spectacle on is the kind of thing you can't script, it only happens when real idiots control their destiny. Pointed at the screen when Kenny Powers enters the picture down the stretch\u2014you think Danny McBride has seen this? All the 70s Canadian dad outfits (and accents) should be put in a museum.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/6/4/2/15642-the-devil-at-your-heels-0-600-0-900-crop.jpg?v=03af212c3d"
   },
   {
     "id": "guid:letterboxd-review-1509667441",
@@ -126,6 +162,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/1/5/8/1350158-bad-lieutenant-tokyo-0-600-0-900-crop.jpg?v=a0e7ca5b9b"
   },
   {
+    "id": "guid:letterboxd-watch-1509956379",
+    "guid": "letterboxd-watch-1509956379",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Misty Green",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/misty-green/",
+    "watched_date": "2026-04-02",
+    "publication_date": "2026-09-25",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/7/0/1/0/1267010-misty-green-0-600-0-900-crop.jpg?v=bca9d3e923"
+  },
+  {
     "id": "guid:letterboxd-watch-1509210731",
     "guid": "letterboxd-watch-1509210731",
     "username": "riotglasses",
@@ -173,7 +227,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/bucking-fastard/",
     "watched_date": "2026-09-24",
     "publication_date": "2026-09-24",
-    "rating": null,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -1595,7 +1649,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-rise-of-catherine-the-great/",
     "watched_date": "2026-09-19",
     "publication_date": "2026-09-20",
-    "rating": null,
+    "rating": 3.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -5249,7 +5303,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/heart-of-the-beast-2026/",
     "watched_date": "2026-09-10",
     "publication_date": "2026-09-10",
-    "rating": null,
+    "rating": 2.5,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -11855,7 +11909,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/my-undesirable-friends-part-i-last-air-in/",
     "watched_date": "2026-08-20",
     "publication_date": "2026-08-21",
-    "rating": null,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -28364,7 +28418,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nResident Evil\nPrimetime\nDisclosure Day\nThe End of Oak Street\n...plus 72 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\n28 Years Later: The Bone Temple\nAll of a Sudden\nBlue Heron\nPaper Tiger\nTeenage Sex and Death at Camp Miasma\nResident Evil\nPrimetime\nDisclosure Day\nThe End of Oak Street\n...plus 74 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -29714,7 +29768,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "One Battle After Another\nIt Was Just an Accident\nWeapons\nSinners\nCaught by the Tides\n28 Years Later\nMarty Supreme\nThe Secret Agent\nEephus\nEddington\n...plus 131 more.\nView the full list on Letterboxd\n.",
+    "review_text": "One Battle After Another\nIt Was Just an Accident\nWeapons\nSinners\nCaught by the Tides\n28 Years Later\nMarty Supreme\nThe Secret Agent\nEephus\nEddington\n...plus 132 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

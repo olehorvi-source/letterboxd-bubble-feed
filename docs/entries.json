@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1510395022",
+    "guid": "letterboxd-watch-1510395022",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Chi-Raq",
+    "film_year": 2015,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/chi-raq/1/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-25",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/6/9/7/4/2/269742-chi-raq-0-600-0-900-crop.jpg?v=8f22cd0fb8"
+  },
+  {
     "id": "guid:letterboxd-watch-1510056841",
     "guid": "letterboxd-watch-1510056841",
     "username": "riotglasses",
@@ -16,6 +34,60 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/3/4/4/39344-the-brave-little-toaster-0-600-0-900-crop.jpg?v=bf4b352755"
+  },
+  {
+    "id": "guid:letterboxd-review-1510372285",
+    "guid": "letterboxd-review-1510372285",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Idiots",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/idiots-2026/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-25",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Nice to see Macon Blair back in indie dirtbag crime movie mode, though this one is more of a sad slacker buddy road movie than proper thriller. Something that I wasn't sure totally (and tonally) worked for me in the silly early goings of the two unemployed fuck-ups taking their freelance gig to drive a delinquent rich kid psycho to rehab, but was won over when it began to detour and really step on the gas (cue explosive shitting/puking), and revealed itself to be on a weirder, uglier path. It has the dingy, stained Georgia backroads texture, slapstick crime-gone-wrong plotting, and amusingly eccentric personalities/criminals they run into along the way you probably expect, but its farce has a layer of unpleasantness to it that overwhelms it, and simmers into an undercurrent of genuinely depressed portraiture of lives on the margins. Probably didn't need the line about the kid potentially being president one day to see what Blair is getting at, how little consequences are felt by him vs. how every other poor/working-class character around him experiences some form of desperation and degradation (and material/bodily harm) got the point across well enough. Honestly, I thought the whole cast was pretty good (even Shipka as the Russian stripper who I will forever have a hard time disassociating from Sally Draper and Braun who gets dangerously close to doing too much with his Soundcloud rapper \"Pricka Bush Da Werewoof\"), but Franco is the standout. He takes that smug grin and juvenile broad comedy boyishness he's got locked down to some pathetic and unhinged places.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/7/9/2/4/377924-idiots-2026-0-600-0-900-crop.jpg?v=637a3b7a0a"
+  },
+  {
+    "id": "guid:letterboxd-review-1510183947",
+    "guid": "letterboxd-review-1510183947",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Minority Report",
+    "film_year": 2002,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/minority-report/2/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-25",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "If someone dropped this movie in 2026 they\u2019d win 900 Oscars.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1o/qh/5e/ur/dS5AHLt4DhZpisxryIxKJU6Urxb-0-600-0-900-crop.jpg?v=921863cb0d"
+  },
+  {
+    "id": "guid:letterboxd-watch-1510239714",
+    "guid": "letterboxd-watch-1510239714",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Mamma Mia! Here We Go Again",
+    "film_year": 2018,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/mamma-mia-here-we-go-again/4/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/0/2/6/4/390264-mamma-mia-here-we-go-again-0-600-0-900-crop.jpg?v=6c5ecc5b00"
   },
   {
     "id": "guid:letterboxd-watch-1509733477",
@@ -72,6 +144,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
+    "id": "guid:letterboxd-review-1510238338",
+    "guid": "letterboxd-review-1510238338",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Mamma Mia!",
+    "film_year": 2008,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/mamma-mia/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-25",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "80\nIn some ways, a first draft compared to the narrative complexity and heightened melancholy of\nHere We Go Again\n, but you forget most of that by the time Amanda Seyfried comes in on 'Lay All Your Love on Me'. Full body chills. Somehow both a wine mom and dudes rock classic.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/10/5l/wu/jl/gOm2iMMbC6EonrFzmSQ8xvCa4Ei.jpg-0-600-0-900-crop.jpg?v=e49de6f770"
+  },
+  {
     "id": "guid:letterboxd-review-1510032717",
     "guid": "letterboxd-review-1510032717",
     "username": "thejoshl",
@@ -124,6 +214,24 @@
     "rewatch": false,
     "review_text": "dih so good you swap bodies whilst bouncing on it \u2014 been a\nminute\nsince I\u2019ve seen distinctly European psychotic erotic existential dread cinema (see also: most of \u017bu\u0142awski\u2019s oeuvre) and 140 minutes of it, no less\nchecks a lot of boxes for me, including one that I never expected: Radu Jude playing a desperate father",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-600-0-900-crop.jpg?v=0598dd0b29"
+  },
+  {
+    "id": "guid:letterboxd-review-1510248239",
+    "guid": "letterboxd-review-1510248239",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Lemony Snicket's A Series of Unfortunate Events",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/lemony-snickets-a-series-of-unfortunate-events/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-25",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "53\nThis really looks the part, and you can see the money on the screen, but it fails to compile three books into a singularly satisfying narrative. Its art direction, costuming, and photography make it easy to stare at for ninety minutes, but this is a nostalgic favorite that has soured a bit for me over time.\nMore thoughts on all things Lemony Snicket over on the\npodcast\n. \ud83d\udc0d \ud83d\udd25 \ud83d\udcb0",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/0/2/1/45021-lemony-snickets-a-series-of-unfortunate-events-0-600-0-900-crop.jpg?v=5fb85c0a28"
   },
   {
     "id": "guid:letterboxd-review-1509730394",
@@ -2085,7 +2193,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Patrons: Search TIFF 2026 Day Two",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=0e5dd38a1c"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=6a4073ca80"
   },
   {
     "id": "guid:letterboxd-review-1501459248",
@@ -5001,7 +5109,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "And it\u2019s one more day up in the canyons\u2026.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=0e5dd38a1c"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=6a4073ca80"
   },
   {
     "id": "guid:letterboxd-watch-1491244883",
@@ -7413,7 +7521,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Andrew Haigh is a master of restraint, a talent that he\u2019s often weaponized against his own creations to beautiful and shattering effect. \u201cAll of Us Strangers,\u201d his most powerful feature so far, achieved its singularly cosmic force by crushing Andrew Scott\u2019s grief-stricken gay everyman under the weight of his own shame, the sharp but glancing angle of Haigh\u2019s direction gradually freighting the character\u2019s regrets with the gravity of a black hole.\nAdapted from the Colm T\u00f3ib\u00edn novella of the same name (the rights to which Haigh reserved almost two decades ago, well before \u201cWeekend\u201d had first suggested that he might be a worthy steward of a famous author\u2019s work), \u201cA Long Winter\u201d finds the English filmmaker a long way from home, but still on some very familiar terrain \u2014 and I don\u2019t just mean the rugged American West, where he previously shot 2017\u2019s \u201cLean on Pete.\u201d Turning his attention to the fringes of a remote Colorado ghost town that seems adrift in a cold gray limbo between the heavens above and the world below, Haigh returns with another immaculately crafted and agonizingly repressed queer drama about the pains of self-preservation, the strength required to stand on one\u2019s own two feet some day, and \u2014 most of all \u2014 the question of how people cope with their quiet desperation without compromising themselves to death along the way. Only this time, the director\u2019s signature restraint does more to suffocate his protagonist than it does to set him free.\nMuch like its closeted young hero, the first-born son of a brittle family that\u2019s been stuck in survival mode ever since the local mine shut down, the 1951-set \u201cA Long Winter\u201d is both sturdy as oak and withdrawn to the point of implosion. But Mike, in stark contrast to the even more diffident leads I\u2019ve come to expect from Haigh, quickly makes clear that he refuses to be as reined in as the film around him (which in turn makes the film around him feel all the more constrictive).\nPlayed by a resilient and clear-eyed Fred Hechinger, the enduring warmth of his performance a small miracle in a movie frigid enough to make \u201cThe Turin Horse\u201d feel like a tropical breeze by comparison, Mike rejects the implication that he should be defined by his setting, or by how Haigh chooses to frame it. Here, his lead character isn\u2019t dimensionalized by Haigh\u2019s reserve so much as he\u2019s at risk of being diminished by it. Easy as it is to root for Mike to slip out from his father\u2019s petrified shadow and make his way to \u201cthe other side of the mountain,\u201d as it were, Haigh\u2019s film \u2014 despite brimming with exquisite detail and finely rendered feeling \u2014 is too snowed in to support him on that journey.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=0e5dd38a1c"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=6a4073ca80"
   },
   {
     "id": "guid:letterboxd-review-1482762834",
@@ -30434,7 +30542,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Summer of Sam\nBeau Travail\nBamboozled\nDead Presidents\nHoly Motors\nSaint Omer\nVelvet Goldmine\nWorking Girls\nElvis\nHappiness\n...plus 141 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Summer of Sam\nBeau Travail\nBamboozled\nDead Presidents\nHoly Motors\nSaint Omer\nVelvet Goldmine\nWorking Girls\nElvis\nHappiness\n...plus 146 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -30614,7 +30722,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Shirley\nThe Little Stranger\nThe Eternal Daughter\nOddity\nCrimson Peak\nI Am the Pretty Thing That Lives in the House\nOnly Lovers Left Alive\nThe Righteous\nGretel & Hansel\nThe Babadook\n...plus 9 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Shirley\nThe Little Stranger\nThe Eternal Daughter\nOddity\nCrimson Peak\nI Am the Pretty Thing That Lives in the House\nOnly Lovers Left Alive\nThe Righteous\nGretel & Hansel\nThe Babadook\n...plus 10 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33783,6 +33891,24 @@
     "liked": null,
     "rewatch": null,
     "review_text": "Patreon list request by Ben Kirk!\nNot ranked, but these are my very favorites.\nAnd I'm counting 'Over the Garden Wall' because I want to.\nSnow White and the Seven Dwarfs\nPinocchio\nFantasia\nBambi\nThe Legend of Sleepy Hollow\nSleeping Beauty\nMy Neighbor Totoro\nAkira\nBatman: Mask of the Phantasm\nGhost in the Shell\n...plus 20 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
+    "id": "guid:letterboxd-list-18843055",
+    "guid": "letterboxd-list-18843055",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "the kind of work I want to make",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/the-kind-of-work-i-want-to-make/",
+    "watched_date": null,
+    "publication_date": "2021-07-17",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Losing Ground\nTest Pattern\nPhantom Thread\nWelcome to Me\nAll the Real Girls\nSecretary\nBlue Car\nBessie\nIn the Cut\nsex, lies, and videotape\n...plus 29 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

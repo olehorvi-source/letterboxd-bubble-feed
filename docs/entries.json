@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1509733477",
+    "guid": "letterboxd-watch-1509733477",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Fan",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-fan/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-25",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dp/3l/80/9u/the-fan-0-600-0-900-crop.jpg?v=9cc42adfb1"
+  },
+  {
+    "id": "guid:letterboxd-watch-1509557566",
+    "guid": "letterboxd-watch-1509557566",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Finding Nemo",
+    "film_year": 2003,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/finding-nemo/1/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-25",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/0/5/2705-finding-nemo-0-600-0-900-crop.jpg?v=b329bc5740"
+  },
+  {
     "id": "guid:letterboxd-watch-1509399855",
     "guid": "letterboxd-watch-1509399855",
     "username": "theolejake",
@@ -18,6 +54,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
+    "id": "guid:letterboxd-review-1509667441",
+    "guid": "letterboxd-review-1509667441",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Sender",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/sender-2026/",
+    "watched_date": "2026-09-24",
+    "publication_date": "2026-09-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "What a fucking great little indie gem. A major actor showcase. Everyone crushed it. Felt like I was losing my mind alongside the lead character. Tense and darkly funny and awesome. Loved the costumes. So glad I got to see it in a theater. The end credits were sick as hell. I had to pee so bad but didn\u2019t want to miss a frame. Go see this when it plays near you!!!!!!!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/1/3/9/5/1341395-sender-2-0-600-0-900-crop.jpg?v=920ebc140c"
+  },
+  {
     "id": "guid:letterboxd-review-1509481188",
     "guid": "letterboxd-review-1509481188",
     "username": "jlalibs",
@@ -34,6 +88,42 @@
     "rewatch": false,
     "review_text": "dih so good you swap bodies whilst bouncing on it \u2014 been a\nminute\nsince I\u2019ve seen distinctly European psychotic erotic existential dread cinema (see also: most of \u017bu\u0142awski\u2019s oeuvre) and 140 minutes of it, no less\nchecks a lot of boxes for me, including one that I never expected: Radu Jude playing a desperate father",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-600-0-900-crop.jpg?v=0598dd0b29"
+  },
+  {
+    "id": "guid:letterboxd-review-1509730394",
+    "guid": "letterboxd-review-1509730394",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Possible Love",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/possible-love/",
+    "watched_date": "2026-09-15",
+    "publication_date": "2026-09-25",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Patrons: Search TIFF 2026 Day Six",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/3/7/2/1360372-possible-love-0-600-0-900-crop.jpg?v=74d3cd22dc"
+  },
+  {
+    "id": "guid:letterboxd-review-1509729883",
+    "guid": "letterboxd-review-1509729883",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Bad Lieutenant: Tokyo",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/bad-lieutenant-tokyo/",
+    "watched_date": "2026-09-15",
+    "publication_date": "2026-09-25",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Patrons: Search TIFF 2026 Day Six",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/1/5/8/1350158-bad-lieutenant-tokyo-0-600-0-900-crop.jpg?v=a0e7ca5b9b"
   },
   {
     "id": "guid:letterboxd-watch-1509210731",
@@ -2549,7 +2639,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/la-gradiva/",
     "watched_date": "2026-09-17",
     "publication_date": "2026-09-17",
-    "rating": 4.5,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": "rookie mistake taking a bunch of teenagers to Pompeii when you could have just stayed home and shown them\nPompeii\n(2014) by Paul W.S. Anderson \u2014 but, really, this is beautiful and hypnotically leisurely, capturing the slow drip of time spent as an aimless teen even (and especially) when surrounded by art and history",
@@ -4011,7 +4101,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Matthew Rankin put his Guy Maddin toys down and picked up his Adam Curtis ones. Simultaneously an experimental remix art video essay, psychedelic political docu-fantasia, and lo-fi retro Canadian TV fever dream. I never paid much attention in school when learning about our political history so might've been a me issue that I didn't get more out of this but nonetheless was impressed by all the hand-crafted animation/montage, laughed a lot (especially Wayne Gretzky's brain in the Diefenbaker museum, and every time \"Ontarian Communist\" Ed Broadbent was asked to stopped speaking) and was bumping in my seat the entire time to the electric score. Contains some images that will never again grace an IMAX screen.\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=b77b07db28"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=b7e4a54808"
   },
   {
     "id": "guid:letterboxd-review-1494663495",
@@ -5541,7 +5631,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=b77b07db28"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=b7e4a54808"
   },
   {
     "id": "guid:letterboxd-watch-1488779961",
@@ -29426,7 +29516,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nThe Rivals of Amziah King\nThe Diary of a Chambermaid\nDouble Freedom\nMinotaur\nSpring in a Small Town\nLa Bola Negra\nPossible Love\nBad Lieutenant: Tokyo\nThe Dreamed Adventure\nThe Debut\n...plus 10017 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nConspiracy\nThe Rivals of Amziah King\nThe Diary of a Chambermaid\nDouble Freedom\nMinotaur\nSpring in a Small Town\nLa Bola Negra\nPossible Love\nBad Lieutenant: Tokyo\nThe Dreamed Adventure\n...plus 10018 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34394,7 +34484,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 747 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 748 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34700,7 +34790,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2477 more.\nView the full list on Letterboxd\n.",
+    "review_text": "An attempt at something comprehensive. Includes experimental, animation and short film work alongside features from early cinema through current releases.\npresented chronologically\nWithin Our Gates\nThe Symbol of the Unconquered: A Story of the Ku Klux Klan\nA Woman's Error\nBody and Soul\nThe Flying Ace\nEleven P.M.\nHell-Bound Train\nThe Darktown Revue\nTen Nights in a Bar-room\nThe Exile\n...plus 2480 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34880,7 +34970,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 308 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n100 Feet\n127 Hours\n1408\n2LDK\n4:44 Last Day on Earth\n7 Days\nAce in the Hole\nAdam\nAdaptation.\n...plus 309 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -35960,7 +36050,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2542 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2543 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37076,7 +37166,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 819 more.\nView the full list on Letterboxd\n.",
+    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 820 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37706,7 +37796,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "52 Pick-Up\n976-EVIL\nAnguish\nApartment Zero\nThe Bad and the Beautiful\nBergman Island\nThe Blind Owl\nThe Blob\nBlood Theatre\nBloody New Year\n...plus 89 more.\nView the full list on Letterboxd\n.",
+    "review_text": "52 Pick-Up\n976-EVIL\nAnguish\nApartment Zero\nThe Bad and the Beautiful\nBergman Island\nThe Blind Owl\nThe Blob\nBlood Theatre\nBloody New Year\n...plus 90 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

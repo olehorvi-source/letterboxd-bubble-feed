@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1510986197",
+    "guid": "letterboxd-watch-1510986197",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Toy Story 5",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/toy-story-5/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-26",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/7/1/8/6/977186-toy-story-5-0-600-0-900-crop.jpg?v=d0ac6a7d01"
+  },
+  {
+    "id": "guid:letterboxd-watch-1510856617",
+    "guid": "letterboxd-watch-1510856617",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Hoppers",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/hoppers/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-26",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/7/5/5/7/1207557-hoppers-0-600-0-900-crop.jpg?v=7711e7b5a7"
+  },
+  {
     "id": "guid:letterboxd-watch-1510812533",
     "guid": "letterboxd-watch-1510812533",
     "username": "davidlsims",
@@ -16,6 +52,60 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/5/8/9/4/25894-the-private-life-of-don-juan-0-600-0-900-crop.jpg?v=4dd5f7e047"
+  },
+  {
+    "id": "guid:letterboxd-review-1511062317",
+    "guid": "letterboxd-review-1511062317",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Hokum",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/hokum/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-26",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Really hits the spooky season spot!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/5/8/7/1308587-hokum-0-600-0-900-crop.jpg?v=29deb57767"
+  },
+  {
+    "id": "guid:letterboxd-review-1511020188",
+    "guid": "letterboxd-review-1511020188",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Once Upon a Time in Harlem",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/once-upon-a-time-in-harlem/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-26",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "83\nDoes the job of any great archival work, connecting us to the complications of the past. Starts off a bit rigid but soon finds its groove as a series of intellectual conversations begin to open up and flourish.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
+  },
+  {
+    "id": "guid:letterboxd-review-1510902029",
+    "guid": "letterboxd-review-1510902029",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Rembrandt",
+    "film_year": 1936,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/rembrandt/",
+    "watched_date": "2026-09-25",
+    "publication_date": "2026-09-26",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Korda + Laughton always hits",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/6/0/5/15605-rembrandt-0-600-0-900-crop.jpg?v=26646bdb03"
   },
   {
     "id": "guid:letterboxd-review-1510745777",
@@ -52,6 +142,42 @@
     "rewatch": false,
     "review_text": "getting a jump on spooky season. fabulous",
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/xx/ut/30/b1/7E1l2sRXOWWGq5loMFn4ev4AwR1-0-600-0-900-crop.jpg?v=c701eaba50"
+  },
+  {
+    "id": "guid:letterboxd-review-1510919587",
+    "guid": "letterboxd-review-1510919587",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Conspiracy",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/conspiracy/",
+    "watched_date": "2026-09-23",
+    "publication_date": "2026-09-26",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "61/100\nCan't compare this to\nThe Wannsee Conference,\nwhich I saw way back in 1995 (improbably, the Blockbuster near my dad's house had a copy) and don't really remember, but there's no getting around the fact that staging the conference in English, as performed by movie stars (plus some future TV stars, e.g.\nDownton Abbey\n's Brendan Coyle), makes it play a lot like \"What if the 12 angry men were all Nazis planning the Final Solution?\"\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/2/4/0/44240-conspiracy-0-600-0-900-crop.jpg?v=210ce316be"
+  },
+  {
+    "id": "guid:letterboxd-review-1510919393",
+    "guid": "letterboxd-review-1510919393",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Nothing in Common",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/nothing-in-common/1/",
+    "watched_date": "2026-09-22",
+    "publication_date": "2026-09-26",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Going back in time to tell my 18-year-old self that when I rewatch this film 40 years from now, Eva Marie Saint will still be alive.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/3/8/2/32382-nothing-in-common-0-600-0-900-crop.jpg?v=d5eb029760"
   },
   {
     "id": "guid:letterboxd-watch-1510637981",
@@ -2499,7 +2625,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "the music! the kids! the beautiful skin in the sunlight!",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/5/0/2/1609502-sunburn-2026-3-0-600-0-900-crop.jpg?v=036dad3ea1"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/5/0/2/1609502-sunburn-2026-3-0-600-0-900-crop.jpg?v=888485c279"
   },
   {
     "id": "guid:letterboxd-review-1500747461",
@@ -3921,7 +4047,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "I hate when I\u2019m hornier than a ten dick dog and I\u2019m told that my behavioral instincts aren\u2019t exactly aligned with the character of the blue man group.\n\u2014 Radiohead\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/7/6/3/6/1547636-anchors-aweigh-1-0-600-0-900-crop.jpg?v=f9949f3e48"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/7/6/3/6/1547636-anchors-aweigh-2026-0-600-0-900-crop.jpg?v=13145bf070"
   },
   {
     "id": "guid:letterboxd-review-1496125852",
@@ -31748,7 +31874,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2438 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2437 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

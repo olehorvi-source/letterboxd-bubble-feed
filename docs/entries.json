@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1514541422",
+    "guid": "letterboxd-watch-1514541422",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Love Hypothesis",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-love-hypothesis/",
+    "watched_date": "2026-09-27",
+    "publication_date": "2026-09-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/8/1/931181-the-love-hypothesis-0-600-0-900-crop.jpg?v=af3d1729f2"
+  },
+  {
     "id": "guid:letterboxd-watch-1514269973",
     "guid": "letterboxd-watch-1514269973",
     "username": "davidlsims",
@@ -16,6 +34,114 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/9/0/4/1/79041-green-fish-0-600-0-900-crop.jpg?v=a34dd4f5d7"
+  },
+  {
+    "id": "guid:letterboxd-review-1514822958",
+    "guid": "letterboxd-review-1514822958",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Butterfly Murders",
+    "film_year": 1979,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-butterfly-murders/",
+    "watched_date": "2026-09-27",
+    "publication_date": "2026-09-28",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "has the title and visual flair of a giallo, but the action of a wuxia and the whodunit beats of Agatha Christie \u2014 that this works at all, let alone as well as it does, is a testament to Tsui Hark who obviously, perhaps naturally, became a revered action director in Hong Kong as well as the US but based on some key scenes here, I can\u2019t help but wish we got more horror work from him too",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/0/2/9/1/20291-the-butterfly-murders-0-600-0-900-crop.jpg?v=cf9c09aa41"
+  },
+  {
+    "id": "guid:letterboxd-review-1514629013",
+    "guid": "letterboxd-review-1514629013",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Beverly Hills Cop",
+    "film_year": 1984,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/beverly-hills-cop/3/",
+    "watched_date": "2026-09-27",
+    "publication_date": "2026-09-28",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "James Russo has one of the most difficult jobs here and fucking crushed it. There\u2019s no movie if you don\u2019t buy their friendship. It\u2019s really impressive. My friend saw it for the first time tonight and quietly said \u201coh that\u2019s where this came from\u201d multiple times throughout the movie. You know this thing even if you\u2019ve never seen it.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/7h/a5/tr/ae/s7n0rS2Ff85SuSpqYG3ndkmdQf4-0-600-0-900-crop.jpg?v=dd6901d827"
+  },
+  {
+    "id": "guid:letterboxd-review-1514624888",
+    "guid": "letterboxd-review-1514624888",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Hot Dogs for Gauguin",
+    "film_year": 1972,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/hot-dogs-for-gauguin/",
+    "watched_date": "2026-09-27",
+    "publication_date": "2026-09-28",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Absolutely played with a crowd on the big screen. Wonderful Q&A with DeVito and the god Martin Brest afterwards. Need to see HOT TOMORROWS.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/3/5/6/7/143567-hot-dogs-for-gauguin-0-600-0-900-crop.jpg?v=197ac636b2"
+  },
+  {
+    "id": "guid:letterboxd-review-1514615941",
+    "guid": "letterboxd-review-1514615941",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Dead Lover",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/dead-lover/",
+    "watched_date": "2026-09-27",
+    "publication_date": "2026-09-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "What a year for Canadian cinema.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/6/8/3/1/2/968312-dead-lover-0-600-0-900-crop.jpg?v=86bf4b282f"
+  },
+  {
+    "id": "guid:letterboxd-review-1514474623",
+    "guid": "letterboxd-review-1514474623",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Resident Evil",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/resident-evil-2026/",
+    "watched_date": "2026-09-27",
+    "publication_date": "2026-09-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "it\u2019s gameplay.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/7/1/7/1302717-untitled-resident-evil-reboot-0-600-0-900-crop.jpg?v=a688bf1bc7"
+  },
+  {
+    "id": "guid:letterboxd-review-1514402638",
+    "guid": "letterboxd-review-1514402638",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Hellraiser: Inferno",
+    "film_year": 2000,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/hellraiser-inferno/",
+    "watched_date": "2026-09-27",
+    "publication_date": "2026-09-28",
+    "rating": 1.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "the idea of\nAngel Heart\nx\nHellraiser\nis great on paper but this never actually leans into neo-noir, it just feels like bad aughts episodic crime TV garbage with fleeting kink elements, light gore and Pinhead appearing on screen for maybe one minute \u2014 eternal damnation probably feels shorter than this 100 minutes did",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/4/4/3/44443-hellraiser-inferno-0-600-0-900-crop.jpg?v=39f45c3715"
   },
   {
     "id": "guid:letterboxd-review-1514252481",
@@ -2805,7 +2931,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": null
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/8/0/3/1620803-who-is-martin-mull-0-600-0-900-crop.jpg?v=67e1c77d35"
   },
   {
     "id": "guid:letterboxd-watch-1503053433",
@@ -8601,7 +8727,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "MOVIES MOVIES MOVIES MOVIES",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/9/0/8/7/109087-shanghai-blues-0-600-0-900-crop.jpg?v=fe5daec6dd"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/9/0/8/7/109087-shanghai-blues-0-600-0-900-crop.jpg?v=3f3ae08fc1"
   },
   {
     "id": "guid:letterboxd-review-1483066486",
@@ -10707,7 +10833,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/0/5/7/1346057-her-private-hell-2026-0-600-0-900-crop.jpg?v=be8c2e6c35"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/0/5/7/1346057-her-private-hell-2026-0-600-0-900-crop.jpg?v=83981a64b3"
   },
   {
     "id": "guid:letterboxd-watch-1474705137",
@@ -21957,7 +22083,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "40\nDidn't exactly hate this, but Refn's usual grab bag of subconscious signifiers, fetishized ultraviolence, and dream world monotony really hit a wall with this sci-fi sapphic tale. There's just not much to cling to, and the vibes are almost impressively distant, no matter their intrinsic beauty. It ultimately works best as a visual album for the (incredible) Pino Donaggio score, although it's a bit disappointing considering the soundtrack deserves a better film attached to it. Jury is still out as to whether this will unlock on future viewings, but at least NWR is back making feature films!",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/0/5/7/1346057-her-private-hell-2026-0-600-0-900-crop.jpg?v=be8c2e6c35"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/0/5/7/1346057-her-private-hell-2026-0-600-0-900-crop.jpg?v=83981a64b3"
   },
   {
     "id": "guid:letterboxd-review-1412752573",
@@ -30308,7 +30434,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 95 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 96 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32666,7 +32792,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2437 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2436 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33458,7 +33584,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "critically reviled, underseen, rarely canonized, etc\nAbby\nAct of Vengeance\nThe Alien Factor\nAre You in the House Alone?\nArnold\nAssault! Jack the Ripper\nThe Baby\nBad Ronald\nBadge 373\nThe Bees\n...plus 152 more.\nView the full list on Letterboxd\n.",
+    "review_text": "critically reviled, underseen, rarely canonized, etc\nAbby\nAct of Vengeance\nThe Alien Factor\nAre You in the House Alone?\nArnold\nAssault! Jack the Ripper\nThe Baby\nBad Ronald\nBadge 373\nThe Bees\n...plus 153 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -35658,6 +35784,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-10745092",
+    "guid": "letterboxd-list-10745092",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "John Carpenter, Ranked",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/list/john-carpenter-ranked/",
+    "watched_date": null,
+    "publication_date": "2020-10-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Maybe we\u2019ll do an episode next year. This\u2019ll do for now.\nHalloween\nThe Thing\nEscape from New York\nThey Live\nPrince of Darkness\nThe Fog\nBig Trouble in Little China\nIn the Mouth of Madness\nAssault on Precinct 13\nVampires\n...plus 11 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-13310303",
     "guid": "letterboxd-list-13310303",
     "username": "davidehrlich",
@@ -35762,7 +35906,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2999 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3000 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -35798,7 +35942,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 633 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 634 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -35870,7 +36014,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "2001 Maniacs\n300\n4 Faces of Eve\nThe 4th Man\n8 Women\nAlien: Covenant\nAll Cheerleaders Die\nAll Night Long 2\nAlucarda\n#AMFAD: All My Friends Are Dead\n...plus 397 more.\nView the full list on Letterboxd\n.",
+    "review_text": "2001 Maniacs\n300\n4 Faces of Eve\nThe 4th Man\n8 Women\nAlien: Covenant\nAll Cheerleaders Die\nAll Night Long 2\nAlucarda\n#AMFAD: All My Friends Are Dead\n...plus 398 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37094,7 +37238,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1168 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1169 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37256,7 +37400,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2542 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2547 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38606,7 +38750,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2099 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2100 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

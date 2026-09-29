@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1515942418",
+    "guid": "letterboxd-watch-1515942418",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Chronovisor",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/chronovisor/",
+    "watched_date": "2026-09-28",
+    "publication_date": "2026-09-29",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-600-0-900-crop.jpg?v=50c00b9581"
+  },
+  {
+    "id": "guid:letterboxd-watch-1515828385",
+    "guid": "letterboxd-watch-1515828385",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Making Marie Antoinette",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/making-marie-antoinette/",
+    "watched_date": "2026-09-28",
+    "publication_date": "2026-09-29",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/9/2/5/9/1619259-making-marie-antoinette-0-600-0-900-crop.jpg?v=db19608ce4"
+  },
+  {
+    "id": "guid:letterboxd-watch-1515791196",
+    "guid": "letterboxd-watch-1515791196",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th",
+    "film_year": 1980,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th/2/",
+    "watched_date": "2026-09-28",
+    "publication_date": "2026-09-29",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/9/49299-friday-the-13th-0-600-0-900-crop.jpg?v=ec6f86b02b"
+  },
+  {
     "id": "guid:letterboxd-watch-1515755077",
     "guid": "letterboxd-watch-1515755077",
     "username": "riotglasses",
@@ -34,6 +88,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/3/8/47438-hellraiser-0-600-0-900-crop.jpg?v=c927113564"
+  },
+  {
+    "id": "guid:letterboxd-review-1515914973",
+    "guid": "letterboxd-review-1515914973",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Assault on Precinct 13",
+    "film_year": 1976,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/assault-on-precinct-13/",
+    "watched_date": "2026-09-28",
+    "publication_date": "2026-09-29",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "What else could you want?",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ju/cb/fl/5q/z77jBn1j78W8px9lEjBlG5JibpM-0-600-0-900-crop.jpg?v=1ec4fa9596"
   },
   {
     "id": "guid:letterboxd-review-1515751048",
@@ -30452,7 +30524,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 542 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 543 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33008,7 +33080,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2436 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2434 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -36320,7 +36392,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "12th and Clairmount\n13th\n16 Blocks\n16 Shots\n21 Bridges\n36th Precinct\n48 Hrs.\n4Got10\n91 Bullets in a Minute\n9413\n...plus 517 more.\nView the full list on Letterboxd\n.",
+    "review_text": "12th and Clairmount\n13th\n16 Blocks\n16 Shots\n21 Bridges\n36th Precinct\n48 Hrs.\n4Got10\n91 Bullets in a Minute\n9413\n...plus 518 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

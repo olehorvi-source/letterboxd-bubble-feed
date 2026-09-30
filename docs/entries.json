@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1517169335",
+    "guid": "letterboxd-watch-1517169335",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Flirting with Disaster",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/flirting-with-disaster/",
+    "watched_date": "2026-09-30",
+    "publication_date": "2026-09-30",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/5/0/50550-flirting-with-disaster-0-600-0-900-crop.jpg?v=83ec42bc7d"
+  },
+  {
+    "id": "guid:letterboxd-watch-1517097185",
+    "guid": "letterboxd-watch-1517097185",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Serendipity",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/serendipity/",
+    "watched_date": "2026-09-29",
+    "publication_date": "2026-09-30",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/3/2/46832-serendipity-0-600-0-900-crop.jpg?v=abe2819460"
+  },
+  {
+    "id": "guid:letterboxd-watch-1517084002",
+    "guid": "letterboxd-watch-1517084002",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "A Personal Journey with Martin Scorsese Through American Movies",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/a-personal-journey-with-martin-scorsese-through/1/",
+    "watched_date": "2026-09-29",
+    "publication_date": "2026-09-30",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/5/5/5/0/1275550-a-personal-journey-with-martin-scorsese-through-american-0-600-0-900-crop.jpg?v=897767631d"
+  },
+  {
+    "id": "guid:letterboxd-watch-1517069949",
+    "guid": "letterboxd-watch-1517069949",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th Part 2",
+    "film_year": 1981,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th-part-2/2/",
+    "watched_date": "2026-09-29",
+    "publication_date": "2026-09-30",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/8/2/46882-friday-the-13th-part-2-0-600-0-900-crop.jpg?v=e44d9e7a58"
+  },
+  {
     "id": "guid:letterboxd-watch-1516850664",
     "guid": "letterboxd-watch-1516850664",
     "username": "riotglasses",
@@ -18,6 +90,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/7/3/9/0/647390-confess-fletch-0-600-0-900-crop.jpg?v=e519ab762e"
   },
   {
+    "id": "guid:letterboxd-review-1517119810",
+    "guid": "letterboxd-review-1517119810",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Tender Loving Care",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/tender-loving-care-2026/",
+    "watched_date": "2026-09-29",
+    "publication_date": "2026-09-30",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "feels like a send off film, not because Leigh is his age or the film is articulate about the perils of aging and facing mortality, but because it so deftly encapsulates a career that we have watched form over the past few decades, not unlike how Leigh molds the films as they grow out of improvisations \u2014 per usual, it\u2019s a masterclass in balancing moments of laugh out loud humor and the harshest realities of life, a true mirror to us all (especially the one bit about the kid who shit in the umbrella stand, \u201cbless his little heart\u201d)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/7/3/9/7/1257397-tender-loving-care-2026-0-600-0-900-crop.jpg?v=3638738dc9"
+  },
+  {
     "id": "guid:letterboxd-review-1516982449",
     "guid": "letterboxd-review-1516982449",
     "username": "riotglasses",
@@ -34,6 +124,24 @@
     "rewatch": false,
     "review_text": "the dream: be really mean to a rich guy and he falls in love with you",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/1/0/9/47109-you-ve-got-mail-0-600-0-900-crop.jpg?v=4a6ca4dba1"
+  },
+  {
+    "id": "guid:letterboxd-review-1516850664",
+    "guid": "letterboxd-review-1516850664",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Confess, Fletch",
+    "film_year": 2022,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/confess-fletch/",
+    "watched_date": "2026-09-29",
+    "publication_date": "2026-09-30",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "got too high. need to run this one back.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/7/3/9/0/647390-confess-fletch-0-600-0-900-crop.jpg?v=e519ab762e"
   },
   {
     "id": "guid:letterboxd-review-1516965188",
@@ -30956,7 +31064,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 184 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 185 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31082,7 +31190,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 193 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 194 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31334,7 +31442,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nHeroes Shed No Tears\nParallel Tales\nConspiracy\nThe Rivals of Amziah King\nThe Diary of a Chambermaid\nDouble Freedom\nMinotaur\nSpring in a Small Town\nLa Bola Negra\nPossible Love\n...plus 10020 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\nConspiracy\nThe Rivals of Amziah King\nThe Diary of a Chambermaid\nDouble Freedom\nMinotaur\nSpring in a Small Town\n...plus 10022 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33296,7 +33404,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2434 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2433 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37148,7 +37256,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2740 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2741 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

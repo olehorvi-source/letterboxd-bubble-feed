@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1517745145",
+    "guid": "letterboxd-watch-1517745145",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Smudge the Blades",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/smudge-the-blades/",
+    "watched_date": "2026-09-30",
+    "publication_date": "2026-09-30",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/0/8/3/1346083-smudge-the-blades-0-600-0-900-crop.jpg?v=1590ac7f4b"
+  },
+  {
+    "id": "guid:letterboxd-watch-1517716880",
+    "guid": "letterboxd-watch-1517716880",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Real Blonde",
+    "film_year": 1997,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-real-blonde/",
+    "watched_date": "2026-09-30",
+    "publication_date": "2026-09-30",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/5/2/1/32521-the-real-blonde-0-600-0-900-crop.jpg?v=e8e820ab89"
+  },
+  {
     "id": "guid:letterboxd-watch-1517639736",
     "guid": "letterboxd-watch-1517639736",
     "username": "SeanFennessey",
@@ -52,6 +88,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/5/0/50550-flirting-with-disaster-0-600-0-900-crop.jpg?v=83ec42bc7d"
+  },
+  {
+    "id": "guid:letterboxd-review-1517919877",
+    "guid": "letterboxd-review-1517919877",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The Departed",
+    "film_year": 2006,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-departed/1/",
+    "watched_date": "2026-09-30",
+    "publication_date": "2026-09-30",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Sent a friend the \u201cI\u2019m the guy who does his job\u201d bit earlier which is a standard move when you\u2019re working with a fucking moron and then had to watch the entire movie again. One of my favorite Marty movies. I\u2019ve never understood when some people think it\u2019s one of his lesser movies. Still fascinated by the music editing. Dropkick abruptly stopping mid scene is so sick.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/jr/th/pu/pb/laefkgrfa3oKwvBtWTBtf2suiI4-0-600-0-900-crop.jpg?v=f5d8231026"
   },
   {
     "id": "guid:letterboxd-review-1517573183",
@@ -4983,7 +5037,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "\u201cAre you saying you participated in a genocide?\u2019\n\u201cYes\u2026 we intentionally killed those children\u201d\nshould be required viewing for anyone that has ever referred to it as a \u201cconflict\u201d or a \u201cwar\u201d \u2014 I can\u2019t think anything more brave in film than making or releasing this, a heroic feat for all involved\nfree palestine",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=3ec2c4969a"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
     "id": "guid:letterboxd-review-1498398556",
@@ -6981,7 +7035,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=3ec2c4969a"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
     "id": "guid:letterboxd-watch-1491171070",
@@ -37544,7 +37598,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1403 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1409 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

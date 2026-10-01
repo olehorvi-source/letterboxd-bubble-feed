@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1518129872",
+    "guid": "letterboxd-watch-1518129872",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "The Widower: 'Til Death Do Us Part",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/the-widower-til-death-do-us-part/",
+    "watched_date": "2026-10-01",
+    "publication_date": "2026-10-01",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/3/8/1/6/1623816-the-widower-til-death-do-us-part-0-600-0-900-crop.jpg?v=02162924b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1518174397",
+    "guid": "letterboxd-review-1518174397",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Verity",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/verity-2026/",
+    "watched_date": "2026-09-30",
+    "publication_date": "2026-10-01",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u201cI have resting bored face\u201d explains Dakota Johnson before insisting unconvincingly to her dinner date that she really is having fun, honest. I love when movies review themselves.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/1/5/1/1167151-verity-2026-0-600-0-900-crop.jpg?v=3169444893"
+  },
+  {
+    "id": "guid:letterboxd-review-1518113637",
+    "guid": "letterboxd-review-1518113637",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Power Trip",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/power-trip-2026/",
+    "watched_date": "2026-09-30",
+    "publication_date": "2026-10-01",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I\u2019m really annoyed because I was writing a review that was a good LOCKE reference then Patrick ruined it by making a similar joke in the Q&A. Whatever. I did it for the concrete. I did it for the piece of sky that I\u2019m stealing.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/8/8/5/7/1598857-power-trip-2026-0-600-0-900-crop.jpg?v=4e247352c1"
+  },
+  {
     "id": "guid:letterboxd-watch-1517745145",
     "guid": "letterboxd-watch-1517745145",
     "username": "riotglasses",
@@ -88,6 +142,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/5/0/50550-flirting-with-disaster-0-600-0-900-crop.jpg?v=83ec42bc7d"
+  },
+  {
+    "id": "guid:letterboxd-review-1518014182",
+    "guid": "letterboxd-review-1518014182",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "My Wife Cries",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/my-wife-cries/",
+    "watched_date": "2026-09-30",
+    "publication_date": "2026-09-30",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u201cwe content ourselves to sleep\u201d\na snapshot of yearning, for a sort of liminal space between romance and something more nebulous: companionship, perhaps \u2014 looks great, shot on 35mm by Marius Panduru, who also shot Radu Jude\u2019s\nDiary of a Chambermaid\nthis year",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/3/8/8/1/5/1038815-my-wife-cries-0-600-0-900-crop.jpg?v=25581e5c8d"
   },
   {
     "id": "guid:letterboxd-review-1517919877",
@@ -216,6 +288,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/7/3/9/0/647390-confess-fletch-0-600-0-900-crop.jpg?v=e519ab762e"
   },
   {
+    "id": "guid:letterboxd-review-1518085096",
+    "guid": "letterboxd-review-1518085096",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "La Gradiva",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/la-gradiva/",
+    "watched_date": "2026-09-29",
+    "publication_date": "2026-09-30",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "69/100\nRIYL:\nMargaret\n's classroom scene in which Lisa and her fellow students and two teachers argue about 9/11 for a small eternity.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
+  },
+  {
     "id": "guid:letterboxd-review-1517119810",
     "guid": "letterboxd-review-1517119810",
     "username": "jlalibs",
@@ -268,6 +358,24 @@
     "rewatch": false,
     "review_text": "got too high. need to run this one back.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/7/3/9/0/647390-confess-fletch-0-600-0-900-crop.jpg?v=e519ab762e"
+  },
+  {
+    "id": "guid:letterboxd-review-1518084027",
+    "guid": "letterboxd-review-1518084027",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Field of Dreams",
+    "film_year": 1989,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/field-of-dreams/1/",
+    "watched_date": "2026-09-28",
+    "publication_date": "2026-09-30",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "More like field of Buicks amirite. That\u2019s gonna be a parking nightmare.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/sk/d9/0x/hm/uYpaC4TFH7sDtvfK8ANlWMKhmHv-0-600-0-900-crop.jpg?v=7ceb841fe2"
   },
   {
     "id": "guid:letterboxd-review-1516965188",
@@ -2949,7 +3057,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e4f9482c27"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e0ec86ea62"
   },
   {
     "id": "guid:letterboxd-review-1506516190",
@@ -24963,7 +25071,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e4f9482c27"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e0ec86ea62"
   },
   {
     "id": "guid:letterboxd-review-1401229412",
@@ -24999,7 +25107,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": "Dolby is the best.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e4f9482c27"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/9/8/3/4/1139834-whalefall-0-600-0-900-crop.jpg?v=e0ec86ea62"
   },
   {
     "id": "guid:letterboxd-review-1401150970",
@@ -31190,7 +31298,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 186 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 187 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -31316,7 +31424,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 195 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 196 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37382,7 +37490,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2742 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2743 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38336,7 +38444,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1121 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1122 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

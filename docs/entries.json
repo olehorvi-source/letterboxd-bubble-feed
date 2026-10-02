@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-review-1520064913",
+    "guid": "letterboxd-review-1520064913",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Slashers",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/slashers/",
+    "watched_date": "2026-10-02",
+    "publication_date": "2026-10-02",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I have questions.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/2/4/3/8243-slashers-0-600-0-900-crop.jpg?v=7253a4668b"
+  },
+  {
     "id": "guid:letterboxd-watch-1519488298",
     "guid": "letterboxd-watch-1519488298",
     "username": "bdgrabinski",
@@ -5936,7 +5954,7 @@
     "rating": 4.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "That rare movie that is almost entirely a vessel for a performance and is actually good because... I mean, what a performance. Eisenberg is smart to keep his basic A Streetcar Named Marge set-up of a timid, neglected housewife turned confident, over-committed method actor relatively simple, and then just following the absurdity of it where it leads him. Starting in the smaller register of a sweet woman rousingly discovering an expressive and cathartic technique that have a real use and value for her years of pent-up frustrations, before having it comically tied to and descent into an escalating series of gags with their sights set on the power-tripping self-importance/obsession of actors and and the sheer lunacy (positive and negative) of trying to achieve \"truth\" and \"reality\" through artifice. It's a great running joke that that this all takes place in the low-stakes world of community theatre and yet Daniels deploys all the classic visual vocabulary of a backstage showbiz pressure-cooker melodrama (love the sudden warm spotlight touches too when she gets excited about something). It's an over-cranked intensity that works in tandem with Moore, who is so unreal good at playing this adult theatre kid version of her housewife from\nSafe\ncompletely straight, even as she takes her therapeutic sense of actorly \"play\" to some extremely darkly funny places. Whether that's remaining adorably, performatively sweet in the face of the casual cruelty she receives from her family, friends, and domineering theater director (Giamatti, also excellent, but in a more minor register than Moore despite his \"I AM YOUR GOD\" moment), or finding such immense, crowd-pleasing satisfaction from essentially LARPing to a progressively more dangerous and unhealthy degree. The details of which are better left unspoiled but some of the scenes of her alone in that dingy motel room had me losing my mind.\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
+    "review_text": "That rare movie that is almost entirely a vessel for a performance and is actually good because... I mean, what a performance. Eisenberg is smart to keep his basic A Streetcar Named Marge set-up of a timid, neglected housewife turned confident, over-committed method actor relatively simple, and then just following the absurdity of it where it leads him. Starting in the smaller register of a sweet woman rousingly discovering an expressive and cathartic technique that have a real use and value for her years of pent-up frustrations, before having it comically tied to and descent into an escalating series of gags with their sights set on the power-tripping self-importance/obsession of actors and and the sheer lunacy (positive and negative) of trying to achieve \"truth\" and \"reality\" through artifice. It's a great running joke that this all takes place in the low-stakes world of community theatre and yet Eisenberg and Daniels deploy all the classic visual vocabulary of a backstage showbiz pressure-cooker melodrama (love the sudden warm spotlight touches too when she gets excited about something). It's an over-cranked intensity that works in tandem with Moore, who is so unreal good at playing this adult theatre kid version of her housewife from\nSafe\ncompletely straight, even as she takes her therapeutic sense of actorly \"play\" to some extremely darkly funny places. Whether that's remaining adorably, performatively sweet in the face of the casual cruelty she receives from her family, friends, and domineering theatre director (Giamatti, also excellent, but in a more minor register than Moore despite his \"I AM YOUR GOD\" moment), or finding such immense, crowd-pleasing satisfaction from essentially LARPing to a progressively more dangerous and unhealthy degree. The details of which are better left unspoiled but some of the scenes of her alone in that dingy motel room had me losing my mind.\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/5/4/9/7/1275497-untitled-jesse-eisenberg-musical-comedy-0-600-0-900-crop.jpg?v=06eb654267"
   },
   {
@@ -33912,6 +33930,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-37197625",
+    "guid": "letterboxd-list-37197625",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "a new england horror compendium",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/list/a-new-england-horror-compendium/",
+    "watched_date": null,
+    "publication_date": "2023-09-26",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "films set in new england (can be shot elsewhere provided they are set in one of the new england states)\nnote: new york *is not* part of new england\nAll Fun and Games\nAlmost Human\nAltered States\nThe Animal\nAttack of the Beast Creatures\nThe Autopsy of Jane Doe\nBackwoods\nBad Candy\nThe Battery\nBeetlejuice\n...plus 205 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-37331072",
     "guid": "letterboxd-list-37331072",
     "username": "SeanFennessey",
@@ -35726,7 +35762,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3724 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3725 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -36230,7 +36266,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All films currently on Letterboxd featuring the new \"adult\" tag. Will be consistently updated with every new \"adult\" title added.\nIn order to see the posters not blurred, please opt-in to adult films in your settings.\nFor questions, concerns or to formally request a new title, please email data@letterboxd.com as I do not work for Letterboxd\nForbidden Letters\nLA Plays Itself\nPassing Strangers\nBijou\nEquation to an Unknown\nThundercrack!\nY2KAGE\nMes ch\u00e9ris\nCatalinaVille\nBoy Band\n...plus 4713 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All films currently on Letterboxd featuring the new \"adult\" tag. Will be consistently updated with every new \"adult\" title added.\nIn order to see the posters not blurred, please opt-in to adult films in your settings.\nFor questions, concerns or to formally request a new title, please email data@letterboxd.com as I do not work for Letterboxd\nForbidden Letters\nLA Plays Itself\nPassing Strangers\nBijou\nEquation to an Unknown\nThundercrack!\nY2KAGE\nMes ch\u00e9ris\nCatalinaVille\nBoy Band\n...plus 4714 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39596,7 +39632,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Movies that take place (or feature at least a scene set in) at a drive-in theater.\nAmerican Drive-In\nBack to the Future Part III\nThe Being\nBikini Drive-In\nBlue Thunder\nBrokeback Mountain\nCecil B. Demented\nChillerama\nChristine\nThe Cider House Rules\n...plus 58 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Movies that take place (or feature at least a scene set in) at a drive-in theater.\nAmerican Drive-In\nBack to the Future Part III\nThe Being\nBikini Drive-In\nBlue Thunder\nBrokeback Mountain\nCecil B. Demented\nChillerama\nChristine\nThe Cider House Rules\n...plus 59 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39794,7 +39830,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 821 more.\nView the full list on Letterboxd\n.",
+    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 822 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

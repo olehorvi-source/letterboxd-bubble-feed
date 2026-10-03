@@ -18,6 +18,60 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/1/0/1/23101-jack-s-back-0-600-0-900-crop.jpg?v=c7454c5a86"
   },
   {
+    "id": "guid:letterboxd-watch-1520940444",
+    "guid": "letterboxd-watch-1520940444",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Ring",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/ring-1998/",
+    "watched_date": "2026-10-02",
+    "publication_date": "2026-10-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/1/5/5/50155-ring-1998-0-600-0-900-crop.jpg?v=d9119f9242"
+  },
+  {
+    "id": "guid:letterboxd-review-1521105334",
+    "guid": "letterboxd-review-1521105334",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Roterfluss",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/roterfluss/",
+    "watched_date": "2026-10-02",
+    "publication_date": "2026-10-03",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "this is what I wanted\nThe Green Knight\nto be, and it nails it in ten minutes \u2014 a testament to the alchemy of photochemical filmmaking and the sorcery of creation, really inspiring",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/5/7/3/1620573-roterfluss-0-600-0-900-crop.jpg?v=8de89ade68"
+  },
+  {
+    "id": "guid:letterboxd-review-1521035205",
+    "guid": "letterboxd-review-1521035205",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Alien Resurrection",
+    "film_year": 1997,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/alien-resurrection/",
+    "watched_date": "2026-10-02",
+    "publication_date": "2026-10-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "I\u2019ve always loved this messy movie. Trying to decide if it counts as one of my October horror movies. What really matters is I\u2019ve spent my whole life worried about what would happen if the aliens got to earth. It seemed scary and dangerous. Then they made ALIEN: EARTH and literally none of the main characters were ever killed by a xenomorph!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/8/8/7/47887-alien-resurrection-0-600-0-900-crop.jpg?v=2b6009c350"
+  },
+  {
     "id": "guid:letterboxd-review-1520812815",
     "guid": "letterboxd-review-1520812815",
     "username": "jlalibs",
@@ -4533,7 +4587,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=4f27917e8b"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=ac4b000beb"
   },
   {
     "id": "guid:letterboxd-watch-1502097396",
@@ -4695,7 +4749,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Patrons: Search TIFF 2026 Day Two",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=4f27917e8b"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=ac4b000beb"
   },
   {
     "id": "guid:letterboxd-review-1502250801",
@@ -4857,7 +4911,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "everything else is noise but\nespecially\nyour neighbor\u2019s dog who won\u2019t stop barking all day \u2014 will strike a particular nerve in those with tenant and/or family anxieties which is basically most people",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=4f27917e8b"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=ac4b000beb"
   },
   {
     "id": "guid:letterboxd-review-1501030120",
@@ -37292,7 +37346,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 750 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 751 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37364,7 +37418,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3000 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2999 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38858,7 +38912,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2548 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2546 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

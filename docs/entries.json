@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1521908837",
+    "guid": "letterboxd-watch-1521908837",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Joy of Joys",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/joy-of-joys/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/2/6/4/3/1612643-joy-of-joys-0-600-0-900-crop.jpg?v=58a71b9a3d"
+  },
+  {
+    "id": "guid:letterboxd-watch-1521877242",
+    "guid": "letterboxd-watch-1521877242",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Verity",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/verity-2026/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/1/5/1/1167151-verity-2026-0-600-0-900-crop.jpg?v=3169444893"
+  },
+  {
+    "id": "guid:letterboxd-watch-1521620528",
+    "guid": "letterboxd-watch-1521620528",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "A Statement",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/a-statement-2026/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/7/5/9/1486759-a-statement-1-0-600-0-900-crop.jpg?v=5cdaba9bfe"
+  },
+  {
     "id": "guid:letterboxd-watch-1520733549",
     "guid": "letterboxd-watch-1520733549",
     "username": "theolejake",
@@ -16,6 +70,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/1/0/1/23101-jack-s-back-0-600-0-900-crop.jpg?v=c7454c5a86"
+  },
+  {
+    "id": "guid:letterboxd-review-1521958748",
+    "guid": "letterboxd-review-1521958748",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "After Dreaming",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/after-dreaming/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-03",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The Fog of War \u2014\ntried to clean my glasses maybe five times before realizing that the consistent blur on screen was an intentional part of the film, which deftly realized the inherent haze of memory; beautiful formalism and a rare treat for me, as an Armenian, to see my people and our culture on a big screen",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/9/8/8/5/8/1298858-after-dreaming-0-600-0-900-crop.jpg?v=906a51f44e"
   },
   {
     "id": "guid:letterboxd-watch-1520940444",
@@ -124,6 +196,42 @@
     "rewatch": false,
     "review_text": "Purposefully unfolding like a piece of classical music that\u2019s lost its melody among a maze of overlapping leitmotifs, Tony Gilroy\u2019s \u201cBehemoth!\u201d is a much slippier and more elegant thing than the scale implied by its title \u2014 the deception of which is purposeful as well. Sure, there are car crashes, crane shots, and nine different composers to the film\u2019s credit (with giants of the form like Alan Silvestri, Michael Giacchino, and James Newton Howard each contributing their own diegetic accompaniments), but all of those outsized flourishes have the strange effect of making the elusive film around them feel easier to slip through your fingers.\nAt its most basic level, \u201cBehemoth!\u201d is a floaty little character study about a hot but avoidant cellist named Alex Sarian (Pedro Pascal) who returns to Los Angeles after 20 years of running away from it and immediately gets seduced back into his memories when he starts working as a session player on a variety of different film scores. Such is the singular effect of movie music \u2014 compositions that are inextricably bound to certain images from the moment they\u2019re brought into the world, like a person to the family they never asked to have. Confronted with that strange alchemy for the first time since he abandoned the pictures for the philharmonic, and largely disinterested in the Hollywood slop he\u2019s been hired to play over, Alex can\u2019t help but map the arrangements onto the unresolved moments from his own life.\nMaybe, we think, the music will help make sense of the stray thoughts that kick around his head, or at least turn them into the stuff of a \u201cStardust Memories\u201d-like funhouse to explore. It\u2019s all too easy to imagine what a conventional filmmaker could do with that same concept. But Gilroy, so eager to zag against expectations that he leveraged a mega-budget \u201cStar Wars\u201d show into an uncompromising political thriller about the brick-by-brick sacrifice required to build a rebellion, soon reveals subtler and more ambivalently cinematic intentions than the premise of his latest feature might suggest. By the time \u201cBehemoth!\u201d arrives at its dolcissimo stunner of an ending, it\u2019s all the more rewarding for that.\n~this review continues on IndieWire~",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/2/9/5/3/4/1329534-behemoth-2026-0-600-0-900-crop.jpg?v=52065abd13"
+  },
+  {
+    "id": "guid:letterboxd-review-1517069949",
+    "guid": "letterboxd-review-1517069949",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th Part 2",
+    "film_year": 1981,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th-part-2/2/",
+    "watched_date": "2026-09-29",
+    "publication_date": "2026-10-03",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Talked about in full alongside\nFriday the 13th\n(1980) on episode 453 of my genre and exploitation film podcast\nSLEAZOIDS\nwith special guest Anthony Leroy, you can\nlisten to the episode for free on Soundcloud by clicking here\n.\nYou can also listen to this episode (and all previous free episodes) over on\nApple Podcasts\nor\nSpotify\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/8/2/46882-friday-the-13th-part-2-0-600-0-900-crop.jpg?v=e44d9e7a58"
+  },
+  {
+    "id": "guid:letterboxd-review-1515791196",
+    "guid": "letterboxd-review-1515791196",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th",
+    "film_year": 1980,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th/2/",
+    "watched_date": "2026-09-28",
+    "publication_date": "2026-10-03",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Talked about in full alongside\nFriday the 13th Part 2\n(1981) on episode 453 of my genre and exploitation film podcast\nSLEAZOIDS\nwith special guest Anthony Leroy, you can\nlisten to the episode for free on Soundcloud by clicking here\n.\nYou can also listen to this episode (and all previous free episodes) over on\nApple Podcasts\nor\nSpotify\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/9/49299-friday-the-13th-0-600-0-900-crop.jpg?v=ec6f86b02b"
   },
   {
     "id": "guid:letterboxd-review-1520315895",
@@ -31892,7 +32000,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 191 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 192 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32018,7 +32126,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 201 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 202 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38174,7 +38282,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2747 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2748 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38912,7 +39020,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Official list of all films covered on the podcast. This list used to be ranked by rating but due to volume of films it has been updated to chronological episode order. Hit \"read notes\" for links to individual episodes for films below as well as official ratings for each\u2026\nwww.sleazoidspodcast.com/\nFor weekly updates follow the official letterboxd account:\nletterboxd.com/SLEAZOIDS/\nListen to all the free episodes on\nSoundcloud\n,\nApple Podcasts\nor\nSpotify\n!!!\nFor access to our back catalog of bonus episodes (over 190 now) and all future bonus episodes (2 more every month), subscribe on\nPatreon\n!!!\nFollow us on\nTwitter\n!!!\nLike us on\nFacebook\n!!!\nBUY THE 'SLEAZOIDS' SHIRT\n.\nBUY THE 'SLEAZOIDS' HAT\n.\nThe Hills Have Eyes\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nSpider Baby\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nDirty Harry\ntalked about on ep 2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nRaw Deal\ntalked about on ep2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nFemale Prisoner #701: Scorpion\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 4/5*\nKill Bill: Vol. 1\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 5/5*\nLong Weekend\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nandrew's rating: 3.5/5\nRazorback\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 3/5*\nandrew's rating: 4/5\nDeath Wish\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nDeath Wish II\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 2/5*\njamie's rating: 3/5*\n...plus 882 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Official list of all films covered on the podcast. This list used to be ranked by rating but due to volume of films it has been updated to chronological episode order. Hit \"read notes\" for links to individual episodes for films below as well as official ratings for each\u2026\nwww.sleazoidspodcast.com/\nFor weekly updates follow the official letterboxd account:\nletterboxd.com/SLEAZOIDS/\nListen to all the free episodes on\nSoundcloud\n,\nApple Podcasts\nor\nSpotify\n!!!\nFor access to our back catalog of bonus episodes (over 190 now) and all future bonus episodes (2 more every month), subscribe on\nPatreon\n!!!\nFollow us on\nTwitter\n!!!\nLike us on\nFacebook\n!!!\nBUY THE 'SLEAZOIDS' SHIRT\n.\nBUY THE 'SLEAZOIDS' HAT\n.\nThe Hills Have Eyes\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nSpider Baby\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nDirty Harry\ntalked about on ep 2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nRaw Deal\ntalked about on ep2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nFemale Prisoner #701: Scorpion\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 4/5*\nKill Bill: Vol. 1\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 5/5*\nLong Weekend\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nandrew's rating: 3.5/5\nRazorback\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 3/5*\nandrew's rating: 4/5\nDeath Wish\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nDeath Wish II\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 2/5*\njamie's rating: 3/5*\n...plus 884 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1522812883",
+    "guid": "letterboxd-watch-1522812883",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Scout",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-scout-2025/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/6/9/7/0/1286970-the-scout-2025-0-600-0-900-crop.jpg?v=83bdf28c85"
+  },
+  {
+    "id": "guid:letterboxd-watch-1522658574",
+    "guid": "letterboxd-watch-1522658574",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "The Liberation",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/the-liberation-2026/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/8/0/2/1170802-the-liberation-2027-0-600-0-900-crop.jpg?v=f2cf2ba749"
+  },
+  {
     "id": "guid:letterboxd-watch-1522456218",
     "guid": "letterboxd-watch-1522456218",
     "username": "riotglasses",
@@ -213,7 +249,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "electrifying \u2014 Louise is the future of the movies",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/0/2/4/2/8/1502428-castration-movie-chapter-iii-junior-ghosts-0-600-0-900-crop.jpg?v=ba0e8a9599"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/0/2/4/2/8/1502428-castration-movie-chapter-iiiii-junior-ghosts-0-600-0-900-crop.jpg?v=39ecef9593"
   },
   {
     "id": "guid:letterboxd-review-1522026402",
@@ -1419,7 +1455,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/9/2/5/9/1619259-making-marie-antoinette-0-600-0-900-crop.jpg?v=db19608ce4"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/9/2/5/9/1619259-making-marie-antoinette-0-600-0-900-crop.jpg?v=f63ea5323e"
   },
   {
     "id": "guid:letterboxd-watch-1515791196",
@@ -4875,7 +4911,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=ac4b000beb"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=27e4d33117"
   },
   {
     "id": "guid:letterboxd-watch-1502097396",
@@ -5037,7 +5073,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Patrons: Search TIFF 2026 Day Two",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=ac4b000beb"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=27e4d33117"
   },
   {
     "id": "guid:letterboxd-review-1502250801",
@@ -5199,7 +5235,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "everything else is noise but\nespecially\nyour neighbor\u2019s dog who won\u2019t stop barking all day \u2014 will strike a particular nerve in those with tenant and/or family anxieties which is basically most people",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=ac4b000beb"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/2/2/1486022-everything-else-is-noise-0-600-0-900-crop.jpg?v=27e4d33117"
   },
   {
     "id": "guid:letterboxd-review-1501030120",
@@ -9843,7 +9879,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "The term \u201cnepo baby\u201d had yet to be coined by the time that Sofia Coppola \u2014 prematurely defined by her punchline of a performance in daddy Francis\u2019 \u201cThe Godfather Part III\u201d \u2014 re-emerged in her late 20s as one of the most gifted filmmakers of her generation, but few celebrities in her position, before or since, have ever been so acutely responsive to how they\u2019re seen in the public eye. Drawing from lived experience in a way that allowed her to interpolate the biases she\u2019d faced as both a Hollywood scion and a young woman in the arts, Coppola\u2019s first two features directly confronted the sort of privilege and presumption that had shadowed her since childhood. Each in their own ways, \u201cThe Virgin Suicides\u201d and \u201cLost in Translation\u201d vividly traced the interior lives of girls who weren\u2019t permitted to have them, and they did so with a hyper-real sensitivity that allowed the movies to resonate with anyone who\u2019s ever felt observed but unseen, as if just out of frame in every picture that had ever been taken of them.\nOf course, success can \u2014 and often should \u2014 breed a special kind of resentment for nepo babies who dare to make a name for themselves, and so it was no surprise that people only sharpened their knives from \u201cdinner\u201d to \u201cbutcher\u201d after Coppola won the Oscar for Best Original Screenplay in 2004. By the same token, it was, perhaps, even less of a surprise that Coppola\u2019s response to such bitterness was to make a movie humanizing Marie Antoinette, the one-time Queen of France and eternal figurehead of unearned entitlement (\u201cI know I will be able to express how a girl experiences the grandeur of a palace,\u201d Coppola wrote to Antoinette biographer Antonia Fraser, whose book she hoped to use as source material).\nLeast surprising of all? That a sizable percentage of critics and audiences were rather ungenerous towards the finished product, a $40 million costume drama more interested in the rhythms, customs, and furnishings of Antoinette\u2019s gilded cage than it is in the anger her reign helped to foment beyond the palace walls.\nNever mind that Antoinette was a brilliantly natural subject for a filmmaker so compelled by the negative space between women and the worlds they inhabit, or that the movie\u2019s panopticon-like vision of Versailles allowed Coppola to explore the relationship between power and personhood with peerless clarity, or that her gauzy direction invited the movie to love Marie Antoinette without ever letting her off the hook \u2014 or out of the guillotine, as it were (talk about having your cake and eating it too). Never mind that Coppola shrewdly offset her production\u2019s unprecedented access to the actual palace grounds with a variety of inspired anachronisms (chief among them the single greatest soundtrack of the 21st century), and as a result created a sharply modern look at the unbearable lightness of being famous. Never mind!!\nNot that I was mad about that. Please don\u2019t put in the newspaper that I got mad. Time has been kind to people who share my view that \u201cMarie Antoinette\u201d is a semi-understood masterpiece, and not only because critics like me have been increasingly emboldened to argue that case. (In 2022, I included it on my Sight & Sound ballot of the 10 greatest films ever made). Following years of murmured reconsideration, the film will be formally canonized into The Criterion Collection this November. And before that, MUBI will release \u2014 first in theaters, and then on its streaming platform \u2014 a feature-length documentary about the making of \u201cMarie Antoinette\u201d that is called, if you can imagine, \u201cMaking Marie Antoinette.\u201d\nDespite what the 600-word preamble you just read might have led you to believe, that documentary is the true subject of this article. Sorry. But we all went on that long walk together for two reasons: 1.) I am physically and spiritually incapable of passing up any chance to get on my soapbox about the films of Sofia Coppola, whose formative impact on me would be impossible to overstate, and 2.) Because anyone reading this review of \u201cMaking Marie Antoinette\u201d should know that I clicked my screener link for this movie like I was opening the fucking Ark of the Covenant. Footage of Rip Torn loosening up before a banquet scene, or of Jason Schwartzman trying to make Kirsten Dunst laugh before they get in the royal bed together\u2026 To some people, this might be the routine stuff of a vintage EPK, but to me it\u2019s like watching DV video of Michelangelo painting the Sistine Chapel.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/9/2/5/9/1619259-making-marie-antoinette-0-600-0-900-crop.jpg?v=db19608ce4"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/9/2/5/9/1619259-making-marie-antoinette-0-600-0-900-crop.jpg?v=f63ea5323e"
   },
   {
     "id": "guid:letterboxd-review-1484608148",
@@ -34520,7 +34556,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2431 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2429 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -40532,7 +40568,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Created the day I could not for the life of me remember whether I have a copy of\nHope and Glory\nand had to go through my entire collection. (I do not.) (UPDATE: I now have it on Blu-ray.)\nFor best curiosity browsing, resort the list by release date.\n(Does not include Blu-rays, as those are actually alphabetized on shelves. I ran out of space for the standard DVDs long ago.)\nAfter Life\nAll the Real Girls\nAn Amazing Couple\nAnnie Hall\nAuthor: The JT LeRoy Story\nThe Best Years of Our Lives\nThe Big Sleep\nBird People\nThe Boss of It All\nBus 174\n...plus 129 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Created the day I could not for the life of me remember whether I have a copy of\nHope and Glory\nand had to go through my entire collection. (I do not.) (UPDATE: I now have it on Blu-ray.)\nFor best curiosity browsing, resort the list by release date.\n(Does not include Blu-rays, as those are actually alphabetized on shelves. I ran out of space for the standard DVDs long ago.)\nAfter Life\nAll the Real Girls\nAn Amazing Couple\nAnnie Hall\nAuthor: The JT LeRoy Story\nThe Best Years of Our Lives\nThe Big Sleep\nBird People\nThe Boss of It All\nBus 174\n...plus 128 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41108,7 +41144,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nBay of Angels\nThe Organizer\nThe Servant",
+    "review_text": "Films I've seen, but so long ago (15+ years) that I really need to watch them again. (For my own use, mostly.)\nBay of Angels\nThe Organizer",
     "poster_url": null
   },
   {

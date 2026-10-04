@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-review-1523789782",
+    "guid": "letterboxd-review-1523789782",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Flesh for Frankenstein",
+    "film_year": 1973,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/flesh-for-frankenstein/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-04",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Gotta be in the running for most Italian film ever written and directed by an American. A huge part of that is Morrissey shooting this in Rome with a crew chock full of Italian greats: cinematographer Luigi Kuveiller (\nInvestigation of a Citizen Above Suspicion\n,\nA Lizard in a Woman\u2019s Skin\n,\nDeep Red\n), production designer Enrico Job (\nLove and Anarchy\n,\nSeven Beauties\n), and special effects artist Carlo Rambaldi (\nPlanet of the Vampires\n,\nA Bay of Blood\n, again\nDeep Red\n) who provide the film with beautiful 70s lensing, colors, sets and gore. The symmetrical shots of the castle dining room table and mad science lab in particular are absolutely gorgeous. But more than just the technical, there's also the bizarre performances (and accent-heavy line deliveries) by Joe Dallesandro as the hunky, libidinous farm hand who keeps Monique van Vooren's Mrs. Frankenstein busy in the bedroom, and Udo Kier whose version of Dr. Frankenstein is the horniest and most deranged yet. Died at his delivery of \"two girls... one man... he must be very powerful!\" + \"kidneys... gallbladder... liver!!!!\" The dude quite literally can't cum without a hand full of bloody guts. Speaking of which, this Frankenstein is also most horrifically violent yet: graphic decapitations, disemboweling, dismemberment, necrophilia, etc... Commiting these kinky, disgusting atrocities in the name of achieving some sort of \"master race\" specimen. Despite all this, the overall tone often leans just as much campy softcore sex(ual liberation) comedy as it does elegant gothic horror, which is something I wasn't totally sold on the entire time but found really paid off by the end when Udo Kier was tragically monologuing through his own graphic penetration/impalement. After all, \"to know death, you have to fuck life and gallbladder.\" That final corpse-riddled tableaux + the lyrical swelling score + the Frankenstein's creepy children inheriting/continuing his perverse experimentation (and how it echoes the eerie opening credits) ... Great stuff.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/9/2/4/49924-flesh-for-frankenstein-0-600-0-900-crop.jpg?v=3e43224ee9"
+  },
+  {
+    "id": "guid:letterboxd-review-1523769792",
+    "guid": "letterboxd-review-1523769792",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Landscapes of Memory",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/landscapes-of-memory-2026/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I have had the fortune of watching Leah evolve as a filmmaker for over a decade, including the two films she co-directed with Maya Cueva \u2014 it\u2019s safe to say that this is her crowning achievement: an immensely personal document of family, legacy, trauma and illness that puts the past in direct conversation with the present, a remarkably hopeful film even, and especially, when it is at its most devastating",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/5/4/7/7/1495477-landscapes-of-memory-2026-0-600-0-900-crop.jpg?v=9abc062ab0"
+  },
+  {
+    "id": "guid:letterboxd-review-1523727283",
+    "guid": "letterboxd-review-1523727283",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Grandfather Puzzle",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-grandfather-puzzle/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-04",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "a beautiful testament to preservation in various manifestations \u2014 oral history, shared images, passed down heirlooms \u2014 that manages to be both intimate and sweeping, which is made all the more impressive by its short runtime; a very worthy contender for the documentary short Oscar, voters take note",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/2/0/5/6/1542056-the-grandfather-puzzle-0-600-0-900-crop.jpg?v=39fdeac49b"
+  },
+  {
+    "id": "guid:letterboxd-review-1523515182",
+    "guid": "letterboxd-review-1523515182",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Spiral",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-spiral-1998/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-04",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "interesting that two of the first three adaptations of the Ring series posit \"what if the haunted girl in the well was A SEXY LADY????\" and in both cases it is a HORRIBLE STORY DECISION",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/9/8/46898-the-spiral-1998-0-600-0-900-crop.jpg?v=3571694b2e"
+  },
+  {
     "id": "guid:letterboxd-watch-1522812883",
     "guid": "letterboxd-watch-1522812883",
     "username": "SeanFennessey",
@@ -32252,7 +32324,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 195 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 196 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32378,7 +32450,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 205 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 206 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38534,7 +38606,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2751 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2752 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39542,7 +39614,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1707 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1708 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39884,7 +39956,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Out of Sight\nThe Thin Red Line\nThe Truman Show\nThe Hole\nSaving Private Ryan\nTaste of Cherry\nPerfect Blue\nThe Big Lebowski\nThe Last Days of Disco\nShakespeare in Love\n...plus 90 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Out of Sight\nThe Thin Red Line\nThe Truman Show\nThe Hole\nSaving Private Ryan\nTaste of Cherry\nPerfect Blue\nThe Big Lebowski\nThe Last Days of Disco\nShakespeare in Love\n...plus 91 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

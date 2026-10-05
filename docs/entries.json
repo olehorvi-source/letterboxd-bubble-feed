@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1525514269",
+    "guid": "letterboxd-watch-1525514269",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Emotion",
+    "film_year": 1966,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/emotion/",
+    "watched_date": "2026-10-05",
+    "publication_date": "2026-10-05",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/6/7/7/97677-emotion-0-600-0-900-crop.jpg?v=c60273068e"
+  },
+  {
+    "id": "guid:letterboxd-watch-1525368741",
+    "guid": "letterboxd-watch-1525368741",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Social Reckoning",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-social-reckoning/",
+    "watched_date": "2026-10-05",
+    "publication_date": "2026-10-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/6/9/1164669-the-social-reckoning-0-600-0-900-crop.jpg?v=e880229a7f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1525118399",
+    "guid": "letterboxd-watch-1525118399",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Daisies",
+    "film_year": 1966,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/daisies/",
+    "watched_date": "2026-10-05",
+    "publication_date": "2026-10-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/4/4/7/18447-daisies-0-600-0-900-crop.jpg?v=4c08c58c03"
+  },
+  {
     "id": "guid:letterboxd-watch-1524859325",
     "guid": "letterboxd-watch-1524859325",
     "username": "theolejake",
@@ -34,6 +88,42 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/qb/if/j8/jr/zlWBxz2pTA9p45kUTrI8AQiKrHm-0-600-0-900-crop.jpg?v=c06add9fe8"
+  },
+  {
+    "id": "guid:letterboxd-review-1525191757",
+    "guid": "letterboxd-review-1525191757",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "A Bay of Blood",
+    "film_year": 1971,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/a-bay-of-blood/2/",
+    "watched_date": "2026-10-05",
+    "publication_date": "2026-10-05",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Mario Bava was often a decade ahead of what almost everyone else was doing with horror, and here he evolves the stylish giallo murder mystery many of his contemporaries were just catching onto into the type of graphic body count slasher that pre-dates\nBlack Christmas\nand\nHalloween\nand wouldn't really exist in quite this specific fashion until\nFriday the 13th\n. Abandoning much of his usual psychedelic lighting, lavish sets/costumes, and gothic horror styling for a natural wooded locale where various horny, greedy couples are voyeuristically stalked and gruesomely picked off one-by-one. A \"chain reaction\" (the proposed alternate title at one point) of lurid, cruel hyper-violence driven by what's eventually revealed to be an absurd and cynical family inheritance conspiracy/scheme that has infected the property. Even with some sleepy, talky stretches and convoluted flashbacks, watching this with decades of copycats in mind (\nFriday the 13th Part 2\neven stole its best kill directly from this\u2014the 2-in-1 POV spearing of the couple mid-sex), it's hard not to see this as anything but incidentally visionary, like it's playfully critiquing the grotesquerie of and inventing a subgenre that didn't exist yet. Opens with an elderly woman in a wheelchair being hanged (and her murderer being immediately stabbed in the back!), ends in an extremely darkly funny way that suggests a very different sort of poisonous inheritance, and in between: plenty of eerie mood, sudden gory shocks (that machete to the face/decapitation, in particular), and some of the craziest zooms of the 70s.\nFull discussion on ep 38 of my podcast SLEAZOIDS\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/3/48833-a-bay-of-blood-0-600-0-900-crop.jpg?v=8576ae86dd"
+  },
+  {
+    "id": "guid:letterboxd-review-1525006897",
+    "guid": "letterboxd-review-1525006897",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Digger",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/digger-2026/1/",
+    "watched_date": "2026-10-05",
+    "publication_date": "2026-10-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "For Ringer\nwww.theringer.com/2026/10/05/movies/digger-review-tom-cruise-alejandro-inarritu\nThe last time Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu made a movie, he tackled an issue of world-historical importance: himself. The director\u2019s epically scaled Netflix feature Bardo, False Chronicle of a Handful of Truths was a homecoming to Mexico and the art-house; it registered an 8.5 on the Fellini scale. Channeling such plangent universal anxieties as the dread of an impending lifetime achievement award, AGI\u2019s film \u00e0 clef transcended its subtitle as a so-called \u201cFalse Chronicle.\u201d Sprinkled in amidst the usual showboating and chain-yanking were a handful of truths about I\u00f1\u00e1rritu\u2019s overbearing auteur brand, and why so many people find it annoying.\nFrom its liminally-minded title on down, Bardo suggested a state of stasis. For his follow-up, the two-time Oscar winner (and BMW and Rolex pitchman) soars out of purgatory and into the inferno. Digger, which opened Friday, has become the wrong kind of conversation piece, at least as far as its studio is concerned. (The film made $8 million dollars during its opening weekend.) The Warner Bros. marketing team has apparently settled on \u201cdecide for yourself\u201d as a rallying cry; it\u2019s hard to recoup $150 million dollars by monetizing ambivalence. Digger will also be the last dream project greenlit at WB by outgoing executives Michael De Luca and Pamela Abdy, who leave behind a legacy of edgy blockbusters. Last year, Paul Thomas Anderson got the studio to bankroll an eccentric, enjoyably cartoony excursion into radical chic. AGI sees PTA and raises him one wildly stylized, glacier-sized climate change comedy. Call it A Handful of Inconvenient Truths.\nDigger could be the evil twin of this spring\u2019s box-office champ Project Hail Mary; both are parables about how the only thing standing between the world and its annihilation is a resourceful A-list movie star\u2014Ryan Gosling there, Tom Cruise here\u2014with Sandra H\u00fcller in tow. (With his wispy wig and false teeth in Digger, the erstwhile Maverick could pass for Toni Erdman.) Apocalyptic spectacle is a sign of the times, but where Phil Lord and Christopher Miller genuinely want you to stop your crying, I\u00f1\u00e1rritu deals exclusively in alienation effects.\nOf course he does: This is a director who means to rouse rabble rather than to please crowds. He\u2019s a polemicist who warned against the culture-destroying scourge of superhero movies in Birdman (credit where it\u2019s due\u2014he was ahead of the curve); an adventurer who dragged his crew through the mountains Herzog-style in The Revenant; an artiste who claims that \u201cto make a good movie is war\u201d; a self-styled wizard who conjured up an immersive VR installation about border-crossing called Meat and Sand (\u201cbrutalizing and trivializing,\u201d as per Artforum.) I\u00f1\u00e1rritu would never stoop to mere entertainment\u2014he wants to use cinema to map geopolitical connections (Babel), to plumb the depths of misery (Biutiful), to measure the weight of the frickin\u2019 human soul (21 Grams\u2014turns out it\u2019s the same, give or take, as a Snickers bar).\nIt\u2019s a fine line between chin stroking and jerking other parts of the artistic anatomy. I\u00f1\u00e1rritu\u2019s dexterity, which is by now as undeniable as his hubris, has always had a masturbatory dimension. That's another way of saying, maybe, that his movies feel handmade, tactile and inventive on a big scale. Taken on its own grandiose, forbidding terms as a form of maximalist, doomscrolling spectacle\u2014think Roy Andersson meets Roland Emmerich, or The Death of Stalin with a Brazil wax\u2014Digger is impressive, and its concerns are ostensibly trenchant. In a moment where slop of every conceivable flavor gets sluiced through multiplexes and streaming platforms alike, I\u00f1\u00e1rritu means to give us a banquet\u2019s worth of food for thought.\nDig into Digger, though, and it reveals itself as a thought experiment in which the destruction of the permafrost is really a pretense for navel-gazing. The literal curtain that raises on Tom Cruise\u2019s eponymous oil magnate in the opening sequence offers a double-edged clue as to Digger\u2019s structure and focus; it\u2019s a nudge to peer through the artifice and see yet another self-portrait of the artist, albeit one diffused across a group of symbolic stand-ins rather than concentrated on a doppelganger \u00e1 la Bardo. To Digger\u2019s obvious reference points of Stanley Kubrick and John Cassavetes (the latter invoked via a poster for his behind-the-scenes masterpiece Opening Night), we might add Charlie Kaufman\u2019s Synecdoche, New York. I\u00f1\u00e1rritu is large; he contains multitudes.\nThat formulation goes double for Cruise, who has reached a point where he\u2019s acting in his own shadow. Every role he plays demands a (dead) reckoning with his public persona; Digger extends and burlesques the Messianic subtext of the last few Mission: Impossible films. Where Top Gun: Maverick and the upcoming Days of Thunder sequel represent victory laps around Cruise\u2019s iconography, I\u00f1\u00e1rritu\u2019s film is the best chance he\u2019s had to take a real detour since 1999, when he appeared successively in Eyes Wide Shut and Magnolia. The latter surely comes to mind during Digger, which features a series of unhinged run-on monologues about fossil fuels whose message could be paraphrased \u201cProduce and Destroy;\u201d one way to look at Cruise\u2019s role is as if he were playing intel influencer Frank T.J. Mackey and the ailing patriarch Earl Partridge at the same time.\nThe jowly, tough-talking Digger is a paunchy, punchy master-of-the-universe type, with a 10-gallon hat and a derrick-sized ego. He shrugs off EPA warnings like robocalls and has the President on speed-dial; he treats his employees like servants while doting sweetly on a decrepit white cat with a remaining life expectancy \u201cbetween two weeks and five minutes.\u201d Digger\u2019s absurdly ornate mansion\u2014so absurdly ornate, hint hint, that it feels more like a simulacrum of luxury than the real thing\u2014is adorned with the skulls and bones of all kinds of dead animals. The driller is an apex predator.\nThe first trailer for Digger was calibrated as a highlight reel of Cruise\u2019s career, touting him as a generational icon (\"we've never trusted a man more,\u201d as per the tagline) and implying he may be due for an Oscar. \u201cIf we can\u2019t control the course of nature, we can control the narrative,\u201d says Digger at one point in the film, a line that can\u2019t help but boomerang back on the image-conscious actor delivering it. If the Academy Awards are a barometer of mainstream, upper middlebrow film culture, Cruise should have given a couple of acceptance speeches by now (let\u2019s say for Jerry Maguire, the part he was born to play). Digger\u2019s bizarreness may be a bridge too far for voters, but it\u2019s hard to gainsay Cruise\u2019s skill or sweat equity in bringing its namesake to life, and putting his own professional narcissism on the line in the process.\nDigger\u2019s surname evokes the glad-handing of former vice president Nelson Rockefeller as surely as the ersatz Americana of Norman Rockwell; his power and charisma are directly proportional to his ability to spin a yarn. Decked out in the cowboy drag he inherited from his wildcatting grandfather\u2014shades of Daniel Plainview\u2014he wields the old man\u2019s shovel like the rhetorical equivalent of a flaming sword. Digger gets off on his own good old boy obstreperousness; he\u2019s a born showman with the courage, such as it is, of his late-capitalist convictions. That swaggering confidence explains why he resists the cease-and-desist recommendations of the advisors on site in Greenland, where a massive offshore drilling operation is underway; cue a methane explosion that vaporizes several dozen employees\u2014collateral damage he\u2019s okay with losing\u2014while shaking loose a chunk of tundra the size of Maryland.\nWith one gimlet eye on his stock price and another on the doomsday clock, Digger convenes his inner circle, including John Goodman\u2019s lame-duck President Compson, a grotesque effigy of Bidenian decay who\u2019s suffering mightily from \u201ccancer of the asshole.\u201d The bigwigs toss around blame\u2014and the hypothetical nuclear football\u2014for a while before opting to follow Digger\u2019s plan, a global social media blackout on the runaway ice shelf and its projected landfall on the other side of the Atlantic. That\u2019s what he means by controlling the narrative. Why bother creating a panic? For Norway, the Unexpected Virtue of Ignorance is not knowing what\u2019s about to hit them.\nSo far, so Strangeloveian, with everybody in the cast\u2014not just Cruise and Goodman, but a boozy H\u00fcller as Digger\u2019s sister and a bewildered Riz Ahmed as his pet scientist\u2014doing their best Peter Sellers. If you found the high-decibel misanthropy of Birdman funny, these scenes will be hilarious. I\u00f1\u00e1rritu seems to have other ideas, or maybe he feels bad, because the bloviating is in quotation marks this time. Birdman was all athletic long takes, but Digger (also shot by Emmanuel Lubezki with a dirtier, dried-out palette) favors cross-cutting, because there are actually two movies going on simultaneously here\u2014neither of which, for the record, is the musical theorized in advance by pundits perplexed by the oblique cutting of the film's trailer. The actual secret, which will probably be out in the open by the time you\u2019re reading this review, is at once even goofier and more mortifying than an all-singing, all-dancing, eco-horror movie about a runaway glacier.\nIn truth, neither half of Digger is very good\u2014they\u2019re two sides of the same inflated counterfeit coin. That doesn\u2019t mean the movie is worthless, however. There\u2019s a certain fascination in watching a heavy-horsepower filmmaker pop the hood to expose the pistons pounding away underneath. I\u00f1\u00e1rritu isn\u2019t just showing off, either; he\u2019s taking his contraptions apart piece by piece. At the risk of making a merely clever movie sound ingenious, the shortcomings of Digger\u2019s first movie\u2014the zany Kubrickian farce\u2014are the explicit subject of the second. What we have here is beyond metaphor\u2014it\u2019s a meta-five, a satire of satire, a critique of critique.\nIt\u2019s also a hard movie to write about, especially since the one reading is that I\u00f1\u00e1rritu is weaponizing his own hubris and riding it into the ground like Slim Pickens, not worrying about whether or not we\u2019ll love his bomb. To the extent that Digger works, its effectiveness is bound up in the visual and dramatic flourish with which the filmmaker shows his hand. Does it matter whether it\u2019s clean or dirty? Or whether I\u00f1\u00e1rritu\u2019s all-the-world\u2019s-a-stage conceit is familiar (Asteroid City got there first), labored, or expressed via an inconsistent and at times contradictory visual language? Maybe not across the board provided if you\u2019re on the film\u2019s volatile, oceanic wavelength of multi-directional contempt. Digger punches up and down, left and right; the ratio of jabs to knockouts, though, is sub-optimal.\nThere\u2019s at least one haymaker. Suffice it to say that the overwhelming, all-consuming obnoxiousness of Digger Rockwell, which culminates in a showstopping greed-is-good TED Talk at the UN in front of furious but harmless Europeans, isn\u2019t\u2014only\u2014an excuse for Cruise to go for gold. His centerpiece snake-oil pitch, cribbed more than a little bit from Sideshow Bob\u2019s Mayoral campaign (\u201cdeep down inside, you secretly long for a cold-hearted Republican to lower taxes, brutalize criminals, and rule you like a king!\u201d) fuses A Few Good Men with Les Grossman; it addresses our collective, guilt-driven need for scapegoats and sin-eaters, and what it means when entertainers and audiences oblige those impulses. Consumption, says Digger (and Digger) is complicity and outrage is fuel. If it\u2019s true that the buck stops with the Digger Rockwells of the world it\u2019s because we\u2019re all willing to pass and then spend it.\nThere are other provocative notions buried in Digger: the yearning to see reality repackaged as fantasy, the inevitability with which tragedy eventually begets parody, the futility of artists trying to take down targets who belong to the corporate patron class, the reassuring idea that radical art can take anything or anybody down in the first palace. The latter pair of paradoxes are crystallized in a cameo by Jesse Plemons as a billionaire with a seemingly different agenda than Digger Rockwell\u2014Plemons does well to make the film\u2019s smallest major role its most ambiguous.\nThe problem isn\u2019t that I\u00f1\u00e1rritu's arguments are baseless, or simplistic; it\u2019s the relentlessness with which he tries to corner them. Making a critique of critique is a good way to insulate oneself from criticism\u2014even as Digger points the finger at itself as a bloated, insufficient gesture, I\u00f1\u00e1rritu seems to be giving himself and his truth-telling mandate two thumbs up (or maybe a reach-around). The comparisons being made to Jean-Luc Godard track, even if the sheer scale of the production complicates any radical aims. Can a White Elephant be a Trojan Horse? In interviews, I\u00f1\u00e1rritu has claimed that he was trying to explore the unifying potential of art; his attitude towards the film\u2019s audience, though, represents a complex, and aggravating, fusion of flattery and condescension. This is very much a movie about Getting It, in both senses of the phrase; we\u2019re being brought in on the joke and made part of the punchline at the same time.\nDigger obliges its implied prestige-season audience down a rabbit hole of self-awareness in order to see where the path leads, and it\u2019s nowhere good. That line about \u201ccancer of the asshole\u201d maps the rhetorical territory where I\u00f1\u00e1rritu has chosen to go spelunking. There\u2019s more scatalogical humor in Digger than any recent comedy this side of Jackass Forever; dick jokes and poop jokes in an ignobly picaresque tradition. Still, for all of its immersion in what General Jack D. Ripper once called \u201cprecious bodily fluids\u201d (do we really need to hear the sound of Cruise peeing over the shot of the Opening Night poster?), the film\u2019s actual insights about our impending downward spiral are pretty basic\u2014a bitter variation on the bumper-sticker wisdom of \u201cshit happens.\u201d\nYes it does. Filmmakers like Kubrick and Paul Verhoeven and John Waters have told us this already; I\u00f1\u00e1rritu is late to the party pooping, but then lateness is part of what he\u2019s talking about. (The whole movie is an 11 o\u2019clock number, sung off key.) To say I\u00f1\u00e1rritu is up his own ass without a paddle\u2014or a shovel\u2014is too easy. So is insisting that we Get It, therefore it\u2019s good, or saying that ugly times demand ugly movies. Digger is a colonic, sure, but by the end it\u2019s emptied itself out so fully there\u2019s nothing left: no urgency, no feeling, no hope. Just a saleable fatalism that nobody is buying at the moment, which is, admittedly, fascinating, especially given the film\u2019s ambivalence about the commoditization and consumption of disaster.\nIt\u2019s a measure of I\u00f1\u00e1rritu\u2019s determination\u2014his cynical, Digger-like conviction that the ship has not only sailed but sunk\u2014that he leverages his whole enterprise on a joke about the kind of art-making that endures after the collapse. Turns out that it\u2019s not Shakespeare, as in the sweetly regenerative end-of-days fables of Station Eleven, where a troupe of plague survivors mounts Hamlet as if their lives depended on it. Nor Iron Maiden, whose \u201cNumber of the Beast\u201d was deployed so plangently as a signifier of human vitality against the mordant backdrop of the The Bone Temple. Nor is it The Simpsons, as Anne Washburn\u2019s 2012 theatre piece Mr. Burns: A Post-Electric Play, which brilliantly interrogates how popular entertainment can transubstantiate into authentic mythology\u2014imagine the South Park gag \u201cSimpsons did it\u201d on a cosmic scale. (It\u2019s unclear if I\u00f1\u00e1rritu, himself a one-time visitor to Springfield, read Washburn\u2019s play before writing his own script; he should do so now, anyway.)\nDigger predicts that the bedraggled audiences of the future will be nostalgic for wretched, misanthropic excess. Basically, that they\u2019ll want to watch something like Digger as a release valve for anger, and a reminder of where it all went wrong. They certainly don\u2019t want to watch it now, which may not validate I\u00f1\u00e1rritu's approach, but does contextualize it. (To paraphrase George S. Kaufman; satire closes on opening night.) It takes real nerve to make an eco-horror-movie designed to look better and more trenchant as things get steadily worse, and which ends by suggesting, in no uncertain terms, that we\u2019re already there. Is the pointlessness the point? Is that a grimace on the movie\u2019s face or a smirk? One condition of truly great satire\u2014the kind that endures and stays thorny\u2014is that it\u2019s destabilizing. The immodest proposals of Digger are surely wobbly and discombobulating, and that\u2019s an achievement. But even with all the imagery of rising coastlines and submerged streets, I\u00f1\u00e1rritu knows where he resides. He can\u2019t help reminding us that it\u2019s on the little patch of moral high ground reserved for those who Get It (including the part about being part of the problem). We\u2019re invited to join him there, stranded for two hours that feel like an eternity, as intended, choking down the bitter pills we\u2019ve been prescribed by our resident metaphysician. At least we\u2019re not entertained.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/2/6/8/8/1132688-digger-2026-0-600-0-900-crop.jpg?v=81ec883a95"
   },
   {
     "id": "guid:letterboxd-watch-1524499476",
@@ -90,6 +180,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/7/6/7/4/1497674-clarissa-2026-0-600-0-900-crop.jpg?v=5b3697c703"
   },
   {
+    "id": "guid:letterboxd-review-1524929668",
+    "guid": "letterboxd-review-1524929668",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Projectionist",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-projectionist-2026/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-05",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "on paper, this is thoroughly for me: it\u2019s a noir throwback, set in NY, shot in black and white, directed by Alexandre Rockwell and prominently features a beautiful cat and a projection booth \u2014 but none of it ever coheres, the hard boiled dialogue is cartoonish (a cop says \u201cI want a thumb in my ass and a woman to lick me clean\u201d), the aspect ratio changes feel more sloppy than in service of anything intentional and its titular projectionist angle is barely there (and rife with technical errors when it is), great cat though",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/6/7/7/5/1466775-the-projectionist-2026-0-600-0-900-crop.jpg?v=ebf656fa44"
+  },
+  {
     "id": "guid:letterboxd-review-1524517602",
     "guid": "letterboxd-review-1524517602",
     "username": "thejoshl",
@@ -104,7 +212,7 @@
     "rating": 5.0,
     "liked": null,
     "rewatch": true,
-    "review_text": "Similarly to what De Palma did with\nBody Double\n, Dario Argento leans into and doubles down on all the most vicious critiques he ever received to the point of parody. And made a confessional that yes, maybe only an extremely fucked up pervert brain could conceive of and skillfully craft such weird, elaborate, beautiful and awesome murder machine setpieces (with as much troublingly violent glee, misogyny, homophobia, etc) as these, but also... Aren't they so weird and elaborate and beautiful and awesome? He has a point!",
+    "review_text": "Similarly to what De Palma did with\nBody Double\n, Dario Argento leans into and doubles down on all the most vicious critiques he ever received to the point of parody. And made a confession that yes, maybe only an extremely fucked up pervert brain could conceive of and skillfully craft such weird, elaborate, beautiful and awesome murder machine setpieces (with as much troublingly violent glee, misogyny, homophobia, etc) as these, but also... Aren't they so weird and elaborate and beautiful and awesome? He has a point!\nFull discussion on ep 337 of my podcast SLEAZOIDS\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/6/2/3/32623-tenebre-0-600-0-900-crop.jpg?v=7486dd976a"
   },
   {
@@ -142,6 +250,24 @@
     "rewatch": false,
     "review_text": "movies can be anything",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/8/6/8/1/0/1386810-a-day-in-the-life-of-jo-chapter-phaedra-0-600-0-900-crop.jpg?v=a183ab2e0b"
+  },
+  {
+    "id": "guid:letterboxd-review-1525380525",
+    "guid": "letterboxd-review-1525380525",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "The Servant",
+    "film_year": 1963,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/the-servant/1/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-05",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "86/100\nSecond viewing, last seen at the Walter Reade in 2001. The occasion back then was a Pinter retro, and one could certainly start there (as Pinter reportedly made Robin Maugham's 1948 source novella his own), or with Losey (who was fresh off another perverse triumph,\nThe Damned\n), or with Dirk Bogarde (giving arguably his finest performance; sidenote: Losey's\nThe Damned\nisn't the\nThe Damned\nin which Bogarde starred).\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/1/3/5/22135-the-servant-0-600-0-900-crop.jpg?v=8a121ed37d"
   },
   {
     "id": "guid:letterboxd-review-1524135634",
@@ -32504,7 +32630,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 196 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 197 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32630,7 +32756,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 206 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 207 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -37976,7 +38102,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 751 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 752 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38048,7 +38174,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 2999 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3000 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38786,7 +38912,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2752 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2753 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39254,7 +39380,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1376 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1377 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39542,7 +39668,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2546 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2548 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

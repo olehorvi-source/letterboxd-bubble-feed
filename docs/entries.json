@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1524219110",
+    "guid": "letterboxd-watch-1524219110",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Clarissa",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/clarissa-2026/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/7/6/7/4/1497674-clarissa-2026-0-600-0-900-crop.jpg?v=5b3697c703"
+  },
+  {
+    "id": "guid:letterboxd-review-1524135634",
+    "guid": "letterboxd-review-1524135634",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "GoodFellas",
+    "film_year": 1990,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/goodfellas/2/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-04",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "medium rare, hmm? an aristocrat!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/3/51383-goodfellas-0-600-0-900-crop.jpg?v=172dbb3464"
+  },
+  {
+    "id": "guid:letterboxd-review-1523865267",
+    "guid": "letterboxd-review-1523865267",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Verity",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/verity-2026/",
+    "watched_date": "2026-10-04",
+    "publication_date": "2026-10-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "not the ultimate 4DX experience",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/1/5/1/1167151-verity-2026-0-600-0-900-crop.jpg?v=3169444893"
+  },
+  {
     "id": "guid:letterboxd-review-1523789782",
     "guid": "letterboxd-review-1523789782",
     "username": "thejoshl",
@@ -41342,7 +41396,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Thank christ for the annual half-price sales.\nAce in the Hole\nAfter Hours\nAlex Wheatle\nAll That Heaven Allows\nAnatomy of a Murder\nAll About Eve\nAll That Jazz\nArmy of Shadows\nAn Autumn Afternoon\nBadlands\n...plus 300 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Thank christ for the annual half-price sales.\nAce in the Hole\nAfter Hours\nAlex Wheatle\nAll That Heaven Allows\nAnatomy of a Murder\nAll About Eve\nAll That Jazz\nArmy of Shadows\nAn Autumn Afternoon\nBadlands\n...plus 301 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   }
 ]

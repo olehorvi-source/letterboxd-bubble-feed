@@ -1,5 +1,113 @@
 [
   {
+    "id": "guid:letterboxd-watch-1526504306",
+    "guid": "letterboxd-watch-1526504306",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Elsinore",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/elsinore/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-06",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=65a4e0abd4"
+  },
+  {
+    "id": "guid:letterboxd-watch-1526301148",
+    "guid": "letterboxd-watch-1526301148",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Only Living Pickpocket in New York",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-only-living-pickpocket-in-new-york/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-06",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/0e/eb/nv/t8/pick-0-600-0-900-crop.jpg?v=e4ffe8cc42"
+  },
+  {
+    "id": "guid:letterboxd-review-1526678548",
+    "guid": "letterboxd-review-1526678548",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Artificial",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/artificial-2026/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-06",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Luca\u2019s second horror film after\nSuspiria\n(2018) and far and away the scarier of the two \u2014 except whenever Elon Musk is on screen and it becomes a bumbling 90s or aughts loser comedy",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=0f0f8a33a3"
+  },
+  {
+    "id": "guid:letterboxd-review-1526627071",
+    "guid": "letterboxd-review-1526627071",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Hoosiers",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/hoosiers/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-06",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Wasn\u2019t sure if this would play the same way it did when I was a kid BUT THEN THEY HAD A BASKETBALL MONTAGE WITH JERRY GOLDSMITH MUSIC AND MOVIES ARE THE BEST THING IN THE WORLD. Hackman and Hopper are the original Wyatt and Doc. I don\u2019t even know if that makes sense but that\u2019s my take.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/7/2/1/48721-hoosiers-0-600-0-900-crop.jpg?v=38fcb24f19"
+  },
+  {
+    "id": "guid:letterboxd-review-1526440525",
+    "guid": "letterboxd-review-1526440525",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Behemoth!",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/behemoth-2026/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-06",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Pascal is terrific and this has a doozy of a foot chase scene but it\u2019s exactly the type of milquetoast awards bait that attracts an audience that not only talks throughout the movie but raises their voices whenever it dares to get louder than them (and, rest assured, this gets plenty loud) \u2014 can confirm that Alice Tully Hall\u2019s Dolby Atmos upgrade is no match for the vocal chords of the city\u2019s affluent boomer cinephiles",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/2/9/5/3/4/1329534-behemoth-2026-0-600-0-900-crop.jpg?v=52065abd13"
+  },
+  {
+    "id": "guid:letterboxd-review-1526188731",
+    "guid": "letterboxd-review-1526188731",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "Artificial",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/artificial-2026/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-06",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "In case anyone at the world premiere of Luca Guadagnino\u2019s \u201cArtificial\u201d wasn\u2019t already thinking of the OpenAI biopic as an unofficial sequel to \u201cThe Social Network,\u201d the screening was unexpectedly preceded by a musical performance from Damon Albarn, in which the Blur frontman and occasional movie composer was joined onstage by a youth choir for a rendition of an original dirge he wrote for the film about how we\u2019re all singing our way straight into hell. Sixteen years ago, a bunch of angelic little kids belting out \u201cCreep\u201d was the perfect introduction to a sneering chamber drama about the punks whose self-hatred turned the 21st century against itself. Today, now that Silicon Valley\u2019s nerd Prometheis have graduated from getting revenge on Rooney Mara to threatening the future of the human race, the kids are back for a more existential lament. They haven\u2019t grown up, and neither have we.\nOnce upon a time, a snively Harvard undergrad rewired the entire world only to discover that he couldn\u2019t escape the empty pit of his own soul. Less than two decades after that, another Peter Thiel-funded sociopath bet our species on transcending the limits of humanity, only to prove that we can\u2019t help but encode it into everything we create. It\u2019s the same old story all over again, albeit presented here at the scale that computer scientist Ilya Sutskever (\u201cAnora\u201d breakout Yura Borisov) spent most of his career desperate for the data to achieve. History repeats itself, first as tragedy, second as farce \u2014 or in this case, as an uncanny sort of San Francisco camp.\nTo be honest, I struggled to imagine why a sensualist like the director of \u201cChallengers\u201d and \u201cCall Me by Your Name\u201d would be interested in something as cold and algorithmic as the story of OpenAI. Andrew Garfield, who plays OpenAI CEO Sam Altman as a machiavellian queen bee with a penchant for upspeak and a frighteningly blas\u00e9 attitude toward replacing mankind with computers (imagine an apocalyptic gay cross between Regina George and Agent Smith), has suggested that Guadagnino was exploring \u201chow far we can take our obsession with not being human before we return to the body,\u201d but this movie never strays far enough from the body to require a return. Garfield\u2019s bulging arms. Borasov\u2019s patchy hair, already receding into lines of code when the movie first introduces Sutskever at the age of 17. Monica Barbaro\u2019s oaken brown eyes, which lend OpenAI chief technology officer Mira Murati the patina of a moral code. Even the pancreas of a character\u2019s unseen wife, the sickness in which AIG promises to double back and cure if only everyone keeps hurtling forward. \u201cArtificial\u201d focuses its attention on these details as if it were training a neural network to create associations between them.\nTo \u201cyes, and\u201d Garfield\u2019s supposition, perhaps it would be more accurate to say that Guadagnino is exploring how difficult it is to abandon the body in the first place \u2014 and not just the body, but the intangible essence that it contains. We couldn\u2019t leave it behind if we tried, and this, in his own way, is Guadagnino trying just as hard to do that as Sam Altman ever did.\n~this review continues on IndieWire~",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=0f0f8a33a3"
+  },
+  {
     "id": "guid:letterboxd-review-1525808037",
     "guid": "letterboxd-review-1525808037",
     "username": "silentdawn",
@@ -32,7 +140,7 @@
     "rating": 4.0,
     "liked": null,
     "rewatch": true,
-    "review_text": "\u201cYou fucking hoedown, podunk, well them there motherfuckers!\u201c is an essential Billy Zane Nation text. All the little outfit and accent changes he does during each individual character seduction. Just an astonishing performance front-to-back that any list of all-time great horror movie performances would be incomplete without. Only live-action actor who\u2019s as sassy as the Crypt Keeper himself.",
+    "review_text": "\u201cYou fucking hoedown, podunk, well them there motherfuckers!\u201c is an essential Billy Zane Nation text. All the little outfit and accent changes he does during each individual character seduction. Just an astonishing performance front-to-back that any list of all-time great horror movie performances would be incomplete without. Only live-action actor who\u2019s as sassy as the Crypt Keeper himself.\nFull discussion on ep 253 of my podcast SLEAZOIDS\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/3/8/5/47385-demon-knight-0-600-0-900-crop.jpg?v=a402e74edf"
   },
   {
@@ -70,6 +178,42 @@
     "rewatch": false,
     "review_text": "Luca\u2019s Jonathan Demme movie.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=0f0f8a33a3"
+  },
+  {
+    "id": "guid:letterboxd-review-1526332288",
+    "guid": "letterboxd-review-1526332288",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Life After Beth",
+    "film_year": 2014,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/life-after-beth-2014/",
+    "watched_date": "2026-10-03",
+    "publication_date": "2026-10-06",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "43\nA mediocre comedy that is ultimately still pretty funny as a conceptual basis for Aubrey Plaza's wild zombified performance.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/1/2/2/4/171224-life-after-beth-0-600-0-900-crop.jpg?v=9fed14e4c0"
+  },
+  {
+    "id": "guid:letterboxd-list-84506251",
+    "guid": "letterboxd-list-84506251",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Scream, Ranked",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/list/scream-ranked/",
+    "watched_date": null,
+    "publication_date": "2026-10-06",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Scream\nScream 2\nScream 3\nScream\nScream VI\nScream 4\nScream 7",
+    "poster_url": null
   },
   {
     "id": "guid:letterboxd-watch-1525587915",
@@ -31946,7 +32090,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\nAll of a Sudden\n28 Years Later: The Bone Temple\nFatherland\nBlue Heron\nRose of Nevada\nNirvanna the Band the Show the Movie\nPaper Tiger\nResident Evil\nThe Debut\n...plus 80 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\nAll of a Sudden\n28 Years Later: The Bone Temple\nFatherland\nBlue Heron\nRose of Nevada\nNirvanna the Band the Show the Movie\nPaper Tiger\nResident Evil\nThe Debut\n...plus 81 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32720,7 +32864,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 197 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 199 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32846,7 +32990,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 207 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 209 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33098,7 +33242,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\nConspiracy\nThe Rivals of Amziah King\nThe Diary of a Chambermaid\nDouble Freedom\n...plus 10024 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoor\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\nConspiracy\nThe Rivals of Amziah King\nThe Diary of a Chambermaid\n...plus 10025 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34646,7 +34790,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Challengers\nHard Truths\nNickel Boys\nDo Not Expect Too Much from the End of the World\nJanet Planet\nDune: Part Two\nI Saw the TV Glow\nTrap\nRed Rooms\nEvil Does Not Exist\n...plus 119 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Challengers\nHard Truths\nNickel Boys\nDo Not Expect Too Much from the End of the World\nJanet Planet\nRed Rooms\nDune: Part Two\nTrap\nI Saw the TV Glow\nRebel Ridge\n...plus 119 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39002,7 +39146,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2753 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2755 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39218,7 +39362,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1409 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1411 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -40874,7 +41018,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 824 more.\nView the full list on Letterboxd\n.",
+    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 825 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

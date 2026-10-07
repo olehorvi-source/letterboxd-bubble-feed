@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1527353537",
+    "guid": "letterboxd-watch-1527353537",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Verity",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/verity-2026/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-07",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/1/5/1/1167151-verity-2026-0-600-0-900-crop.jpg?v=3169444893"
+  },
+  {
+    "id": "guid:letterboxd-watch-1527150518",
+    "guid": "letterboxd-watch-1527150518",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Cycle",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-cycle-2026-2/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/3/4/8/1/1173481-the-cycle-2026-2-0-600-0-900-crop.jpg?v=9baf8c35d9"
+  },
+  {
     "id": "guid:letterboxd-review-1526951660",
     "guid": "letterboxd-review-1526951660",
     "username": "brofromanother",
@@ -7863,7 +7899,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Matthew Rankin put his Guy Maddin toys down and picked up his Adam Curtis ones. Simultaneously an experimental remix art video essay, psychedelic political docu-fantasia, and lo-fi retro Canadian TV fever dream. I never paid much attention in school when learning about our political history so might've been a me issue that I didn't get more out of this but nonetheless was impressed by all the hand-crafted animation/montage, laughed a lot (especially Wayne Gretzky's brain in the Diefenbaker museum, and every time \"Ontarian Communist\" Ed Broadbent was asked to stopped speaking) and was bumping in my seat the entire time to the electric score. Contains some images that will never again grace an IMAX screen.\nFurther discussion on ep 451 of my podcast SLEAZOIDS, as part of our TIFF26 coverage\n.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=b7e4a54808"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=464d724e9d"
   },
   {
     "id": "guid:letterboxd-review-1494663495",
@@ -9393,7 +9429,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=b7e4a54808"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/9/0/7/1593907-ladies-and-gentlemen-brian-mulroney-0-600-0-900-crop.jpg?v=464d724e9d"
   },
   {
     "id": "guid:letterboxd-watch-1488779961",
@@ -41054,7 +41090,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 825 more.\nView the full list on Letterboxd\n.",
+    "review_text": "John Carter\nSun Don't Shine\nSavages\nGebo and the Shadow\nAsylum of Darkness\nThe Grandmaster\nDon Jon\nKill Your Darlings\nThe Spectacular Now\nAdoration\n...plus 826 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

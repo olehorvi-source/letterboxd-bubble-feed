@@ -1,5 +1,131 @@
 [
   {
+    "id": "guid:letterboxd-watch-1528001432",
+    "guid": "letterboxd-watch-1528001432",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "What Can't Be Mentioned",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/what-cant-be-mentioned/1/",
+    "watched_date": "2026-10-07",
+    "publication_date": "2026-10-07",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/8/4/7/1403847-what-cant-be-mentioned-0-600-0-900-crop.jpg?v=3e9480be0f"
+  },
+  {
+    "id": "guid:letterboxd-watch-1527968189",
+    "guid": "letterboxd-watch-1527968189",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Sixteen Moments of My Life",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/sixteen-moments-of-my-life/",
+    "watched_date": "2026-10-07",
+    "publication_date": "2026-10-07",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/3/4/1595134-sixteen-moments-of-my-life-0-600-0-900-crop.jpg?v=c80634ec20"
+  },
+  {
+    "id": "guid:letterboxd-watch-1527842558",
+    "guid": "letterboxd-watch-1527842558",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "NAZA",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/naza/",
+    "watched_date": "2026-10-07",
+    "publication_date": "2026-10-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
+  },
+  {
+    "id": "guid:letterboxd-watch-1527730932",
+    "guid": "letterboxd-watch-1527730932",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Musk",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/musk-2026/",
+    "watched_date": "2026-10-07",
+    "publication_date": "2026-10-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/8/3/5/5/988355-musk-2026-0-600-0-900-crop.jpg?v=88e21d42e2"
+  },
+  {
+    "id": "guid:letterboxd-review-1527885581",
+    "guid": "letterboxd-review-1527885581",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "For the Moon",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/for-the-moon-2026/",
+    "watched_date": "2026-10-07",
+    "publication_date": "2026-10-07",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "love how this is shot, especially anything POV \u2014 the first movie in a while to remind me of the freewheeling energy of being in film school (complimentary)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/3/8/0/5/1613805-for-the-moon-2026-0-600-0-900-crop.jpg?v=fff16a3666"
+  },
+  {
+    "id": "guid:letterboxd-review-1527502471",
+    "guid": "letterboxd-review-1527502471",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Chronovisor",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/chronovisor/",
+    "watched_date": "2026-10-07",
+    "publication_date": "2026-10-07",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I too have spent too much time reading creepy things while listening to Holst",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-600-0-900-crop.jpg?v=50c00b9581"
+  },
+  {
+    "id": "guid:letterboxd-watch-1527518849",
+    "guid": "letterboxd-watch-1527518849",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th Part III",
+    "film_year": 1982,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th-part-iii/2/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-07",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/7/9/46879-friday-the-13th-part-3-0-600-0-900-crop.jpg?v=9e63930345"
+  },
+  {
     "id": "guid:letterboxd-watch-1527353537",
     "guid": "letterboxd-watch-1527353537",
     "username": "theolejake",
@@ -34,6 +160,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/3/4/8/1/1173481-the-cycle-2026-2-0-600-0-900-crop.jpg?v=9baf8c35d9"
+  },
+  {
+    "id": "guid:letterboxd-review-1527418685",
+    "guid": "letterboxd-review-1527418685",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Girl Slaves of Morgana Le Fay",
+    "film_year": 1971,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/girl-slaves-of-morgana-le-fay/",
+    "watched_date": "2026-10-06",
+    "publication_date": "2026-10-07",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "a warm blanket of erotica and euro-horror tropes, cut from similar cloth to the films of Jean Rollin or Jess Franco but more inviting of its audience (and characters) \u2014 who would ever deny Morgana?",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/1/3/3/4/71334-girl-slaves-of-morgana-le-fay-0-600-0-900-crop.jpg?v=29bca2cef7"
   },
   {
     "id": "guid:letterboxd-review-1526951660",
@@ -72,6 +216,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/0/1/3/8/340138-door-0-600-0-900-crop.jpg?v=aa72798574"
   },
   {
+    "id": "guid:letterboxd-review-1525368741",
+    "guid": "letterboxd-review-1525368741",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Social Reckoning",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-social-reckoning/",
+    "watched_date": "2026-10-05",
+    "publication_date": "2026-10-07",
+    "rating": 1.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "zombified",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/6/9/1164669-the-social-reckoning-0-600-0-900-crop.jpg?v=e880229a7f"
+  },
+  {
     "id": "guid:letterboxd-watch-1526504306",
     "guid": "letterboxd-watch-1526504306",
     "username": "davidlsims",
@@ -87,7 +249,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=65a4e0abd4"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "id": "guid:letterboxd-watch-1526301148",
@@ -1617,7 +1779,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "how Elizabeth Holmes reacts to seeing Abbott & Costello do \u201cwho\u2019s on first\u201d for the first time is how people usually react when I show them my favorite movies \u2014 in awe that this exists and I never knew where it was going for its entire 174 minute runtime",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=1061957f13"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
     "id": "guid:letterboxd-review-1518304733",
@@ -1653,7 +1815,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "People are very interesting.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=1061957f13"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
     "id": "guid:letterboxd-review-1518174397",
@@ -2031,7 +2193,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "52/100\nLike Petzold's\nPhoenix,\nthis feels to me like a movie wholly engineered to arrive at an exquisite final scene, such that I can take or leave the rest.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/7/5/5/1315755-coward-2026-0-600-0-900-crop.jpg?v=aa72bd1feb"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/7/5/5/1315755-coward-2026-0-600-0-900-crop.jpg?v=a27931f2cf"
   },
   {
     "id": "guid:letterboxd-review-1516963625",
@@ -8025,7 +8187,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=65a4e0abd4"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "id": "guid:letterboxd-watch-1493928979",
@@ -10941,7 +11103,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "something is rotten in the state of Denmark. Andrew Scott is great, possibly, as actor Ian Charleson performing Hamlet as he dies of AIDS, but it's hard to tell in a movie so cut to ribbons. plays like an 100-minute trailer for itself, leaving nothing but half-empty tropes behind\u2026 truly maddening to watch. starts on the right foot but i was genuinely angry with it by the end.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=65a4e0abd4"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "id": "guid:letterboxd-watch-1483248231",
@@ -32162,7 +32324,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Odyssey\nAll of a Sudden\n28 Years Later: The Bone Temple\nFatherland\nBlue Heron\nRose of Nevada\nNirvanna the Band the Show the Movie\nPaper Tiger\nResident Evil\nThe Debut\n...plus 81 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Odyssey\nAll of a Sudden\n28 Years Later: The Bone Temple\nFatherland\nChronovisor\nBlue Heron\nRose of Nevada\nNirvanna the Band the Show the Movie\nPaper Tiger\nResident Evil\n...plus 83 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -32918,7 +33080,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 96 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 97 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33062,7 +33224,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 209 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 210 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33314,7 +33476,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoor\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\nConspiracy\nThe Rivals of Amziah King\nThe Diary of a Chambermaid\n...plus 10025 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nI Married a Witch\nDoor\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\nConspiracy\nThe Rivals of Amziah King\n...plus 10026 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

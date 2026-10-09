@@ -18,6 +18,24 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/6/9/1164669-the-social-reckoning-0-600-0-900-crop.jpg?v=e880229a7f"
   },
   {
+    "id": "guid:letterboxd-review-1529571180",
+    "guid": "letterboxd-review-1529571180",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "The History of Concrete",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/the-history-of-concrete/",
+    "watched_date": "2026-10-08",
+    "publication_date": "2026-10-09",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "70\nQuite taken with the sprawling tangents on display here, even if I'm unconvinced of their cumulative effect in relation to one another. Like, basically every scene is interesting and funny and potent but reconciling all of its off-handed absurdity and curiosity doesn't quite work. Too much of a good thing, very unfocused. Even still - very fond of its musings on enshittification, quick fixes, and gentrified surfaces.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
+  },
+  {
     "id": "guid:letterboxd-review-1529366826",
     "guid": "letterboxd-review-1529366826",
     "username": "riotglasses",
@@ -47,7 +65,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-man-i-love-2026/",
     "watched_date": "2026-10-08",
     "publication_date": "2026-10-09",
-    "rating": 4.5,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": "beautiful, feels like a spiritual companion to\nPeter Hujar\u2019s Day\nfor a number of reasons, not the least of which is the inescapable New York of it all \u2014 I too would confess my litany of sins if someone turned on a camcorder and aimed it at my face",
@@ -142,6 +160,24 @@
     "rewatch": false,
     "review_text": "love you maggie but\u2026 jane fonda was ROBBED.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/9/1/5/48915-the-prime-of-miss-jean-brodie-0-600-0-900-crop.jpg?v=95859745e0"
+  },
+  {
+    "id": "guid:letterboxd-watch-1529689945",
+    "guid": "letterboxd-watch-1529689945",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Animals",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/animals-2026/",
+    "watched_date": "2026-08-22",
+    "publication_date": "2026-10-09",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/1/9/2/3/4/1119234-animals-2026-2-0-600-0-900-crop.jpg?v=6c15da80a6"
   },
   {
     "id": "guid:letterboxd-watch-1529210770",
@@ -6117,7 +6153,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/8/0/3/1620803-who-is-martin-mull-0-600-0-900-crop.jpg?v=33ddeec10a"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/8/0/3/1620803-who-is-martin-mull-0-600-0-900-crop.jpg?v=80de22cf92"
   },
   {
     "id": "guid:letterboxd-watch-1503053433",
@@ -34016,7 +34052,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDry Leaf\nI Married a Witch\nDoor\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\nConspiracy\n...plus 10027 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoor III\nDry Leaf\nI Married a Witch\nDoor\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\n...plus 10028 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -39128,7 +39164,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Within Our Gates\nBody and Soul\nThe Girl from Chicago\nBirthright\nThe Blood of Jesus\nGo Down Death\nJuke Joint\nNothing But a Man\nSounder\nCane River\n...plus 38 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Within Our Gates\nBody and Soul\nThe Girl from Chicago\nBirthright\nThe Blood of Jesus\nGo Down, Death!\nJuke Joint\nNothing But a Man\nSounder\nCane River\n...plus 38 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

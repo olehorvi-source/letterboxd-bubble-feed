@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1531070917",
+    "guid": "letterboxd-watch-1531070917",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Trick or Treat",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/trick-or-treat-1986/",
+    "watched_date": "2026-10-09",
+    "publication_date": "2026-10-10",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/0/6/8/36068-trick-or-treat-0-600-0-900-crop.jpg?v=cd21bf28b3"
+  },
+  {
     "id": "guid:letterboxd-watch-1530652640",
     "guid": "letterboxd-watch-1530652640",
     "username": "riotglasses",
@@ -16,6 +34,60 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/0/8/9/2/1080892-wicker-0-600-0-900-crop.jpg?v=7bc9498e8b"
+  },
+  {
+    "id": "guid:letterboxd-review-1531281473",
+    "guid": "letterboxd-review-1531281473",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "An Autumn's Tale",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/an-autumns-tale/",
+    "watched_date": "2026-10-09",
+    "publication_date": "2026-10-10",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "some of the best street photography of 80s new york that I\u2019ve seen in a minute, including an incredible times square sequence where they leave a theater prominently marketing\nCobra \u2014\nit doesn\u2019t hurt that the two leads are irresistibly charismatic either",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/1/2/2112-an-autumn-s-tale-0-600-0-900-crop.jpg?v=85748a1124"
+  },
+  {
+    "id": "guid:letterboxd-review-1531006273",
+    "guid": "letterboxd-review-1531006273",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The History of Concrete",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-history-of-concrete/1/",
+    "watched_date": "2026-10-09",
+    "publication_date": "2026-10-10",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Second viewing was really rewarding and very moving. If you think this is cruel that\u2019s very telling IMHO.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
+  },
+  {
+    "id": "guid:letterboxd-review-1530866388",
+    "guid": "letterboxd-review-1530866388",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Your Mother Your Mother Your Mother",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/your-mother-your-mother-your-mother/1/",
+    "watched_date": "2026-10-09",
+    "publication_date": "2026-10-10",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Had to see this one again outside of the film festival setting with more time (and sleep) to really soak in it. Banged just as hard. There are few scenes in a movie this year as electric as that slow crane-tilt on Ali\u2019s relieved, meditative face as he listens to his baby being breastfed (only to reveal the incoming danger in the ceiling mirror above him in the same shot), followed by the tense sound design of him waiting until the baby burps to go beast mode and whip out the Vaseline gloves and roll them in the broken glass.\n[\n35mm\n]",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/2/1/6/1315216-your-mother-your-mother-your-mother-0-600-0-900-crop.jpg?v=a644997d58"
   },
   {
     "id": "guid:letterboxd-review-1530808051",
@@ -141,7 +213,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/9/4/9/3/1489493-norm-the-tale-of-norm-macdonald-0-600-0-900-crop.jpg?v=f5d3ef8d54"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/8/9/4/9/3/1489493-norm-the-tale-of-norm-macdonald-0-600-0-900-crop.jpg?v=bbdd6c0de5"
   },
   {
     "id": "guid:letterboxd-watch-1530036258",
@@ -10203,7 +10275,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "Basically 18 scenes with an airboat and no jokes about Lana Del Rey. This is why you need at least one person in the crew under 40.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/1/7/0/5/1591705-mst3k-the-rifftrax-experiments-sting-of-death-0-600-0-900-crop.jpg?v=04f0979ada"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/1/7/0/5/1591705-mystery-science-theater-3000-the-rifftrax-0-600-0-900-crop.jpg?v=45cdff88b5"
   },
   {
     "id": "guid:letterboxd-review-1490110863",
@@ -33890,7 +33962,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 97 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 98 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -33908,7 +33980,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 202 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 203 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -34286,7 +34358,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nDoor III\nDry Leaf\nI Married a Witch\nDoor\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\nParallel Tales\n...plus 10028 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nHokum\nDoor III\nDry Leaf\nI Married a Witch\nDoor\nClarissa\nAll of a Sudden\nLa Gradiva\nCoward\nHeroes Shed No Tears\n...plus 10029 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -35078,7 +35150,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "(70mm, 35mm, 16mm)\nInterstellar\nInherent Vice\nHeat\nThe Hateful Eight\nJaws\n2001: A Space Odyssey\nPlanet Terror\nDeath Proof\nTwin Peaks: Fire Walk with Me\nThe Silence of the Lambs\n...plus 305 more.\nView the full list on Letterboxd\n.",
+    "review_text": "(70mm, 35mm, 16mm)\nInterstellar\nInherent Vice\nHeat\nThe Hateful Eight\nJaws\n2001: A Space Odyssey\nPlanet Terror\nDeath Proof\nTwin Peaks: Fire Walk with Me\nThe Silence of the Lambs\n...plus 306 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -40190,7 +40262,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2758 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2759 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

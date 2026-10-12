@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1534153477",
+    "guid": "letterboxd-watch-1534153477",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "It's the Great Pumpkin, Charlie Brown",
+    "film_year": 1966,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/its-the-great-pumpkin-charlie-brown/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-12",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/9/6/1/43961-it-s-the-great-pumpkin-charlie-brown-0-600-0-900-crop.jpg?v=882c455c6a"
+  },
+  {
+    "id": "guid:letterboxd-review-1534317356",
+    "guid": "letterboxd-review-1534317356",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "The Social Reckoning",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/the-social-reckoning/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-12",
+    "rating": 1.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "33\nA real snoozer. Dull as dishwater. Tries to be prescient and ultimately ends up as little more than a righteous, dated lecture. You can't tell me that any of these locations weren't chosen due to the proximity to Aaron Sorkin's hotel room. Safe, boring, asleep at the wheel. His misplaced conviction towards institutional processes does find an interesting ambiguity in our post-truth environment, but it has to be more exciting than this. It just has to be, for the audience's sake at least.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/6/9/1164669-the-social-reckoning-0-600-0-900-crop.jpg?v=e880229a7f"
+  },
+  {
+    "id": "guid:letterboxd-review-1534242255",
+    "guid": "letterboxd-review-1534242255",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Sitting Ducks",
+    "film_year": 1980,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/sitting-ducks/2/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-12",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "him showing her his suitcase full of vitamins was me with my binder of cds in 1998",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/5/2/2/136522-sitting-ducks-0-600-0-900-crop.jpg?v=a47f2e5fb0"
+  },
+  {
     "id": "guid:letterboxd-watch-1533156597",
     "guid": "letterboxd-watch-1533156597",
     "username": "davidehrlich",
@@ -16,6 +70,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/3/7/9/2/1463792-my-undesirable-friends-part-ii-exile-0-600-0-900-crop.jpg?v=921f67db7f"
+  },
+  {
+    "id": "guid:letterboxd-review-1533867676",
+    "guid": "letterboxd-review-1533867676",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "American Mary",
+    "film_year": 2012,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/american-mary/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-11",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "73\nKatharine Isabelle.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/qz/kg/bl/b8/dC48qylG16pXgMosESwC37dYcbc-0-600-0-900-crop.jpg?v=99ebb5b650"
   },
   {
     "id": "guid:letterboxd-review-1533481196",
@@ -34412,7 +34484,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 204 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 205 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -40694,7 +40766,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2760 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2761 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

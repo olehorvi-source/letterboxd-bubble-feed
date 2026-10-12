@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1534405167",
+    "guid": "letterboxd-watch-1534405167",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Phantoms",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/phantoms/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-12",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/hx/gr/cp/l4/jfawzPiBRgUumMCdVxJTSbslLwY-0-600-0-900-crop.jpg?v=4254be36a6"
+  },
+  {
+    "id": "guid:letterboxd-watch-1534365865",
+    "guid": "letterboxd-watch-1534365865",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Hitcher",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-hitcher/1/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-12",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/pi/lf/zx/fe/pdPKlwAOX66Zqktp1amFooovAjT-0-600-0-900-crop.jpg?v=bb08ab1974"
+  },
+  {
     "id": "guid:letterboxd-watch-1534153477",
     "guid": "letterboxd-watch-1534153477",
     "username": "brofromanother",
@@ -18,6 +54,42 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/9/6/1/43961-it-s-the-great-pumpkin-charlie-brown-0-600-0-900-crop.jpg?v=882c455c6a"
   },
   {
+    "id": "guid:letterboxd-review-1534602188",
+    "guid": "letterboxd-review-1534602188",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Alice, Sweet Alice",
+    "film_year": 1976,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/alice-sweet-alice/1/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-12",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "This review may contain spoilers.\nonly thing scarier than a psychotic child with a knife is a psychotic religious conservative with a knife",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/2/1/9/37219-alice-sweet-alice-0-600-0-900-crop.jpg?v=2ee5a81a2d"
+  },
+  {
+    "id": "guid:letterboxd-review-1534418797",
+    "guid": "letterboxd-review-1534418797",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Pieces",
+    "film_year": 1982,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/pieces/",
+    "watched_date": "2026-10-11",
+    "publication_date": "2026-10-12",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Was Kendall\u2019s dad the financier?",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/5/4/7/17547-pieces-0-600-0-900-crop.jpg?v=2db2b698fa"
+  },
+  {
     "id": "guid:letterboxd-review-1534317356",
     "guid": "letterboxd-review-1534317356",
     "username": "silentdawn",
@@ -32,7 +104,7 @@
     "rating": 1.5,
     "liked": null,
     "rewatch": false,
-    "review_text": "33\nA real snoozer. Dull as dishwater. Tries to be prescient and ultimately ends up as little more than a righteous, dated lecture. You can't tell me that any of these locations weren't chosen due to the proximity to Aaron Sorkin's hotel room. Safe, boring, asleep at the wheel. His misplaced conviction towards institutional processes does find an interesting ambiguity in our post-truth environment, but it has to be more exciting than this. It just has to be, for the audience's sake at least.",
+    "review_text": "23\nA real snoozer. Dull as dishwater. Tries to be prescient and ultimately ends up as little more than a righteous, dated lecture. You can't tell me that any of these locations weren't chosen due to the proximity to Aaron Sorkin's hotel room. Safe, boring, asleep at the wheel. His misplaced conviction towards institutional processes does find an interesting ambiguity in our post-truth environment, but it has to be more exciting than this. It just has to be, for the audience's sake at least.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/6/9/1164669-the-social-reckoning-0-600-0-900-crop.jpg?v=e880229a7f"
   },
   {
@@ -1401,7 +1473,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/3/4/1595134-sixteen-moments-of-my-life-0-600-0-900-crop.jpg?v=a21ebce10d"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/3/4/1595134-sixteen-moments-of-my-life-0-600-0-900-crop.jpg?v=86dfddab27"
   },
   {
     "id": "guid:letterboxd-watch-1527842558",
@@ -40946,7 +41018,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 471 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 472 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

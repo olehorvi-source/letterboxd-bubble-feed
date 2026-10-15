@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1539381196",
+    "guid": "letterboxd-watch-1539381196",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "The Intertwining",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/the-intertwining/",
+    "watched_date": "2026-10-15",
+    "publication_date": "2026-10-15",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/3/0/4/6/9/1630469-the-intertwining-0-600-0-900-crop.jpg?v=d1e6c6fbac"
+  },
+  {
+    "id": "guid:letterboxd-watch-1539329125",
+    "guid": "letterboxd-watch-1539329125",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "She's the He!",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/shes-the-he/",
+    "watched_date": "2026-10-15",
+    "publication_date": "2026-10-15",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/9/9/1301599-shes-the-he-0-600-0-900-crop.jpg?v=b312206a8e"
+  },
+  {
     "id": "guid:letterboxd-watch-1539179551",
     "guid": "letterboxd-watch-1539179551",
     "username": "riotglasses",
@@ -2013,7 +2049,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "beautiful, feels like a spiritual companion to\nPeter Hujar\u2019s Day\nfor a number of reasons, not the least of which is the inescapable New York of it all \u2014 I too would confess my litany of sins if someone turned on a camcorder and aimed it at my face",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/3/6/0/4/3/1336043-the-man-i-love-2026-0-600-0-900-crop.jpg?v=41828c41b5"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/3/6/0/4/3/1336043-the-man-i-love-2026-0-600-0-900-crop.jpg?v=c25c6c8c0f"
   },
   {
     "id": "guid:letterboxd-review-1529210770",
@@ -4083,7 +4119,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "29/100\nLike being slowly smothered by an enormous marshmallow of progressive compassion.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=6cbc42ecf5"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
     "id": "guid:letterboxd-review-1519338890",
@@ -14685,7 +14721,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=6cbc42ecf5"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
     "id": "guid:letterboxd-watch-1479400258",
@@ -41630,7 +41666,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "there is no ranking to these films. there are some films on this list I don\u2019t like at all, but I think it\u2019s important to notice them.\nSuspense.\nAnita\nThe Seashell and the Clergyman\nMeshes of the Afternoon\nThe Hitch-Hiker\nBlood Bath\nJanie\nThe Velvet Vampire\nBlood Sabbath\nThe Other Side of the Underneath\n...plus 312 more.\nView the full list on Letterboxd\n.",
+    "review_text": "there is no ranking to these films. there are some films on this list I don\u2019t like at all, but I think it\u2019s important to notice them.\nSuspense.\nAnita\nThe Seashell and the Clergyman\nMeshes of the Afternoon\nThe Hitch-Hiker\nBlood Bath\nJanie\nThe Velvet Vampire\nBlood Sabbath\nThe Other Side of the Underneath\n...plus 313 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

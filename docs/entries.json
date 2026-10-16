@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1540628119",
+    "guid": "letterboxd-watch-1540628119",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Hallowarrior",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/hallowarrior/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-16",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/9/0/1/1277901-hallowarrior-0-600-0-900-crop.jpg?v=49ffad59f2"
+  },
+  {
     "id": "guid:letterboxd-watch-1540380135",
     "guid": "letterboxd-watch-1540380135",
     "username": "davidlsims",
@@ -16,6 +34,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-600-0-900-crop.jpg?v=cc28feee48"
+  },
+  {
+    "id": "guid:letterboxd-review-1540680211",
+    "guid": "letterboxd-review-1540680211",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "You Can See Everything",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/you-can-see-everything/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-16",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I\u2019m not exaggerating when I say at one point I felt like I was losing my grip on reality.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
     "id": "guid:letterboxd-review-1540505844",
@@ -51,6 +87,24 @@
     "liked": null,
     "rewatch": true,
     "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/8/9/9/30899-the-devils-0-600-0-900-crop.jpg?v=368cfcdfad"
+  },
+  {
+    "id": "guid:letterboxd-review-1540640355",
+    "guid": "letterboxd-review-1540640355",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "The Devils",
+    "film_year": 1971,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/the-devils/2/",
+    "watched_date": "2026-10-15",
+    "publication_date": "2026-10-16",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "90\nSeeing the (finally!) uncut, restored, and compete version of Ken Russell's film at a multiplex was such a baffling and rewarding experience. Kept having to pinch myself to see if I was dreaming.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/8/9/9/30899-the-devils-0-600-0-900-crop.jpg?v=368cfcdfad"
   },
   {

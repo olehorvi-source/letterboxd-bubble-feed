@@ -1,5 +1,95 @@
 [
   {
+    "id": "guid:letterboxd-watch-1541599851",
+    "guid": "letterboxd-watch-1541599851",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Day of the Fight",
+    "film_year": 1951,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/day-of-the-fight/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-17",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/3/2/8/19328-day-of-the-fight-0-600-0-900-crop.jpg?v=8dbf532861"
+  },
+  {
+    "id": "guid:letterboxd-watch-1541577542",
+    "guid": "letterboxd-watch-1541577542",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Making 'The Shining'",
+    "film_year": 1980,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/making-the-shining/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-17",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/0/3/7/40037-making-the-shining--0-600-0-900-crop.jpg?v=4b1ccb0f87"
+  },
+  {
+    "id": "guid:letterboxd-watch-1541489724",
+    "guid": "letterboxd-watch-1541489724",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "Clarissa",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/clarissa-2026/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-17",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/7/6/7/4/1497674-clarissa-2026-0-600-0-900-crop.jpg?v=5b3697c703"
+  },
+  {
+    "id": "guid:letterboxd-review-1541466886",
+    "guid": "letterboxd-review-1541466886",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Nekromantik",
+    "film_year": 1988,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/nekromantik/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-17",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Dude.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/8/44978-nekromantik-0-600-0-900-crop.jpg?v=d9720f2a32"
+  },
+  {
+    "id": "guid:letterboxd-review-1541340643",
+    "guid": "letterboxd-review-1541340643",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Carrie",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/carrie-2026/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-17",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Back on Haunting of Hill House, it felt like Mike Flanagan was thinking actively about what it means to occupy an enduring narrative space, and how to renovate its architecture without vandalizing it. Now he\u2019s a custodian of intellectual property, dutiful and dull. There\u2019s a structural move off the top here by which he distinguishes this version of Carrie from its screen predecessors. and also from which it never recovers, and it\u2019s not even really about the execution. (The faithfulness to King across the episodes I\u2019ve watched so far is mostly a matter of sprawl - of portent laid on thick and psychodrama stretched thin (not unlike the problems with The Shards, which is probably worse on every level, but more fun). The departure from De Palma, while understandable in the context of a miniseries adaptation, is also a farewell to anything like style, shape or sensibility. Don\u2019t know if I\u2019ll bother finishing the show.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/8/1/6/8/1618168-carrie-2026-0-600-0-900-crop.jpg?v=bef2e5cffd"
+  },
+  {
     "id": "guid:letterboxd-watch-1540628119",
     "guid": "letterboxd-watch-1540628119",
     "username": "SeanFennessey",
@@ -15,7 +105,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/9/0/1/1277901-hallowarrior-0-600-0-900-crop.jpg?v=49ffad59f2"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/9/0/1/1277901-hallowarrior-0-600-0-900-crop.jpg?v=ba9117c881"
   },
   {
     "id": "guid:letterboxd-watch-1540380135",
@@ -191,10 +281,10 @@
     "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/you-can-see-everything/",
     "watched_date": "2026-10-15",
     "publication_date": "2026-10-16",
-    "rating": 5.0,
+    "rating": 4.5,
     "liked": null,
     "rewatch": false,
-    "review_text": "95\nWas initially worried that we've reached an impassable boundary with The Fielder Method, that Holmes and company were merely going to be a unwavering final boss for Nathan's brand of comedic reflexivity. But this movie knows that. What ultimately follows its (brilliant) tablesetting is an odyssey of self-delusion which encourages the spectator to consider the limits of our own understanding of truth. A descent that spirals into the reality that we've created for ourselves and the people who set up shop for their own benefit. [REDACTED] gives the performance of a lifetime. A major achievement.",
+    "review_text": "87\nWas initially worried that we've reached an impassable boundary with The Fielder Method, that Holmes and company were merely going to be a unwavering final boss for Nathan's brand of comedic reflexivity. But this movie knows that. What ultimately follows its (brilliant) tablesetting is an odyssey of self-delusion which encourages the spectator to consider the limits of our own understanding of truth. A descent that spirals into the reality that we've created for ourselves and the people who set up shop for their own benefit. [REDACTED] gives the performance of a lifetime. A major achievement.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -951,7 +1041,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "you can read my review\nhere.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/8/8/7/2/1598872-14th-0-600-0-900-crop.jpg?v=d0e6b6b56c"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/9/8/8/7/2/1598872-14th-0-600-0-900-crop.jpg?v=d7b385c16e"
   },
   {
     "id": "guid:letterboxd-watch-1537170286",
@@ -35996,7 +36086,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Every month, to ensure that even less popular Patreon review requests (that are unlikely to win the weekly poll\u2014though you never know, freakin\u2019\nLandscape Suicide\nwon) have a chance, I use random.org to select two additional films to watch and write up. Here are the lucky ones to date.\nQueen Margot\nThe Magnificent Ambersons\nThe Hitcher\nBroadcast News\nMiami Blues\nCarrie\nThe Red and the White\nTake This Waltz\nOne Way Boogie Woogie\nThe Burmese Harp\n...plus 169 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Every month, to ensure that even less popular Patreon review requests (that are unlikely to win the weekly poll\u2014though you never know, freakin\u2019\nLandscape Suicide\nwon) have a chance, I use random.org to select two additional films to watch and write up. Here are the lucky ones to date.\nQueen Margot\nThe Magnificent Ambersons\nThe Hitcher\nBroadcast News\nMiami Blues\nCarrie\nThe Red and the White\nTake This Waltz\nOne Way Boogie Woogie\nThe Burmese Harp\n...plus 173 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

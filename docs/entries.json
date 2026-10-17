@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1541934021",
+    "guid": "letterboxd-watch-1541934021",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Teenage Sex and Death at Camp Miasma",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/teenage-sex-and-death-at-camp-miasma/2/",
+    "watched_date": "2026-10-16",
+    "publication_date": "2026-10-17",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-600-0-900-crop.jpg?v=f6059120f8"
+  },
+  {
     "id": "guid:letterboxd-watch-1541599851",
     "guid": "letterboxd-watch-1541599851",
     "username": "SeanFennessey",
@@ -86,8 +104,44 @@
     "rating": null,
     "liked": null,
     "rewatch": false,
-    "review_text": "Back on Haunting of Hill House, it felt like Mike Flanagan was thinking actively about what it means to occupy an enduring narrative space, and how to renovate its architecture without vandalizing it. Now he\u2019s a custodian of intellectual property, dutiful and dull. There\u2019s a structural move off the top here by which he distinguishes this version of Carrie from its screen predecessors. and also from which it never recovers, and it\u2019s not even really about the execution. (The faithfulness to King across the episodes I\u2019ve watched so far is mostly a matter of sprawl - of portent laid on thick and psychodrama stretched thin (not unlike the problems with The Shards, which is probably worse on every level, but more fun). The departure from De Palma, while understandable in the context of a miniseries adaptation, is also a farewell to anything like style, shape or sensibility. Don\u2019t know if I\u2019ll bother finishing the show.",
+    "review_text": "Back on Haunting of Hill House, it felt like Mike Flanagan was thinking actively about what it means to occupy an enduring narrative space, and how to renovate its architecture without vandalizing it. Now he\u2019s a custodian of intellectual property, dutiful and dull. There\u2019s a structural move off the top here by which he distinguishes his version of Carrie from its screen predecessors, and also from which it never recovers, and it\u2019s not even really about the execution. The faithfulness to King across the episodes I\u2019ve watched so far is mostly a matter of sprawl - of portent laid on thick and psychodrama stretched thin (not unlike the problems with The Shards, which is probably a worse showon every level, but more fun). The departure from De Palma, while understandable in the context of a miniseries adaptation, is also a farewell to anything like style, shape or sensibility. Don\u2019t know if I\u2019ll bother finishing the show.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/8/1/6/8/1618168-carrie-2026-0-600-0-900-crop.jpg?v=bef2e5cffd"
+  },
+  {
+    "id": "guid:letterboxd-review-1537303027",
+    "guid": "letterboxd-review-1537303027",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Jason Lives - Friday the 13th Part VI",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/jason-lives-friday-the-13th-part-vi/2/",
+    "watched_date": "2026-10-13",
+    "publication_date": "2026-10-17",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Talked about in full alongside\nFriday the 13th Part V: A New Beginning\n(1985) on episode 455 of my genre and exploitation film podcast\nSLEAZOIDS\nwith special guest Will Sloan, you can\nlisten to the episode for free on Soundcloud by clicking here\n.\nYou can also listen to this episode (and all previous free episodes) over on\nApple Podcasts\nor\nSpotify\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/4/2/6/46426-friday-the-13th-part-vi-jason-lives-0-600-0-900-crop.jpg?v=86178da07f"
+  },
+  {
+    "id": "guid:letterboxd-review-1535891764",
+    "guid": "letterboxd-review-1535891764",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th: A New Beginning",
+    "film_year": 1985,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th-a-new-beginning/2/",
+    "watched_date": "2026-10-12",
+    "publication_date": "2026-10-17",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Talked about in full alongside\nFriday the 13th Part VI: Jason Lives!\n(1986) on episode 455 of my genre and exploitation film podcast\nSLEAZOIDS\nwith special guest Will Sloan, you can\nlisten to the episode for free on Soundcloud by clicking here\n.\nYou can also listen to this episode (and all previous free episodes) over on\nApple Podcasts\nor\nSpotify\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/7/6/46876-friday-the-13th-part-v-a-new-beginning-0-600-0-900-crop.jpg?v=83bd4821cd"
   },
   {
     "id": "guid:letterboxd-watch-1540628119",
@@ -43178,7 +43232,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Official list of all films covered on the podcast. This list used to be ranked by rating but due to volume of films it has been updated to chronological episode order. Hit \"read notes\" for links to individual episodes for films below as well as official ratings for each\u2026\nwww.sleazoidspodcast.com/\nFor weekly updates follow the official letterboxd account:\nletterboxd.com/SLEAZOIDS/\nListen to all the free episodes on\nSoundcloud\n,\nApple Podcasts\nor\nSpotify\n!!!\nFor access to our back catalog of bonus episodes (over 190 now) and all future bonus episodes (2 more every month), subscribe on\nPatreon\n!!!\nFollow us on\nTwitter\n!!!\nLike us on\nFacebook\n!!!\nBUY THE 'SLEAZOIDS' SHIRT\n.\nBUY THE 'SLEAZOIDS' HAT\n.\nThe Hills Have Eyes\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nSpider Baby\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nDirty Harry\ntalked about on ep 2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nRaw Deal\ntalked about on ep2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nFemale Prisoner #701: Scorpion\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 4/5*\nKill Bill: Vol. 1\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 5/5*\nLong Weekend\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nandrew's rating: 3.5/5\nRazorback\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 3/5*\nandrew's rating: 4/5\nDeath Wish\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nDeath Wish II\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 2/5*\njamie's rating: 3/5*\n...plus 886 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Official list of all films covered on the podcast. This list used to be ranked by rating but due to volume of films it has been updated to chronological episode order. Hit \"read notes\" for links to individual episodes for films below as well as official ratings for each\u2026\nwww.sleazoidspodcast.com/\nFor weekly updates follow the official letterboxd account:\nletterboxd.com/SLEAZOIDS/\nListen to all the free episodes on\nSoundcloud\n,\nApple Podcasts\nor\nSpotify\n!!!\nFor access to our back catalog of bonus episodes (over 190 now) and all future bonus episodes (2 more every month), subscribe on\nPatreon\n!!!\nFollow us on\nTwitter\n!!!\nLike us on\nFacebook\n!!!\nBUY THE 'SLEAZOIDS' SHIRT\n.\nBUY THE 'SLEAZOIDS' HAT\n.\nThe Hills Have Eyes\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nSpider Baby\ntalked about on ep 1 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nDirty Harry\ntalked about on ep 2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nRaw Deal\ntalked about on ep2 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nFemale Prisoner #701: Scorpion\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 4/5*\nKill Bill: Vol. 1\ntalked about on ep 3 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 5/5*\njamie's rating: 5/5*\nLong Weekend\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 4/5*\nandrew's rating: 3.5/5\nRazorback\ntalked about on ep 4 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 4/5*\njamie's rating: 3/5*\nandrew's rating: 4/5\nDeath Wish\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 3/5*\njamie's rating: 3/5*\nDeath Wish II\ntalked about on ep 5 which you can find here on\nsoundcloud\nor\nitunes\njosh's rating: 2/5*\njamie's rating: 3/5*\n...plus 888 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

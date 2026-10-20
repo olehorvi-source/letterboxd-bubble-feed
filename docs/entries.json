@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1547189011",
+    "guid": "letterboxd-watch-1547189011",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Future",
+    "film_year": 2011,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-future/1/",
+    "watched_date": "2026-10-20",
+    "publication_date": "2026-10-20",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/4/3/2/11432-the-future-0-600-0-900-crop.jpg?v=3f78d4ead0"
+  },
+  {
+    "id": "guid:letterboxd-watch-1546966887",
+    "guid": "letterboxd-watch-1546966887",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Dracula",
+    "film_year": 1931,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/dracula/1/",
+    "watched_date": "2026-10-20",
+    "publication_date": "2026-10-20",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/1/3/51913-dracula-0-600-0-900-crop.jpg?v=a27a82cffc"
+  },
+  {
     "id": "guid:letterboxd-watch-1546781825",
     "guid": "letterboxd-watch-1546781825",
     "username": "thejoshl",
@@ -65,7 +101,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-history-of-concrete/",
     "watched_date": "2026-10-19",
     "publication_date": "2026-10-20",
-    "rating": null,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -483,7 +519,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "my italian-american boyfriend\u2019s mother is going to LOVE THIS MOVIE.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-600-0-900-crop.jpg?v=317323596f"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-600-0-900-crop.jpg?v=d568ec1f72"
   },
   {
     "id": "guid:letterboxd-review-1543359160",
@@ -1905,7 +1941,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "movie for babies, but babies need movies too. at least this one teaches them about the history of the Steadicam. never too young for that.\nit helps that Anthony Ippolito is more charming than Stallone deserves, that he says \"I play Rocky\" like 10 times, and that the god Tracy Letts is cast as the blowhard studio head who says \"you will NEVER play Rocky!!!\" in response to the first 9 of them.\nweirdly under-played and ineffective ending for a movie that was made for no other reason than to distill the second-hand high of a sports classic. but he DOES play Rocky. i can't argue with that.",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-600-0-900-crop.jpg?v=317323596f"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-600-0-900-crop.jpg?v=d568ec1f72"
   },
   {
     "id": "guid:letterboxd-watch-1537396171",
@@ -12057,7 +12093,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-600-0-900-crop.jpg?v=317323596f"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-600-0-900-crop.jpg?v=d568ec1f72"
   },
   {
     "id": "guid:letterboxd-watch-1494523274",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1546135510",
+    "guid": "letterboxd-watch-1546135510",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The History of Concrete",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-history-of-concrete/",
+    "watched_date": "2026-10-19",
+    "publication_date": "2026-10-20",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
+  },
+  {
     "id": "guid:letterboxd-watch-1545846474",
     "guid": "letterboxd-watch-1545846474",
     "username": "BrianDuffield",
@@ -52,6 +70,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/4/5/3/9/9/1645399-kefi-2026-0-600-0-900-crop.jpg?v=b84f16e565"
+  },
+  {
+    "id": "guid:letterboxd-review-1546045917",
+    "guid": "letterboxd-review-1546045917",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "The Sweet East",
+    "film_year": 2023,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/the-sweet-east/1/",
+    "watched_date": "2026-10-19",
+    "publication_date": "2026-10-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Screened for class, wonder what they all thought",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/1/0/5/2/9/910529-the-sweet-east-0-600-0-900-crop.jpg?v=ddbd45abe4"
   },
   {
     "id": "guid:letterboxd-watch-1545628712",
@@ -232,6 +268,24 @@
     "rewatch": false,
     "review_text": "what is an Andrew Schulz",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/0/2/9/0/1040290-street-fighter-2026-0-600-0-900-crop.jpg?v=5cc9002644"
+  },
+  {
+    "id": "guid:letterboxd-review-1546036935",
+    "guid": "letterboxd-review-1546036935",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Mayday",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/mayday-2026/",
+    "watched_date": "2026-10-17",
+    "publication_date": "2026-10-19",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "53/100\nI'm all for '80s throwbacks, but maybe don't throw back to something like the '88 Arnold Schwarzenegger + Jim Belushi buddy-action-comedy\nRed Heat.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/2/0/3/1025203-mayday-2026-0-600-0-900-crop.jpg?v=d05a68f0b6"
   },
   {
     "id": "guid:letterboxd-watch-1544531688",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-review-1549330970",
+    "guid": "letterboxd-review-1549330970",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Over Your Dead Body",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/over-your-dead-body-2026/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-22",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "few things more sobering on a 7am fight than watching two (or more) people beat the ever living shit out of each other for 100 minutes",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/4/4/9/0/1274490-over-your-dead-body-2026-0-600-0-900-crop.jpg?v=5078cbe906"
+  },
+  {
+    "id": "guid:letterboxd-watch-1549379519",
+    "guid": "letterboxd-watch-1549379519",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "film_year": 1989,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th-part-viii-jason-takes-manhattan/2/",
+    "watched_date": "2026-10-21",
+    "publication_date": "2026-10-22",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/3/7/2/46372-friday-the-13th-part-viii-jason-takes-manhattan-0-600-0-900-crop.jpg?v=9ac5114625"
+  },
+  {
     "id": "guid:letterboxd-watch-1549140441",
     "guid": "letterboxd-watch-1549140441",
     "username": "SeanFennessey",
@@ -106,6 +142,24 @@
     "rewatch": false,
     "review_text": "Okay?????",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/1/7/4/99174-crocodile-0-600-0-900-crop.jpg?v=4392e573e5"
+  },
+  {
+    "id": "guid:letterboxd-review-1549423125",
+    "guid": "letterboxd-review-1549423125",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Crimson Peak",
+    "film_year": 2015,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/crimson-peak/3/",
+    "watched_date": "2026-10-14",
+    "publication_date": "2026-10-22",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "86\nA film that frequently astonishes - to the point of sensory overload. The cracks in the foundation, with red clay seeping out of the woodwork, isn't just an overt metaphorical focus, but an over-reliance on its clumsy plotting and fanboy sensibility. I'll never be able to shake this movie and what it inspired in me, jumpstarting an already fiery obsession with the Gothic and macabre, although more and more it resembles an early form of the type of del Toro extravaganza that I've grown to dislike.\nPoint is, it's complicated, and we talk about all those nuances here on the\npod\n! \ud83d\udc7b \ud83c\udfe0",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ab/6v/2r/jl/pCj8zem1NDAODdtvha9WFEB6iWR-0-600-0-900-crop.jpg?v=b019ae9643"
   },
   {
     "id": "guid:letterboxd-watch-1548873080",
@@ -37742,7 +37796,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 220 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 221 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46004,7 +46058,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2110 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2111 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-review-1549767257",
+    "guid": "letterboxd-review-1549767257",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Boorman and the Devil",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/boorman-and-the-devil/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-22",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "This documentary deserves better than Owen Glieberman's review; Exorcist II deserves better than this documentary.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/7/0/1393070-boorman-and-the-devil-0-600-0-900-crop.jpg?v=a903dc91da"
+  },
+  {
+    "id": "guid:letterboxd-review-1549671578",
+    "guid": "letterboxd-review-1549671578",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Curse of Frankenstein",
+    "film_year": 1957,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-curse-of-frankenstein/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-22",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "far and away the best of the Frankenstein films at showing that the monster was never Frankenstein's creation(s), it was the doctor himself \u2014 I miss when movies looked like this, lavish and disgusting in equal measure",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/9/2/49892-the-curse-of-frankenstein-0-600-0-900-crop.jpg?v=dca5d21ab0"
+  },
+  {
+    "id": "guid:letterboxd-review-1549597321",
+    "guid": "letterboxd-review-1549597321",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Red River Range",
+    "film_year": 1938,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/red-river-range/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-22",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Not enough Elmer.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/3/5/2/7/103527-red-river-range-0-600-0-900-crop.jpg?v=c26fdbdddc"
+  },
+  {
     "id": "guid:letterboxd-review-1549330970",
     "guid": "letterboxd-review-1549330970",
     "username": "jlalibs",
@@ -14,7 +68,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "few things more sobering on a 7am fight than watching two (or more) people beat the ever living shit out of each other for 100 minutes",
+    "review_text": "few things more sobering on a 7am flight than watching two (or more) people beat the ever living shit out of each other for 100 minutes",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/4/4/9/0/1274490-over-your-dead-body-2026-0-600-0-900-crop.jpg?v=5078cbe906"
   },
   {
@@ -191,7 +245,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/bob-carol-ted-alice/1/",
     "watched_date": "2026-10-21",
     "publication_date": "2026-10-21",
-    "rating": 4.0,
+    "rating": 4.5,
     "liked": null,
     "rewatch": true,
     "review_text": null,
@@ -37904,7 +37958,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Stagecoach\nThe Shootist\nRed River\nA Man Betrayed\nLegend of the Lost",
+    "review_text": "Stagecoach\nThe Shootist\nRed River\nA Man Betrayed\nRed River Range\nLegend of the Lost",
     "poster_url": null
   },
   {
@@ -43142,7 +43196,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 763 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 764 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -43214,7 +43268,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3002 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3003 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -43286,7 +43340,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "private eyes, reporters and other investigative types\n*not* police procedurals\n13th Child\n51\nAbattoir\nAlone in the Dark\nAngel Heart\nApostle\nAsylum\nThe Awakening\nThe Barbados Project\nBirds of Prey\n...plus 170 more.\nView the full list on Letterboxd\n.",
+    "review_text": "private eyes, reporters and other investigative types\n*not* police procedurals\n13th Child\n51\nAbattoir\nAlone in the Dark\nAngel Heart\nApostle\nAsylum\nThe Awakening\nThe Barbados Project\nBirds of Prey\n...plus 171 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45878,7 +45932,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Movies with scenes that take place in cinema auditoriums, primarily focusing on the audience watching the screen. Not exterior shots, I have a separate list for cinema marquees/exteriors.\nAll genres included.\n10 to Midnight\n1941\n27 Missing Kisses\nThe 400 Blows\n(500) Days of Summer\n8 \u00bd Women\n8\u00bd\n84 Charing Cross Road\nAbove Suspicion\nAcross the Pacific\n...plus 460 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Movies with scenes that take place in cinema auditoriums, primarily focusing on the audience watching the screen. Not exterior shots, I have a separate list for cinema marquees/exteriors.\nAll genres included.\n10 to Midnight\n1941\n27 Missing Kisses\nThe 400 Blows\n(500) Days of Summer\n8 \u00bd Women\n8\u00bd\n84 Charing Cross Road\nAbove Suspicion\nAcross the Pacific\n...plus 461 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

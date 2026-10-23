@@ -18,6 +18,78 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/5/1/5/1/1285151-appofeniacs-0-600-0-900-crop.jpg?v=807d23f724"
   },
   {
+    "id": "guid:letterboxd-review-1551063713",
+    "guid": "letterboxd-review-1551063713",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Stranger Within",
+    "film_year": 1974,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-stranger-within-1974/",
+    "watched_date": "2026-10-23",
+    "publication_date": "2026-10-23",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "a remarkably frank discussion of reproductive health masquerading as a horrific TV movie of the week which, to be fair, still makes time for tentacle monster effects and jump scares \u2014 hardly the most progressive movie ever made but still shocking that this was written and directed by men for a major network in the mid-70s",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/1/2/5/154125-the-stranger-within-1974-0-600-0-900-crop.jpg?v=e82ce5d1ef"
+  },
+  {
+    "id": "guid:letterboxd-review-1551013553",
+    "guid": "letterboxd-review-1551013553",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Love of Your Life",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/love-of-your-life/",
+    "watched_date": "2026-10-23",
+    "publication_date": "2026-10-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Really liked this.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=7a6d5c6675"
+  },
+  {
+    "id": "guid:letterboxd-review-1550852879",
+    "guid": "letterboxd-review-1550852879",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Santa Fe Stampede",
+    "film_year": 1938,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/santa-fe-stampede/",
+    "watched_date": "2026-10-23",
+    "publication_date": "2026-10-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Not enough Elmer.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/1/6/9/72169-santa-fe-stampede-0-600-0-900-crop.jpg?v=98586ad339"
+  },
+  {
+    "id": "guid:letterboxd-review-1550842449",
+    "guid": "letterboxd-review-1550842449",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Clayface",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/clayface/",
+    "watched_date": "2026-10-23",
+    "publication_date": "2026-10-23",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "destined to be labeled as Cronenbergian\u2122 because it\u2019s b0dY h00R0r but it\u2019s rarely concerned with the anxiety or eroticism of the flesh, instead almost solely focused on it as a result of, and vehicle for, violence \u2014 feels like a mixtape of all of the things that work well for\nDarkman, Vanilla Sky\nand\nBody Parts\n(all films I unabashedly love so\u2026) even when succumbing to the more irritating impulses of the DCU (constant reminders we are in Gotham etc) but this is gnarlier than expected and, perhaps more importantly, quite bleak so I\u2019m willing to overlook the fan service beats if it means I get to watch a lead in a major studio comic book movie gruesomely falling apart on the biggest screen in my state",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/4/6/3/6/1284636-clayface-0-600-0-900-crop.jpg?v=eb305849d5"
+  },
+  {
     "id": "guid:letterboxd-review-1550679165",
     "guid": "letterboxd-review-1550679165",
     "username": "jlalibs",
@@ -38012,7 +38084,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 214 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 215 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38138,7 +38210,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 221 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 222 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -38246,7 +38318,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Stagecoach\nThe Shootist\nRed River\nA Man Betrayed\nRed River Range\nLegend of the Lost",
+    "review_text": "Stagecoach\nThe Shootist\nRed River\nA Man Betrayed\nSanta Fe Stampede\nRed River Range\nLegend of the Lost",
     "poster_url": null
   },
   {
@@ -41882,7 +41954,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "includes domestic and foreign films; docs, shorts, etc\nnot all are positive portrayals, but explicit pro-life propaganda has been excluded\nin chronological order by release year\nWhere Are My Children?\nBed and Sofa\nMisery and Fortune of Woman\nCyanide\nAn American Tragedy\nAnn Vickers\nAmok\nMen in White\nThe Road to Ruin\nWalpurgis Night\n...plus 326 more.\nView the full list on Letterboxd\n.",
+    "review_text": "includes domestic and foreign films; docs, shorts, etc\nnot all are positive portrayals, but explicit pro-life propaganda has been excluded\nin chronological order by release year\nWhere Are My Children?\nBed and Sofa\nMisery and Fortune of Woman\nCyanide\nAn American Tragedy\nAnn Vickers\nAmok\nMen in White\nThe Road to Ruin\nWalpurgis Night\n...plus 327 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44294,7 +44366,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2768 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2769 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46400,7 +46472,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2112 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2113 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

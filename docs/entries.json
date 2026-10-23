@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1550737523",
+    "guid": "letterboxd-watch-1550737523",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Appofeniacs",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/appofeniacs/",
+    "watched_date": "2026-10-23",
+    "publication_date": "2026-10-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/5/1/5/1/1285151-appofeniacs-0-600-0-900-crop.jpg?v=807d23f724"
+  },
+  {
+    "id": "guid:letterboxd-review-1550679165",
+    "guid": "letterboxd-review-1550679165",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Arcane Sorcerer",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/arcane-sorcerer/",
+    "watched_date": "2026-10-23",
+    "publication_date": "2026-10-23",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "a beautiful gothic slow burn that would be the greatest movie ever made if greatness was measured in composed shots lit (or convincingly lit) by candle flame",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/7/0/1/6701-arcane-sorcerer-0-600-0-900-crop.jpg?v=298e5e36d2"
+  },
+  {
     "id": "guid:letterboxd-watch-1550276896",
     "guid": "letterboxd-watch-1550276896",
     "username": "SeanFennessey",
@@ -52,6 +88,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/1/1/8/48118-vampire-s-kiss-0-600-0-900-crop.jpg?v=3153175250"
+  },
+  {
+    "id": "guid:letterboxd-review-1550550191",
+    "guid": "letterboxd-review-1550550191",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Grandma's Boy",
+    "film_year": 2006,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/grandmas-boy-2006/2/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-23",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "pre-dates\nThe Social Network\nby four years and, in JP, offers a better portrayal of tech industry spectrum egomania than Sorkin could dream of penning",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/7/3/4/46734-grandma-s-boy-0-600-0-900-crop.jpg?v=63004b268c"
   },
   {
     "id": "guid:letterboxd-review-1550242859",
@@ -37940,7 +37994,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 99 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 100 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -42818,7 +42872,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 326 more.\nView the full list on Letterboxd\n.",
+    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 327 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

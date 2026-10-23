@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1550276896",
+    "guid": "letterboxd-watch-1550276896",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Insidious: Out of the Further",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/insidious-out-of-the-further/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-23",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/1/5/7/1174157-insidious-out-of-the-further-0-600-0-900-crop.jpg?v=b6c81c5505"
+  },
+  {
     "id": "guid:letterboxd-watch-1550130013",
     "guid": "letterboxd-watch-1550130013",
     "username": "bdgrabinski",
@@ -34,6 +52,42 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/1/1/8/48118-vampire-s-kiss-0-600-0-900-crop.jpg?v=3153175250"
+  },
+  {
+    "id": "guid:letterboxd-review-1550242859",
+    "guid": "letterboxd-review-1550242859",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Wildwood",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/wildwood-2026/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-23",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "73\nI mean, just look at it! You can certainly dismiss its standard YA plotting, the jarring mishmash of fantastical influences, not to mention a relative disinterest in properly reckoning with the politics and emotionality of its own world, but the textures and fluidity on display are nothing short of astonishing. Multiple action sequences took my breath away in terms of the heightened detail and the scope and scale of its world-building. It may not compare to the uncanny horror of\nCoraline\nor even the grieving adventure of\nKubo and the Two Strings\n, although Laika Studios once again endures and offers up a variety of handcrafted delights to get lost in.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/0/9/4/6/0/709460-wildwood-2026-0-600-0-900-crop.jpg?v=e0b4be5769"
+  },
+  {
+    "id": "guid:letterboxd-review-1550220816",
+    "guid": "letterboxd-review-1550220816",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Jason X",
+    "film_year": 2001,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/jason-x/1/",
+    "watched_date": "2026-10-22",
+    "publication_date": "2026-10-23",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Had a really depressing movie evening so I needed to watch real cinema. Had no idea the 4K HDR release was going to be this good. God bless Arrow. This is exactly how you should release a movie like this.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/2/7/3/45273-jason-x-0-600-0-900-crop.jpg?v=611a127bf7"
   },
   {
     "id": "guid:letterboxd-review-1550047457",
@@ -2120,7 +2174,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nNowhere to Lay My Eyes\nMum, I'm Alien Pregnant\nNo Rest for the Wicked",
+    "review_text": "All of a Sudden\nNowhere to Lay My Eyes\nMum, I'm Alien Pregnant\nHot Spring Shark Attack 2: Great Kyushu Showdown\nNo Rest for the Wicked",
     "poster_url": null
   },
   {
@@ -40046,7 +40100,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 592 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 593 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -43448,7 +43502,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3003 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3004 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44438,7 +44492,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "80s - present. Mostly DTV with some major studio content in the mix. All are firmly rooted in the thriller genre, no horror or action leaning titles. Lots of \"naked\", \"passion\", \"sins\", \"heat\", etc.\n1-900\n24 Exposures\nThe 4th Man\nAbove Suspicion\nAccess Denied\nActing on Impulse\nAddicted\nAn Affair to Die For\nAfter Dark, My Sweet\nAfter Midnight\n...plus 730 more.\nView the full list on Letterboxd\n.",
+    "review_text": "80s - present. Mostly DTV with some major studio content in the mix. All are firmly rooted in the thriller genre, no horror or action leaning titles. Lots of \"naked\", \"passion\", \"sins\", \"heat\", etc.\n1-900\n24 Exposures\nThe 4th Man\nAbove Suspicion\nAccess Denied\nActing on Impulse\nAddicted\nAn Affair to Die For\nAfter Dark, My Sweet\nAfter Midnight\n...plus 731 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44654,7 +44708,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1377 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1379 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

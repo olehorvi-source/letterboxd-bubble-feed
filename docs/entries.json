@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-review-1553948451",
+    "guid": "letterboxd-review-1553948451",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Tale of Oiwa's Ghost",
+    "film_year": 1961,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-tale-of-oiwas-ghost/",
+    "watched_date": "2026-10-25",
+    "publication_date": "2026-10-25",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "despite its 2.35 frame, remains dutifully theatrical for much of its runtime until it loosens up in its final minutes and melds potent grief/guilt with intense horror beats, offering a satisfying comeuppance \u2014 looks incredible",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/2/2/5/8/142258-the-tale-of-oiwas-ghost-0-600-0-900-crop.jpg?v=6183252e44"
+  },
+  {
+    "id": "guid:letterboxd-watch-1553820701",
+    "guid": "letterboxd-watch-1553820701",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Gothika",
+    "film_year": 2003,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/gothika/1/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-25",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/0/3/0/49030-gothika-0-600-0-900-crop.jpg?v=08f35ff754"
+  },
+  {
     "id": "guid:letterboxd-watch-1553524220",
     "guid": "letterboxd-watch-1553524220",
     "username": "SeanFennessey",
@@ -106,6 +142,24 @@
     "rewatch": true,
     "review_text": "Rewatched for Nayman Lenses",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/4/3/9/348439-kill-bill-the-whole-bloody-affair-0-600-0-900-crop.jpg?v=5d08ead101"
+  },
+  {
+    "id": "guid:letterboxd-watch-1553818565",
+    "guid": "letterboxd-watch-1553818565",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Rebel Ridge",
+    "film_year": 2024,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/rebel-ridge/2/",
+    "watched_date": "2026-10-21",
+    "publication_date": "2026-10-25",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/7/1/7/9/1/571791-rebel-ridge-0-600-0-900-crop.jpg?v=07dbdf377a"
   },
   {
     "id": "guid:letterboxd-watch-1552934333",
@@ -38642,7 +38696,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 100 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 101 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44240,7 +44294,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 634 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 635 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

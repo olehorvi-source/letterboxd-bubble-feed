@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1553524220",
+    "guid": "letterboxd-watch-1553524220",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "A Talent for Murder",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/a-talent-for-murder-2026/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-25",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/7/6/0/2/977602-a-talent-for-murder-2026-0-600-0-900-crop.jpg?v=43addda2b4"
+  },
+  {
+    "id": "guid:letterboxd-watch-1553258155",
+    "guid": "letterboxd-watch-1553258155",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Beyond",
+    "film_year": 1981,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-beyond/4/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/tr/ls/ir/ee/71A5wVwHz0uJKXu9dsq15CaPRl-0-600-0-900-crop.jpg?v=a99b3a3394"
+  },
+  {
+    "id": "guid:letterboxd-watch-1553257715",
+    "guid": "letterboxd-watch-1553257715",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Hitcher",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-hitcher/3/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/pi/lf/zx/fe/pdPKlwAOX66Zqktp1amFooovAjT-0-600-0-900-crop.jpg?v=bb08ab1974"
+  },
+  {
     "id": "guid:letterboxd-watch-1553040022",
     "guid": "letterboxd-watch-1553040022",
     "username": "SeanFennessey",
@@ -16,6 +70,42 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/4/2/6/46426-friday-the-13th-part-vi-jason-lives-0-600-0-900-crop.jpg?v=86178da07f"
+  },
+  {
+    "id": "guid:letterboxd-review-1553222695",
+    "guid": "letterboxd-review-1553222695",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Hellraiser",
+    "film_year": 1987,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/hellraiser/2/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-25",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "beautiful, erotic and sad in equal measure \u2014 which made my audience treating it like a laugh riot tonight all the more confounding \u2014 if not the greatest of the horror franchise progenitors, arguably the most interesting one",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/3/8/47438-hellraiser-0-600-0-900-crop.jpg?v=c927113564"
+  },
+  {
+    "id": "guid:letterboxd-review-1553202225",
+    "guid": "letterboxd-review-1553202225",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Kill Bill: The Whole Bloody Affair",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/kill-bill-the-whole-bloody-affair/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-25",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Rewatched for Nayman Lenses",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/4/3/9/348439-kill-bill-the-whole-bloody-affair-0-600-0-900-crop.jpg?v=5d08ead101"
   },
   {
     "id": "guid:letterboxd-watch-1552934333",
@@ -38570,7 +38660,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 215 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 216 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41828,7 +41918,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "everything I've rated five stars since joining letterboxd in 2012\n12 Angry Men\n2001: A Space Odyssey\n3 Women\n35 Shots of Rum\nAdaptation.\nAfter Hours\nAguirre, the Wrath of God\nA.I. Artificial Intelligence\nAirplane!\nAkira\n...plus 375 more.\nView the full list on Letterboxd\n.",
+    "review_text": "everything I've rated five stars since joining letterboxd in 2012\n12 Angry Men\n2001: A Space Odyssey\n3 Women\n35 Shots of Rum\nAdaptation.\nAfter Hours\nAguirre, the Wrath of God\nA.I. Artificial Intelligence\nAirplane!\nAkira\n...plus 376 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45032,7 +45122,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 472 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 473 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46958,7 +47048,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2113 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2114 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

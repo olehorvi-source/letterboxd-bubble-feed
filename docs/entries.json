@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1556624225",
+    "guid": "letterboxd-watch-1556624225",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "Paper Tiger",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/paper-tiger-2026/1/",
+    "watched_date": "2026-10-26",
+    "publication_date": "2026-10-27",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/7/0/5/0/1267050-paper-tiger-2026-0-600-0-900-crop.jpg?v=f384179489"
+  },
+  {
+    "id": "guid:letterboxd-watch-1556612780",
+    "guid": "letterboxd-watch-1556612780",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Ring Two",
+    "film_year": 2005,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-ring-two/",
+    "watched_date": "2026-10-26",
+    "publication_date": "2026-10-27",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6d/35/no/fv/the-ring-two-0-600-0-900-crop.jpg?v=bccc239b1c"
+  },
+  {
     "id": "guid:letterboxd-watch-1556506191",
     "guid": "letterboxd-watch-1556506191",
     "username": "bdgrabinski",
@@ -16,6 +52,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/4/6/3/6/1284636-clayface-0-600-0-900-crop.jpg?v=eb305849d5"
+  },
+  {
+    "id": "guid:letterboxd-review-1556696984",
+    "guid": "letterboxd-review-1556696984",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Angel and the Badman",
+    "film_year": 1947,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/angel-and-the-badman/",
+    "watched_date": "2026-10-26",
+    "publication_date": "2026-10-27",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "We love a movie with the two most beautiful people alive falling in love and inspiring Peter Weir\u2019s WITNESS.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/9/4/1/37941-angel-and-the-badman-0-600-0-900-crop.jpg?v=2953152165"
+  },
+  {
+    "id": "guid:letterboxd-review-1556581545",
+    "guid": "letterboxd-review-1556581545",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Cable Guy",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-cable-guy/1/",
+    "watched_date": "2026-10-26",
+    "publication_date": "2026-10-27",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Jim Carrey would have been a good Hannibal Lector",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/sf/si/bk/p8/ttHmmQwMixZHxME6nEz34AOS5Ek-0-600-0-900-crop.jpg?v=7059947bd5"
   },
   {
     "id": "guid:letterboxd-review-1556504729",
@@ -70,6 +142,24 @@
     "rewatch": false,
     "review_text": "Patrons: search AFI Fest 2026 Day Three",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/9/5/9/2/1199592-a-man-of-his-time-0-600-0-900-crop.jpg?v=52c429fc45"
+  },
+  {
+    "id": "guid:letterboxd-review-1556692603",
+    "guid": "letterboxd-review-1556692603",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Bunker",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/bunker-2026-1/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-27",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "45\nChicago International Film Festival #10\nCertainly watchable all the way through, even if its domestic tension feels like a piledriver to the face. Pen\u00e9lope Cruz and Javier Bardem make the most of a clunky, aimless script that eventually decides to toss up its hands and end with a third act of cheap shock-value and tidy metaphor. Sony Pictures Classics slop that'll absolutely work best with a crowd of seniors at a Sunday matinee.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/6/5/9/1350659-bunker-2026-1-0-600-0-900-crop.jpg?v=3da601d8ec"
   },
   {
     "id": "guid:letterboxd-review-1556500330",
@@ -3776,7 +3866,7 @@
     "rating": 2.5,
     "liked": null,
     "rewatch": false,
-    "review_text": "50\nCan't really muster up a ton of enthusiasm for this but I love seeing Wren from\nPretty Little Liars\nin a shitty situation. Autumnal prep school atmosphere with whodunnit antics and cheap suspense sequences. Stunned to silence by the insult of 'vocab ho' - 2005 wasn't real even though I lived through it.",
+    "review_text": "50\nCan't really muster up a ton of excitement for this but I love seeing Wren from\nPretty Little Liars\nin a shitty situation. Autumnal prep school atmosphere with whodunnit antics and cheap suspense sequences. Stunned to silence by the insult of 'vocab ho' - 2005 wasn't real even though I lived through it.",
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/lh/45/4v/a4/s9eaVjgtFAiMpQac6I1vle6zcy5-0-600-0-900-crop.jpg?v=e13ba98fca"
   },
   {
@@ -39506,7 +39596,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Stagecoach\nThe Shootist\nRed River\nA Man Betrayed\nSanta Fe Stampede\nRed River Range\nLegend of the Lost",
+    "review_text": "Stagecoach\nThe Shootist\nRed River\nAngel and the Badman\nA Man Betrayed\nSanta Fe Stampede\nRed River Range\nLegend of the Lost",
     "poster_url": null
   },
   {
@@ -46148,7 +46238,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1176 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1175 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

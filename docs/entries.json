@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1559963019",
+    "guid": "letterboxd-watch-1559963019",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "A Nightmare on Elm Street",
+    "film_year": 2010,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/a-nightmare-on-elm-street-2010/",
+    "watched_date": "2026-10-28",
+    "publication_date": "2026-10-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/3/6/9/37369-a-nightmare-on-elm-street-0-600-0-900-crop.jpg?v=ce27b2e7d5"
+  },
+  {
     "id": "guid:letterboxd-watch-1559669500",
     "guid": "letterboxd-watch-1559669500",
     "username": "riotglasses",
@@ -16,6 +34,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/4/8/4048-the-cars-that-ate-paris-0-600-0-900-crop.jpg?v=75b09b71e1"
+  },
+  {
+    "id": "guid:letterboxd-review-1559805839",
+    "guid": "letterboxd-review-1559805839",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Wake of the Red Witch",
+    "film_year": 1948,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/wake-of-the-red-witch/",
+    "watched_date": "2026-10-28",
+    "publication_date": "2026-10-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Incredible Hollywood ending",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/4/2/5/8/24258-wake-of-the-red-witch-0-600-0-900-crop.jpg?v=48f33c38f2"
   },
   {
     "id": "guid:letterboxd-review-1559232095",
@@ -39956,7 +39992,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Stagecoach\nThe Shootist\nRed River\nAngel and the Badman\nA Man Betrayed\nSanta Fe Stampede\nRed River Range\nLegend of the Lost",
+    "review_text": "Stagecoach\nThe Shootist\nRed River\nAngel and the Badman\nWake of the Red Witch\nA Man Betrayed\nSanta Fe Stampede\nRed River Range\nLegend of the Lost",
     "poster_url": null
   },
   {

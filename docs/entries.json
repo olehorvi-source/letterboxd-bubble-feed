@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-review-1559232095",
+    "guid": "letterboxd-review-1559232095",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "A Nightmare on Elm Street 4: The Dream Master",
+    "film_year": 1988,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/a-nightmare-on-elm-street-4-the-dream-master/2/",
+    "watched_date": "2026-10-27",
+    "publication_date": "2026-10-28",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "THE BEST ONE",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/5/1/8/46518-a-nightmare-on-elm-street-4-the-dream-master-0-600-0-900-crop.jpg?v=1b56b5cf7f"
+  },
+  {
     "id": "guid:letterboxd-review-1559007611",
     "guid": "letterboxd-review-1559007611",
     "username": "jlalibs",
@@ -34,6 +52,42 @@
     "rewatch": false,
     "review_text": "Peter Fonda is really doing it for me in this one.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/6/9/2/30692-race-with-the-devil-0-600-0-900-crop.jpg?v=b45a69a6d4"
+  },
+  {
+    "id": "guid:letterboxd-review-1559262737",
+    "guid": "letterboxd-review-1559262737",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "A Day in the Life of Jo: Chapter Phaedra",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/a-day-in-the-life-of-jo-chapter-phaedra/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-28",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "71\nChicago International Film Festival #12\nWasn't so sure what to do with the opening stretch, with its aesthetically breezy emotional fragments and angst-ridden drama, but there's a shift here, a shattering evolution of narrative and form which unspools time and space in ways that had me gasping and laughing in the theater. Reconsidering the recent wave of the indie coming-of-age film as a mere stepping stone towards something more adventurous.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/8/6/8/1/0/1386810-a-day-in-the-life-of-jo-chapter-phaedra-0-600-0-900-crop.jpg?v=a183ab2e0b"
+  },
+  {
+    "id": "guid:letterboxd-review-1559249705",
+    "guid": "letterboxd-review-1559249705",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Dao",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/dao-2026/",
+    "watched_date": "2026-10-24",
+    "publication_date": "2026-10-28",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "89\nChicago International Film Festival #11\nLong-form cinema productively torn between modern and ancestral modes of tradition. Flows at such a steady, unhurried pace of observation, through which the customs of heritage find commonality and contrast with our present-day rituals. Often reaches an ecstatic sustained energy even with the nearly 3.5 hour runtime, bursting at the seams with song and dance, ceremony and memorial. Even if this may feel a bit unassembled in certain stretches, some patience is worth the journey, especially when the two timelines begin to converge in ways that feel disruptive to its pre-established continuity. Rarely do docu-dramas feel so liberated in their ambition of dismantling reality and putting it back together again, but this movie does it. Electrifying!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/3/4/3/9/1023439-dao-2026-0-600-0-900-crop.jpg?v=1402bf4417"
   },
   {
     "id": "guid:letterboxd-watch-1558854865",
@@ -42008,7 +42062,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2426 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2425 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

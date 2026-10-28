@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1559669500",
+    "guid": "letterboxd-watch-1559669500",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Cars That Ate Paris",
+    "film_year": 1974,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-cars-that-ate-paris/",
+    "watched_date": "2026-10-28",
+    "publication_date": "2026-10-28",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/4/8/4048-the-cars-that-ate-paris-0-600-0-900-crop.jpg?v=75b09b71e1"
+  },
+  {
     "id": "guid:letterboxd-review-1559232095",
     "guid": "letterboxd-review-1559232095",
     "username": "bdgrabinski",

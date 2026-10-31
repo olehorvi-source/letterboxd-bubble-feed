@@ -18,6 +18,60 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/0/2/9/8/60298-halloween-0-600-0-900-crop.jpg?v=bcb3149dda"
   },
   {
+    "id": "guid:letterboxd-review-1565003270",
+    "guid": "letterboxd-review-1565003270",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Hubie Halloween",
+    "film_year": 2020,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/hubie-halloween/1/",
+    "watched_date": "2026-10-31",
+    "publication_date": "2026-10-31",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "80\nAbsolutely a modern seasonal classic - up there with\nTrick 'r Treat\nand\nGoosebumps 2\nin terms of extravagant Halloween ambience. \ud83c\udf83 \ud83d\udc7b \ud83e\udddf\u200d\u2642\ufe0f",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/4/4/5/1/1/544511-hubie-halloween-0-600-0-900-crop.jpg?v=38d9c9a58a"
+  },
+  {
+    "id": "guid:letterboxd-watch-1564906441",
+    "guid": "letterboxd-watch-1564906441",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Creature from the Black Lagoon",
+    "film_year": 1954,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/creature-from-the-black-lagoon/",
+    "watched_date": "2026-10-30",
+    "publication_date": "2026-10-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dw/3f/dq/c6/hQ3k0gAh2Hv2uqrMff0gqxZDJKy-0-600-0-900-crop.jpg?v=4b95b672a1"
+  },
+  {
+    "id": "guid:letterboxd-watch-1564840512",
+    "guid": "letterboxd-watch-1564840512",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Project Shamrock: The Secret Origins of Michael Myers Exposed",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/project-shamrock-the-secret-origins-of-michael/",
+    "watched_date": "2026-10-30",
+    "publication_date": "2026-10-31",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/5/8/9/9/6/1658996-project-shamrock-the-secret-origins-of-michael-0-600-0-900-crop.jpg?v=daddcd8e11"
+  },
+  {
     "id": "guid:letterboxd-watch-1564705805",
     "guid": "letterboxd-watch-1564705805",
     "username": "BrianDuffield",
@@ -34,6 +88,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/3/2/8/1167328-onslaught-2026-0-600-0-900-crop.jpg?v=54130fd313"
+  },
+  {
+    "id": "guid:letterboxd-review-1564915858",
+    "guid": "letterboxd-review-1564915858",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "House on Haunted Hill",
+    "film_year": 1999,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/house-on-haunted-hill-1999/",
+    "watched_date": "2026-10-30",
+    "publication_date": "2026-10-31",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Introduced a screening at Low Cinema.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/a6/gg/qc/la/yedchBbI23FgDjWP1tvahOZgiks-0-600-0-900-crop.jpg?v=5f74ae2c32"
+  },
+  {
+    "id": "guid:letterboxd-review-1564907641",
+    "guid": "letterboxd-review-1564907641",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Devils",
+    "film_year": 1971,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-devils/1/",
+    "watched_date": "2026-10-30",
+    "publication_date": "2026-10-31",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "\u201cI have been a man. I have loved women. I have enjoyed power.\"\n\u201cDo you love the Church?\u201d \u201cNot today.\u201d\nEven watching a crummy DVD rip 8 years ago when I first started podcasting about movies like this, it was already clear that Ken Russell\u2019s violently hysterical, feverishly cinematic realization of Aldous Huxley\u2019s non-fiction accounting + John Whiting\u2019s west end theatre adaptation of French Catholic priest Urbain Grandier\u2019s burning at the stake for the crime of rebelling against religious celibacy and allegedly seducing a convent of Ursuline nuns (which was subsequently deemed an act of satanic possession by corrupt church and state figures politically motivated to scapegoat and destroy him) was an unsung masterpiece unfairly buried and lost to time due to a conservative censorship campaign and outdated accusations of sacrilegious pornography. And if you would\u2019ve told me then that I would eventually see this in its fully restored, uncut X-rated glory on a film print in my lifetime I wouldn\u2019t have believed you yet here we are\u2026 What a surreal yet appropriate way to spend Devil\u2019s Night.\nRussell certainly courted many of the controversies he suffered by stylishly leaning into the grotesque obscenity of his rendering of 17th century France, contrasting the gorgeous decadent historical production design with the rotten reality of this plague-ridden environment of mass graves and oppressive religious hypocrisy. A contrast that also finds a home in the psychological and political duel between Oliver Reed\u2019s handsome, charismatic and womanizing Father Grandier (\u201ca man worth going to hell for\u201d) whose desire for the church to recognize sexual desire as natural is recognized as both technically progressive yet also sinfully self-serving, and Vanessa Redgrave\u2019s deeply lonely, repressed and resentful hunchbacked nun Sister Jeanne, whose psychosexual attraction to Grandier spirals into gruesome fetishization of Catholic suffering/torture/martyrdom and eventually, inadvertently becomes a cynically manipulated weapon for the consolidation of state power.\nIt isn\u2019t particularly original or subtle in its agenda to deconstruct the machinations of how fascists have historically demonized popular figures who threaten their authority, but the delirious, frenzied and mesmerizingly hellish manner it goes about expressing it is the source of its uniquely nauseating power. It\u2019s the surreal dreaminess of how it depicts Sister Jeanne\u2019s psychosexual obsession with Grandier (envision him in place of a crucified Jesus, erotically licking his wounds), the irreverent debauched mania of its infamous \u201cRape of Christ\u201d orgy sequence, the overwhelming lavish filthiness and noisy circus made of this obvious scheme to manipulate the masses, and the unflinching commitment to seeing through vivid brutality of Grandier\u2019s humiliating, leg-shattering, fiery\nPassion of Joan of Arc\npunishment. By the time Sister Jeanne is upsettingly, pathetically masturbating with the charred femur of the man she so intensely lusted for, the only response at that point is uncomfortable, exhausted laughter at the sheer sweeping theatricality and morbidly horrific degradation on display.\nWhether that gaudy, maximalist approach to historical and spiritual subject matter usually handled with elegance and austerity is productive or exploitative was part of a lot of critic\u2019s frustrations with it back in 1971, but decades later there\u2019s something to be said about passionate moral outrage deliberately, ostentatiously conveyed in such an arguably immoral, outrageous fashion. \u201cCall me vain and proud, the greatest sinner ever to walk God's earth. But Satan's boy I could never be. I haven't the humility.\u201d\n[\n35mm\n]\nFull discussion on ep 30 of my podcast SLEAZOIDS\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/8/9/9/30899-the-devils-0-600-0-900-crop.jpg?v=368cfcdfad"
   },
   {
     "id": "guid:letterboxd-review-1564633150",
@@ -43052,7 +43142,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2425 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2424 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -43718,7 +43808,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 573 more.\nView the full list on Letterboxd\n.",
+    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 574 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44780,7 +44870,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3760 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3794 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46166,7 +46256,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 764 more.\nView the full list on Letterboxd\n.",
+    "review_text": "List title inspired by Joan Hawkins' book Cutting Edge: Art-Horror and the Horrific Avant-Garde (but does not correspond to her works cited and mostly includes films not mentioned in the text)\nhorror by way of abstract, experimental, art cinema which isn't entirely reliant on narrative - not \"elevated\" horror\nstyle as substance\nTwin Peaks: Fire Walk with Me\nThe Cremator\nThe Face of Another\nMeshes of the Afternoon\nDemons\nThe Wolf House\nGrim\nMy House Walk-Through\nThe Phantom Carriage\nH\u00e4xan\n...plus 766 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46238,7 +46328,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3006 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo dates not withstanding. Day and date VOD releases count as well as direct-to-streaming titles via Netflix, Hulu, Shudder, etc.\n100 Feet\n100 Tears\n11:11\n11/11/11\n12 Feet Deep\n12 Hour Shift\n13 Demons\n13 Eerie\n13 Hours in a Warehouse\n13 Seconds\n...plus 3008 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46274,7 +46364,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 635 more.\nView the full list on Letterboxd\n.",
+    "review_text": "horror taking place in the past - whether ten years back or hundreds, all are applicable\n12 Hour Shift\n1920\n1920: Horrors of the Heart\n1922\n1942\n1962 Halloween Massacre\n1978\n3 from Hell\n31\n32 Malasana Street\n...plus 637 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -47444,7 +47534,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1380 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Depictions of sex work in narrative and documentary. Not all are positive. Need to be predominantly about sex work/workers.\npresented chronologically\nAnny - Story of a Prostitute\nTraffic in Souls\nProstitution\nThe Red Kimona\nNana\nProstitute\nPandora's Box\nDiary of a Lost Girl\nQueen Kelly\nParty Girl\n...plus 1381 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

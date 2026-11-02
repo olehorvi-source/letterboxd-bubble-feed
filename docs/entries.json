@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1568580664",
+    "guid": "letterboxd-watch-1568580664",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Diary of a Chambermaid",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-diary-of-a-chambermaid-2026/",
+    "watched_date": "2026-11-01",
+    "publication_date": "2026-11-02",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/4/9/9/2/4/1349924-the-diary-of-a-chambermaid-2026-0-600-0-900-crop.jpg?v=d72580befb"
+  },
+  {
+    "id": "guid:letterboxd-watch-1568478029",
+    "guid": "letterboxd-watch-1568478029",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Gangs of New York",
+    "film_year": 2002,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/gangs-of-new-york-2002/1/",
+    "watched_date": "2026-11-01",
+    "publication_date": "2026-11-02",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/4/6/49846-gangs-of-new-york-0-600-0-900-crop.jpg?v=5c4435acc6"
+  },
+  {
+    "id": "guid:letterboxd-review-1568607752",
+    "guid": "letterboxd-review-1568607752",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Terror Firmer",
+    "film_year": 1999,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/terror-firmer/",
+    "watched_date": "2026-11-01",
+    "publication_date": "2026-11-02",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "one of the grossest, dumbest movies ever made and also one of the great films about filmmaking \u2014 this is my\nDay for Night",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/4/1/3/43413-terror-firmer-0-600-0-900-crop.jpg?v=b47dae6c87"
+  },
+  {
     "id": "guid:letterboxd-review-1568366216",
     "guid": "letterboxd-review-1568366216",
     "username": "riotglasses",
@@ -41144,7 +41198,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 221 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 222 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41522,7 +41576,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nEyes of the Spider\nThe Texas Chainsaw Massacre 2\n9 Temples to Heaven\nA Man of His Time\nI Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies\nBehemoth!\nNowhere to Lay My Eyes\nGentle Monster\nElsinore\nThe Loneliest Man in Town\n...plus 10045 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nCreepshow\nEyes of the Spider\nThe Texas Chainsaw Massacre 2\n9 Temples to Heaven\nA Man of His Time\nI Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies\nBehemoth!\nNowhere to Lay My Eyes\nGentle Monster\nElsinore\n...plus 10046 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -43502,7 +43556,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2424 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2423 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44168,7 +44222,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 574 more.\nView the full list on Letterboxd\n.",
+    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 575 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46004,7 +46058,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 327 more.\nView the full list on Letterboxd\n.",
+    "review_text": "critically reviled, underseen, rarely canonized, etc\nThe 4th Floor\nAlien Resurrection\nAlien\u00b3\nThe Ambulance\nAmbushed\nArcade\nArlington Road\nArmageddon\nThe Art of Dying\nAssassins\n...plus 328 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -47426,7 +47480,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2771 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2772 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49352,7 +49406,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Movies with scenes that take place in cinema auditoriums, primarily focusing on the audience watching the screen. Not exterior shots, I have a separate list for cinema marquees/exteriors.\nAll genres included.\n10 to Midnight\n1941\n27 Missing Kisses\nThe 400 Blows\n(500) Days of Summer\n8 \u00bd Women\n8\u00bd\n84 Charing Cross Road\nAbove Suspicion\nAcross the Pacific\n...plus 461 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Movies with scenes that take place in cinema auditoriums, primarily focusing on the audience watching the screen. Not exterior shots, I have a separate list for cinema marquees/exteriors.\nAll genres included.\n10 to Midnight\n1941\n27 Missing Kisses\nThe 400 Blows\n(500) Days of Summer\n8 \u00bd Women\n8\u00bd\n84 Charing Cross Road\nAbove Suspicion\nAcross the Pacific\n...plus 462 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49532,7 +49586,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2116 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2117 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-review-1568366216",
+    "guid": "letterboxd-review-1568366216",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "F/X",
+    "film_year": 1986,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/f-x/",
+    "watched_date": "2026-11-01",
+    "publication_date": "2026-11-02",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "it\u2019s like a kids movie for adults",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/7/6/0/46760-f-x-0-600-0-900-crop.jpg?v=f23ca40c6b"
+  },
+  {
+    "id": "guid:letterboxd-review-1568270336",
+    "guid": "letterboxd-review-1568270336",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Spider-Man 2",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/spider-man-2/",
+    "watched_date": "2026-11-01",
+    "publication_date": "2026-11-02",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "The kids are burning through the Raimi Spideys and darned if I\u2019m not enjoying getting play franchise trivia host and peanut gallery as we go. Great bad guy here makes for a good movie - Molina works the suit/FX as adroitly as any comic book move villain this side of early Tim Burton, and I love when Otto just straight up starts hurling civilians like lawn darts across the screen. The dissertations on heroism and sacrifice were corny then and can\u2019t help but seem more so now; the train scene remains moving in its Guliani-ish glory but I always liked how the passengers insisting Doc\u2019s gotta go through them first get parted in about two seconds flat. \u201cThere\u2019s always a girl screaming\u201d noted Lea as Dunst was wailing in front of whatever glowing orb in the climax; she did like \u201cgo get em tiger\u201d at the end.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/pq/mi/kb/ck/7JtMVM58MnzxWeyubzLpXBiVnDC-0-600-0-900-crop.jpg?v=c5f2675b28"
+  },
+  {
     "id": "guid:letterboxd-review-1567859984",
     "guid": "letterboxd-review-1567859984",
     "username": "bdgrabinski",
@@ -194,7 +230,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Awful Truth\nBringing Up Baby\nThe Philadelphia Story\nDouble Indemnity\nGilda\nBlack Narcissus\nSunset Boulevard\nSabrina\nBorn to Be Bad\nA Star Is Born\n...plus 42 more.\nView the full list on Letterboxd\n.",
+    "review_text": "movies my 25 year old friend simone needs to see immediately.\nThe Awful Truth\nBringing Up Baby\nThe Philadelphia Story\nDouble Indemnity\nGilda\nBlack Narcissus\nSunset Boulevard\nSabrina\nBorn to Be Bad\nA Star Is Born\n...plus 42 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

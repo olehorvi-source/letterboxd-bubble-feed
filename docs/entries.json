@@ -1,5 +1,131 @@
 [
   {
+    "id": "guid:letterboxd-watch-1569778542",
+    "guid": "letterboxd-watch-1569778542",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "Primetime",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/primetime-2026/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-02",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-600-0-900-crop.jpg?v=41640d6988"
+  },
+  {
+    "id": "guid:letterboxd-watch-1569340741",
+    "guid": "letterboxd-watch-1569340741",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "The Debut",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/the-debut-2026/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-02",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/7/5/4/9/7/1275497-untitled-jesse-eisenberg-musical-comedy-0-600-0-900-crop.jpg?v=06eb654267"
+  },
+  {
+    "id": "guid:letterboxd-watch-1569261444",
+    "guid": "letterboxd-watch-1569261444",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "La cage aux zombies",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/la-cage-aux-zombies/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-02",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/1/8/1/18181-la-cage-aux-zombies-0-600-0-900-crop.jpg?v=ebbe7419c8"
+  },
+  {
+    "id": "guid:letterboxd-review-1569682345",
+    "guid": "letterboxd-review-1569682345",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "In the Dark",
+    "film_year": 2000,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/in-the-dark-2000/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-02",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "feels on the precipice of becoming a casualty of the budding torture porn movement but it's smarter, and more sparse, than that \u2014 liminal spaces giving way to the maximalism of the capitalist struggle, a horror film where the scariest thing imaginable is money and what we are willing to do for it",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/7/4/4/3/1/674431-in-the-dark-2000-0-600-0-900-crop.jpg?v=5315fd909d"
+  },
+  {
+    "id": "guid:letterboxd-review-1569504527",
+    "guid": "letterboxd-review-1569504527",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Remotes",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-remotes/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-02",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "despite being a genre film on paper, feels much more like an abstract drama about grief and what the afterlife may or may not bring \u2014 a quiet, meditative riff on themes and aesthetics explored in\nEnter the Void\nand\nThe Shrouds\nwhich immediately is of interest to me even if I wish it was a solid half hour shorter",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/0/4/5/1609045-the-remotes-0-600-0-900-crop.jpg?v=3a1f8a5ec1"
+  },
+  {
+    "id": "guid:letterboxd-review-1569344479",
+    "guid": "letterboxd-review-1569344479",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "We Own the Night",
+    "film_year": 2007,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/we-own-the-night/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-02",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "This review may contain spoilers.\nI don't know why this is set in 1988 rather than 1978 and I don't know how Phoenix's character didn't break his back falling out that window during the raid. Otherwise, an all-timer.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/6/1/1/50611-we-own-the-night-0-600-0-900-crop.jpg?v=b730593e9e"
+  },
+  {
+    "id": "guid:letterboxd-review-1569192390",
+    "guid": "letterboxd-review-1569192390",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Assault on Precinct 13",
+    "film_year": 1976,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/assault-on-precinct-13/1/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-02",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Training exercise in where to put the camera and how to sound mix gunshots.",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ju/cb/fl/5q/z77jBn1j78W8px9lEjBlG5JibpM-0-600-0-900-crop.jpg?v=1ec4fa9596"
+  },
+  {
     "id": "guid:letterboxd-watch-1568580664",
     "guid": "letterboxd-watch-1568580664",
     "username": "SeanFennessey",
@@ -34,6 +160,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/4/6/49846-gangs-of-new-york-0-600-0-900-crop.jpg?v=5c4435acc6"
+  },
+  {
+    "id": "guid:letterboxd-review-1569143287",
+    "guid": "letterboxd-review-1569143287",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Possible Love",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/possible-love/",
+    "watched_date": "2026-11-01",
+    "publication_date": "2026-11-02",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "80\nQuite elegantly sidesteps a broader dramatic structure (some might even say...novelistic) to ultimately pose a question of frustration about the state of class and labor in our world. We all share the same moon, but that's where the similarities stop. The ways in which this is *about* disparate dynamics in wealth and the innate disconnect of the hierarchy in late-capitalism is interesting, even if it's a bit obvious. The complexities and ambiguity of the four central characters (who all turn in remarkable performances) is what makes the movie resonate, and those mysteries take the bones of a relatively standard social drama and lift it up to a discomforting height. Well worth seeing.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/3/7/2/1360372-possible-love-0-600-0-900-crop.jpg?v=74d3cd22dc"
   },
   {
     "id": "guid:letterboxd-review-1568607752",
@@ -410,7 +554,7 @@
     "rating": 5.0,
     "liked": null,
     "rewatch": true,
-    "review_text": "I should've never drank that devil juice now I'm in the mirror.",
+    "review_text": "I should've never drank that devil juice now I'm in the mirror.\nFull discussion on episode 113 of my podcast SLEAZOIDS\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/5/6/9/47569-prince-of-darkness-0-600-0-900-crop.jpg?v=eb511413db"
   },
   {
@@ -41180,7 +41324,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 104 more.\nView the full list on Letterboxd\n.",
+    "review_text": "His Motorbike, Her Island\nLooking for an Angel\nThe Erotomaniac Daimyo\nMacho Dancer\nTop Stripper\nFolies Meurtri\u00e8res\nUnderworld Beauty\nA Tale of Sorrow and Sadness\nSympathy for the Underdog\nBohachi Bushido: Code of the Forgotten Eight\n...plus 105 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41324,7 +41468,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 225 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 226 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45104,7 +45248,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 673 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 674 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45500,7 +45644,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1997 - 2012\nartful, strange, genre, transgressive, ordinary/unordinary, good/bad\nhighly personal but perhaps relatable\nLost Highway\nRosewood\nDouble Team\nWarriors of Virtue\nThe Fifth Element\nNowhere\nThe Blackout\nBatman & Robin\nFace/Off\nA Gun for Jennifer\n...plus 278 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1997 - 2012\nartful, strange, genre, transgressive, ordinary/unordinary, good/bad\nhighly personal but perhaps relatable\nLost Highway\nRosewood\nDouble Team\nWarriors of Virtue\nThe Fifth Element\nNowhere\nThe Blackout\nBatman & Robin\nFace/Off\nA Gun for Jennifer\n...plus 279 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45536,7 +45680,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "critically reviled, underseen, rarely canonized, etc\n15 Minutes\n16 Blocks\n300\n30 Days of Night\nThe 6th Day\nA.I. Artificial Intelligence\nThe Art of War\nAVP: Alien vs. Predator\nBad Boys II\nBlack Christmas\n...plus 130 more.\nView the full list on Letterboxd\n.",
+    "review_text": "critically reviled, underseen, rarely canonized, etc\n15 Minutes\n16 Blocks\n300\n30 Days of Night\nThe 6th Day\nA.I. Artificial Intelligence\nThe Art of War\nAVP: Alien vs. Predator\nBad Boys II\nBlack Christmas\n...plus 131 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48434,7 +48578,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1124 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order\nThe Raw Ones\nMy Hustler\nPersona\nDead Youth\nI Am Curious (Yellow)\nTiticut Follies\nWho's That Knocking at My Door\nTheorem\nOne Swedish Summer\nFlesh\n...plus 1125 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48488,7 +48632,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1708 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1709 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

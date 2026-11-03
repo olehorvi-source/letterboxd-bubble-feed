@@ -1,5 +1,95 @@
 [
   {
+    "id": "guid:letterboxd-watch-1570177488",
+    "guid": "letterboxd-watch-1570177488",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Dakota",
+    "film_year": 1945,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/dakota/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/8/1/9/7819-dakota-0-600-0-900-crop.jpg?v=9b99809bdb"
+  },
+  {
+    "id": "guid:letterboxd-review-1570238102",
+    "guid": "letterboxd-review-1570238102",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Bulletproof",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/bulletproof/2/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-03",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Midnight Run\nfor idiots (me)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/9/5/5/45955-bulletproof-0-600-0-900-crop.jpg?v=aa3065fb17"
+  },
+  {
+    "id": "guid:letterboxd-review-1570055413",
+    "guid": "letterboxd-review-1570055413",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Once Upon a Time... in Hollywood",
+    "film_year": 2019,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/once-upon-a-time-in-hollywood/2/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-03",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Watching this on the biggest IMAX in the country tonight made me really truly think it\u2019s my favorite movie of all time. The best music editing ever. When \u201cThe Letter\u201d starts playing during his driving montage I went to Valhalla. There are literally no good times for a pee break. The idea of a sequel bums me out so much. It\u2019s so deeply sad to think about a world where Sharon is still alive and Rick got to be in Roman Polanski movies and brought bagels to the hospital and realized he couldn\u2019t live without Cliff and MOVIES.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854"
+  },
+  {
+    "id": "guid:letterboxd-review-1569955008",
+    "guid": "letterboxd-review-1569955008",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Wildwood",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/wildwood-2026/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-03",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "the rarest type of contemporary big screen spectacle where every single thing on screen feels intentional, decidedly and even defiantly analogue (shot by Caleb Deschanel on 35mm film on top of being the longest stop motion film ever made) \u2014 in awe of this, not only as a counter to the most soulless timeline in art, but as a testament to a creator persevering against every odd against them and getting\nthis\non screen (the climactic action scene alone is the best thing I\u2019ve seen in a theater this year)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/0/9/4/6/0/709460-wildwood-2026-0-600-0-900-crop.jpg?v=e0b4be5769"
+  },
+  {
+    "id": "guid:letterboxd-review-1569841296",
+    "guid": "letterboxd-review-1569841296",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Blazing Saddles",
+    "film_year": 1974,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/blazing-saddles/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-03",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Screened in class and it was kind of gruelling but obviously the funny stuff is funny",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/6/3/1/45631-blazing-saddles-0-600-0-900-crop.jpg?v=75fe1e4fb7"
+  },
+  {
     "id": "guid:letterboxd-watch-1569778542",
     "guid": "letterboxd-watch-1569778542",
     "username": "theolejake",
@@ -41342,7 +41432,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 222 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 223 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41468,7 +41558,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 226 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 227 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41576,7 +41666,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Stagecoach\nThe Shootist\nRed River\nAngel and the Badman\nThree Texas Steers\nWake of the Red Witch\nA Man Betrayed\nSanta Fe Stampede\nRed River Range\nLegend of the Lost",
+    "review_text": "Stagecoach\nThe Shootist\nRed River\nAngel and the Badman\nThree Texas Steers\nWake of the Red Witch\nA Man Betrayed\nSanta Fe Stampede\nRed River Range\nDakota\n...plus 1 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41720,7 +41810,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nCreepshow\nEyes of the Spider\nThe Texas Chainsaw Massacre 2\n9 Temples to Heaven\nA Man of His Time\nI Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies\nBehemoth!\nNowhere to Lay My Eyes\nGentle Monster\nElsinore\n...plus 10046 more.\nView the full list on Letterboxd\n.",
+    "review_text": "I somewhat arbitrarily define feature-length as 45 minutes or longer. (Rounded up 11 seconds, in the case of\nChime.\n)\nAverage films seen per year (that I\u2019ve been alive): 170\nPrimetime\nCreepshow\nEyes of the Spider\nThe Texas Chainsaw Massacre 2\n9 Temples to Heaven\nA Man of His Time\nI Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies\nBehemoth!\nNowhere to Lay My Eyes\nGentle Monster\n...plus 10047 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44600,7 +44690,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "everything I've rated five stars since joining letterboxd in 2012\n12 Angry Men\n2001: A Space Odyssey\n3 Women\n35 Shots of Rum\nAdaptation.\nAfter Hours\nAguirre, the Wrath of God\nA.I. Artificial Intelligence\nAirplane!\nAkira\n...plus 376 more.\nView the full list on Letterboxd\n.",
+    "review_text": "everything I've rated five stars since joining letterboxd in 2012\n12 Angry Men\n2001: A Space Odyssey\n3 Women\n35 Shots of Rum\nAdaptation.\nAfter Hours\nAguirre, the Wrath of God\nA.I. Artificial Intelligence\nAirplane!\nAkira\n...plus 377 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45212,7 +45302,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "includes domestic and foreign films; docs, shorts, etc\nnot all are positive portrayals, but explicit pro-life propaganda has been excluded\nin chronological order by release year\nWhere Are My Children?\nBed and Sofa\nMisery and Fortune of Woman\nCyanide\nAn American Tragedy\nAnn Vickers\nAmok\nMen in White\nThe Road to Ruin\nWalpurgis Night\n...plus 328 more.\nView the full list on Letterboxd\n.",
+    "review_text": "includes domestic and foreign films; docs, shorts, etc\nnot all are positive portrayals, but explicit pro-life propaganda has been excluded\nin chronological order by release year\nWhere Are My Children?\nBed and Sofa\nMisery and Fortune of Woman\nCyanide\nAn American Tragedy\nAnn Vickers\nAmok\nMen in White\nThe Road to Ruin\nWalpurgis Night\n...plus 329 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45248,7 +45338,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 674 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1981 - 2024\nin order of release\nAmerican Pop\nCutter's Way\nEscape from New York\nThe Decline of Western Civilization\nPolyester\nStripes\nS.O.B.\nBlow Out\nPrince of the City\nThe Killing of America\n...plus 675 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -47624,7 +47714,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2772 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2773 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -47804,7 +47894,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 473 more.\nView the full list on Letterboxd\n.",
+    "review_text": "BDSM, fetish, sexually transgressive cinema. Narratives and docs.\nNot all of these are good movies or even necessarily sex positive and some highlight acts that are illegal in many/most territories.\n2 in the Bush: A Love Story\n24 Exposures\n8MM\n8MM 2\n9\u00bd Weeks\nAbnormal Family\nThe Adderall Diaries\nAge of Consent\nThe Ages of Lulu\nAgony of Love\n...plus 474 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48452,7 +48542,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1655 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n12 Rounds 2: Reloaded\n12 Rounds 3: Lockdown\n200 MPH\n24 Hours to Midnight\n24 Little Hours\nThe 2nd\n3 Musketeers\n3 Tickets to Paradise\n400 Bullets\n4Got10\n...plus 1656 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1572637890",
+    "guid": "letterboxd-watch-1572637890",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Artificial",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/artificial-2026/",
+    "watched_date": "2026-11-04",
+    "publication_date": "2026-11-05",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=0f0f8a33a3"
+  },
+  {
+    "id": "guid:letterboxd-watch-1572598726",
+    "guid": "letterboxd-watch-1572598726",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "The Dog Stars",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/the-dog-stars/",
+    "watched_date": "2026-11-04",
+    "publication_date": "2026-11-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/9/2/8/7/1269287-the-dog-stars-0-600-0-900-crop.jpg?v=b44af504b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1572681213",
+    "guid": "letterboxd-review-1572681213",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The Last Temptation of Becky",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-last-temptation-of-becky/",
+    "watched_date": "2026-11-04",
+    "publication_date": "2026-11-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Very fun movie!!!!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/0/7/3/1/9/1507319-the-last-temptation-of-becky-0-600-0-900-crop.jpg?v=7633386de2"
+  },
+  {
+    "id": "guid:letterboxd-watch-1572451673",
+    "guid": "letterboxd-watch-1572451673",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Mr. Irrelevant",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/mr-irrelevant/",
+    "watched_date": "2026-11-04",
+    "publication_date": "2026-11-04",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/9/2/4/9/1259249-mr-irrelevant-0-600-0-900-crop.jpg?v=0498c43d40"
+  },
+  {
     "id": "guid:letterboxd-watch-1572135648",
     "guid": "letterboxd-watch-1572135648",
     "username": "BrianDuffield",
@@ -41036,7 +41108,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nFatherland\nChronovisor\nPossible Love\nTender Loving Care\nBlue Heron\nRose of Nevada\n...plus 98 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nFatherland\nChronovisor\nArtificial\nPossible Love\nTender Loving Care\nRose of Nevada\n...plus 99 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -41594,7 +41666,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 544 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 546 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48704,7 +48776,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1175 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1177 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48974,7 +49046,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAankhen\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\n...plus 418 more.\nView the full list on Letterboxd\n.",
+    "review_text": "16 Blocks\n2 Guns\n21 Jump Street\n22 Jump Street\n48 Hrs.\nThe 51st State\nAankhen\nAbove the Law\nAdrenalin: Fear the Rush\nAir America\n...plus 419 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1572796431",
+    "guid": "letterboxd-watch-1572796431",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "The Last Boy Scout",
+    "film_year": 1991,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/the-last-boy-scout/7/",
+    "watched_date": "2026-11-04",
+    "publication_date": "2026-11-05",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/jt/pl/ye/k0/cTl2WqsERuZ5vYmAmtfsPIJBLr0-0-600-0-900-crop.jpg?v=34f52bbd53"
+  },
+  {
     "id": "guid:letterboxd-watch-1572637890",
     "guid": "letterboxd-watch-1572637890",
     "username": "davidlsims",
@@ -34,6 +52,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/9/2/8/7/1269287-the-dog-stars-0-600-0-900-crop.jpg?v=b44af504b0"
+  },
+  {
+    "id": "guid:letterboxd-review-1572848286",
+    "guid": "letterboxd-review-1572848286",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Fjord",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/fjord-2026/",
+    "watched_date": "2026-11-04",
+    "publication_date": "2026-11-05",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "48\nNot exactly uninteresting but this left me feeling cold after nearly two and a half hours of strawman arguments and tireless stabs at institutional corruption. There are caricatures on both sides, sure, although it's pretty obvious that the moral shades of grey don't extend as far as they should. A traditionalist vs. progressive mood piece that struggles to ignite any of its provocations into a dynamic conversation, with its ambiguity feeling more convenient than anything else.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/5/1/6/8/1285168-fjord-2026-0-600-0-900-crop.jpg?v=12a10d5226"
+  },
+  {
+    "id": "guid:letterboxd-review-1572745383",
+    "guid": "letterboxd-review-1572745383",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "P.O. Box Tinto Brass",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/po-box-tinto-brass/",
+    "watched_date": "2026-11-04",
+    "publication_date": "2026-11-05",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "basically a feature length clip reel of Tinto doing whatever he can to make women bend over for the camera \u2014 if a film\u2019s worth could be measured in bare asses, this might be the best movie ever made\nRIP, Tinto",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/5/6/8/10568-p-o-box-tinto-brass-0-600-0-900-crop.jpg?v=e6d5a7db21"
   },
   {
     "id": "guid:letterboxd-review-1572681213",
@@ -41666,7 +41720,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 546 more.\nView the full list on Letterboxd\n.",
+    "review_text": "radicals, revolutionaries, strikers, activists, guerillas, dissidents and everything in between\npresented in chronological order\nStrike\nBattleship Potemkin\nMother\nMetropolis\nOctober (Ten Days that Shook the World)\nThe Passion of Joan of Arc\nStorm Over Asia\nThe House on the Volcano\nArsenal\nEarth\n...plus 547 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45968,7 +46022,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3794 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3795 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48776,7 +48830,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1177 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in NYC before Rudy Giuliani became mayor in 1994.\nOnly films predominantly set in/about NYC and not films shot on sets or using other cities to portray New York.\nAll genres, including documentary, shorts and avant-garde work. In chronological order.\nHerald Square\nShooting the Chutes\nNew York, Broadway and Wall Street\nNew York, Whitehall Street\nNew York: Broadway at Union Square\nNew York, Brooklyn Bridge\nThe Burglar on the Roof\nIn the Grip of the Blizzard\nPanorama from the Tower of the Brooklyn Bridge\nSkating in Central Park\n...plus 1178 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

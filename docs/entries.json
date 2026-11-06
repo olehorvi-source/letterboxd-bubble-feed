@@ -1,5 +1,59 @@
 [
   {
+    "id": "guid:letterboxd-watch-1573849964",
+    "guid": "letterboxd-watch-1573849964",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Oasis",
+    "film_year": 2002,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/oasis/",
+    "watched_date": "2026-11-05",
+    "publication_date": "2026-11-06",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/9/0/6/34906-oasis-0-600-0-900-crop.jpg?v=2176fcbd04"
+  },
+  {
+    "id": "guid:letterboxd-review-1573962098",
+    "guid": "letterboxd-review-1573962098",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Wrongfully Accused",
+    "film_year": 1998,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/wrongfully-accused/1/",
+    "watched_date": "2026-11-05",
+    "publication_date": "2026-11-06",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Mission: Impossible\nsequence holds up \u2014 Tom Cruise walked so Leslie Nielsen could run (into things, mostly)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/1/8/0/47180-wrongfully-accused-0-600-0-900-crop.jpg?v=6c1fb1dc0c"
+  },
+  {
+    "id": "guid:letterboxd-review-1573855043",
+    "guid": "letterboxd-review-1573855043",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "The High and the Mighty",
+    "film_year": 1954,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/the-high-and-the-mighty/",
+    "watched_date": "2026-11-05",
+    "publication_date": "2026-11-06",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Strange movie but I kinda dug it by the end.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/7/9/8/40798-the-high-and-the-mighty-0-600-0-900-crop.jpg?v=551d243723"
+  },
+  {
     "id": "guid:letterboxd-watch-1573615493",
     "guid": "letterboxd-watch-1573615493",
     "username": "BrianDuffield",
@@ -214,6 +268,42 @@
     "rewatch": false,
     "review_text": "Very fun movie!!!!",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/0/7/3/1/9/1507319-the-last-temptation-of-becky-0-600-0-900-crop.jpg?v=7633386de2"
+  },
+  {
+    "id": "guid:letterboxd-review-1573696013",
+    "guid": "letterboxd-review-1573696013",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Primetime",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/primetime-2026/",
+    "watched_date": "2026-11-02",
+    "publication_date": "2026-11-05",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "39/100\nSurprising paucity of\nYou Can See Nothing\njokes, given this film's pseudo-lo-fi murkiness.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-600-0-900-crop.jpg?v=41640d6988"
+  },
+  {
+    "id": "guid:letterboxd-review-1573694398",
+    "guid": "letterboxd-review-1573694398",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Batman Forever",
+    "film_year": 1995,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/batman-forever/1/",
+    "watched_date": "2026-11-01",
+    "publication_date": "2026-11-05",
+    "rating": 2.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Had forgotten that Flaming Lips\u2019 \u201cBad Days\u201d gets prominently needle-dropped in this.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/6/7/8/51678-batman-forever-0-600-0-900-crop.jpg?v=5400ab0f1e"
   },
   {
     "id": "guid:letterboxd-review-1573692202",
@@ -14091,7 +14181,7 @@
     "liked": null,
     "rewatch": true,
     "review_text": "Amazingly fluid as it maps and observes its superficially cloistered but endlessly porous world; the doubling of gestures and dialogue , as well as of objects and aristocrats, suggests a filmmaker exulting in his own horrible, wonderful contradictions. Yours as well, but the way; the moral high ground here is made of quicksand, and it\u2019s not like there\u2019s a leg to stand on anyway. Everybody is implicated; everybody is vindicated; give em enough rope; deal them in. Screened for class this morning along with Las Hurdes, which it restages, in a fashion, transposed from the mountains to the manor, pieties intact and ready for smashing. The houseguests\u2019 futile mandate, \u201cdon\u2019t touch anything\u201d recalls the lesson scrawled on that school blackboard three decades earlier: \u201crespect the property of others.\u201d Was also going to talk about Poor Things but wouldn\u2019t you know it we plumb ran out of time\u2026",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-600-0-900-crop.jpg?v=45489590bd"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-600-0-900-crop.jpg?v=1b2e229a6a"
   },
   {
     "id": "guid:letterboxd-review-1505125775",
@@ -42314,7 +42404,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Stagecoach\nThe Shootist\nRed River\nAngel and the Badman\nThree Texas Steers\nWake of the Red Witch\nA Man Betrayed\nThe Fighting Seabees\nHondo\nSands of Iwo Jima\n...plus 4 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Stagecoach\nThe Shootist\nRed River\nAngel and the Badman\nThree Texas Steers\nThe High and the Mighty\nWake of the Red Witch\nA Man Betrayed\nThe Fighting Seabees\nHondo\n...plus 5 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -43268,7 +43358,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "As requested and voted upon weekly (with a few exceptions for holidays and other busy-ness) since October 2018. Mostly creating this and some related lists because the site's new stats feature will make it easy for me to note stuff like \"this is only the second John Ford film to win, following\nMan Who Shot Liberty Valance.\n\u201d\nDoes not include requests that were randomly selected in a monthly drawing, nor requests that never won the weekly poll but stuck around as an option for so long that I eventually watched/reviewed them anyway.\nBlue Velvet\nThe King of Comedy\nPhantom of the Paradise\nStep Brothers\nMulholland Drive\nCome and See\nThe Long Goodbye\nThe Apartment\nThe Nightmare Before Christmas\nTo Have and Have Not\n...plus 379 more.\nView the full list on Letterboxd\n.",
+    "review_text": "As requested and voted upon weekly (with a few exceptions for holidays and other busy-ness) since October 2018. Mostly creating this and some related lists because the site's new stats feature will make it easy for me to note stuff like \"this is only the second John Ford film to win, following\nMan Who Shot Liberty Valance.\n\u201d\nDoes not include requests that were randomly selected in a monthly drawing, nor requests that never won the weekly poll but stuck around as an option for so long that I eventually watched/reviewed them anyway.\nBlue Velvet\nThe King of Comedy\nPhantom of the Paradise\nStep Brothers\nMulholland Drive\nCome and See\nThe Long Goodbye\nThe Apartment\nThe Nightmare Before Christmas\nTo Have and Have Not\n...plus 380 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49658,7 +49748,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Spirited Away\nSolaris\nMorvern Callar\nMinority Report\nPunch-Drunk Love\nGangs of New York\n25th Hour\nThe Piano Teacher\nCatch Me If You Can\nFar from Heaven\n...plus 82 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Spirited Away\nSolaris\nMorvern Callar\nMinority Report\nPunch-Drunk Love\nGangs of New York\n25th Hour\nThe Piano Teacher\nCatch Me If You Can\nFar from Heaven\n...plus 83 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1575007452",
+    "guid": "letterboxd-watch-1575007452",
+    "username": "BrianDuffield",
+    "critic_tier": "secondary",
+    "creator_display_name": "Brian Duffield",
+    "film_title": "Making Marie Antoinette",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brianduffield/film/making-marie-antoinette/",
+    "watched_date": "2026-11-06",
+    "publication_date": "2026-11-06",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/1/9/2/5/9/1619259-making-marie-antoinette-0-600-0-900-crop.jpg?v=80ac334bbf"
+  },
+  {
     "id": "guid:letterboxd-watch-1574959414",
     "guid": "letterboxd-watch-1574959414",
     "username": "SeanFennessey",

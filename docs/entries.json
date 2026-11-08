@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1576701720",
+    "guid": "letterboxd-watch-1576701720",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Cat in the Hat",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-cat-in-the-hat-2026/",
+    "watched_date": "2026-11-07",
+    "publication_date": "2026-11-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/0/7/8/3/3/1007833-the-cat-in-the-hat-2026-0-600-0-900-crop.jpg?v=e3a4f3627d"
+  },
+  {
+    "id": "guid:letterboxd-watch-1576429681",
+    "guid": "letterboxd-watch-1576429681",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Return of Godzilla",
+    "film_year": 1984,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-return-of-godzilla/",
+    "watched_date": "2026-11-07",
+    "publication_date": "2026-11-07",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/5/1/8/0/355180-the-return-of-godzilla-0-600-0-900-crop.jpg?v=7531aeef6a"
+  },
+  {
     "id": "guid:letterboxd-watch-1576370447",
     "guid": "letterboxd-watch-1576370447",
     "username": "thejoshl",
@@ -52,6 +88,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
+  },
+  {
+    "id": "guid:letterboxd-review-1576556599",
+    "guid": "letterboxd-review-1576556599",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "The 12 Dates of Christmas",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/the-12-dates-of-christmas/",
+    "watched_date": "2026-11-07",
+    "publication_date": "2026-11-07",
+    "rating": 1.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "12\nEzria from\nPretty Little Liars\nstar in a xmas straight-to-the-streaming-slop-trough rom-com. About as exciting as that sounds. Shot in Mississippi in what seems to be early autumn, with any festive holiday atmosphere entirely nonexistent. You'll get so sick of seeing the same interior locations that you could probably make a drinking game out of it.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/5/6/8/1468568-the-12-dates-of-christmas-0-600-0-900-crop.jpg?v=238b22832a"
+  },
+  {
+    "id": "guid:letterboxd-review-1576413503",
+    "guid": "letterboxd-review-1576413503",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "film_year": 2023,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-hunger-games-the-ballad-of-songbirds-snakes/1/",
+    "watched_date": "2026-11-07",
+    "publication_date": "2026-11-07",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "This movie rules.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/1/0/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-600-0-900-crop.jpg?v=180f24b89f"
   },
   {
     "id": "guid:letterboxd-review-1576123758",
@@ -9177,7 +9249,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/7/3/9/7/1257397-tender-loving-care-2026-0-600-0-900-crop.jpg?v=3638738dc9"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/7/3/9/7/1257397-tender-loving-care-2026-0-600-0-900-crop.jpg?v=c83d659d8d"
   },
   {
     "id": "guid:letterboxd-watch-1528830843",

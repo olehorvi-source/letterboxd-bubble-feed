@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1583007989",
+    "guid": "letterboxd-watch-1583007989",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Tracks",
+    "film_year": 1976,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/tracks-1976/1/",
+    "watched_date": "2026-11-11",
+    "publication_date": "2026-11-12",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/7/1/9/7/87197-tracks-0-600-0-900-crop.jpg?v=9f6ae51ce5"
+  },
+  {
+    "id": "guid:letterboxd-watch-1582852476",
+    "guid": "letterboxd-watch-1582852476",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Lady and the Tramp",
+    "film_year": 1955,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/lady-and-the-tramp/1/",
+    "watched_date": "2026-11-11",
+    "publication_date": "2026-11-12",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/3/2/1/46321-lady-and-the-tramp-0-600-0-900-crop.jpg?v=315ff23a73"
+  },
+  {
+    "id": "guid:letterboxd-review-1582987011",
+    "guid": "letterboxd-review-1582987011",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "ee",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/ee/",
+    "watched_date": "2026-11-11",
+    "publication_date": "2026-11-12",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/5/0/3/7/1545037-ee-0-600-0-900-crop.jpg?v=e40f65578c"
+  },
+  {
+    "id": "guid:letterboxd-review-1582962151",
+    "guid": "letterboxd-review-1582962151",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Frankie Freako",
+    "film_year": 2024,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/frankie-freako/1/",
+    "watched_date": "2026-11-11",
+    "publication_date": "2026-11-12",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Tonight things got a little bit\u2026 freako.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/1/6/0/9/8/1016098-frankie-freako-0-600-0-900-crop.jpg?v=384d3803ff"
+  },
+  {
     "id": "guid:letterboxd-watch-1582786592",
     "guid": "letterboxd-watch-1582786592",
     "username": "theolejake",
@@ -158,7 +230,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "A terrifically thorny, subversive premise realized by two very good actors: Claire Trevor as the tortured femme fatale who tries to performatively live like an innocent socialite but is instinctually drawn to strength and danger, and Lawrence Tierney (50 years before\nReservoir Dogs\n!) as the temperamental, sociopathic murderer who takes and does whatever he wants. The magnetic pull these two have is both scary and liberating because unlike the wealthy people around them both are aware of how frank and brutal one needs to be to socially/financially climb in this rotten world. Unfortunately, as much as I see why this was shocking and salacious for the time, I think Robert Wise plays it all a little too tame after the opening kitchen double-murder, which is so sudden and casual for these characters that I expected it to turn into more a perverse crime spree story whereas instead it mostly settles into a mansion melodrama. The morbid subject matter and psychology gives it some power for sure (I especially like Trevor\u2019s sudden venomous turns when she lets her dark insides out: \u201cPerhaps you don't realize it's painful being killed\u2014a piece of metal sliding into your body, finding its way into your heart - or a bullet tearing through your skin, crashing into a bone\u201d) , but not as much as I thought it would based on how good the two performances are. It\u2019s perfectly competent and handsome, and its doomed finale is quite good, but there\u2019s just honestly not as many memorably eerie images or suspense setpieces as this set-up could\u2019ve been milked for imo. Esther Howard and Elisha Cook Jr. fill out the supporting cast nicely as the eccentric drunk boarding house proprietor and sympathetic friend who tries to help them get away with their crime though. And the murdered woman being named \"Laury Palmer\"?? \ud83e\udd14\ud83e\udd14\nFull discussion coming soon on the podcast\n.",
+    "review_text": "A terrifically thorny, subversive premise realized by two very good actors: Claire Trevor as the tortured femme fatale who tries to performatively live like an innocent socialite but is instinctually drawn to strength and danger, and Lawrence Tierney (50 years before\nReservoir Dogs\n!) as the temperamental, sociopathic murderer who takes and does whatever he wants. The magnetic pull these two have is both scary and liberating because unlike the wealthy people around them both are aware of how frank and brutal one needs to be to socially/financially climb in this rotten world. Unfortunately, as much as I see why this was shocking and salacious for the time, I think Robert Wise plays it all a little too tame after the opening Jim Thompson kitchen double-murder, which is so sudden and casual for these characters that I expected it to turn into more a perverse crime spree story whereas instead it mostly settles into a mansion melodrama. The morbid subject matter and psychology gives it some power for sure (I especially like Trevor\u2019s sudden venomous turns when she lets her dark insides out: \u201cPerhaps you don't realize it's painful being killed\u2014a piece of metal sliding into your body, finding its way into your heart - or a bullet tearing through your skin, crashing into a bone\u201d) , but not as much as I thought it would based on how good the two performances are. It\u2019s perfectly competent and handsome, and its doomed finale is quite good, but there\u2019s just honestly not as many memorably eerie images or suspense setpieces as this set-up could\u2019ve been milked for imo. Esther Howard and Elisha Cook Jr. fill out the supporting cast nicely as the eccentric drunk boarding house proprietor and sympathetic friend who tries to help them get away with their crime though. And the murdered woman being named \"Laury Palmer\"?? \ud83e\udd14\ud83e\udd14\nFull discussion coming soon on the podcast\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/5/2/3/29523-born-to-kill-0-600-0-900-crop.jpg?v=0978b68002"
   },
   {
@@ -43898,7 +43970,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 226 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 227 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45954,6 +46026,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-39880775",
+    "guid": "letterboxd-list-39880775",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "favorite christmas movies",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/favorite-christmas-movies/",
+    "watched_date": null,
+    "publication_date": "2023-12-21",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Eyes Wide Shut\nBatman Returns\nThe Long Kiss Goodnight\nCarol\nBlack Christmas\nDie Hard\nEdward Scissorhands\nIt's a Wonderful Life\nThe Nightmare Before Christmas\nHome Alone\n...plus 18 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-39803277",
     "guid": "letterboxd-list-39803277",
     "username": "jlalibs",
@@ -46058,7 +46148,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Carol\nMay December\nBlack Swan\nIn the Cut\nKlute\nVariety\nSecretary\nsex, lies, and videotape\nBenedetta\nThunder\n...plus 44 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Carol\nMay December\nBlack Swan\nIn the Cut\nKlute\nVariety\nSecretary\nsex, lies, and videotape\nBenedetta\nThunder\n...plus 45 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48272,7 +48362,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "no, I have not watched them all, lol. working on it!\nClerks\nClerks II\nDogma\nMallrats\nChasing Amy\nJay and Silent Bob Strike Back\nBetween the Lines\n3 Women\nAn Unmarried Woman\nBarton Fink\n...plus 491 more.\nView the full list on Letterboxd\n.",
+    "review_text": "no, I have not watched them all, lol. working on it!\nClerks\nClerks II\nDogma\nMallrats\nChasing Amy\nJay and Silent Bob Strike Back\nBetween the Lines\n3 Women\nAn Unmarried Woman\nBarton Fink\n...plus 494 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49428,6 +49518,24 @@
     "poster_url": null
   },
   {
+    "id": "guid:letterboxd-list-13154232",
+    "guid": "letterboxd-list-13154232",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "jourdain\u2019s non-scary gothic film recs",
+    "film_year": null,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/list/jourdains-non-scary-gothic-film-recs/",
+    "watched_date": null,
+    "publication_date": "2020-10-05",
+    "rating": null,
+    "liked": null,
+    "rewatch": null,
+    "review_text": "Carnival of Souls\nBeetlejuice\nThe Witches of Eastwick\nParaNorman\nCoraline\nCrimson Peak\nThe Addams Family\nAddams Family Values\nDeath Becomes Her\nStoker\n...plus 29 more.\nView the full list on Letterboxd\n.",
+    "poster_url": null
+  },
+  {
     "id": "guid:letterboxd-list-1902637",
     "guid": "letterboxd-list-1902637",
     "username": "jlalibs",
@@ -49586,7 +49694,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Belly\nOne False Move\nDead Presidents\nSet It Off\nOut of Time\nThe Equalizer\nWidows\nInside Man\nLuce\nThe Glass Shield\n...plus 16 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Belly\nOne False Move\nDead Presidents\nSet It Off\nOut of Time\nThe Equalizer\nWidows\nInside Man\nLuce\nThe Glass Shield\n...plus 17 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -50180,7 +50288,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2776 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2777 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

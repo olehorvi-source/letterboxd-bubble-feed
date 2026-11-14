@@ -1,5 +1,95 @@
 [
   {
+    "id": "guid:letterboxd-watch-1586553424",
+    "guid": "letterboxd-watch-1586553424",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Godzilla",
+    "film_year": 1954,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/godzilla/",
+    "watched_date": "2026-11-14",
+    "publication_date": "2026-11-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0"
+  },
+  {
+    "id": "guid:letterboxd-review-1586753564",
+    "guid": "letterboxd-review-1586753564",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Cutter's Way",
+    "film_year": 1981,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/cutters-way/1/",
+    "watched_date": "2026-11-14",
+    "publication_date": "2026-11-14",
+    "rating": 4.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "it\u2019s remarkable how easily Santa Barbara could be mistaken for a shaggy New England resort town, which puts this in close proximity to\nTough Guys Don\u2019t Dance\nwith its Provincetown locale and cast of zany characters \u2014 but what really feels like the connective tissue is both films reliance on, and embracement of, palpable cynicism; not for its people, but their country, which is very relatable right now",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/0/4/3/31043-cutter-s-way-0-600-0-900-crop.jpg?v=f8f478a733"
+  },
+  {
+    "id": "guid:letterboxd-review-1586525824",
+    "guid": "letterboxd-review-1586525824",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Above the Law",
+    "film_year": 1988,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/above-the-law/",
+    "watched_date": "2026-11-14",
+    "publication_date": "2026-11-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "Ralph Foody! I love these Chicago actors. Blank Check Andrew Davis series when? First Toy Robot release I\u2019ve watched. Looks great. Movie rules.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/2/0/1/47201-above-the-law-0-600-0-900-crop.jpg?v=46a9cd2b1d"
+  },
+  {
+    "id": "guid:letterboxd-review-1586494518",
+    "guid": "letterboxd-review-1586494518",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Victorian Psycho",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/victorian-psycho/",
+    "watched_date": "2026-11-14",
+    "publication_date": "2026-11-14",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Drusilla would fit right in with the indie comics community",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/5/1/9/4/1265194-victorian-psycho-0-600-0-900-crop.jpg?v=092895bcaf"
+  },
+  {
+    "id": "guid:letterboxd-review-1586108869",
+    "guid": "letterboxd-review-1586108869",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "In the Dark",
+    "film_year": 2000,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/in-the-dark-2000/2/",
+    "watched_date": "2026-11-14",
+    "publication_date": "2026-11-14",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "This superb horror film has been issued on Blu from Saturn\u2019s Core; I did one of the essays for the booklet, along with fine work from pals like Stephen Broomer and Madeleine Wall.\nI rarely post links here but I hope they sell out.\nvinegarsyndrome.com/products/in-the-dark?variant=44994129395754",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/7/4/4/3/1/674431-in-the-dark-2000-0-600-0-900-crop.jpg?v=5315fd909d"
+  },
+  {
     "id": "guid:letterboxd-watch-1585821615",
     "guid": "letterboxd-watch-1585821615",
     "username": "SeanFennessey",
@@ -52,6 +142,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/7/5/49475-evil-under-the-sun-0-600-0-900-crop.jpg?v=b7b11fc04e"
+  },
+  {
+    "id": "guid:letterboxd-review-1586206453",
+    "guid": "letterboxd-review-1586206453",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Friday the 13th",
+    "film_year": 2009,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/friday-the-13th-2009/1/",
+    "watched_date": "2026-11-13",
+    "publication_date": "2026-11-14",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "\"Here's looking at you, kid\" and \"I've got a feeling we're not in Kansas anymore\" move out the goddamn way, we've got far more iconic movie quote in: \"Your tits are stupendous... Your tits are just so fucking juicy, dude... You got perfect nipple placement, baby.\"\n[\n35mm\n]",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/0/4/8/44048-friday-the-13th-0-600-0-900-crop.jpg?v=51d849a406"
   },
   {
     "id": "guid:letterboxd-review-1585825805",
@@ -209,7 +317,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/godzilla-minus-zero/",
     "watched_date": "2026-11-13",
     "publication_date": "2026-11-13",
-    "rating": null,
+    "rating": 4.0,
     "liked": null,
     "rewatch": false,
     "review_text": null,
@@ -12417,7 +12525,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/8/0/2/1170802-the-liberation-2027-0-600-0-900-crop.jpg?v=f2cf2ba749"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/8/0/2/1170802-the-liberation-2026-0-600-0-900-crop.jpg?v=6734b7f0c7"
   },
   {
     "id": "guid:letterboxd-watch-1522456218",
@@ -44636,7 +44744,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 228 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 229 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -44762,7 +44870,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 234 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 235 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -45806,7 +45914,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "(70mm, 35mm, 16mm)\nInterstellar\nInherent Vice\nHeat\nThe Hateful Eight\nJaws\n2001: A Space Odyssey\nPlanet Terror\nDeath Proof\nTwin Peaks: Fire Walk with Me\nThe Silence of the Lambs\n...plus 315 more.\nView the full list on Letterboxd\n.",
+    "review_text": "(70mm, 35mm, 16mm)\nInterstellar\nInherent Vice\nHeat\nThe Hateful Eight\nJaws\n2001: A Space Odyssey\nPlanet Terror\nDeath Proof\nTwin Peaks: Fire Walk with Me\nThe Silence of the Lambs\n...plus 317 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -48740,7 +48848,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3795 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n100 Years of Japanese Cinema\n12 Angry Men\n13 Hours: The Secret Soldiers of Benghazi\nThe 14 Amazons\n16 Blocks\n1941\n2 Fast 2 Furious\n2 or 3 Things I Know About Her\n2001: A Space Odyssey\n...plus 3816 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -50954,7 +51062,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2778 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2779 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -53078,7 +53186,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2123 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2124 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

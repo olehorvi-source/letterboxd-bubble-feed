@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1585821615",
+    "guid": "letterboxd-watch-1585821615",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "Woman Unknown",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/woman-unknown/",
+    "watched_date": "2026-11-13",
+    "publication_date": "2026-11-14",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/8/8/1/4/6/1388146-woman-unknown-0-600-0-900-crop.jpg?v=c2de20a11e"
+  },
+  {
     "id": "guid:letterboxd-watch-1585544122",
     "guid": "letterboxd-watch-1585544122",
     "username": "brofromanother",
@@ -34,6 +52,60 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/7/5/49475-evil-under-the-sun-0-600-0-900-crop.jpg?v=b7b11fc04e"
+  },
+  {
+    "id": "guid:letterboxd-review-1585825805",
+    "guid": "letterboxd-review-1585825805",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "Cloverfield",
+    "film_year": 2008,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/cloverfield/1/",
+    "watched_date": "2026-11-13",
+    "publication_date": "2026-11-14",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "\u201cfound footage MIRACLE MILE but a kaiju\u201d = best pitch of all time",
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/07/hp/61/ut/as01o40tJ2FhtheqeXf7bVZ0EQO-0-600-0-900-crop.jpg?v=08b1fe1af9"
+  },
+  {
+    "id": "guid:letterboxd-review-1585753540",
+    "guid": "letterboxd-review-1585753540",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "One Last Shot",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/one-last-shot-2026-1/",
+    "watched_date": "2026-11-13",
+    "publication_date": "2026-11-14",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "far and away the most consistent trilogy of recent memory and this is the most formally interesting of the three, with an unexpectedly leisurely paced first third and fight scenes where the camera operator legitimately feels like a combatant (especially during an incredible staircase sequence) \u2014 I love the ethos of DTV but I will pledge my undying support to any theater that triple features these one day",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/7/5/1/7/8/1475178-one-last-shot-2026-1-0-600-0-900-crop.jpg?v=bd149bbbf9"
+  },
+  {
+    "id": "guid:letterboxd-review-1585712137",
+    "guid": "letterboxd-review-1585712137",
+    "username": "silentdawn",
+    "critic_tier": "secondary",
+    "creator_display_name": "SilentDawn",
+    "film_title": "Ebenezer",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/silentdawn/film/ebenezer-2026/",
+    "watched_date": "2026-11-13",
+    "publication_date": "2026-11-14",
+    "rating": 1.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "13\nCo-opting a timeless story for the purpose of a Johnny Depp reclamation exercise is certainly one way to adapt\nA Christmas Carol\n! Ti West provides a certain Gothic panache in its scattered horror imagery but this is otherwise total anonymous hack work for a movie that feels evil on a spiritual level. Mr. Fezziweg getting stabbed by a nameless beggar just to further contextualize Scrooge's hatred of the poor is not merely tone-deaf but offers little to no nuance in the grand scheme of exploring Dickens' altruism. There's hardly even any Christmas spirit here, subsumed by a desperate plea for redemption that takes the novella's progressive attitude towards poverty and charity and contorts its message into yet another self-serving celebrity press run of nostalgic studio slop.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/4/0/0/5/2/1440052-ebenezer-2026-0-600-0-900-crop.jpg?v=f9a47d0baf"
   },
   {
     "id": "guid:letterboxd-review-1585621061",
@@ -4281,7 +4353,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/6/9/1/1283691-focker-in-law-0-600-0-900-crop.jpg?v=59992c57ae"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/6/9/1/1283691-focker-in-law-0-600-0-900-crop.jpg?v=04db3f24fa"
   },
   {
     "id": "guid:letterboxd-watch-1562177927",
@@ -44690,7 +44762,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 233 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 234 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -50576,7 +50648,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n100 Kilos\n2 Graves in the Desert\n2:22\n4 Life\n.45\n5lbs of Pressure\n68 Kill\n88\n8MM 2\nThe 9th Life of Louis Drax\n...plus 1267 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Festival and promo theatrical dates non withstanding. Day and date titles, including those on Netflix, are included.\n100 Kilos\n2 Graves in the Desert\n2:22\n4 Life\n.45\n5lbs of Pressure\n68 Kill\n88\n8MM 2\nThe 9th Life of Louis Drax\n...plus 1268 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -51656,7 +51728,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2549 more.\nView the full list on Letterboxd\n.",
+    "review_text": "presented chronologically\nTurn-of-the-Century Surgery\nFaust and Mephistopheles\nThree Tales of Terror\nForger's Doom\nThe Pit and the Pendulum\nThe Dream Woman\nThe Monster and the Girl\nThe Red Dwarf\nThe Ancestress\nAnita\n...plus 2550 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -53006,7 +53078,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2122 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 to Midnight\n101 Reykjavik\n15 Minutes\n1941\n28 Years Later\n28 Years Later: The Bone Temple\n3 from Hell\n300\n3000 Miles to Graceland\n31\n...plus 2123 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

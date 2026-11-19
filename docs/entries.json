@@ -1,5 +1,23 @@
 [
   {
+    "id": "guid:letterboxd-watch-1593180459",
+    "guid": "letterboxd-watch-1593180459",
+    "username": "SeanFennessey",
+    "critic_tier": "secondary",
+    "creator_display_name": "Sean Fennessey",
+    "film_title": "The Hunger Games: Sunrise on the Reaping",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/seanfennessey/film/the-hunger-games-sunrise-on-the-reaping/",
+    "watched_date": "2026-11-18",
+    "publication_date": "2026-11-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/8/2/6/9/2/1182692-the-hunger-games-sunrise-on-the-reaping-0-600-0-900-crop.jpg?v=91001efc76"
+  },
+  {
     "id": "guid:letterboxd-watch-1592927753",
     "guid": "letterboxd-watch-1592927753",
     "username": "riotglasses",
@@ -53546,7 +53564,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1709 more.\nView the full list on Letterboxd\n.",
+    "review_text": "The Cabinet of Dr. Caligari\nThe Golem: How He Came Into the World\nNosferatu\nH\u00e4xan\nThree Ages\nThe Last Laugh\nThe Gold Rush\nThe Mystic\nBattleship Potemkin\nFaust\n...plus 1711 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

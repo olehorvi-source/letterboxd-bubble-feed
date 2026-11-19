@@ -1,5 +1,77 @@
 [
   {
+    "id": "guid:letterboxd-watch-1593938656",
+    "guid": "letterboxd-watch-1593938656",
+    "username": "theolejake",
+    "critic_tier": "my_account",
+    "creator_display_name": "theolejake",
+    "film_title": "You Can See Everything",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/theolejake/film/you-can-see-everything/",
+    "watched_date": "2026-11-19",
+    "publication_date": "2026-11-19",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
+  },
+  {
+    "id": "guid:letterboxd-review-1593806766",
+    "guid": "letterboxd-review-1593806766",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The Hunger Games: Sunrise on the Reaping",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-hunger-games-sunrise-on-the-reaping/",
+    "watched_date": "2026-11-19",
+    "publication_date": "2026-11-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "Prequels are difficult. Somehow both of these are really damn good. Very impressed.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/8/2/6/9/2/1182692-the-hunger-games-sunrise-on-the-reaping-0-600-0-900-crop.jpg?v=91001efc76"
+  },
+  {
+    "id": "guid:letterboxd-review-1593625247",
+    "guid": "letterboxd-review-1593625247",
+    "username": "davidehrlich",
+    "critic_tier": "secondary",
+    "creator_display_name": "davidehrlich",
+    "film_title": "The Further Mis-Adventures of Cliff Booth",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidehrlich/film/the-further-mis-adventures-of-cliff-booth/",
+    "watched_date": "2026-11-19",
+    "publication_date": "2026-11-19",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The scratchy \u201cvintage\u201d Netflix logo says everything so well that the rest of the movie almost feels like it\u2019s belaboring the point: \u201cThe Further Mis-Adventures of Cliff Booth\u201d is a story about a town where half the people are dreaming up the future, the other half are desperate to mythologize the past, and all of them are stuck together in the ugly compromise we call the right fucking now.\nThen again, \u201cstory\u201d might be too strong a word for the unbothered zen noir that Quentin Tarantino has spun off from his 1969-set hit \u201cOnce Upon a Time in Hollywood,\u201d which memorably ended with former TV Western star Rick Dalton and his longtime stuntman Cliff Booth saving Manson Family victim Sharon Tate from the cruel fate that befell her in real life. Los Angeles was built on the promise that history could be rewritten, and that anyone who made their way onto a studio lot could print the legend, but the present is another beast altogether. It\u2019s feral. Unforgiving. It has to be survived before it can be shaped into a story worth telling, even if that isn\u2019t much of a story at all.\nAfter decades of trafficking in ultra-fetishistic nostalgia (and continued years of refusing to close the book on his own legend), Tarantino has scripted a conditional surrender to the forward march of time \u2014 a film whose modest and spectacularly unbothered protagonist invites his egomaniacal and constantly agitated creator to make a certain peace with the inevitable fact of being left behind. And though it was initially Tarantino\u2019s plan to direct that film himself, handing the reins of this breezy showbiz throwback to modern Hollywood\u2019s most unsentimental technician forces \u201cThe Further Mis-Adventures of Cliff Booth\u201d into a muted but fascinating tug-of-war between the past tense and the future perfect (even if that scratchy \u201cvintage\u201d Netflix logo articulates the same tension with a greater clarity of purpose than any other part of this perverse collaboration).\nPleasant enough for a movie so dark, and strangely relaxed for a movie so deeply self-conflicted, \u201cThe Further Mis-Adventures of Cliff Booth\u201d is ultimately a story \u2014 there\u2019s that word again \u2014 about someone changing with the times without letting the times change them in return. It takes place over the span of a few days in the summer of 1977 (even though it builds to the October premiere of \u201cLooking for Mr. Goodbar,\u201d which I suppose might have happened a few months earlier in this parallel universe), when \u201cStar Wars\u201d is the biggest force on Earth and the tough guys of yore are being phased out by the very different kind of daring that New Hollywood brought to the table. Once upon a time, Cliff Booth did his business supporting Rick Dalton on the big screen \u2014 reborn here as the lead of a David Fincher film, he\u2019s reintroduced working the projector at the New Beverly Cinema like the hyper-chill uncle Tyler Durden never had (digital cigarette burns and all).\nIf \u201cThe Further Mis-Adventures\u201d doesn\u2019t belabor the reel change from one generation of movies to another, that\u2019s because Cliff doesn\u2019t either. He\u2019s just happy to be there \u2014 still hot, cool, and at total peace with himself despite an increasingly violent reputation (a state of mind Brad Pitt might relate to). The world around him is a lot uglier than it was eight years ago, as the vibrant celluloid memory palace of Tarantino\u2019s film has faded into the computational muddiness that Fincher has come to mistake for the truth, but that \u201cdon\u2019t mean shit\u201d to Cliff.\n~this review continues on IndieWire~",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/3/4/3/3/9/1334339-the-further-mis-adventures-of-cliff-booth-0-600-0-900-crop.jpg?v=60142816e0"
+  },
+  {
+    "id": "guid:letterboxd-review-1593592587",
+    "guid": "letterboxd-review-1593592587",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "The Further Mis-Adventures of Cliff Booth",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/the-further-mis-adventures-of-cliff-booth/",
+    "watched_date": "2026-11-19",
+    "publication_date": "2026-11-19",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "First movie where a character self identifies as a Paulette?",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/3/4/3/3/9/1334339-the-further-mis-adventures-of-cliff-booth-0-600-0-900-crop.jpg?v=60142816e0"
+  },
+  {
     "id": "guid:letterboxd-watch-1593180459",
     "guid": "letterboxd-watch-1593180459",
     "username": "SeanFennessey",
@@ -70,6 +142,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/0/2/3/9/1020239-madden-2026-0-600-0-900-crop.jpg?v=e57ac54c27"
+  },
+  {
+    "id": "guid:letterboxd-review-1593546669",
+    "guid": "letterboxd-review-1593546669",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Armored Car Robbery",
+    "film_year": 1950,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/armored-car-robbery/",
+    "watched_date": "2026-11-18",
+    "publication_date": "2026-11-19",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "The 1950 procedural heist B-noir cousin to the capitol-A\nAsphalt Jungle\n, with Hollywood journeyman Richard Flesicher trimming the psychological density, labyrinthian existentialism, and expressionistic dreaminess others were mining the genre for in favor of a ruthlessly austere cops-and-robbers thriller.\nNot entirely eliminating drama or cliches but deemphasizing them so it can focus on the nuts-and-bolts procedure of pulling off a job like this/being hunted by the machinery of the law, and letting the character work naturally flow out of the tense, claustrophobic situations they\u2019re put through. Stripping the narrative down to a cat-and-mouse chase between the calculating, cold-blooded mastermind Dave Purvis (William Talman, who between this and\nThe Hitch-Hiker\nis excellent at playing sociopathic criminals) and the intense and grieving Lt. Jim Cordell (Charles McGraw, also great in Fleisher\u2019s methodically efficient train-noir\nThe Narrow Margin\n) who\u2019s partner is killed during the first reel\u2019s meticulous gas mask baseball stadium heist/shootout. A lean, functional setpiece that earns the frankness of the title, and quickly descends into on-the-run hideout chaos in various industrial LA locations: oil fields, shipping yards, airports, etc.\nAt once deploying an immersive docudrama immediacy that feels like riding shotgun in the getaway car with a bullet in your gut, or silently skulking around just barely out of the sight of the cops, but not without bursts of stylish mood either: the sound design of Talman calmly reassuring the angry crew member he\u2019s in the midst of betraying that they\u2019ll get him to a doctor rather than leaving him to die as the camera drifts towards his hand reaching for the gun he\u2019s about to execute him with in the same oner. Good stuff! I feel like Adele Jergens\u2019 burlesque showgirl femme fatale could\u2019ve been given some more agency in this macho duel, especially since she is the inciting complication that results in the climactic capture, but otherwise this is very impressive for 67-minutes of taut thriller craftsmanship.\nFull discussion coming soon on the podcast\n.",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/6/2/2/37622-armored-car-robbery-0-600-0-900-crop.jpg?v=f93821da02"
   },
   {
     "id": "guid:letterboxd-review-1592945626",
@@ -216,24 +306,6 @@
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/5/4/6/6/25466-miss-firecracker-0-600-0-900-crop.jpg?v=b760e48a5f"
   },
   {
-    "id": "guid:letterboxd-watch-1592458172",
-    "guid": "letterboxd-watch-1592458172",
-    "username": "thejoshl",
-    "critic_tier": "primary",
-    "creator_display_name": "Josh Lewis",
-    "film_title": "Kansas City Confidential",
-    "film_year": 1952,
-    "tmdb_movie_id": null,
-    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/kansas-city-confidential/1/",
-    "watched_date": "2026-11-18",
-    "publication_date": "2026-11-18",
-    "rating": 4.0,
-    "liked": null,
-    "rewatch": true,
-    "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/4/9/2/38492-kansas-city-confidential-0-600-0-900-crop.jpg?v=f3da3dfd65"
-  },
-  {
     "id": "guid:letterboxd-watch-1592403702",
     "guid": "letterboxd-watch-1592403702",
     "username": "davidlsims",
@@ -353,7 +425,7 @@
     "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-further-mis-adventures-of-cliff-booth/",
     "watched_date": "2026-11-18",
     "publication_date": "2026-11-18",
-    "rating": null,
+    "rating": 3.5,
     "liked": null,
     "rewatch": false,
     "review_text": "just imagine how crazy Cliff Booth\u2019s tax return is",
@@ -376,6 +448,24 @@
     "rewatch": false,
     "review_text": "after the week/year we have had, I\u2019m just considering this a documentary",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/1/0/8/1468108-tycoon-2026-0-600-0-900-crop.jpg?v=a4edf5bcd0"
+  },
+  {
+    "id": "guid:letterboxd-watch-1592458172",
+    "guid": "letterboxd-watch-1592458172",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "Kansas City Confidential",
+    "film_year": 1952,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/kansas-city-confidential/1/",
+    "watched_date": "2026-11-17",
+    "publication_date": "2026-11-18",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/4/9/2/38492-kansas-city-confidential-0-600-0-900-crop.jpg?v=f3da3dfd65"
   },
   {
     "id": "guid:letterboxd-watch-1591720403",
@@ -4155,7 +4245,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=0f0f8a33a3"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=dcf7eb1991"
   },
   {
     "id": "guid:letterboxd-watch-1572598726",
@@ -13389,7 +13479,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "In case anyone at the world premiere of Luca Guadagnino\u2019s \u201cArtificial\u201d wasn\u2019t already thinking of the OpenAI biopic as an unofficial sequel to \u201cThe Social Network,\u201d the screening was unexpectedly preceded by a musical performance from Damon Albarn, in which the Blur frontman and occasional movie composer was joined onstage by a youth choir for a rendition of an original dirge he wrote for the film about how we\u2019re all singing our way straight into hell. Sixteen years ago, a bunch of angelic little kids belting out \u201cCreep\u201d was the perfect introduction to a sneering chamber drama about the punks whose self-hatred turned the 21st century against itself. Today, now that Silicon Valley\u2019s nerd Prometheis have graduated from getting revenge on Rooney Mara to threatening the future of the human race, the kids are back for a more existential lament. They haven\u2019t grown up, and neither have we.\nOnce upon a time, a snively Harvard undergrad rewired the entire world only to discover that he couldn\u2019t escape the empty pit of his own soul. Less than two decades after that, another Peter Thiel-funded sociopath bet our species on transcending the limits of humanity, only to prove that we can\u2019t help but encode it into everything we create. It\u2019s the same old story all over again, albeit presented here at the scale that computer scientist Ilya Sutskever (\u201cAnora\u201d breakout Yura Borisov) spent most of his career desperate for the data to achieve. History repeats itself, first as tragedy, second as farce \u2014 or in this case, as an uncanny sort of San Francisco camp.\nTo be honest, I struggled to imagine why a sensualist like the director of \u201cChallengers\u201d and \u201cCall Me by Your Name\u201d would be interested in something as cold and algorithmic as the story of OpenAI. Andrew Garfield, who plays OpenAI CEO Sam Altman as a machiavellian queen bee with a penchant for upspeak and a frighteningly blas\u00e9 attitude toward replacing mankind with computers (imagine an apocalyptic gay cross between Regina George and Agent Smith), has suggested that Guadagnino was exploring \u201chow far we can take our obsession with not being human before we return to the body,\u201d but this movie never strays far enough from the body to require a return. Garfield\u2019s bulging arms. Borasov\u2019s patchy hair, already receding into lines of code when the movie first introduces Sutskever at the age of 17. Monica Barbaro\u2019s oaken brown eyes, which lend OpenAI chief technology officer Mira Murati the patina of a moral code. Even the pancreas of a character\u2019s unseen wife, the sickness in which AIG promises to double back and cure if only everyone keeps hurtling forward. \u201cArtificial\u201d focuses its attention on these details as if it were training a neural network to create associations between them.\nTo \u201cyes, and\u201d Garfield\u2019s supposition, perhaps it would be more accurate to say that Guadagnino is exploring how difficult it is to abandon the body in the first place \u2014 and not just the body, but the intangible essence that it contains. We couldn\u2019t leave it behind if we tried, and this, in his own way, is Guadagnino trying just as hard to do that as Sam Altman ever did.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=0f0f8a33a3"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=dcf7eb1991"
   },
   {
     "id": "guid:letterboxd-review-1525808037",
@@ -45374,7 +45464,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nClub Kid\nFatherland\nChronovisor\nArtificial\nPossible Love\nBlue Heron\n...plus 109 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nChronovisor\nArtificial\nClub Kid\nFatherland\nPossible Love\nPaper Tiger\n...plus 109 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

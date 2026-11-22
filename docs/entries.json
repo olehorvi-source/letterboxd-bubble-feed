@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1598596599",
+    "guid": "letterboxd-watch-1598596599",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "Dinner with Friends",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/dinner-with-friends-2025/",
+    "watched_date": "2026-11-22",
+    "publication_date": "2026-11-22",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/5/4/7/1393547-dinner-with-friends-2025-0-600-0-900-crop.jpg?v=786bf9e5a4"
+  },
+  {
+    "id": "guid:letterboxd-watch-1598228573",
+    "guid": "letterboxd-watch-1598228573",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "Rose",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/rose-2026/",
+    "watched_date": "2026-11-22",
+    "publication_date": "2026-11-22",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/6/3/5/0/7/1063507-rose-2026-0-600-0-900-crop.jpg?v=b2291a7e52"
+  },
+  {
     "id": "guid:letterboxd-watch-1597721719",
     "guid": "letterboxd-watch-1597721719",
     "username": "riotglasses",
@@ -16,6 +52,42 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/0/3/0/1302030-la-bola-negra-0-600-0-900-crop.jpg?v=d8dd544a16"
+  },
+  {
+    "id": "guid:letterboxd-review-1598420511",
+    "guid": "letterboxd-review-1598420511",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "The Bad News Bears",
+    "film_year": 1976,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/the-bad-news-bears/1/",
+    "watched_date": "2026-11-22",
+    "publication_date": "2026-11-22",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "MOVIES!!!!!!!!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/3/5/5/37355-the-bad-news-bears-0-600-0-900-crop.jpg?v=c30c5e9c1d"
+  },
+  {
+    "id": "guid:letterboxd-review-1598203654",
+    "guid": "letterboxd-review-1598203654",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Club Kid",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/club-kid/",
+    "watched_date": "2026-11-22",
+    "publication_date": "2026-11-22",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "when I was working on the restoration for\n54\n, Mark Christopher was talking about how he had to fight for keeping the film dark because that\u2019s what a night club really looks like \u2014\nClub Kid\nis the first movie I\u2019ve seen since the director\u2019s cut of\n54\nto chase that same feeling, the club scenes capturing the elliptical nature of the space where you see everything in bursts of strobes and murky shadows (especially the dark rooms) all rather gorgeously shot on 35mm; the\nKramer vs Kramer\nbeats worked less well for me but it\u2019s a great New York movie",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
     "id": "guid:letterboxd-watch-1597374182",
@@ -52,6 +124,24 @@
     "rewatch": true,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/4/5/50845-con-air-0-600-0-900-crop.jpg?v=207f257fec"
+  },
+  {
+    "id": "guid:letterboxd-review-1597867745",
+    "guid": "letterboxd-review-1597867745",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "National Treasure",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/national-treasure/1/",
+    "watched_date": "2026-11-21",
+    "publication_date": "2026-11-22",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "no actor but Nic Cage could play this part solely because he had built his career on saying bizarre shit with conviction that when he says he\u2019s going to steal the declaration of independence, we have no choice but to believe him",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/6/1/50561-national-treasure-0-600-0-900-crop.jpg?v=e2b1828dd0"
   },
   {
     "id": "guid:letterboxd-review-1597498279",
@@ -122,7 +212,7 @@
     "rating": 1.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "12\nHad to shield my eyes at certain points just from sheer embarrassment. Cage and Bale are doing some demonic improv work here. At certain points, it felt like I was being punk'd. We've known that David O'Russell has been washed but this is on an entirely different level of terrible. Incessant, garish garbage.",
+    "review_text": "12\nHad to shield my eyes at certain points just from sheer embarrassment. Cage and Bale are doing some demonic improv work here. At certain points, it felt like I was being punk'd. We've known that David O. Russell has been washed but this is on an entirely different level of terrible. Incessant, garish garbage.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/0/2/3/9/1020239-madden-2026-0-600-0-900-crop.jpg?v=e57ac54c27"
   },
   {
@@ -3182,7 +3272,7 @@
     "rating": 4.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "I kinda wish more of the animation was hand-drawn and the live-action had less of that bright TV ad sheen to it, but otherwise this is a total front-to-back riot. Chalk full of clever satirical ideas and manic gags-within-gags visual details, and gets pretty much everything right that I've loved about my sadistic slapstick little buddies since watching endless Teletoon Retro reruns. I didn't realize at the time those cartoons were teaching me the language of the great silent era comedians, so it wasn't until I started watching Keaton, Chaplin, Lloyd, etc (and really thinking about them), that it occurred to me what their artistry really was. That what I'd really been laughing at all this time was in some ways real existential pain and suffering, and that through that laughter I was also bonding and feeling for these clowns as profoundly as I might a really well-done melodrama. So it was a really beautiful surprise that that cathartic realization I had later in life was quite literally the subject of this movie. What if Sisyphus and the boulder were two lonely souls with a mutually-agreed-upon, symbiotic arrangement, and ultimately kind of loved each other? That's a purity we can't let any corporation poison or exploit. My love of\nWho Framed Roger Rabbit?\nas a dorky kid resulted in me looking up and watching a lot of noirs/conspiracy-thrillers the movie was satirizing, so I got a little teary-eyed thinking about the kid who will do the same for this and corporate legal dramas\u2014end up seeing\nThe Insider\nor\nMichael Clayton\nor something. Anyway, John Cena talking in Tweety-speak nearly had me fall out of my seat, as did the Pep\u00e9 Le Pew cameo.",
+    "review_text": "I kinda wish more of the animation was hand-drawn and the live-action had less of that bright TV ad sheen to it, but otherwise this is a total front-to-back riot. Chalk full of clever satirical ideas and manic gags-within-gags visual details, and gets pretty much everything right that I've loved about my sadistic slapstick little buddies since watching endless Teletoon Retro reruns. I didn't realize at the time those cartoons were teaching me the language of the great silent era comedians, so it wasn't until I started watching Keaton, Chaplin, Lloyd, etc (and really thinking about them), that it occurred to me what their artistry really was. That what I'd really been laughing at all this time was in some ways real existential pain and suffering, and that through that laughter I was also bonding and feeling for these clowns as profoundly as I might a really well-done melodrama. So it was a really beautiful surprise that that cathartic realization I had later in life was quite literally the subject of this movie. What if Sisyphus and the boulder were two lonely souls with a mutually-agreed-upon, symbiotic arrangement, and ultimately kind of loved each other? That's a purity we can't let any corporation poison or exploit. My love of\nWho Framed Roger Rabbit?\nas a dorky kid resulted in me looking up and watching a lot of noirs/conspiracy-thrillers the movie was satirizing, so I got a little teary-eyed thinking about the kid who will do the same for this and corporate legal dramas\u2014end up seeing\nThe Insider\nor\nMichael Clayton\nor something. Anyway, John Cena talking in Tweety-speak nearly had me fall out of my seat, as did the Pep\u00e9 Le Pew cameo.\nFull discussion on my podcast SLEAZOIDS here\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7"
   },
   {
@@ -4100,7 +4190,7 @@
     "rating": 3.0,
     "liked": null,
     "rewatch": false,
-    "review_text": "This review may contain spoilers.\nI really respect Yamazaki's attempt to return this series back to its post-WWII roots, where images of Hiroshima were processed through the science-fiction horror metaphor of a giant mutated dinosaur visiting terrifying destruction upon Japanese cityscapes, overflowing hospitals, sending scientists and military officials into confused hysteria and heated moral and philosophical debates on weapons of war.\nUnfortunately, compared to\nMinus One\n, I think there was a sense of structural simplicity with how it went about conveying this idea and directly connecting its character work and action last time around that got a bit lost here\u2014the 2nd half of that last one was functionally \"\nJaws\nbut the shark is Godzilla\". Awesome idea! The few setpieces here are still insanely impressive considering the budget level (that mid-film Ghidorah dogfight in particular is astonishing, despite his design kinda looking\nGame of Thrones\n-ish), but the sparseness of them is more felt this I think due to how unfocused and heavy-handed its attempts to expand the ensemble wartime melodrama are. A lot of the time it feels like characters and elements he invented to move the trajectory of the messy plotting along (a supernaturally gifted meteorologist who attempts to\nJason Lives\nGhidorah, the biologist who invents a\nThe Birds\nmachine to avenge his family, the kamikaze pilot's co-parent and her radiation poisoned \"Godzilla Cells\") were simply given such intensely sullen backstory and motivation because he gave it to the kamikaze pilot in the last film so now naturally everyone should have it, but also he's still around having it too. It's too much!\nThe result is we spend so much time on obvious, teary-eyed melodrama of all these characters yelling at each other that ultimately amounts to a bunch of monotonous table-setting for a silly brawl, to the point that it often forgets to be an effective men-on-a-mission movie around it. The sentimentality is less the issue, as I honestly thought most of it was totally fine in the last one, and better than the human material we usually get in these films. The issue is how unnecessarily hard it presses some of those tearjerker buttons; all the orphanage stuff (the kid scream-crying in IMAX was so long and loud lol only to undo the decision the characters are making that results in it anyway?), the unpleasantness of the atomic bomb aftermaths were effective the first and maybe even second time but less so the ninth and tenth (the melting Manhattan vision bit pretty crazy tho). If the amount of time dedicated to this stuff was better I'd probably notice less that my buddy Godzilla is not really in this movie, but hey, when he does arrive, the gory beatdown with King G is pretty good I guess, it just felt weirdly divorced from the drama for me. Maybe there's just no clean way to be both the harrowing war movie and the silly wrestling ones of these at the same time. Nice try though.",
+    "review_text": "This review may contain spoilers.\nI really respect Yamazaki's attempt to return this series back to its post-WWII roots, where images of Hiroshima were processed through the science-fiction horror metaphor of a giant mutated dinosaur visiting terrifying destruction upon Japanese cityscapes, overflowing hospitals, sending scientists and military officials into confused hysteria and heated moral and philosophical debates on weapons of war.\nUnfortunately, compared to\nMinus One\n, I think there was a sense of structural simplicity with how it went about conveying this idea and directly connecting its character work and action last time around that got a bit lost here\u2014the 2nd half of that last one was functionally \"\nJaws\nbut the shark is Godzilla\". Awesome idea! The few setpieces here are still insanely impressive considering the budget level (that mid-film Ghidorah dogfight in particular is astonishing, despite his design kinda looking\nGame of Thrones\n-ish), but the sparseness of them is more felt this I think due to how unfocused and heavy-handed its attempts to expand the ensemble wartime melodrama are. A lot of the time it feels like characters and elements he invented to move the trajectory of the messy plotting along (a supernaturally gifted meteorologist who attempts to\nJason Lives\nGhidorah, the biologist who invents a\nThe Birds\nmachine to avenge his family, the kamikaze pilot's co-parent and her radiation poisoned \"Godzilla Cells\") were simply given such intensely sullen backstory and motivation because he gave it to the kamikaze pilot in the last film so now naturally everyone should have it, but also he's still around having it too. It's too much!\nThe result is we spend so much time on obvious, teary-eyed melodrama of all these characters yelling at each other that ultimately amounts to a bunch of monotonous table-setting for a silly brawl, to the point that it often forgets to be an effective men-on-a-mission movie around it. The sentimentality is less the issue, as I honestly thought most of it was totally fine in the last one, and better than the human material we usually get in these films. The issue is how unnecessarily hard it presses some of those tearjerker buttons; all the orphanage stuff (the kid scream-crying in IMAX was so long and loud lol only to undo the decision the characters are making that results in it anyway?), the unpleasantness of the atomic bomb aftermaths were effective the first and maybe even second time but less so the ninth and tenth (the melting Manhattan vision bit pretty crazy tho). If the amount of time dedicated to this stuff was better I'd probably notice less that my buddy Godzilla is not really in this movie, but hey, when he does arrive, the gory beatdown with King G is pretty good I guess, it just felt weirdly divorced from the drama for me. Maybe there's just no clean way to be both the harrowing war movie and the silly wrestling ones of these at the same time. Nice try though.\nFull discussion on my podcast SLEAZOIDS here\n.",
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/6/8/4/1266684-godzilla-minus-zero-0-600-0-900-crop.jpg?v=38989be61d"
   },
   {
@@ -46094,7 +46184,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nChronovisor\nArtificial\nClub Kid\nFatherland\nPossible Love\nPaper Tiger\n...plus 109 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nChronovisor\nArtificial\nClub Kid\nFatherland\nPossible Love\nPaper Tiger\n...plus 110 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46868,7 +46958,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 231 more.\nView the full list on Letterboxd\n.",
+    "review_text": "In chronological order by screening date\nWe Bury the Dead\nPrimate\nThe Plague\nFather Mother Sister Brother\nMacho Dancer\nMoonglow\n28 Years Later: The Bone Temple\nThe Garden of the Finzi-Continis\nDead Man's Wire\nBlue Velvet\n...plus 232 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -46994,7 +47084,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 240 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 241 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49946,7 +50036,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 577 more.\nView the full list on Letterboxd\n.",
+    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 578 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -51314,7 +51404,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "no, I have not watched them all, lol. working on it!\nClerks\nClerks II\nDogma\nMallrats\nChasing Amy\nJay and Silent Bob Strike Back\nBetween the Lines\n3 Women\nAn Unmarried Woman\nBarton Fink\n...plus 493 more.\nView the full list on Letterboxd\n.",
+    "review_text": "no, I have not watched them all, lol. working on it!\nClerks\nClerks II\nDogma\nMallrats\nChasing Amy\nJay and Silent Bob Strike Back\nBetween the Lines\n3 Women\nAn Unmarried Woman\nBarton Fink\n...plus 494 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -53204,7 +53294,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Films made in New York City after Giuliani became mayor in 1994 and continuing after his term in office. Ongoing list.\nNot including anything that is largely a period piece or is shot in New York but does not take place there. Also must primarily take place in the city and not only have a scene or moments set there.\n100 Feet\n15 Minutes\n16 Blocks\n1999\n2 Days in New York\n200 Cigarettes\n21 Bridges\n25th Hour\n3 Generations\n30 Beats\n...plus 696 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Films made in New York City after Giuliani became mayor in 1994 and continuing after his term in office. Ongoing list.\nNot including anything that is largely a period piece or is shot in New York but does not take place there. Also must primarily take place in the city and not only have a scene or moments set there.\n100 Feet\n15 Minutes\n16 Blocks\n1999\n2 Days in New York\n200 Cigarettes\n21 Bridges\n25th Hour\n3 Generations\n30 Beats\n...plus 697 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -53258,7 +53348,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2781 more.\nView the full list on Letterboxd\n.",
+    "review_text": "10 Cloverfield Lane\n10 Things I Hate About You\n101 Dalmatians\n12 O'Clock Boys\n12 Years a Slave\n127 Hours\n1408\nThe 15:17 to Paris\n1917\n1982\n...plus 2782 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

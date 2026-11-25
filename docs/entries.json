@@ -1,5 +1,41 @@
 [
   {
+    "id": "guid:letterboxd-watch-1601242358",
+    "guid": "letterboxd-watch-1601242358",
+    "username": "brofromanother",
+    "critic_tier": "primary",
+    "creator_display_name": "Adam Nayman",
+    "film_title": "Madden",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/brofromanother/film/madden-2026/",
+    "watched_date": "2026-11-24",
+    "publication_date": "2026-11-24",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/2/0/2/3/9/1020239-madden-2026-0-600-0-900-crop.jpg?v=e57ac54c27"
+  },
+  {
+    "id": "guid:letterboxd-watch-1601223922",
+    "guid": "letterboxd-watch-1601223922",
+    "username": "riotglasses",
+    "critic_tier": "secondary",
+    "creator_display_name": "jourdain searles",
+    "film_title": "The Ant Bully",
+    "film_year": 2006,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/riotglasses/film/the-ant-bully/",
+    "watched_date": "2026-11-24",
+    "publication_date": "2026-11-24",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/7/2/8/46728-the-ant-bully-0-600-0-900-crop.jpg?v=83b524932f"
+  },
+  {
     "id": "guid:letterboxd-watch-1601023612",
     "guid": "letterboxd-watch-1601023612",
     "username": "davidlsims",
@@ -34,6 +70,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/8/4/6/23846-plenty-0-600-0-900-crop.jpg?v=495421fdb4"
+  },
+  {
+    "id": "guid:letterboxd-watch-1601126322",
+    "guid": "letterboxd-watch-1601126322",
+    "username": "thejoshl",
+    "critic_tier": "primary",
+    "creator_display_name": "Josh Lewis",
+    "film_title": "The Face Behind the Mask",
+    "film_year": 1941,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/thejoshl/film/the-face-behind-the-mask/1/",
+    "watched_date": "2026-11-23",
+    "publication_date": "2026-11-24",
+    "rating": 4.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/8/4/6/28846-the-face-behind-the-mask-0-600-0-900-crop.jpg?v=a3432d0f24"
   },
   {
     "id": "guid:letterboxd-watch-1601023806",
@@ -88,6 +142,24 @@
     "rewatch": false,
     "review_text": null,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/0/9/4/6/0/709460-wildwood-2026-0-600-0-900-crop.jpg?v=e0b4be5769"
+  },
+  {
+    "id": "guid:letterboxd-review-1601023806",
+    "guid": "letterboxd-review-1601023806",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "The Arrival",
+    "film_year": 1996,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/the-arrival/",
+    "watched_date": "2026-11-23",
+    "publication_date": "2026-11-24",
+    "rating": 2.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "need more terraforming movies",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/1/2/5/46125-the-arrival-0-600-0-900-crop.jpg?v=cde4f9628e"
   },
   {
     "id": "guid:letterboxd-review-1600941017",
@@ -53888,7 +53960,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1423 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Every week (with a few exceptions\u2014holidays, when I'm at a festival, etc.), subscribers to my\nPatreon\nvote on one film for me to watch and review. Here's every film that's been requested by someone thus far, mostly because I need a better place to keep track of that. If there's a rating\nand\nreview attached, the film probably won the poll at some point, though there are exceptions (e.g. the new\nStar Is Born\nwhich I wound up watching \"on my own time\" after it placed highly in year-end critics' polls), and also reviews for the past month's winners won't yet be posted here. I plan to watch or revisit every one of these eventually, even if they never get broad enough support to claim victory.\nThe Abyss\nAccattone\nAce in the Hole\nAce Ventura: Pet Detective\nAcross 110th Street\nAct of Violence\nAdam's Rib\nAddress Unknown\nThe Adjuster\nThe Adults\n...plus 1425 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -55094,7 +55166,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "Fargo\nJerry Maguire\nRomeo + Juliet\nDead Man\nTrainspotting\nBound\nSecrets & Lies\nScream\nBig Night\nFrom Dusk Till Dawn\n...plus 66 more.\nView the full list on Letterboxd\n.",
+    "review_text": "Fargo\nJerry Maguire\nRomeo + Juliet\nDead Man\nTrainspotting\nBound\nSecrets & Lies\nScream\nBig Night\nFrom Dusk Till Dawn\n...plus 67 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {

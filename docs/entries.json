@@ -1,5 +1,95 @@
 [
   {
+    "id": "guid:letterboxd-watch-1603126204",
+    "guid": "letterboxd-watch-1603126204",
+    "username": "davidlsims",
+    "critic_tier": "secondary",
+    "creator_display_name": "David Sims",
+    "film_title": "NAZA",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/davidlsims/film/naza/",
+    "watched_date": "2026-11-25",
+    "publication_date": "2026-11-26",
+    "rating": 5.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
+  },
+  {
+    "id": "guid:letterboxd-review-1603539927",
+    "guid": "letterboxd-review-1603539927",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "Mile End Kicks",
+    "film_year": 2025,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/mile-end-kicks/",
+    "watched_date": "2026-11-25",
+    "publication_date": "2026-11-26",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "normalize pausing the hookup to press play on your sex playlist",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/6/1/2/1064612-mile-end-kicks-0-600-0-900-crop.jpg?v=f73de5160c"
+  },
+  {
+    "id": "guid:letterboxd-review-1603087337",
+    "guid": "letterboxd-review-1603087337",
+    "username": "jlalibs",
+    "critic_tier": "primary",
+    "creator_display_name": "Justin LaLiberty",
+    "film_title": "White Chicks",
+    "film_year": 2004,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/jlalibs/film/white-chicks/",
+    "watched_date": "2026-11-25",
+    "publication_date": "2026-11-26",
+    "rating": 3.0,
+    "liked": null,
+    "rewatch": true,
+    "review_text": "pretty sure those disguises inspired the\nmask\nfrom\nDrive",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/7/5/0/44750-white-chicks-0-600-0-900-crop.jpg?v=bfa48588cf"
+  },
+  {
+    "id": "guid:letterboxd-review-1603040415",
+    "guid": "letterboxd-review-1603040415",
+    "username": "bdgrabinski",
+    "critic_tier": "primary",
+    "creator_display_name": "BenDavid Grabinski",
+    "film_title": "A Dog's Perfect Christmas",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/bdgrabinski/film/a-dogs-perfect-christmas/",
+    "watched_date": "2026-11-25",
+    "publication_date": "2026-11-26",
+    "rating": null,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "I personally feel you shouldn\u2019t have a puppy riding a Roomba and a character dying of sepsis in the same film. Pick a lane!",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/4/3/0/2/3/1443023-a-dogs-perfect-christmas-0-600-0-900-crop.jpg?v=94cf1fbe2f"
+  },
+  {
+    "id": "guid:letterboxd-review-1603085559",
+    "guid": "letterboxd-review-1603085559",
+    "username": "gemko",
+    "critic_tier": "secondary",
+    "creator_display_name": "Mike D'Angelo",
+    "film_title": "Queen at Sea",
+    "film_year": 2026,
+    "tmdb_movie_id": null,
+    "letterboxd_entry_url": "https://letterboxd.com/gemko/film/queen-at-sea/",
+    "watched_date": "2026-11-24",
+    "publication_date": "2026-11-26",
+    "rating": 3.5,
+    "liked": null,
+    "rewatch": false,
+    "review_text": "64/100\nAccidentally caught sight of the word \"dementia\" beforehand and promptly deflated, because what's left to dramatize at this point? Three minutes later:\nOh.\n(Rest of the review, along with everything else I write, available via ultra-cheap\nsubscription\n. Seriously, it\u2019s as little as $1 a month and for now that pays my rent.)",
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/2/1/0/8/0/921080-queen-at-sea-0-600-0-900-crop.jpg?v=0cd1782b5a"
+  },
+  {
     "id": "guid:letterboxd-watch-1602737616",
     "guid": "letterboxd-watch-1602737616",
     "username": "riotglasses",
@@ -447,7 +537,7 @@
     "liked": null,
     "rewatch": false,
     "review_text": "The world may not have been champing at the bit for another \u201cMeet the Parents\u201d sequel with quite the same enthusiasm that defined the hype for \u201cGTA VI\u201d (pretty close, tho!), but anyone who\u2019s been itching for another crazaaaazy weekend between neurotic nurse Gaylord \u201cGreg\u201d Focker and his imperious ex-CIA father-in-law Jack Byrnes has had to wait even longer for their prayers to be answered. Was it worth it?\nWell, let\u2019s do a quick comparison between two cultural phenomenons that I\u2019m definitely not just lumping together in a desperate \u2014 some might say \u201cheroic\u201d \u2014 attempt to write an involving review lede for a movie that never makes even the slightest effort to earn your attention.\nAhem: On the one hand, it took 13 years for Rockstar Games to produce another numbered installment of their marquee franchise, during which time they leveraged cutting-edge technology and unprecedented financial resources in order to radically iterate upon a proven formula so that the company\u2019s Baudrillardian allegory of American pathos would map onto an era that has become too shattered for more coherent sense-making. On the other hand, it took 16 years for the combined power of Universal and Paramount (a Skydance Company) to will another \u201cFocker\u201d movie into existence, during which time someone realized that it might be kinda funny if Robert De Niro said the words \u201cJamba Juice.\u201d\nAnd in fairness, they weren\u2019t wrong. A Robert De Niro character shouldn\u2019t know what Jamba Juice is, let alone want to drink there! Not only that, but he correctly emphasizes the \u201cJAM\u201d of it all, the formal precision of which suggests that Jack \u2014 a red-blooded Boomer who\u2019s recently become an exercise-obsessed vegan health nut \u2014 has developed a sincere degree of respect for the smoothie chain and its various blended offerings, even if it\u2019s taken him 16 years to do so.\n~this review continues on IndieWire~",
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/6/9/1/1283691-focker-in-law-0-600-0-900-crop.jpg?v=7a76ebc7ae"
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/6/9/1/1283691-focker-in-law-0-600-0-900-crop.jpg?v=a6a9003b74"
   },
   {
     "id": "guid:letterboxd-watch-1599201260",
@@ -46724,7 +46814,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nChronovisor\nArtificial\nClub Kid\nFatherland\nBlue Heron\nPossible Love\n...plus 110 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nThe Odyssey\nYou Can See Everything\n28 Years Later: The Bone Temple\nChronovisor\nArtificial\nClub Kid\nFatherland\nBlue Heron\nPossible Love\n...plus 111 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -47624,7 +47714,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 242 more.\nView the full list on Letterboxd\n.",
+    "review_text": "All of a Sudden\nPossible Love\nNAZA\nBlue Heron\nOnce Upon a Time in Harlem\nThe History of Concrete\nHope\nEverytime\nNirvanna the Band the Show the Movie\nChronovisor\n...plus 243 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49334,7 +49424,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "aggressive, non-conformist, polarizing, often offensive, often funny, ymmv\nstarting after the fall of the production code, when comedy had less barriers, in 1968\npresented chronologically\n1941\n8 Heads in a Duffel Bag\nThe Adventures of Ford Fairlane\nAfter Hours\nAmateur\nAmazon Women on the Moon\nAmos & Andrew\nAnimal House\nApe\nApplesauce\n...plus 240 more.\nView the full list on Letterboxd\n.",
+    "review_text": "aggressive, non-conformist, polarizing, often offensive, often funny, ymmv\nstarting after the fall of the production code, when comedy had less barriers, in 1968\npresented chronologically\n1941\n8 Heads in a Duffel Bag\nThe Adventures of Ford Fairlane\nAfter Hours\nAmateur\nAmazon Women on the Moon\nAmos & Andrew\nAnimal House\nApe\nApplesauce\n...plus 241 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49712,7 +49802,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 594 more.\nView the full list on Letterboxd\n.",
+    "review_text": "current and past obsessions/deviations, most of which have no other (or sensible) place\n1941\n3:15 the Moment of Truth\nThe 69th Sense\n8 Heads in a Duffel Bag\nAdrenalin: Fear the Rush\nAlice in Wonderland: An X-Rated Musical Fantasy\nAlien Autopsy: (Fact or Fiction?)\nThe Alien Factor\nAliens: Ride at the Speed of Fright\nAlphabet City\n...plus 595 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -49946,7 +50036,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2417 more.\nView the full list on Letterboxd\n.",
+    "review_text": "For randomization purposes. (Though I guess it might also be useful to my Patreon requesters.)\n10\n101 Reykjavik\nThe 13th Warrior\n18 Again!\n1900\n1969\n200 Cigarettes\n20,000 Leagues Under the Sea\n2010: The Year We Make Contact\nThe 24 Hour Woman\n...plus 2416 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -50612,7 +50702,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 578 more.\nView the full list on Letterboxd\n.",
+    "review_text": "historically significant, boundary breaking, visually arresting, erotic and not necessarily integral to the plot (because that doesn't matter)\nincludes, but does not rely on, adult films -- most of which are included for watershed cultural significance with some for pure artistry and entertainment value\n1896 - Present, ordered chronologically\nThe Kiss\nBirth of the Pearl\nTraffic in Souls\nA Free Ride\nForbidden Daughters\nNight Nurse\nEcstasy\nTarzan and His Mate\nL'Atalante\nDracula's Daughter\n...plus 579 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
@@ -51926,7 +52016,7 @@
     "rating": null,
     "liked": null,
     "rewatch": null,
-    "review_text": "1997 - 2012\nartful, strange, genre, transgressive, ordinary/unordinary, good/bad\nhighly personal but perhaps relatable\nLost Highway\nRosewood\nDouble Team\nWarriors of Virtue\nThe Fifth Element\nNowhere\nThe Blackout\nBatman & Robin\nFace/Off\nA Gun for Jennifer\n...plus 279 more.\nView the full list on Letterboxd\n.",
+    "review_text": "1997 - 2012\nartful, strange, genre, transgressive, ordinary/unordinary, good/bad\nhighly personal but perhaps relatable\nLost Highway\nRosewood\nDouble Team\nWarriors of Virtue\nThe Fifth Element\nNowhere\nThe Blackout\nBatman & Robin\nFace/Off\nA Gun for Jennifer\n...plus 280 more.\nView the full list on Letterboxd\n.",
     "poster_url": null
   },
   {
